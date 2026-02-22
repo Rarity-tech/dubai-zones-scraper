@@ -2169,7 +2169,57 @@
     "Dubai COI",
     "Dubai COJ",
     "Dubai COK",
-    "Dubai COL"
+    "Dubai COL",
+    "Dubai COM",
+    "Dubai CON",
+    "Dubai COO",
+    "Dubai COP",
+    "Dubai COQ",
+    "Dubai COR",
+    "Dubai COS",
+    "Dubai COT",
+    "Dubai COU",
+    "Dubai COV",
+    "Dubai COW",
+    "Dubai COX",
+    "Dubai COY",
+    "Dubai COZ",
+    "Dubai CPA",
+    "Dubai CPB",
+    "Dubai CPC",
+    "Dubai CPD",
+    "Dubai CPE",
+    "Dubai CPF",
+    "Dubai CPG",
+    "Dubai CPH",
+    "Dubai CPI",
+    "Dubai CPJ",
+    "Dubai CPK",
+    "Dubai CPL",
+    "Dubai CPM",
+    "Dubai CPN",
+    "Dubai CPO",
+    "Dubai CPP",
+    "Dubai CPQ",
+    "Dubai CPR",
+    "Dubai CPS",
+    "Dubai CPT",
+    "Dubai CPU",
+    "Dubai CPV",
+    "Dubai CPW",
+    "Dubai CPX",
+    "Dubai CPY",
+    "Dubai CPZ",
+    "Dubai CQA",
+    "Dubai CQB",
+    "Dubai CQC",
+    "Dubai CQD",
+    "Dubai CQE",
+    "Dubai CQF",
+    "Dubai CQG",
+    "Dubai CQH",
+    "Dubai CQI",
+    "Dubai CQJ"
   ],
   "pending_n2": [
     {
@@ -56744,6 +56794,121 @@
       "name": "Collective - Tower 1, Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJHU9CErZuXz4RLJgz5ioHuw0",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJ_Zdl9TxDXz4RNLVRJr7H_r0": {
+      "name": "Computer Plaza - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ_Zdl9TxDXz4RNLVRJr7H_r0",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJEUdJHJ5dXz4RFE06gPYGxmg": {
+      "name": "Comfort Inn Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJEUdJHJ5dXz4RFE06gPYGxmg",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJS2MtEldlXz4RhVX4pCE5mN0": {
+      "name": "Complexe sportif Hamdan, Dubai, Émirats arabes unis",
+      "place_id": "ChIJS2MtEldlXz4RhVX4pCE5mN0",
+      "types": "establishment, point_of_interest, stadium"
+    },
+    "ChIJd_TpZEFrXz4Rfg_rybFlPIc": {
+      "name": "Concord Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJd_TpZEFrXz4Rfg_rybFlPIc",
+      "types": "geocode, premise"
+    },
+    "ChIJn7ZxQWBDXz4RccC_8BXE700": {
+      "name": "Concorde Palace Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJn7ZxQWBDXz4RccC_8BXE700",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ04S_EXRdXz4R7dkWCqZ0ICE": {
+      "name": "Dubai Cooperative Society Building - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ04S_EXRdXz4R7dkWCqZ0ICE",
+      "types": "geocode, premise"
+    },
+    "ChIJiRenq9lcXz4RqjWOYxtCVnI": {
+      "name": "Copthorne Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJiRenq9lcXz4RqjWOYxtCVnI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJldx0R3RdXz4RgG-KQURDssc": {
+      "name": "Copthorne Airport Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJldx0R3RdXz4RgG-KQURDssc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJF5xgfgBvXz4RCx_NI0zxOMY": {
+      "name": "Coquitos - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJF5xgfgBvXz4RCx_NI0zxOMY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJw3XiTc9cXz4RVksOobIg-lc": {
+      "name": "Coral Dubai Deira, Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJw3XiTc9cXz4RVksOobIg-lc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJAQAAAAxsXz4R4FwhY193jT4": {
+      "name": "Coral Boutique Villas - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAQAAAAxsXz4R4FwhY193jT4",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJCfHrOxNrXz4RabG5lY_Hz0Q": {
+      "name": "Cordoba Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJCfHrOxNrXz4RabG5lY_Hz0Q",
+      "types": "geocode, premise"
+    },
+    "ChIJEYbpRLxrXz4RfrljFpyTSe8": {
+      "name": "Cosmo Secrets Medical Center (Derma & Dental) - Dubai - Émirats arabes unis",
+      "place_id": "ChIJEYbpRLxrXz4RfrljFpyTSe8",
+      "types": "beauty_salon, dentist, doctor, establishment, hair_care, health, hospital, point_of_interest"
+    },
+    "ChIJcYsLgpxDXz4RkqfqTibcI8Q": {
+      "name": "Cosmos Sports Academy - Dubai - Émirats arabes unis",
+      "place_id": "ChIJcYsLgpxDXz4RkqfqTibcI8Q",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJCfV67L1rXz4RVWWPSCitatA": {
+      "name": "Courtyard by Marriott Al Barsha, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJCfV67L1rXz4RVWWPSCitatA",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJiwiMKM2J9T4RRs_pwllNEFU": {
+      "name": "Dubai Courts - Labour Court - Execution Court - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJiwiMKM2J9T4RRs_pwllNEFU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJiYxdcoFDXz4RePbXfNQvtx4": {
+      "name": "Courtyard by Marriott World Trade Centre, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJiYxdcoFDXz4RePbXfNQvtx4",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJGfJ4BtNpXz4ReakgPbTyaxk": {
+      "name": "Damac Maison Cour Jardin, Dubai, Émirats arabes unis",
+      "place_id": "ChIJGfJ4BtNpXz4ReakgPbTyaxk",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ-4YO8odCXz4RSLxiXT1nOGs": {
+      "name": "NEST Dubai coworking space, TRYP by Wyndham - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ-4YO8odCXz4RSLxiXT1nOGs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJvZwgg7ATXz4RHjBTj1xeBsE": {
+      "name": "myOffice - Dubai Marina Plaza - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJvZwgg7ATXz4RHjBTj1xeBsE",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJnxE4iTxdXz4Ruw-ejqUxVEs": {
+      "name": "Dubai Cattle Market, cattle market - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJnxE4iTxdXz4Ruw-ejqUxVEs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ57-0jVJDXz4RyfHTF5O-p4E": {
+      "name": "COYA Club - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ57-0jVJDXz4RyfHTF5O-p4E",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ42k7rxppXz4RDDU5bm6xtnk": {
+      "name": "Cozy Studio in Downtown Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ42k7rxppXz4RDDU5bm6xtnk",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }
