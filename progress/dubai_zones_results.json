@@ -6906,6 +6906,12 @@
     "zone_type": "area"
   },
   {
+    "name": "ISS -Intelligent Security Systems - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHxR3iUtrXz4RmLvqhXwcD9U",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "IT Plaza - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJwz-c2aFlXz4R8iSEuzPUoUU",
     "types": "establishment, point_of_interest",
@@ -6951,6 +6957,12 @@
     "name": "Ice Hockey Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJX12gTwBtXz4RA8AWbwXxOnQ",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Icon Delux Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxVTO_QJrXz4RyeHomyHv460",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
