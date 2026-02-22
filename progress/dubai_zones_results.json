@@ -318,6 +318,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Saih Al Dahal, Dubai, Émirats arabes unis",
+    "place_id": "ChIJv85YTK-FXz4RpZjy0hEbQkg",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Umm Hurair 2, Dubai, Émirats arabes unis",
     "place_id": "ChIJTwFafzpdXz4Rqwzvl_Yic00",
     "types": "political, sublocality, sublocality_level_1",
@@ -1377,6 +1383,12 @@
     "name": "Al Barsha Mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ0XDSxPRrXz4RzNhesEBkNb4",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Al Dhagaya, Dubai, Émirats arabes unis",
+    "place_id": "ChIJt4ySWERDXz4RUfrIXd5OXuE",
+    "types": "route",
     "zone_type": "area"
   },
   {
@@ -3840,6 +3852,12 @@
     "zone_type": "area"
   },
   {
+    "name": "DB GROUP FZCO - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJr787jbpdXz4RUAwzDduiaIw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DCC - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ57fWv_1nXz4R89I9xcOiAcA",
     "types": "establishment, point_of_interest",
@@ -3954,6 +3972,24 @@
     "zone_type": "area"
   },
   {
+    "name": "Dacha - Real Estate Agents in Palm Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ53Lxe5VrXz4RdAXbbdJoj-4",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Daera dibai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJCxH1IABdXz4R0CePTGuhA3E",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dafza Metro Station - Dubai - Émirats arabes unis",
+    "place_id": "ChIJtZhHXQBdXz4Rk6hZ2cc4_nY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Damac Maison Canal Views, Dubai, Émirats arabes unis",
     "place_id": "ChIJ55M8dzpoXz4RSqWbz-CezXM",
     "types": "establishment, lodging, point_of_interest",
@@ -3984,6 +4020,36 @@
     "zone_type": "area"
   },
   {
+    "name": "Dania 3 - Midtown By Deyaar - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJt2ZlCN9tXz4RyvMh9I8YryY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Danube Metro Station - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8fkqk2ATXz4RbCkkBOce6T4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dar Wasl (R531) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-WbqOwtCXz4RE4lQjUbw5f4",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dautom - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJx0VRXd1DXz4RPqSOm7g07po",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dawn by Binghatti - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ77TQDgBtXz4R20LSr3daP5c",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Deira City Centre, Dubai, Émirats arabes unis",
     "place_id": "ChIJASLsYt9cXz4RHiPj1bQ7YFo",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -4011,6 +4077,12 @@
     "name": "Dhow Cruise Dubai Marina - Dubaï - Émirats arabes unis",
     "place_id": "ChIJl-v4WVBrXz4RFyI-KhRFkJw",
     "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dolphin Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJG5CEXjZdXz4R6-Kz2GSh7bA",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -4122,6 +4194,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Business Women Council (DBWC) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ7V4-d9dcXz4R2ZHs_UfY86E",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Camel Market - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ4_xSCGyA9T4RLQ3MR79XB9U",
     "types": "establishment, point_of_interest",
@@ -4209,6 +4287,12 @@
     "name": "Dubai Design District (D3) by TECOM Group - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCUZ_qRZoXz4RQvsPyNmppTs",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Dolphinarium - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRZZYxzldXz4RXWWMUmOeDeg",
+    "types": "amusement_park, aquarium, establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -4791,6 +4875,12 @@
     "name": "Grande Mosquée de Bur Dubai, Dubai, Émirats arabes unis",
     "place_id": "ChIJN_IhWT9DXz4RJRZPGAxlaGs",
     "types": "establishment, mosque, place_of_worship, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Gurū Nānak Darbār - Temple sikh, Dubai, Émirats arabes unis",
+    "place_id": "ChIJfzJfUOASXz4RG-Y94bLCo3c",
+    "types": "establishment, place_of_worship, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -6975,6 +7065,12 @@
     "name": "Île Bluewaters, Dubai, Émirats arabes unis",
     "place_id": "ChIJT8PGYKQUXz4RigdkEYbMr5k",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Đảo Bluewaters - Dubai - Émirats arabes unis",
+    "place_id": "ChIJJxxraaQUXz4RXzeOUorJDy8",
+    "types": "geocode, premise",
     "zone_type": "area"
   }
 ]

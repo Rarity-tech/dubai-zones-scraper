@@ -2419,7 +2419,57 @@
     "Dubai CZY",
     "Dubai CZZ",
     "Dubai DAA",
-    "Dubai DAB"
+    "Dubai DAB",
+    "Dubai DAC",
+    "Dubai DAD",
+    "Dubai DAE",
+    "Dubai DAF",
+    "Dubai DAG",
+    "Dubai DAH",
+    "Dubai DAI",
+    "Dubai DAJ",
+    "Dubai DAK",
+    "Dubai DAL",
+    "Dubai DAM",
+    "Dubai DAN",
+    "Dubai DAO",
+    "Dubai DAP",
+    "Dubai DAQ",
+    "Dubai DAR",
+    "Dubai DAS",
+    "Dubai DAT",
+    "Dubai DAU",
+    "Dubai DAV",
+    "Dubai DAW",
+    "Dubai DAX",
+    "Dubai DAY",
+    "Dubai DAZ",
+    "Dubai DBA",
+    "Dubai DBB",
+    "Dubai DBC",
+    "Dubai DBD",
+    "Dubai DBE",
+    "Dubai DBF",
+    "Dubai DBG",
+    "Dubai DBH",
+    "Dubai DBI",
+    "Dubai DBJ",
+    "Dubai DBK",
+    "Dubai DBL",
+    "Dubai DBM",
+    "Dubai DBN",
+    "Dubai DBO",
+    "Dubai DBP",
+    "Dubai DBQ",
+    "Dubai DBR",
+    "Dubai DBS",
+    "Dubai DBT",
+    "Dubai DBU",
+    "Dubai DBV",
+    "Dubai DBW",
+    "Dubai DBX",
+    "Dubai DBY",
+    "Dubai DBZ"
   ],
   "pending_n2": [
     {
@@ -57224,6 +57274,86 @@
       "name": "Czechin - Modern 1BHK Binghatti Amber - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ_6DYtTZsXz4RYA2uOV5s8To",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ53Lxe5VrXz4RdAXbbdJoj-4": {
+      "name": "Dacha - Real Estate Agents in Palm Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ53Lxe5VrXz4RdAXbbdJoj-4",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJCxH1IABdXz4R0CePTGuhA3E": {
+      "name": "Daera dibai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJCxH1IABdXz4R0CePTGuhA3E",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJtZhHXQBdXz4Rk6hZ2cc4_nY": {
+      "name": "Dafza Metro Station - Dubai - Émirats arabes unis",
+      "place_id": "ChIJtZhHXQBdXz4Rk6hZ2cc4_nY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJt4ySWERDXz4RUfrIXd5OXuE": {
+      "name": "Al Dhagaya, Dubai, Émirats arabes unis",
+      "place_id": "ChIJt4ySWERDXz4RUfrIXd5OXuE",
+      "types": "route"
+    },
+    "ChIJv85YTK-FXz4RpZjy0hEbQkg": {
+      "name": "Saih Al Dahal, Dubai, Émirats arabes unis",
+      "place_id": "ChIJv85YTK-FXz4RpZjy0hEbQkg",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJt2ZlCN9tXz4RyvMh9I8YryY": {
+      "name": "Dania 3 - Midtown By Deyaar - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJt2ZlCN9tXz4RyvMh9I8YryY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ8fkqk2ATXz4RbCkkBOce6T4": {
+      "name": "Danube Metro Station - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8fkqk2ATXz4RbCkkBOce6T4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJxxraaQUXz4RXzeOUorJDy8": {
+      "name": "Đảo Bluewaters - Dubai - Émirats arabes unis",
+      "place_id": "ChIJJxxraaQUXz4RXzeOUorJDy8",
+      "types": "geocode, premise"
+    },
+    "ChIJx0VRXd1DXz4RPqSOm7g07po": {
+      "name": "Dautom - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJx0VRXd1DXz4RPqSOm7g07po",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ-WbqOwtCXz4RE4lQjUbw5f4": {
+      "name": "Dar Wasl (R531) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ-WbqOwtCXz4RE4lQjUbw5f4",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJfzJfUOASXz4RG-Y94bLCo3c": {
+      "name": "Gurū Nānak Darbār - Temple sikh, Dubai, Émirats arabes unis",
+      "place_id": "ChIJfzJfUOASXz4RG-Y94bLCo3c",
+      "types": "establishment, place_of_worship, point_of_interest, tourist_attraction"
+    },
+    "ChIJG5CEXjZdXz4R6-Kz2GSh7bA": {
+      "name": "Dolphin Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJG5CEXjZdXz4R6-Kz2GSh7bA",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJRZZYxzldXz4RXWWMUmOeDeg": {
+      "name": "Dubai Dolphinarium - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRZZYxzldXz4RXWWMUmOeDeg",
+      "types": "amusement_park, aquarium, establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJ77TQDgBtXz4R20LSr3daP5c": {
+      "name": "Dawn by Binghatti - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ77TQDgBtXz4R20LSr3daP5c",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJr787jbpdXz4RUAwzDduiaIw": {
+      "name": "DB GROUP FZCO - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJr787jbpdXz4RUAwzDduiaIw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ7V4-d9dcXz4R2ZHs_UfY86E": {
+      "name": "Dubai Business Women Council (DBWC) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ7V4-d9dcXz4R2ZHs_UfY86E",
+      "types": "establishment, point_of_interest"
     }
   }
 }
