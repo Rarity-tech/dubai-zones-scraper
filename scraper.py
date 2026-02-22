@@ -131,8 +131,8 @@ def extract_ae_zones(data, progress, prefix, next_level_pending_key):
                 "place_id": place_id,
                 "types": ", ".join(term.get("location", {}).get("types", []))
             }
-    # Si 10 résultats AE → approfondir cette branche
-    if len(ae_terms) >= 10:
+    # Si 10 résultats AE → approfondir cette branche (sauf si on est au dernier niveau)
+    if len(ae_terms) >= 10 and next_level_pending_key in progress:
         for l in string.ascii_uppercase:
             new_query = f"Dubai {prefix}{l}"
             new_prefix = f"{prefix}{l}"
