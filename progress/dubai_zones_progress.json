@@ -9369,7 +9369,57 @@
     "Dubai TAG",
     "Dubai TAH",
     "Dubai TAI",
-    "Dubai TAJ"
+    "Dubai TAJ",
+    "Dubai TAK",
+    "Dubai TAL",
+    "Dubai TAM",
+    "Dubai TAN",
+    "Dubai TAO",
+    "Dubai TAP",
+    "Dubai TAQ",
+    "Dubai TAR",
+    "Dubai TAS",
+    "Dubai TAT",
+    "Dubai TAU",
+    "Dubai TAV",
+    "Dubai TAW",
+    "Dubai TAX",
+    "Dubai TAY",
+    "Dubai TAZ",
+    "Dubai TBA",
+    "Dubai TBB",
+    "Dubai TBC",
+    "Dubai TBD",
+    "Dubai TBE",
+    "Dubai TBF",
+    "Dubai TBG",
+    "Dubai TBH",
+    "Dubai TBI",
+    "Dubai TBJ",
+    "Dubai TBK",
+    "Dubai TBL",
+    "Dubai TBM",
+    "Dubai TBN",
+    "Dubai TBO",
+    "Dubai TBP",
+    "Dubai TBQ",
+    "Dubai TBR",
+    "Dubai TBS",
+    "Dubai TBT",
+    "Dubai TBU",
+    "Dubai TBV",
+    "Dubai TBW",
+    "Dubai TBX",
+    "Dubai TBY",
+    "Dubai TBZ",
+    "Dubai TCA",
+    "Dubai TCB",
+    "Dubai TCC",
+    "Dubai TCD",
+    "Dubai TCE",
+    "Dubai TCF",
+    "Dubai TCG",
+    "Dubai TCH"
   ],
   "pending_n2": [
     {
@@ -70384,6 +70434,106 @@
       "name": "Tajikistan - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJC0twN9xAXz4R5-VDM31PH2s",
       "types": "establishment, natural_feature"
+    },
+    "ChIJGRHqwrtDXz4REW97rRy9b20": {
+      "name": "talabat HQ - Dubai - Émirats arabes unis",
+      "place_id": "ChIJGRHqwrtDXz4REW97rRy9b20",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJb1sxh3pcXz4R7P7GLMCzGfE": {
+      "name": "Talal Tower - Emirates Crew Accommodation - Dubai - Charjah - Émirats arabes unis",
+      "place_id": "ChIJb1sxh3pcXz4R7P7GLMCzGfE",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJDX0CIgB9Xz4R0Z-k7k_UPTc": {
+      "name": "TALIA at The Valley - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDX0CIgB9Xz4R0Z-k7k_UPTc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJPbjVU0VrXz4RLcGwPMBzGTg": {
+      "name": "Tamani Hotel Marina - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJPbjVU0VrXz4RLcGwPMBzGTg",
+      "types": "geocode, premise"
+    },
+    "ChIJm2UUhCZpXz4RZFD3FAfBsFc": {
+      "name": "Tamani arts building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJm2UUhCZpXz4RZFD3FAfBsFc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJdf8vXKddXz4R-_rLLX78xgQ": {
+      "name": "Tamr Inn Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdf8vXKddXz4R-_rLLX78xgQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ____L3trXz4Rq3hBciI7AJg": {
+      "name": "Tanaro - The Greens & Views - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ____L3trXz4Rq3hBciI7AJg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJEV0-JjlmXz4RzXQ2CwWeclw": {
+      "name": "Tanfeeth - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJEV0-JjlmXz4RzXQ2CwWeclw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJZaqE9etvXz4RnHzMDs90E08": {
+      "name": "Taormina Village By Reportage Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZaqE9etvXz4RnHzMDs90E08",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJD8ysroxrXz4RdNg_SW2zpmg": {
+      "name": "Tumbi Hotel Dubai The Palm, Tapestry Collection by Hilton - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJD8ysroxrXz4RdNg_SW2zpmg",
+      "types": "establishment, lodging, point_of_interest, spa"
+    },
+    "ChIJ5-X99qZtXz4RpNiX03GZ21U": {
+      "name": "Taraf 2 Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5-X99qZtXz4RpNiX03GZ21U",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBdEE8H9tXz4RNRxh_j-tncg": {
+      "name": "Tasjeel تسجيل - Discovery Gardens - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBdEE8H9tXz4RNRxh_j-tncg",
+      "types": "car_repair, establishment, local_government_office, point_of_interest"
+    },
+    "ChIJVTTIyb9pXz4RwhcoNMXJGZQ": {
+      "name": "Tief Tauchen Dubai, NAS Sports Complex - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJVTTIyb9pXz4RwhcoNMXJGZQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJU9rLdb1jXz4R6_AY39Cz5Fc": {
+      "name": "Tawasul Bldg - Emirates Contact Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJU9rLdb1jXz4R6_AY39Cz5Fc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJQTFZBwBtXz4Rl8kzejZOkQ8": {
+      "name": "TAYA Residences - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQTFZBwBtXz4Rl8kzejZOkQ8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ1SfNjnlrXz4R0ozB4L5fksE": {
+      "name": "The Barber House - Best Men’s Barbershop in Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1SfNjnlrXz4R0ozB4L5fksE",
+      "types": "beauty_salon, establishment, hair_care, health, point_of_interest, spa"
+    },
+    "ChIJU3c_Pw5hDCURYw4hlKUBP8g": {
+      "name": "Taher Bin Naiser Real Estate - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJU3c_Pw5hDCURYw4hlKUBP8g",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJP9_aXboSXz4RIB5oXvE6Y1E": {
+      "name": "Thomas Bell-Wright Construction Testing Lab - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP9_aXboSXz4RIB5oXvE6Y1E",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJP1qB1bFsXz4Rea6pwYdXVIY": {
+      "name": "THE-COOL-BOX Studio - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP1qB1bFsXz4Rea6pwYdXVIY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJHafKLQBvXz4RZQUzPAWB7Jw": {
+      "name": "The Central Downtown By Aqua Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHafKLQBvXz4RZQUzPAWB7Jw",
+      "types": "establishment, point_of_interest"
     }
   }
 }

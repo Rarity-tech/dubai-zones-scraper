@@ -13260,6 +13260,18 @@
     "zone_type": "area"
   },
   {
+    "name": "TALIA at The Valley - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDX0CIgB9Xz4R0Z-k7k_UPTc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "TAYA Residences - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQTFZBwBtXz4Rl8kzejZOkQ8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "TBEA_The Regal Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJdWwn37RpXz4Rl6eg0U3awp0",
     "types": "establishment, point_of_interest",
@@ -13275,6 +13287,12 @@
     "name": "THE LUXE RETREAT HOTEL APARTMENT - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJcejEDwBDXz4RzaEQ87GfwEs",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "THE-COOL-BOX Studio - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP1qB1bFsXz4Rea6pwYdXVIY",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -13308,6 +13326,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Taher Bin Naiser Real Estate - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJU3c_Pw5hDCURYw4hlKUBP8g",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Taiwan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJdXy1zSZBXz4RutoxhCZ1qqQ",
     "types": "establishment, natural_feature",
@@ -13338,15 +13362,75 @@
     "zone_type": "area"
   },
   {
+    "name": "Talal Tower - Emirates Crew Accommodation - Dubai - Charjah - Émirats arabes unis",
+    "place_id": "ChIJb1sxh3pcXz4R7P7GLMCzGfE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tamani Hotel Marina - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJPbjVU0VrXz4RLcGwPMBzGTg",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Tamani Marina Hotel and Hotel Apartments, Dubai, Émirats arabes unis",
     "place_id": "ChIJ__8_UUVrXz4REvblbL-uKqc",
     "types": "establishment, food, gym, health, lodging, point_of_interest, restaurant",
     "zone_type": "area"
   },
   {
+    "name": "Tamani arts building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJm2UUhCZpXz4RZFD3FAfBsFc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tamr Inn Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJdf8vXKddXz4R-_rLLX78xgQ",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tanaro - The Greens & Views - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ____L3trXz4Rq3hBciI7AJg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tanfeeth - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJEV0-JjlmXz4RzXQ2CwWeclw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Tanzania - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJVUeatv1AXz4R4847v8kimaQ",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Taormina Village By Reportage Properties - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZaqE9etvXz4RnHzMDs90E08",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Taraf 2 Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5-X99qZtXz4RpNiX03GZ21U",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tasjeel تسجيل - Discovery Gardens - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBdEE8H9tXz4RNRxh_j-tncg",
+    "types": "car_repair, establishment, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tawasul Bldg - Emirates Contact Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJU9rLdb1jXz4R6_AY39Cz5Fc",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -13410,6 +13494,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Barber House - Best Men’s Barbershop in Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1SfNjnlrXz4R0ozB4L5fksE",
+    "types": "beauty_salon, establishment, hair_care, health, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
     "name": "The Bulgari SPA, Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJhyS2KFZDXz4RiozvO3nS3OQ",
     "types": "establishment, point_of_interest, spa",
@@ -13419,6 +13509,12 @@
     "name": "The Canvas Hotel Dubai - MGallery - Dubaï - Émirats arabes unis",
     "place_id": "ChIJDRCGhgZDXz4RbQHDQPNWk2w",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Central Downtown By Aqua Properties - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHafKLQBvXz4RZQUzPAWB7Jw",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -13536,9 +13632,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Thomas Bell-Wright Construction Testing Lab - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP9_aXboSXz4RIB5oXvE6Y1E",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Théâtre de l'art numérique, Dubai, Émirats arabes unis",
     "place_id": "ChIJabgg9lZrXz4RG3hNr_vISsg",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tief Tauchen Dubai, NAS Sports Complex - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVTTIyb9pXz4RwhcoNMXJGZQ",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -13581,6 +13689,12 @@
     "name": "Tulip Creek Hotel Apartments - Dubai - Émirats arabes unis",
     "place_id": "ChIJXy93-tlcXz4RirC7atevtlM",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tumbi Hotel Dubai The Palm, Tapestry Collection by Hilton - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJD8ysroxrXz4RdNg_SW2zpmg",
+    "types": "establishment, lodging, point_of_interest, spa",
     "zone_type": "area"
   },
   {
@@ -14348,6 +14462,12 @@
   {
     "name": "swftbox - E-commerce Fulfillment & Delivery - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ63iSDyhDXz4RWpmOkp0qlbA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "talabat HQ - Dubai - Émirats arabes unis",
+    "place_id": "ChIJGRHqwrtDXz4REW97rRy9b20",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
