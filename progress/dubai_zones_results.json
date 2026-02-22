@@ -4038,6 +4038,24 @@
     "zone_type": "area"
   },
   {
+    "name": "DMI - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJr-96BABdXz4RNGM_lICk1tE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DMS One (Residential Building) - 3rd Street - Dubai - Émirats arabes unis",
+    "place_id": "ChIJhUtFZB5tXz4RMHo25C-6P-k",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DMS TWO RESIDENCE - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3f3brIBpXz4R_1YEYuZ1zB0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DNA Health & Wellness - Al Wasl - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJz36j41xnXj4Rc6ahANI7LEo",
     "types": "beauty_salon, doctor, establishment, hair_care, health, hospital, point_of_interest",
@@ -4191,6 +4209,12 @@
     "name": "Dawn by Binghatti - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ77TQDgBtXz4R20LSr3daP5c",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "De Montfort University Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZ9ZmxS5jXz4Rdg7lbYpSOaE",
+    "types": "establishment, point_of_interest, university",
     "zone_type": "area"
   },
   {
@@ -4830,6 +4854,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Marina Master Community (DMMC) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT8cJDAATXz4RAxZoQfgFo24",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Medical University Hospital - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ_zAuAxFeXz4RAWf1v9C3i8A",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Museum - Dubaï - Émirats arabes unis",
     "place_id": "ChIJNT40vT9DXz4RBIFRVC4e7bw",
     "types": "establishment, museum, point_of_interest",
@@ -5217,6 +5253,18 @@
     "name": "Festival city Center - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ_UnqP7JdXz4R9FyXr0pUs0w",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Fly Dubai Training Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJs0pvwvhcXz4RXsZ9V3Kv_8E",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Fly High Fitness - Dubai - Émirats arabes unis",
+    "place_id": "ChIJJ7Ycys1zXz4RIjyvkgGE9DI",
+    "types": "establishment, gym, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7260,6 +7308,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Yacht Club - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbSXAllQTXz4RFV7IPrLNYi8",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Yemen - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD-Z_ieNAXz4RN8Awk77yTMo",
     "types": "establishment, natural_feature",
@@ -7383,6 +7437,18 @@
     "name": "eStay Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJn23JrxVfXz4R-3F2BC0oYVk",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "flydubai Campus - Emirates Road - Dubai - Émirats arabes unis",
+    "place_id": "ChIJraqLSBViXz4RbVHyKmbwzyA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "flydubai HQ - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJV1N9gD5dXz4RqWcyxUsXwak",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

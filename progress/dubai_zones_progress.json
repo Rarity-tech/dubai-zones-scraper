@@ -2719,7 +2719,57 @@
     "Dubai DLM",
     "Dubai DLN",
     "Dubai DLO",
-    "Dubai DLP"
+    "Dubai DLP",
+    "Dubai DLQ",
+    "Dubai DLR",
+    "Dubai DLS",
+    "Dubai DLT",
+    "Dubai DLU",
+    "Dubai DLV",
+    "Dubai DLW",
+    "Dubai DLX",
+    "Dubai DLY",
+    "Dubai DLZ",
+    "Dubai DMA",
+    "Dubai DMB",
+    "Dubai DMC",
+    "Dubai DMD",
+    "Dubai DME",
+    "Dubai DMF",
+    "Dubai DMG",
+    "Dubai DMH",
+    "Dubai DMI",
+    "Dubai DMJ",
+    "Dubai DMK",
+    "Dubai DML",
+    "Dubai DMM",
+    "Dubai DMN",
+    "Dubai DMO",
+    "Dubai DMP",
+    "Dubai DMQ",
+    "Dubai DMR",
+    "Dubai DMS",
+    "Dubai DMT",
+    "Dubai DMU",
+    "Dubai DMV",
+    "Dubai DMW",
+    "Dubai DMX",
+    "Dubai DMY",
+    "Dubai DMZ",
+    "Dubai DNA",
+    "Dubai DNB",
+    "Dubai DNC",
+    "Dubai DND",
+    "Dubai DNE",
+    "Dubai DNF",
+    "Dubai DNG",
+    "Dubai DNH",
+    "Dubai DNI",
+    "Dubai DNJ",
+    "Dubai DNK",
+    "Dubai DNL",
+    "Dubai DNM",
+    "Dubai DNN"
   ],
   "pending_n2": [
     {
@@ -57959,6 +58009,61 @@
       "name": "Dubai Leisure Holidays - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJUypk_lRDXz4RUISsBfv08Jw",
       "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJV1N9gD5dXz4RqWcyxUsXwak": {
+      "name": "flydubai HQ - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV1N9gD5dXz4RqWcyxUsXwak",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJ7Ycys1zXz4RIjyvkgGE9DI": {
+      "name": "Fly High Fitness - Dubai - Émirats arabes unis",
+      "place_id": "ChIJJ7Ycys1zXz4RIjyvkgGE9DI",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJraqLSBViXz4RbVHyKmbwzyA": {
+      "name": "flydubai Campus - Emirates Road - Dubai - Émirats arabes unis",
+      "place_id": "ChIJraqLSBViXz4RbVHyKmbwzyA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJs0pvwvhcXz4RXsZ9V3Kv_8E": {
+      "name": "Fly Dubai Training Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJs0pvwvhcXz4RXsZ9V3Kv_8E",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJr-96BABdXz4RNGM_lICk1tE": {
+      "name": "DMI - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJr-96BABdXz4RNGM_lICk1tE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJT8cJDAATXz4RAxZoQfgFo24": {
+      "name": "Dubai Marina Master Community (DMMC) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJT8cJDAATXz4RAxZoQfgFo24",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJhUtFZB5tXz4RMHo25C-6P-k": {
+      "name": "DMS One (Residential Building) - 3rd Street - Dubai - Émirats arabes unis",
+      "place_id": "ChIJhUtFZB5tXz4RMHo25C-6P-k",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ3f3brIBpXz4R_1YEYuZ1zB0": {
+      "name": "DMS TWO RESIDENCE - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ3f3brIBpXz4R_1YEYuZ1zB0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJZ9ZmxS5jXz4Rdg7lbYpSOaE": {
+      "name": "De Montfort University Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZ9ZmxS5jXz4Rdg7lbYpSOaE",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJ_zAuAxFeXz4RAWf1v9C3i8A": {
+      "name": "Dubai Medical University Hospital - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ_zAuAxFeXz4RAWf1v9C3i8A",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJbSXAllQTXz4RFV7IPrLNYi8": {
+      "name": "Yacht Club - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbSXAllQTXz4RFV7IPrLNYi8",
+      "types": "geocode, premise"
     }
   }
 }
