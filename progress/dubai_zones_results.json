@@ -7200,6 +7200,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Ipro Digital - ROI-Focused Internet Marketing - Dubai - Émirats arabes unis",
+    "place_id": "ChIJG9wDDlFrXz4RtgvqM_j4p7c",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Iran - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJMxLVkOdAXz4RCLTY46yk3uE",
     "types": "establishment, natural_feature",
@@ -7268,6 +7274,12 @@
   {
     "name": "JLT Cluster X - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCaP_aadsXz4RCB-s8zJGA-g",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "JOYA DORADO - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ22-qujFvXz4R0yQ46VOhV8o",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -7364,6 +7376,18 @@
   {
     "name": "Jordanian Social Club النادي الاردني الاجتماعي - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJT7XBby1dXz4RHp9INKfpXQw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Joy | Arabian Ranches III - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ71TLnB1lXz4RVjGjjlt_VpI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Joya Verde Residences - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcz6sMwBtXz4Rau_RoBHFfcA",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },

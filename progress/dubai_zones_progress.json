@@ -4669,7 +4669,57 @@
     "Dubai IOM",
     "Dubai ION",
     "Dubai IOO",
-    "Dubai IOP"
+    "Dubai IOP",
+    "Dubai IOQ",
+    "Dubai IOR",
+    "Dubai IOS",
+    "Dubai IOT",
+    "Dubai IOU",
+    "Dubai IOV",
+    "Dubai IOW",
+    "Dubai IOX",
+    "Dubai IOY",
+    "Dubai IOZ",
+    "Dubai IPA",
+    "Dubai IPB",
+    "Dubai IPC",
+    "Dubai IPD",
+    "Dubai IPE",
+    "Dubai IPF",
+    "Dubai IPG",
+    "Dubai IPH",
+    "Dubai IPI",
+    "Dubai IPJ",
+    "Dubai IPK",
+    "Dubai IPL",
+    "Dubai IPM",
+    "Dubai IPN",
+    "Dubai IPO",
+    "Dubai IPP",
+    "Dubai IPQ",
+    "Dubai IPR",
+    "Dubai IPS",
+    "Dubai IPT",
+    "Dubai IPU",
+    "Dubai IPV",
+    "Dubai IPW",
+    "Dubai IPX",
+    "Dubai IPY",
+    "Dubai IPZ",
+    "Dubai IQA",
+    "Dubai IQB",
+    "Dubai IQC",
+    "Dubai IQD",
+    "Dubai IQE",
+    "Dubai IQF",
+    "Dubai IQG",
+    "Dubai IQH",
+    "Dubai IQI",
+    "Dubai IQJ",
+    "Dubai IQK",
+    "Dubai IQL",
+    "Dubai IQM",
+    "Dubai IQN"
   ],
   "pending_n2": [
     {
@@ -61594,6 +61644,26 @@
       "name": "Jobs in Dubai - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJybIYu5xDXz4RAMFhS0D3jHw",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJcz6sMwBtXz4Rau_RoBHFfcA": {
+      "name": "Joya Verde Residences - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJcz6sMwBtXz4Rau_RoBHFfcA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ71TLnB1lXz4RVjGjjlt_VpI": {
+      "name": "Joy | Arabian Ranches III - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ71TLnB1lXz4RVjGjjlt_VpI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ22-qujFvXz4R0yQ46VOhV8o": {
+      "name": "JOYA DORADO - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ22-qujFvXz4R0yQ46VOhV8o",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJG9wDDlFrXz4RtgvqM_j4p7c": {
+      "name": "Ipro Digital - ROI-Focused Internet Marketing - Dubai - Émirats arabes unis",
+      "place_id": "ChIJG9wDDlFrXz4RtgvqM_j4p7c",
+      "types": "establishment, point_of_interest"
     }
   }
 }
