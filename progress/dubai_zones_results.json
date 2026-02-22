@@ -3498,15 +3498,63 @@
     "zone_type": "area"
   },
   {
+    "name": "Clarens Tower 2 - Sheikh Mohammed bin Rashid Boulevard - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJiSDwXStoXz4R3YBGY1ElRGE",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Clayton Residency - Marasi Drive - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJG954izloXz4R4WT2Vzb9tdI",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Clemenceau Medical Center Hospital - Dubai - Émirats arabes unis",
     "place_id": "ChIJMVjocVRdXz4RviNZw4zedCw",
     "types": "establishment, health, hospital, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "Cleopatra Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJL_YI2KNvXz4RbvHk7sIWATU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Click Grand Hotel LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ94KlNgBDXz4Rt0WtTrQJTtE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Click Square Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJvwDV-UpDXz4RyclyDmSjo_Y",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Clinica Joelle Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRdClBABqXz4R2mFswhn31MQ",
+    "types": "doctor, establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Clover Bay Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ6atL-zppXz4RrrjZbt-Fpd0",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Club Padel Dubai | Indoor & Outdoor Padel Courts - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJS-hzFFrXz4RaAUa_58pQ8M",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Clubist - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJmSseYG8VXz4RKLMKxZKle-U",
+    "types": "establishment, gym, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3861,6 +3909,12 @@
     "name": "Dubai Circus School - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ9TP-8o9rXz4RYbLYxRiCqnk",
     "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Club for People of Determination - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxWnDuV5cXz4R5PDHdWoF4gQ",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

@@ -2069,7 +2069,57 @@
     "Dubai CJM",
     "Dubai CJN",
     "Dubai CJO",
-    "Dubai CJP"
+    "Dubai CJP",
+    "Dubai CJQ",
+    "Dubai CJR",
+    "Dubai CJS",
+    "Dubai CJT",
+    "Dubai CJU",
+    "Dubai CJV",
+    "Dubai CJW",
+    "Dubai CJX",
+    "Dubai CJY",
+    "Dubai CJZ",
+    "Dubai CKA",
+    "Dubai CKB",
+    "Dubai CKC",
+    "Dubai CKD",
+    "Dubai CKE",
+    "Dubai CKF",
+    "Dubai CKG",
+    "Dubai CKH",
+    "Dubai CKI",
+    "Dubai CKJ",
+    "Dubai CKK",
+    "Dubai CKL",
+    "Dubai CKM",
+    "Dubai CKN",
+    "Dubai CKO",
+    "Dubai CKP",
+    "Dubai CKQ",
+    "Dubai CKR",
+    "Dubai CKS",
+    "Dubai CKT",
+    "Dubai CKU",
+    "Dubai CKV",
+    "Dubai CKW",
+    "Dubai CKX",
+    "Dubai CKY",
+    "Dubai CKZ",
+    "Dubai CLA",
+    "Dubai CLB",
+    "Dubai CLC",
+    "Dubai CLD",
+    "Dubai CLE",
+    "Dubai CLF",
+    "Dubai CLG",
+    "Dubai CLH",
+    "Dubai CLI",
+    "Dubai CLJ",
+    "Dubai CLK",
+    "Dubai CLL",
+    "Dubai CLM",
+    "Dubai CLN"
   ],
   "pending_n2": [
     {
@@ -56549,6 +56599,51 @@
       "name": "Cookiejar Interactive - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJi_-_jHlrXz4RE76Cfs1xagE",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJL_YI2KNvXz4RbvHk7sIWATU": {
+      "name": "Cleopatra Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJL_YI2KNvXz4RbvHk7sIWATU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJiSDwXStoXz4R3YBGY1ElRGE": {
+      "name": "Clarens Tower 2 - Sheikh Mohammed bin Rashid Boulevard - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJiSDwXStoXz4R3YBGY1ElRGE",
+      "types": "geocode, premise"
+    },
+    "ChIJG954izloXz4R4WT2Vzb9tdI": {
+      "name": "Clayton Residency - Marasi Drive - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJG954izloXz4R4WT2Vzb9tdI",
+      "types": "geocode, premise"
+    },
+    "ChIJmSseYG8VXz4RKLMKxZKle-U": {
+      "name": "Clubist - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJmSseYG8VXz4RKLMKxZKle-U",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJJS-hzFFrXz4RaAUa_58pQ8M": {
+      "name": "Club Padel Dubai | Indoor & Outdoor Padel Courts - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJS-hzFFrXz4RaAUa_58pQ8M",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJxWnDuV5cXz4R5PDHdWoF4gQ": {
+      "name": "Dubai Club for People of Determination - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJxWnDuV5cXz4R5PDHdWoF4gQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJvwDV-UpDXz4RyclyDmSjo_Y": {
+      "name": "Click Square Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJvwDV-UpDXz4RyclyDmSjo_Y",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ94KlNgBDXz4Rt0WtTrQJTtE": {
+      "name": "Click Grand Hotel LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ94KlNgBDXz4Rt0WtTrQJTtE",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJRdClBABqXz4R2mFswhn31MQ": {
+      "name": "Clinica Joelle Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRdClBABqXz4R2mFswhn31MQ",
+      "types": "doctor, establishment, health, point_of_interest"
     }
   }
 }
