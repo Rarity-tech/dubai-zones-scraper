@@ -2274,6 +2274,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Amer Centre-Karama (UID Smart Services) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8wJIKdRCXz4RSB_Dfn7b6EE",
+    "types": "establishment, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "American Academy of Cosmetic Surgery Hospital - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJGTKkJjRdXz4RC5-FXb6sggE",
     "types": "beauty_salon, doctor, establishment, hair_care, health, hospital, point_of_interest",
@@ -14211,6 +14217,12 @@
     "name": "Ubora Towers - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJby0GWzNoXz4R1vK0HdsNCpw",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ultimate HR Solutions - HR Consultancy - Dubai - Émirats arabes unis",
+    "place_id": "ChIJNZNZ_tdpXz4RlMH6vB5OiC4",
+    "types": "establishment, finance, local_government_office, point_of_interest",
     "zone_type": "area"
   },
   {
