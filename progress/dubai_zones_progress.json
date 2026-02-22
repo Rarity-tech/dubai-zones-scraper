@@ -6319,7 +6319,57 @@
     "Dubai LDY",
     "Dubai LDZ",
     "Dubai LEA",
-    "Dubai LEB"
+    "Dubai LEB",
+    "Dubai LEC",
+    "Dubai LED",
+    "Dubai LEE",
+    "Dubai LEF",
+    "Dubai LEG",
+    "Dubai LEH",
+    "Dubai LEI",
+    "Dubai LEJ",
+    "Dubai LEK",
+    "Dubai LEL",
+    "Dubai LEM",
+    "Dubai LEN",
+    "Dubai LEO",
+    "Dubai LEP",
+    "Dubai LEQ",
+    "Dubai LER",
+    "Dubai LES",
+    "Dubai LET",
+    "Dubai LEU",
+    "Dubai LEV",
+    "Dubai LEW",
+    "Dubai LEX",
+    "Dubai LEY",
+    "Dubai LEZ",
+    "Dubai LFA",
+    "Dubai LFB",
+    "Dubai LFC",
+    "Dubai LFD",
+    "Dubai LFE",
+    "Dubai LFF",
+    "Dubai LFG",
+    "Dubai LFH",
+    "Dubai LFI",
+    "Dubai LFJ",
+    "Dubai LFK",
+    "Dubai LFL",
+    "Dubai LFM",
+    "Dubai LFN",
+    "Dubai LFO",
+    "Dubai LFP",
+    "Dubai LFQ",
+    "Dubai LFR",
+    "Dubai LFS",
+    "Dubai LFT",
+    "Dubai LFU",
+    "Dubai LFV",
+    "Dubai LFW",
+    "Dubai LFX",
+    "Dubai LFY",
+    "Dubai LFZ"
   ],
   "pending_n2": [
     {
@@ -64269,6 +64319,111 @@
       "name": "Libya - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ_0Xe_e9AXz4R7gQqyVx_9dI",
       "types": "establishment, natural_feature"
+    },
+    "ChIJ7_pSV_xtXz4RaUqqhQ7PCo0": {
+      "name": "Leen’s house - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ7_pSV_xtXz4RaUqqhQ7PCo0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ2WTW9EpvXz4RiPnAPi79IWs": {
+      "name": "Leerbach Palace Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2WTW9EpvXz4RiPnAPi79IWs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ6z6xM9FdXz4R3FMBpbsRMCQ": {
+      "name": "The Leela Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ6z6xM9FdXz4R3FMBpbsRMCQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJkaeEKgsf9T4RuFSuG1bEAhQ": {
+      "name": "Leem Lake - Dubai - Émirats arabes unis",
+      "place_id": "ChIJkaeEKgsf9T4RuFSuG1bEAhQ",
+      "types": "establishment, park, point_of_interest"
+    },
+    "ChIJUyOgyGdtXz4RZZawi4rtn1Y": {
+      "name": "legoland hb - Dubai - Émirats arabes unis",
+      "place_id": "ChIJUyOgyGdtXz4RZZawi4rtn1Y",
+      "types": "amusement_park, establishment, point_of_interest"
+    },
+    "ChIJOzz4EuIPXz4Rfomf5hDFBmE": {
+      "name": "Legoland Waterpark - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJOzz4EuIPXz4Rfomf5hDFBmE",
+      "types": "amusement_park, establishment, park, point_of_interest"
+    },
+    "ChIJm-EZY68PXz4RFePHHmv21b4": {
+      "name": "LEGOLAND Dubai, Dubai, Émirats arabes unis",
+      "place_id": "ChIJm-EZY68PXz4RFePHHmv21b4",
+      "types": "amusement_park, establishment, lodging, point_of_interest, tourist_attraction"
+    },
+    "ChIJyaA3NCSE9T4RWX1zzqMB7Bc": {
+      "name": "Lehbab Premier, Dubai, Émirats arabes unis",
+      "place_id": "ChIJyaA3NCSE9T4RWX1zzqMB7Bc",
+      "types": "establishment, point_of_interest, transit_station"
+    },
+    "ChIJhwG2Yc1CXz4RmRMPJjuSpxE": {
+      "name": "Al Nasr Leisure Land, Dubai, Émirats arabes unis",
+      "place_id": "ChIJhwG2Yc1CXz4RmRMPJjuSpxE",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJ1TtwQzZrXz4R248uPbP53Ac": {
+      "name": "Lemon Tree Hotel Jumeirah, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1TtwQzZrXz4R248uPbP53Ac",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJA_0aEZVrXz4RZiPtOucWZXg": {
+      "name": "MENA Plaza Hotel Albarsha - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJA_0aEZVrXz4RZiPtOucWZXg",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJyxyQVQB9Xz4R7Rzhac4mwo4": {
+      "name": "LEOS Royal - Dubai - Émirats arabes unis",
+      "place_id": "ChIJyxyQVQB9Xz4R7Rzhac4mwo4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAdkFgKdDXz4RPLOutJZX250": {
+      "name": "Dubai Metro - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAdkFgKdDXz4RPLOutJZX250",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJmxpW081rXz4Rt71h-yL9eMU": {
+      "name": "Metropolitan Hotel Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJmxpW081rXz4Rt71h-yL9eMU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ8aVxZwBhXz4RiK8FPWHhh0Y": {
+      "name": "Metro Station Hub - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8aVxZwBhXz4RiK8FPWHhh0Y",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ7Rm_hYRrXz4RZzqmTDGOR6U": {
+      "name": "Lueur Aesthetic Clinic - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ7Rm_hYRrXz4RZzqmTDGOR6U",
+      "types": "beauty_salon, doctor, establishment, health, point_of_interest, spa"
+    },
+    "ChIJkXdA-KNtXz4RGhTgGrZTQT0": {
+      "name": "Level Up Gyms (lvlup Gym) - Gymnastics & Sports Centre in Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJkXdA-KNtXz4RGhTgGrZTQT0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJX9R0TTNdXz4R7dMaK39HKgc": {
+      "name": "Lewana Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJX9R0TTNdXz4R7dMaK39HKgc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJk0YxiUlDXz4RbIQ_wYT2Rpk": {
+      "name": "Oaks Liwa Heights Hotel Suites Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJk0YxiUlDXz4RbIQ_wYT2Rpk",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJx6JLx4FpXz4Rf9PicjHYhLk": {
+      "name": "OffRoad-Zone - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJx6JLx4FpXz4Rf9PicjHYhLk",
+      "types": "car_dealer, establishment, point_of_interest, store, tourist_attraction"
+    },
+    "ChIJ_0q93NNpXz4R6PndaG5ZgSo": {
+      "name": "Latinem Facilities Management - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_0q93NNpXz4R6PndaG5ZgSo",
+      "types": "establishment, point_of_interest"
     }
   }
 }

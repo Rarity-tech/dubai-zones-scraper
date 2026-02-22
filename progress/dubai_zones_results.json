@@ -1662,6 +1662,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Al Nasr Leisure Land, Dubai, Émirats arabes unis",
+    "place_id": "ChIJhwG2Yc1CXz4RmRMPJjuSpxE",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Al Seef, Dubai, Émirats arabes unis",
     "place_id": "ChIJgTr1QCxDXz4RXUBEfndMUbs",
     "types": "establishment, food, point_of_interest, restaurant, shopping_mall, tourist_attraction",
@@ -5448,6 +5454,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Metro - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAdkFgKdDXz4RPLOutJZX250",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Museum - Dubaï - Émirats arabes unis",
     "place_id": "ChIJNT40vT9DXz4RBIFRVC4e7bw",
     "types": "establishment, museum, point_of_interest",
@@ -8412,6 +8424,18 @@
     "zone_type": "area"
   },
   {
+    "name": "LEGOLAND Dubai, Dubai, Émirats arabes unis",
+    "place_id": "ChIJm-EZY68PXz4RFePHHmv21b4",
+    "types": "amusement_park, establishment, lodging, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "LEOS Royal - Dubai - Émirats arabes unis",
+    "place_id": "ChIJyxyQVQB9Xz4R7Rzhac4mwo4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "LEVA Hotel , Mazaya Centre - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ-cpyzABDXz4Rr45m1nUOGgk",
     "types": "establishment, lodging, point_of_interest",
@@ -8586,6 +8610,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Latinem Facilities Management - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_0q93NNpXz4R6PndaG5ZgSo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Launchpad - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJSwgAzx1dXz4RMM_zHzAaErs",
     "types": "establishment, point_of_interest",
@@ -8670,6 +8700,54 @@
     "zone_type": "area"
   },
   {
+    "name": "Leem Lake - Dubai - Émirats arabes unis",
+    "place_id": "ChIJkaeEKgsf9T4RuFSuG1bEAhQ",
+    "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Leen’s house - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ7_pSV_xtXz4RaUqqhQ7PCo0",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Leerbach Palace Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2WTW9EpvXz4RiPnAPi79IWs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Legoland Waterpark - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOzz4EuIPXz4Rfomf5hDFBmE",
+    "types": "amusement_park, establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lehbab Premier, Dubai, Émirats arabes unis",
+    "place_id": "ChIJyaA3NCSE9T4RWX1zzqMB7Bc",
+    "types": "establishment, point_of_interest, transit_station",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lemon Tree Hotel Jumeirah, Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1TtwQzZrXz4R248uPbP53Ac",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Level Up Gyms (lvlup Gym) - Gymnastics & Sports Centre in Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJkXdA-KNtXz4RGhTgGrZTQT0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lewana Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJX9R0TTNdXz4R7dMaK39HKgc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Liberty House - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJbS7_FY9CXz4ReOKwBnScXzo",
     "types": "geocode, premise",
@@ -8736,6 +8814,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Lueur Aesthetic Clinic - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ7Rm_hYRrXz4RZzqmTDGOR6U",
+    "types": "beauty_salon, doctor, establishment, health, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
     "name": "Lulu village - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJsc6tBwBfXz4RL7Bu1jd4luM",
     "types": "establishment, health, pharmacy, point_of_interest, store",
@@ -8792,6 +8876,12 @@
   {
     "name": "MD Hotel - By Gewan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJVVkaebxrXz4RhJVEmsh8L4E",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MENA Plaza Hotel Albarsha - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJA_0aEZVrXz4RZiPtOucWZXg",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
@@ -8934,6 +9024,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Metro Station Hub - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8aVxZwBhXz4RiK8FPWHhh0Y",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Metropolitan Hotel Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJmxpW081rXz4Rt71h-yL9eMU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Millennium Medical Center | MMC IVF | Fertility Treatment | Best IVF Center in Dubai, Metro - Dubai - Émirats arabes unis",
     "place_id": "ChIJcYX5nCxrXz4R9CzkYXf6-5w",
     "types": "doctor, establishment, health, hospital, point_of_interest",
@@ -9063,6 +9165,18 @@
     "name": "NoWayOut Escape Rooms | Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD2tBKLNsXz4RJIUTCCuTkL4",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Oaks Liwa Heights Hotel Suites Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJk0YxiUlDXz4RbIQ_wYT2Rpk",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "OffRoad-Zone - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJx6JLx4FpXz4Rf9PicjHYhLk",
+    "types": "car_dealer, establishment, point_of_interest, store, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -9876,6 +9990,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Leela Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6z6xM9FdXz4R3FMBpbsRMCQ",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "The Lost Chambers Aquarium, Dubai, Émirats arabes unis",
     "place_id": "ChIJ0Wo4qj8VXz4RmuOI9BArrhc",
     "types": "aquarium, establishment, point_of_interest, tourist_attraction",
@@ -10659,6 +10779,12 @@
     "name": "la joya polyclinic - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJI51VxPNdXz4ReDwvPLVb1pU",
     "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "legoland hb - Dubai - Émirats arabes unis",
+    "place_id": "ChIJUyOgyGdtXz4RZZawi4rtn1Y",
+    "types": "amusement_park, establishment, point_of_interest",
     "zone_type": "area"
   },
   {
