@@ -5448,6 +5448,12 @@
     "zone_type": "area"
   },
   {
+    "name": "ELO Tower by Damac - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDwNvfAB7Xz4RScCIGfSA84I",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "EMAAR South - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJRS0n78oLXz4RwQrMl9Zb3Zo",
     "types": "establishment, point_of_interest",
@@ -5571,6 +5577,36 @@
     "name": "Eika Home Dubai - Lazuward South West - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJAwkRi7RtXz4RDEUESHZyMS8",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Elan 1 | Tilal Al Ghaf - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJA1zJ-SBvXz4RqHjYflxz77g",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Elaris Sky - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZWoGfwBtXz4R48wftgtGfU0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Element Al Jaddaf, Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2z39enBdXz4RFDvw_vIFt_k",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Element Dubai Airport - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBZWjnTtdXz4RujRO9BxaT_k",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Element Me'aisam, Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAQAAAKNtXz4RuJI1dRm6fvw",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -8037,6 +8073,12 @@
     "name": "eforea spa, Palm West Beach - Dubai - Émirats arabes unis",
     "place_id": "ChIJN0lz3SRrXz4REB0r_byYLMw",
     "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "elegant hoopoe - Dubai - Émirats arabes unis",
+    "place_id": "ChIJzZJRD5ZDXz4RpCWTvaP7IDk",
+    "types": "beauty_salon, doctor, establishment, hair_care, health, point_of_interest, spa",
     "zone_type": "area"
   },
   {

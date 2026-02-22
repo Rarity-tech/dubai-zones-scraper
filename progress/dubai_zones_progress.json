@@ -3319,7 +3319,57 @@
     "Dubai EJO",
     "Dubai EJP",
     "Dubai EJQ",
-    "Dubai EJR"
+    "Dubai EJR",
+    "Dubai EJS",
+    "Dubai EJT",
+    "Dubai EJU",
+    "Dubai EJV",
+    "Dubai EJW",
+    "Dubai EJX",
+    "Dubai EJY",
+    "Dubai EJZ",
+    "Dubai EKA",
+    "Dubai EKB",
+    "Dubai EKC",
+    "Dubai EKD",
+    "Dubai EKE",
+    "Dubai EKF",
+    "Dubai EKG",
+    "Dubai EKH",
+    "Dubai EKI",
+    "Dubai EKJ",
+    "Dubai EKK",
+    "Dubai EKL",
+    "Dubai EKM",
+    "Dubai EKN",
+    "Dubai EKO",
+    "Dubai EKP",
+    "Dubai EKQ",
+    "Dubai EKR",
+    "Dubai EKS",
+    "Dubai EKT",
+    "Dubai EKU",
+    "Dubai EKV",
+    "Dubai EKW",
+    "Dubai EKX",
+    "Dubai EKY",
+    "Dubai EKZ",
+    "Dubai ELA",
+    "Dubai ELB",
+    "Dubai ELC",
+    "Dubai ELD",
+    "Dubai ELE",
+    "Dubai ELF",
+    "Dubai ELG",
+    "Dubai ELH",
+    "Dubai ELI",
+    "Dubai ELJ",
+    "Dubai ELK",
+    "Dubai ELL",
+    "Dubai ELM",
+    "Dubai ELN",
+    "Dubai ELO",
+    "Dubai ELP"
   ],
   "pending_n2": [
     {
@@ -59114,6 +59164,41 @@
       "name": "Etihad Mall - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJHdA07x9eXz4Robn0AtcrCsM",
       "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJZWoGfwBtXz4R48wftgtGfU0": {
+      "name": "Elaris Sky - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZWoGfwBtXz4R48wftgtGfU0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJA1zJ-SBvXz4RqHjYflxz77g": {
+      "name": "Elan 1 | Tilal Al Ghaf - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJA1zJ-SBvXz4RqHjYflxz77g",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBZWjnTtdXz4RujRO9BxaT_k": {
+      "name": "Element Dubai Airport - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBZWjnTtdXz4RujRO9BxaT_k",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ2z39enBdXz4RFDvw_vIFt_k": {
+      "name": "Element Al Jaddaf, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2z39enBdXz4RFDvw_vIFt_k",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJzZJRD5ZDXz4RpCWTvaP7IDk": {
+      "name": "elegant hoopoe - Dubai - Émirats arabes unis",
+      "place_id": "ChIJzZJRD5ZDXz4RpCWTvaP7IDk",
+      "types": "beauty_salon, doctor, establishment, hair_care, health, point_of_interest, spa"
+    },
+    "ChIJAQAAAKNtXz4RuJI1dRm6fvw": {
+      "name": "Element Me'aisam, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAQAAAKNtXz4RuJI1dRm6fvw",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJDwNvfAB7Xz4RScCIGfSA84I": {
+      "name": "ELO Tower by Damac - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDwNvfAB7Xz4RScCIGfSA84I",
+      "types": "establishment, point_of_interest"
     }
   }
 }
