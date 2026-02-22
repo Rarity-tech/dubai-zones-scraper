@@ -1938,6 +1938,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Al Farooq Omar Bin Al Khattab Mosque - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ2X21FvFpXz4RtsrnbiiFKnw",
+    "types": "establishment, mosque, place_of_worship, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Al Habtoor Palace, Preferred Hotels & Resorts - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJm8KuZNtpXz4RoA06ag1r5Tw",
     "types": "establishment, lodging, point_of_interest, spa",
