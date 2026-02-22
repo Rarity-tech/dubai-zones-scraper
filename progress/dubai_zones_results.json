@@ -756,6 +756,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Dubai Logistics City - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbUiwwkQLXz4RHPz9BTNUbH4",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Dubai South - Dubaï - Émirats arabes unis",
     "place_id": "ChIJjyGuMMp0Xz4RCC63EPiab7E",
     "types": "geocode, neighborhood, political",
@@ -4536,6 +4542,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Damac Lincoln Park B - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ86ePxIdvXz4ROordfNqIhwM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Damac Maison Canal Views, Dubai, Émirats arabes unis",
     "place_id": "ChIJ55M8dzpoXz4RSqWbz-CezXM",
     "types": "establishment, lodging, point_of_interest",
@@ -6924,6 +6936,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Hotel Local Dubai, Jumeirah Village Triangle, Autograph Collection - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTUkYzFNsXz4R_x-EpPLGF3c",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Hotel Riu Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJmZhB5LBEXz4RpQzOJJMc1m8",
     "types": "establishment, lodging, point_of_interest",
@@ -8484,6 +8502,18 @@
     "zone_type": "area"
   },
   {
+    "name": "LOAMS Happiness Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgfOg3jBDXz4RMi0wrClu8RM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "LOCI Residences - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAZUXCHVtXz4RDmyYFiDL7Ak",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "LPFLEX Base INDUSTRY LLC - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJcyL0HRxcXz4RFdE9RFYRG4M",
     "types": "establishment, point_of_interest",
@@ -8868,15 +8898,33 @@
     "zone_type": "area"
   },
   {
+    "name": "Lobo Tailor - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP07lvD5DXz4RWbej3Fyt7Uk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Loco Bear - The Ultimate Entertainment Hub - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJAX1FCXBpXz4R09JvDPH1r_Y",
     "types": "amusement_park, establishment, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "Loewe - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ0ZrquyVDXz4Rj6qQZN3G_bw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Logo Islands - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJGbhFANYUXz4RqRkglD5luNk",
     "types": "colloquial_area, geocode, political",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lolena Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJdU3ZuDJsXz4R7MZ0qw0694M",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -8898,15 +8946,63 @@
     "zone_type": "area"
   },
   {
+    "name": "Lootah avenue Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJL9AUOgBvXz4RUBQeXEI_Y34",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Loreal Office - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJfSj9I4ANXz4RhOZhVH_jvWw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lorena Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJeWjo2S1tXz4R7GsiJqok2Y0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Loreto 1 A - DAMAC Hills - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJB8KgycRxXz4RRJBQGGMDnwA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Los Angeles Aesthetic Medical Center - Dubai - Émirats arabes unis",
+    "place_id": "ChIJzawvhshrXz4RtBj4nBTtqgY",
+    "types": "beauty_salon, doctor, establishment, hair_care, health, hospital, point_of_interest, spa, store",
+    "zone_type": "area"
+  },
+  {
     "name": "Lotus Grand Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJr7ycDMxcXz4R-ZfzIBvQjaY",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "Lotus | Creek Beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJlxo1ZPtnXz4R3bwnEcyskGs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Love Lake - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJO4P3BkeBXz4RPbovWG84AvA",
     "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Love Lock Bridge Al Khawaneej Walk - Dubai - Émirats arabes unis",
+    "place_id": "ChIJUQPYqhdhXz4RKb8SPlpOpSY",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lozan Studio - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJud2UpZJcXz4RadG9nSJc7lk",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -8943,6 +9039,12 @@
     "name": "Luxury Jetski Rental Dubai - Dubai - Émirats arabes unis",
     "place_id": "ChIJw6NtooxDXz4RsA7CUtuo7DM",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Luxury Properties Hub - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJe0HwfahpXz4Ri5FpKsmcXzg",
+    "types": "establishment, point_of_interest, real_estate_agency",
     "zone_type": "area"
   },
   {
@@ -10107,6 +10209,12 @@
     "name": "The Leela Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ6z6xM9FdXz4R3FMBpbsRMCQ",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Lofts - Emaar. - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJSxsN2X9CXz4RM32iC0h0YnU",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

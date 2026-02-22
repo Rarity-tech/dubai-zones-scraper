@@ -6519,7 +6519,57 @@
     "Dubai LMQ",
     "Dubai LMR",
     "Dubai LMS",
-    "Dubai LMT"
+    "Dubai LMT",
+    "Dubai LMU",
+    "Dubai LMV",
+    "Dubai LMW",
+    "Dubai LMX",
+    "Dubai LMY",
+    "Dubai LMZ",
+    "Dubai LOA",
+    "Dubai LOB",
+    "Dubai LOC",
+    "Dubai LOD",
+    "Dubai LOE",
+    "Dubai LOF",
+    "Dubai LOG",
+    "Dubai LOH",
+    "Dubai LOI",
+    "Dubai LOJ",
+    "Dubai LOK",
+    "Dubai LOL",
+    "Dubai LOM",
+    "Dubai LON",
+    "Dubai LOO",
+    "Dubai LOP",
+    "Dubai LOQ",
+    "Dubai LOR",
+    "Dubai LOS",
+    "Dubai LOT",
+    "Dubai LOU",
+    "Dubai LOV",
+    "Dubai LOW",
+    "Dubai LOX",
+    "Dubai LOY",
+    "Dubai LOZ",
+    "Dubai LPA",
+    "Dubai LPB",
+    "Dubai LPC",
+    "Dubai LPD",
+    "Dubai LPE",
+    "Dubai LPF",
+    "Dubai LPG",
+    "Dubai LPH",
+    "Dubai LPI",
+    "Dubai LPJ",
+    "Dubai LPK",
+    "Dubai LPL",
+    "Dubai LPM",
+    "Dubai LPN",
+    "Dubai LPO",
+    "Dubai LPP",
+    "Dubai LPQ",
+    "Dubai LPR"
   ],
   "pending_n2": [
     {
@@ -64674,6 +64724,96 @@
       "name": "The Pier Residence by LMD - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJY2e_TABDXz4Rk4E7QZtSL00",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJgfOg3jBDXz4RMi0wrClu8RM": {
+      "name": "LOAMS Happiness Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgfOg3jBDXz4RMi0wrClu8RM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJP07lvD5DXz4RWbej3Fyt7Uk": {
+      "name": "Lobo Tailor - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP07lvD5DXz4RWbej3Fyt7Uk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAZUXCHVtXz4RDmyYFiDL7Ak": {
+      "name": "LOCI Residences - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAZUXCHVtXz4RDmyYFiDL7Ak",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJTUkYzFNsXz4R_x-EpPLGF3c": {
+      "name": "Hotel Local Dubai, Jumeirah Village Triangle, Autograph Collection - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTUkYzFNsXz4R_x-EpPLGF3c",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ0ZrquyVDXz4Rj6qQZN3G_bw": {
+      "name": "Loewe - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ0ZrquyVDXz4Rj6qQZN3G_bw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJSxsN2X9CXz4RM32iC0h0YnU": {
+      "name": "The Lofts - Emaar. - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJSxsN2X9CXz4RM32iC0h0YnU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJbUiwwkQLXz4RHPz9BTNUbH4": {
+      "name": "Dubai Logistics City - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbUiwwkQLXz4RHPz9BTNUbH4",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJdU3ZuDJsXz4R7MZ0qw0694M": {
+      "name": "Lolena Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdU3ZuDJsXz4R7MZ0qw0694M",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJL9AUOgBvXz4RUBQeXEI_Y34": {
+      "name": "Lootah avenue Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJL9AUOgBvXz4RUBQeXEI_Y34",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJeWjo2S1tXz4R7GsiJqok2Y0": {
+      "name": "Lorena Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJeWjo2S1tXz4R7GsiJqok2Y0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJB8KgycRxXz4RRJBQGGMDnwA": {
+      "name": "Loreto 1 A - DAMAC Hills - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJB8KgycRxXz4RRJBQGGMDnwA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJfSj9I4ANXz4RhOZhVH_jvWw": {
+      "name": "Loreal Office - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJfSj9I4ANXz4RhOZhVH_jvWw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJzawvhshrXz4RtBj4nBTtqgY": {
+      "name": "Los Angeles Aesthetic Medical Center - Dubai - Émirats arabes unis",
+      "place_id": "ChIJzawvhshrXz4RtBj4nBTtqgY",
+      "types": "beauty_salon, doctor, establishment, hair_care, health, hospital, point_of_interest, spa, store"
+    },
+    "ChIJlxo1ZPtnXz4R3bwnEcyskGs": {
+      "name": "Lotus | Creek Beach - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJlxo1ZPtnXz4R3bwnEcyskGs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJUQPYqhdhXz4RKb8SPlpOpSY": {
+      "name": "Love Lock Bridge Al Khawaneej Walk - Dubai - Émirats arabes unis",
+      "place_id": "ChIJUQPYqhdhXz4RKb8SPlpOpSY",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJud2UpZJcXz4RadG9nSJc7lk": {
+      "name": "Lozan Studio - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJud2UpZJcXz4RadG9nSJc7lk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ86ePxIdvXz4ROordfNqIhwM": {
+      "name": "Damac Lincoln Park B - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ86ePxIdvXz4ROordfNqIhwM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJe0HwfahpXz4Ri5FpKsmcXzg": {
+      "name": "Luxury Properties Hub - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJe0HwfahpXz4Ri5FpKsmcXzg",
+      "types": "establishment, point_of_interest, real_estate_agency"
     }
   }
 }
