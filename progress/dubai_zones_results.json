@@ -7224,8 +7224,32 @@
     "zone_type": "area"
   },
   {
+    "name": "Iris Bay - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJB8tQkdBpXz4RnHaIjafBkms",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Iris Bay Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJmQONHABpXz4Rr0X8XjlAbY8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Iris Blue - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJD-FLOVFrXz4RqUHtcniH3Ik",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Iron Street Gym | Fitness Center - Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJW3cAEy1dXz4R-6qH0m7tAZg",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Iskandar Financial District - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJm6_5bKxsXz4RN4zbOf_CUBQ",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -8022,6 +8046,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Palm Islands, Dubai, Émirats arabes unis",
+    "place_id": "ChIJU--x0eMVXz4RrFVTgqw-oKg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Palm Jumeirah Mall by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJv5dZWytrXz4RRyK0_VoDs9E",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -8247,6 +8277,12 @@
     "name": "Rove Expo City - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJy7pUcShzXz4RQnwcFgniTPg",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Rove Home Downtown Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJe_veD75pXz4RgOmOiFgPkNE",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -9410,6 +9446,12 @@
   {
     "name": "iFrame Opticals, Mirdif (RTA Approved Eye Test Center)- ايفريم للبصريات ,مردف - opp. Trolleys Supermarket - Dubai - Émirats arabes unis",
     "place_id": "ChIJQ-rGXohhXz4RPbddSW_X2jk",
+    "types": "establishment, health, point_of_interest, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "iSee by Al Jaber - Circle Mall الجابر للنظارات فرع آي سي - سيركل مول - Dubai - Émirats arabes unis",
+    "place_id": "ChIJP0tHMrptXz4RrTBb1x3k59o",
     "types": "establishment, health, point_of_interest, store",
     "zone_type": "area"
   },

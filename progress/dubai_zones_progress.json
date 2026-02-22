@@ -4719,7 +4719,57 @@
     "Dubai IQK",
     "Dubai IQL",
     "Dubai IQM",
-    "Dubai IQN"
+    "Dubai IQN",
+    "Dubai IQO",
+    "Dubai IQP",
+    "Dubai IQQ",
+    "Dubai IQR",
+    "Dubai IQS",
+    "Dubai IQT",
+    "Dubai IQU",
+    "Dubai IQV",
+    "Dubai IQW",
+    "Dubai IQX",
+    "Dubai IQY",
+    "Dubai IQZ",
+    "Dubai IRA",
+    "Dubai IRB",
+    "Dubai IRC",
+    "Dubai IRD",
+    "Dubai IRE",
+    "Dubai IRF",
+    "Dubai IRG",
+    "Dubai IRH",
+    "Dubai IRI",
+    "Dubai IRJ",
+    "Dubai IRK",
+    "Dubai IRL",
+    "Dubai IRM",
+    "Dubai IRN",
+    "Dubai IRO",
+    "Dubai IRP",
+    "Dubai IRQ",
+    "Dubai IRR",
+    "Dubai IRS",
+    "Dubai IRT",
+    "Dubai IRU",
+    "Dubai IRV",
+    "Dubai IRW",
+    "Dubai IRX",
+    "Dubai IRY",
+    "Dubai IRZ",
+    "Dubai ISA",
+    "Dubai ISB",
+    "Dubai ISC",
+    "Dubai ISD",
+    "Dubai ISE",
+    "Dubai ISF",
+    "Dubai ISG",
+    "Dubai ISH",
+    "Dubai ISI",
+    "Dubai ISJ",
+    "Dubai ISK",
+    "Dubai ISL"
   ],
   "pending_n2": [
     {
@@ -61663,6 +61713,41 @@
     "ChIJG9wDDlFrXz4RtgvqM_j4p7c": {
       "name": "Ipro Digital - ROI-Focused Internet Marketing - Dubai - Émirats arabes unis",
       "place_id": "ChIJG9wDDlFrXz4RtgvqM_j4p7c",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJD-FLOVFrXz4RqUHtcniH3Ik": {
+      "name": "Iris Blue - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJD-FLOVFrXz4RqUHtcniH3Ik",
+      "types": "geocode, premise"
+    },
+    "ChIJB8tQkdBpXz4RnHaIjafBkms": {
+      "name": "Iris Bay - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJB8tQkdBpXz4RnHaIjafBkms",
+      "types": "geocode, premise"
+    },
+    "ChIJW3cAEy1dXz4R-6qH0m7tAZg": {
+      "name": "Iron Street Gym | Fitness Center - Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJW3cAEy1dXz4R-6qH0m7tAZg",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJe_veD75pXz4RgOmOiFgPkNE": {
+      "name": "Rove Home Downtown Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJe_veD75pXz4RgOmOiFgPkNE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJP0tHMrptXz4RrTBb1x3k59o": {
+      "name": "iSee by Al Jaber - Circle Mall الجابر للنظارات فرع آي سي - سيركل مول - Dubai - Émirats arabes unis",
+      "place_id": "ChIJP0tHMrptXz4RrTBb1x3k59o",
+      "types": "establishment, health, point_of_interest, store"
+    },
+    "ChIJm6_5bKxsXz4RN4zbOf_CUBQ": {
+      "name": "Iskandar Financial District - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJm6_5bKxsXz4RN4zbOf_CUBQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJU--x0eMVXz4RrFVTgqw-oKg": {
+      "name": "Palm Islands, Dubai, Émirats arabes unis",
+      "place_id": "ChIJU--x0eMVXz4RrFVTgqw-oKg",
       "types": "establishment, point_of_interest"
     }
   }
