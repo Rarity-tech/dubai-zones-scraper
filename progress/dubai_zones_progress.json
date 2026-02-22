@@ -9469,7 +9469,57 @@
     "Dubai TEC",
     "Dubai TED",
     "Dubai TEE",
-    "Dubai TEF"
+    "Dubai TEF",
+    "Dubai TEG",
+    "Dubai TEH",
+    "Dubai TEI",
+    "Dubai TEJ",
+    "Dubai TEK",
+    "Dubai TEL",
+    "Dubai TEM",
+    "Dubai TEN",
+    "Dubai TEO",
+    "Dubai TEP",
+    "Dubai TEQ",
+    "Dubai TER",
+    "Dubai TES",
+    "Dubai TET",
+    "Dubai TEU",
+    "Dubai TEV",
+    "Dubai TEW",
+    "Dubai TEX",
+    "Dubai TEY",
+    "Dubai TEZ",
+    "Dubai TFA",
+    "Dubai TFB",
+    "Dubai TFC",
+    "Dubai TFD",
+    "Dubai TFE",
+    "Dubai TFF",
+    "Dubai TFG",
+    "Dubai TFH",
+    "Dubai TFI",
+    "Dubai TFJ",
+    "Dubai TFK",
+    "Dubai TFL",
+    "Dubai TFM",
+    "Dubai TFN",
+    "Dubai TFO",
+    "Dubai TFP",
+    "Dubai TFQ",
+    "Dubai TFR",
+    "Dubai TFS",
+    "Dubai TFT",
+    "Dubai TFU",
+    "Dubai TFV",
+    "Dubai TFW",
+    "Dubai TFX",
+    "Dubai TFY",
+    "Dubai TFZ",
+    "Dubai TGA",
+    "Dubai TGB",
+    "Dubai TGC",
+    "Dubai TGD"
   ],
   "pending_n2": [
     {
@@ -70604,6 +70654,71 @@
       "name": "Tecom ABC Building - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJY3Ebm3lrXz4RejhNQcZ55rg",
       "types": "geocode, premise"
+    },
+    "ChIJgQZGv9BpXz4R0qSM0vWiUvg": {
+      "name": "The Regal Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgQZGv9BpXz4R0qSM0vWiUvg",
+      "types": "geocode, premise"
+    },
+    "ChIJkYPvTE9DXz4ResZUasLwDKM": {
+      "name": "Tehran Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJkYPvTE9DXz4ResZUasLwDKM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJpQnMjo1cXz4RVyLgl5mx62A": {
+      "name": "Telal Hotel Apartments - Dubai - Émirats arabes unis",
+      "place_id": "ChIJpQnMjo1cXz4RVyLgl5mx62A",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJq6pqvMdtXz4RNirI8fNWpm4": {
+      "name": "Tennis Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJq6pqvMdtXz4RNirI8fNWpm4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJMdDKXKoUXz4R5M-zCHjgRCY": {
+      "name": "TEPfactor Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMdDKXKoUXz4R5M-zCHjgRCY",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJKUg-i4lDXz4RhsmGMYx3k18": {
+      "name": "Terminal 3 Parking Masjid - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJKUg-i4lDXz4RhsmGMYx3k18",
+      "types": "establishment, mosque, place_of_worship, point_of_interest"
+    },
+    "ChIJH9Y2QQ9dXz4RkZKxNLFP9fQ": {
+      "name": "Terminal 1 - Airport Road - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJH9Y2QQ9dXz4RkZKxNLFP9fQ",
+      "types": "geocode, premise"
+    },
+    "ChIJZ_hZrsRtXz4RQedPPCDlKhQ": {
+      "name": "Tommy Fleetwood Academy Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZ_hZrsRtXz4RQedPPCDlKhQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJM9Pc_1BpXz4RqWQy1MNvDtY": {
+      "name": "The First Collection Business Bay - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJM9Pc_1BpXz4RqWQy1MNvDtY",
+      "types": "bar, establishment, food, gym, health, lodging, point_of_interest, restaurant, spa"
+    },
+    "ChIJN4jFmKhDXz4RCId7dP1PacQ": {
+      "name": "THE FOOD DISTRICT LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJN4jFmKhDXz4RCId7dP1PacQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJr1LF9DRDXz4RkToosxa3h2Q": {
+      "name": "The First Groupe - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJr1LF9DRDXz4RkToosxa3h2Q",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJAUGA0ixnXz4RYEfq1U5TN34": {
+      "name": "Fresh Market - Sheikh Mohammed Bin Zayed Road - Dubai - Émirats arabes unis",
+      "place_id": "ChIJAUGA0ixnXz4RYEfq1U5TN34",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJua6SJRdoXz4RX7rx39T5Exs": {
+      "name": "The Factory Production Studio (TFPS) - Dubai - Émirats arabes unis",
+      "place_id": "ChIJua6SJRdoXz4RX7rx39T5Exs",
+      "types": "establishment, point_of_interest"
     }
   }
 }

@@ -6852,6 +6852,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Fresh Market - Sheikh Mohammed Bin Zayed Road - Dubai - Émirats arabes unis",
+    "place_id": "ChIJAUGA0ixnXz4RYEfq1U5TN34",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Gate Avenue at DIFC - Dubai - Émirats arabes unis",
     "place_id": "ChIJG7h-uo9CXz4R1pw6Exa8eY0",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -13284,6 +13290,18 @@
     "zone_type": "area"
   },
   {
+    "name": "TEPfactor Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMdDKXKoUXz4R5M-zCHjgRCY",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "THE FOOD DISTRICT LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJN4jFmKhDXz4RCId7dP1PacQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "THE LUXE RETREAT HOTEL APARTMENT - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJcejEDwBDXz4RzaEQ87GfwEs",
     "types": "establishment, lodging, point_of_interest",
@@ -13464,9 +13482,33 @@
     "zone_type": "area"
   },
   {
+    "name": "Tehran Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJkYPvTE9DXz4ResZUasLwDKM",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Telal Hotel Apartments - Dubai - Émirats arabes unis",
+    "place_id": "ChIJpQnMjo1cXz4RVyLgl5mx62A",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Temple de Shiva, Dubai, Émirats arabes unis",
     "place_id": "ChIJ3TbG2T5DXz4R5ymC5SLhb7Q",
     "types": "establishment, hindu_temple, place_of_worship, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tennis Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJq6pqvMdtXz4RNirI8fNWpm4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Terminal 1 - Airport Road - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJH9Y2QQ9dXz4RkZKxNLFP9fQ",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
@@ -13491,6 +13533,12 @@
     "name": "Terminal 3 Metro Station - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJKa9C0KBdXz4RiCJxBkvFKxs",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Terminal 3 Parking Masjid - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJKUg-i4lDXz4RhsmGMYx3k18",
+    "types": "establishment, mosque, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -13548,8 +13596,26 @@
     "zone_type": "area"
   },
   {
+    "name": "The Factory Production Studio (TFPS) - Dubai - Émirats arabes unis",
+    "place_id": "ChIJua6SJRdoXz4RX7rx39T5Exs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "The First Collection Business Bay - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJM9Pc_1BpXz4RqWQy1MNvDtY",
+    "types": "bar, establishment, food, gym, health, lodging, point_of_interest, restaurant, spa",
+    "zone_type": "area"
+  },
+  {
     "name": "The First Collection Marina, Dubai, a Tribute Portfolio Hotel - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgfwbz1ATXz4RZNLnVz-FaQo",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "The First Groupe - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJr1LF9DRDXz4RkToosxa3h2Q",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
@@ -13620,6 +13686,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Regal Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgQZGv9BpXz4R0qSM0vWiUvg",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "The Retreat Palm Dubai MGallery by Sofitel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJYRkjBcpqXz4RVKnVhBQ7Rso",
     "types": "establishment, lodging, point_of_interest",
@@ -13683,6 +13755,12 @@
     "name": "Timeout Market Entrance - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJOen6YQBpXz4REaQ26UnUvBA",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tommy Fleetwood Academy Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZ_hZrsRtXz4RQedPPCDlKhQ",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
