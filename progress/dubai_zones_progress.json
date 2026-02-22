@@ -11919,7 +11919,57 @@
     "Dubai ZMI",
     "Dubai ZMJ",
     "Dubai ZMK",
-    "Dubai ZML"
+    "Dubai ZML",
+    "Dubai ZMM",
+    "Dubai ZMN",
+    "Dubai ZMO",
+    "Dubai ZMP",
+    "Dubai ZMQ",
+    "Dubai ZMR",
+    "Dubai ZMS",
+    "Dubai ZMT",
+    "Dubai ZMU",
+    "Dubai ZMV",
+    "Dubai ZMW",
+    "Dubai ZMX",
+    "Dubai ZMY",
+    "Dubai ZMZ",
+    "Dubai ZNA",
+    "Dubai ZNB",
+    "Dubai ZNC",
+    "Dubai ZND",
+    "Dubai ZNE",
+    "Dubai ZNF",
+    "Dubai ZNG",
+    "Dubai ZNH",
+    "Dubai ZNI",
+    "Dubai ZNJ",
+    "Dubai ZNK",
+    "Dubai ZNL",
+    "Dubai ZNM",
+    "Dubai ZNN",
+    "Dubai ZNO",
+    "Dubai ZNP",
+    "Dubai ZNQ",
+    "Dubai ZNR",
+    "Dubai ZNS",
+    "Dubai ZNT",
+    "Dubai ZNU",
+    "Dubai ZNV",
+    "Dubai ZNW",
+    "Dubai ZNX",
+    "Dubai ZNY",
+    "Dubai ZNZ",
+    "Dubai ZOA",
+    "Dubai ZOB",
+    "Dubai ZOC",
+    "Dubai ZOD",
+    "Dubai ZOE",
+    "Dubai ZOF",
+    "Dubai ZOG",
+    "Dubai ZOH",
+    "Dubai ZOI",
+    "Dubai ZOJ"
   ],
   "pending_n2": [
     {
@@ -74214,6 +74264,46 @@
       "name": "Zinnia Cluster - Villa 273 - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJMwEmAQB7Xz4RtAz-4bIO48c",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJ9YCBkVMTXz4RfoSq_2HzUW4": {
+      "name": "Zumurud Tower - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ9YCBkVMTXz4RfoSq_2HzUW4",
+      "types": "geocode, premise"
+    },
+    "ChIJ0X_zUcqdXz4Rfg3MWv6D8Zo": {
+      "name": "Endurance city - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0X_zUcqdXz4Rfg3MWv6D8Zo",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJT6ZcAgiP9T4R1YmUvqtYHic": {
+      "name": "DuneBikeDubai | Enduro Dirt Bike Adventure & MX Motocross Motorbike Rental Dubai UAE - Sharjah - Émirats arabes unis",
+      "place_id": "ChIJT6ZcAgiP9T4R1YmUvqtYHic",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJFdCpCJBDXz4RFJmJSk29t2A": {
+      "name": "Endless Beauty Clinic - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJFdCpCJBDXz4RFJmJSk29t2A",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJFb4JgSFrXz4R1HDaQFL1T-w": {
+      "name": "Zodiac Rooftop Lounge - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJFb4JgSFrXz4R1HDaQFL1T-w",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ_bDh1i9oXz4RH-fhAUmbGk8": {
+      "name": "ZOGA - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_bDh1i9oXz4RH-fhAUmbGk8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAxccKzBoXz4RzCKvpGdNwF8": {
+      "name": "Zoga Yoga Cafe - Dubai - Émirats arabes unis",
+      "place_id": "ChIJAxccKzBoXz4RzCKvpGdNwF8",
+      "types": "cafe, establishment, food, gym, health, point_of_interest"
+    },
+    "ChIJqRGBIs9rXz4RRHP9_VX7gcM": {
+      "name": "Zoga Yoga Café - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqRGBIs9rXz4RRHP9_VX7gcM",
+      "types": "cafe, establishment, food, gym, health, point_of_interest, restaurant, store"
     }
   }
 }

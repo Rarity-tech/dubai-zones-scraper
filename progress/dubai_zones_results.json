@@ -6384,6 +6384,12 @@
     "zone_type": "area"
   },
   {
+    "name": "DuneBikeDubai | Enduro Dirt Bike Adventure & MX Motocross Motorbike Rental Dubai UAE - Sharjah - Émirats arabes unis",
+    "place_id": "ChIJT6ZcAgiP9T4R1YmUvqtYHic",
+    "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Dunya Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJyUTtNPJpXz4RhVggnXsLw8A",
     "types": "establishment, point_of_interest",
@@ -6807,6 +6813,18 @@
     "name": "Empower Energy Solutions - Head Office - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJb4SDRNRpXz4RtQ9EP7MSSTg",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Endless Beauty Clinic - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJFdCpCJBDXz4RFJmJSk29t2A",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Endurance city - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ0X_zUcqdXz4Rfg3MWv6D8Zo",
+    "types": "establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -15348,6 +15366,12 @@
     "zone_type": "area"
   },
   {
+    "name": "ZOGA - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_bDh1i9oXz4RH-fhAUmbGk8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "ZOO Digital Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD9dW725vXz4R4JGzt60bokY",
     "types": "establishment, point_of_interest",
@@ -15540,6 +15564,24 @@
     "zone_type": "area"
   },
   {
+    "name": "Zodiac Rooftop Lounge - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJFb4JgSFrXz4R1HDaQFL1T-w",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zoga Yoga Cafe - Dubai - Émirats arabes unis",
+    "place_id": "ChIJAxccKzBoXz4RzCKvpGdNwF8",
+    "types": "cafe, establishment, food, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zoga Yoga Café - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqRGBIs9rXz4RRHP9_VX7gcM",
+    "types": "cafe, establishment, food, gym, health, point_of_interest, restaurant, store",
+    "zone_type": "area"
+  },
+  {
     "name": "Zool Barbershop - Dubai - Émirats arabes unis",
     "place_id": "ChIJWwXGAyxrXz4RujuuiKA7fKc",
     "types": "establishment, hair_care, health, point_of_interest",
@@ -15555,6 +15597,12 @@
     "name": "Zulekha Hospital, Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJe_PwXBRcXz4RBAOjutYa96c",
     "types": "doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zumurud Tower - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ9YCBkVMTXz4RfoSq_2HzUW4",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
