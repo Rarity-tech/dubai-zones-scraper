@@ -13314,6 +13314,12 @@
     "zone_type": "area"
   },
   {
+    "name": "TOPCOM TRUST GENERAL TRADING - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJaelArxVDXz4R6nuYJ5JgH3Y",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "TRYP by Wyndham Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJG_C9dXprXz4RWJQCak2jD_o",
     "types": "establishment, lodging, point_of_interest",
@@ -13446,6 +13452,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Tecom ABC Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJY3Ebm3lrXz4RejhNQcZ55rg",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tecom barsha heights - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOddjad1rXz4RLfjv_oG1Vro",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Temple de Shiva, Dubai, Émirats arabes unis",
     "place_id": "ChIJ3TbG2T5DXz4R5ymC5SLhb7Q",
     "types": "establishment, hindu_temple, place_of_worship, point_of_interest, tourist_attraction",
@@ -13515,6 +13533,12 @@
     "name": "The Central Downtown By Aqua Properties - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJHafKLQBvXz4RZQUzPAWB7Jw",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Desert Safari Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAauOmZhdXz4Rz6NB41RYT1M",
+    "types": "establishment, point_of_interest, travel_agency",
     "zone_type": "area"
   },
   {

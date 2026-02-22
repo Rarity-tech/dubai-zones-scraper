@@ -9419,7 +9419,57 @@
     "Dubai TCE",
     "Dubai TCF",
     "Dubai TCG",
-    "Dubai TCH"
+    "Dubai TCH",
+    "Dubai TCI",
+    "Dubai TCJ",
+    "Dubai TCK",
+    "Dubai TCL",
+    "Dubai TCM",
+    "Dubai TCN",
+    "Dubai TCO",
+    "Dubai TCP",
+    "Dubai TCQ",
+    "Dubai TCR",
+    "Dubai TCS",
+    "Dubai TCT",
+    "Dubai TCU",
+    "Dubai TCV",
+    "Dubai TCW",
+    "Dubai TCX",
+    "Dubai TCY",
+    "Dubai TCZ",
+    "Dubai TDA",
+    "Dubai TDB",
+    "Dubai TDC",
+    "Dubai TDD",
+    "Dubai TDE",
+    "Dubai TDF",
+    "Dubai TDG",
+    "Dubai TDH",
+    "Dubai TDI",
+    "Dubai TDJ",
+    "Dubai TDK",
+    "Dubai TDL",
+    "Dubai TDM",
+    "Dubai TDN",
+    "Dubai TDO",
+    "Dubai TDP",
+    "Dubai TDQ",
+    "Dubai TDR",
+    "Dubai TDS",
+    "Dubai TDT",
+    "Dubai TDU",
+    "Dubai TDV",
+    "Dubai TDW",
+    "Dubai TDX",
+    "Dubai TDY",
+    "Dubai TDZ",
+    "Dubai TEA",
+    "Dubai TEB",
+    "Dubai TEC",
+    "Dubai TED",
+    "Dubai TEE",
+    "Dubai TEF"
   ],
   "pending_n2": [
     {
@@ -70534,6 +70584,26 @@
       "name": "The Central Downtown By Aqua Properties - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJHafKLQBvXz4RZQUzPAWB7Jw",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJaelArxVDXz4R6nuYJ5JgH3Y": {
+      "name": "TOPCOM TRUST GENERAL TRADING - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJaelArxVDXz4R6nuYJ5JgH3Y",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAauOmZhdXz4Rz6NB41RYT1M": {
+      "name": "The Desert Safari Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAauOmZhdXz4Rz6NB41RYT1M",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJOddjad1rXz4RLfjv_oG1Vro": {
+      "name": "Tecom barsha heights - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJOddjad1rXz4RLfjv_oG1Vro",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJY3Ebm3lrXz4RejhNQcZ55rg": {
+      "name": "Tecom ABC Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJY3Ebm3lrXz4RejhNQcZ55rg",
+      "types": "geocode, premise"
     }
   }
 }
