@@ -498,6 +498,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Al Khawaneej 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ27ht38GK9T4R05yQMM4IEW4",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Al Nahda 1, Dubai, Émirats arabes unis",
     "place_id": "ChIJ6W0X2mVcXz4R9MntE5k8ZzA",
     "types": "neighborhood, political",
@@ -1010,6 +1016,12 @@
   {
     "name": "Za'abeel 2, Dubai, Émirats arabes unis",
     "place_id": "ChIJuZdP46BCXz4Ru9bB0it21zw",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Zone industrielle de Ras Al Khor 3, Dubai, Émirats arabes unis",
+    "place_id": "ChIJRcEEYuFmXz4Rov6CHwxW-9E",
     "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -3327,6 +3339,12 @@
     "name": "Burj Khalifa Lake - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJyxBkLypoXz4RpG83gzzCH3Y",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Burj Khalifa Pool Annex - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJvT1wcypoXz4R1Xu34Tuif3g",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -8034,6 +8052,18 @@
     "zone_type": "area"
   },
   {
+    "name": "KHK 24 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDZwRGwBnXz4Rf45631N38oY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "KHK Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIYa37TxnXz4RL02U62VYblo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "KIDEO Clinic, Dubai Hills Estate - Dubai - Émirats arabes unis",
     "place_id": "ChIJ_x5QDHBpXz4RhavSHcW2Nh4",
     "types": "establishment, health, point_of_interest",
@@ -8184,8 +8214,32 @@
     "zone_type": "area"
   },
   {
+    "name": "Khawaneej - Dubai - Émirats arabes unis",
+    "place_id": "ChIJU24J-bdhXz4RfxBUs6A8RBY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Khawaneej 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6fM-ii2L9T4RBuRVXHawmrU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Khor Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJ_QDHKkFDXz4RiE_I1Srd_8E",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Khubay' Muţawwá - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJn3HSIHVyXz4RkCYokXE4YUk",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "KidZania - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJiykKVyhoXz4RPNxlUTJsgyY",
     "types": "establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
@@ -8202,8 +8256,38 @@
     "zone_type": "area"
   },
   {
+    "name": "King's College Hospital London Medical Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJx7CmlxZqXz4R9lVh7H4F3J0",
+    "types": "doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kings' School Al Barsha - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHd26outuXz4RaJhnMpVZi-k",
+    "types": "establishment, point_of_interest, primary_school, school, university",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kirpa Properties - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDbQM93xrXz4RyvK-mU0vnxc",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kite Beach Volleyball Courts - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIx-vbOhrXz4RHZgvmY6hWJg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Kite Beach, Dubai, Émirats arabes unis",
     "place_id": "ChIJu0nLx_9BXz4RC0A74hRtff0",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kite and Surf Beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDfdhywZqXz4Rtq-HD4zbSyA",
     "types": "establishment, natural_feature",
     "zone_type": "area"
   },

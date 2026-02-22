@@ -5819,7 +5819,57 @@
     "Dubai KGS",
     "Dubai KGT",
     "Dubai KGU",
-    "Dubai KGV"
+    "Dubai KGV",
+    "Dubai KGW",
+    "Dubai KGX",
+    "Dubai KGY",
+    "Dubai KGZ",
+    "Dubai KHA",
+    "Dubai KHB",
+    "Dubai KHC",
+    "Dubai KHD",
+    "Dubai KHE",
+    "Dubai KHF",
+    "Dubai KHG",
+    "Dubai KHH",
+    "Dubai KHI",
+    "Dubai KHJ",
+    "Dubai KHK",
+    "Dubai KHL",
+    "Dubai KHM",
+    "Dubai KHN",
+    "Dubai KHO",
+    "Dubai KHP",
+    "Dubai KHQ",
+    "Dubai KHR",
+    "Dubai KHS",
+    "Dubai KHT",
+    "Dubai KHU",
+    "Dubai KHV",
+    "Dubai KHW",
+    "Dubai KHX",
+    "Dubai KHY",
+    "Dubai KHZ",
+    "Dubai KIA",
+    "Dubai KIB",
+    "Dubai KIC",
+    "Dubai KID",
+    "Dubai KIE",
+    "Dubai KIF",
+    "Dubai KIG",
+    "Dubai KIH",
+    "Dubai KII",
+    "Dubai KIJ",
+    "Dubai KIK",
+    "Dubai KIL",
+    "Dubai KIM",
+    "Dubai KIN",
+    "Dubai KIO",
+    "Dubai KIP",
+    "Dubai KIQ",
+    "Dubai KIR",
+    "Dubai KIS",
+    "Dubai KIT"
   ],
   "pending_n2": [
     {
@@ -63418,6 +63468,76 @@
     "ChIJiek8HGprXz4RiWqLaCFy4IE": {
       "name": "KgalleryGallery - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJiek8HGprXz4RiWqLaCFy4IE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJU24J-bdhXz4RfxBUs6A8RBY": {
+      "name": "Khawaneej - Dubai - Émirats arabes unis",
+      "place_id": "ChIJU24J-bdhXz4RfxBUs6A8RBY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ6fM-ii2L9T4RBuRVXHawmrU": {
+      "name": "Khawaneej 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ6fM-ii2L9T4RBuRVXHawmrU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJDZwRGwBnXz4Rf45631N38oY": {
+      "name": "KHK 24 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDZwRGwBnXz4Rf45631N38oY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJIYa37TxnXz4RL02U62VYblo": {
+      "name": "KHK Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIYa37TxnXz4RL02U62VYblo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJRcEEYuFmXz4Rov6CHwxW-9E": {
+      "name": "Zone industrielle de Ras Al Khor 3, Dubai, Émirats arabes unis",
+      "place_id": "ChIJRcEEYuFmXz4Rov6CHwxW-9E",
+      "types": "neighborhood, political"
+    },
+    "ChIJvT1wcypoXz4R1Xu34Tuif3g": {
+      "name": "Burj Khalifa Pool Annex - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJvT1wcypoXz4R1Xu34Tuif3g",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJn3HSIHVyXz4RkCYokXE4YUk": {
+      "name": "Khubay' Muţawwá - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJn3HSIHVyXz4RkCYokXE4YUk",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJ27ht38GK9T4R05yQMM4IEW4": {
+      "name": "Al Khawaneej 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ27ht38GK9T4R05yQMM4IEW4",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJiykKVyhoXz4RPNxlUTJsgyY": {
+      "name": "KidZania - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJiykKVyhoXz4RPNxlUTJsgyY",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJDfdhywZqXz4Rtq-HD4zbSyA": {
+      "name": "Kite and Surf Beach - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDfdhywZqXz4Rtq-HD4zbSyA",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJx7CmlxZqXz4R9lVh7H4F3J0": {
+      "name": "King's College Hospital London Medical Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJx7CmlxZqXz4R9lVh7H4F3J0",
+      "types": "doctor, establishment, health, hospital, point_of_interest"
+    },
+    "ChIJHd26outuXz4RaJhnMpVZi-k": {
+      "name": "Kings' School Al Barsha - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHd26outuXz4RaJhnMpVZi-k",
+      "types": "establishment, point_of_interest, primary_school, school, university"
+    },
+    "ChIJDbQM93xrXz4RyvK-mU0vnxc": {
+      "name": "Kirpa Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDbQM93xrXz4RyvK-mU0vnxc",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJIx-vbOhrXz4RHZgvmY6hWJg": {
+      "name": "Kite Beach Volleyball Courts - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIx-vbOhrXz4RHZgvmY6hWJg",
       "types": "establishment, point_of_interest"
     }
   }
