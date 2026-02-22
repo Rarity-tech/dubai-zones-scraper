@@ -792,6 +792,18 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Jabal Ali Industrial Third, Dubai, Émirats arabes unis",
+    "place_id": "ChIJ4YZ3rYIOXz4Rgdu6N1fWiZI",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Jabal Ali Industrie 2, Dubai, Émirats arabes unis",
+    "place_id": "ChIJR49m3xoNXz4RJzCG2wxLBhE",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Jabal Ali Industrie Première, Dubai, Émirats arabes unis",
     "place_id": "ChIJUcJg_KUSXz4RyS0nBEAuM8s",
     "types": "neighborhood, political",
@@ -800,6 +812,12 @@
   {
     "name": "Jabal Ali Second, Dubai, Émirats arabes unis",
     "place_id": "ChIJqSJTSRITXz4ROVePzRb-YDc",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Jabal Ali Troisième, Dubai, Émirats arabes unis",
+    "place_id": "ChIJ8-AWCaoTXz4RRP0X-I1IkBg",
     "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -7032,6 +7050,12 @@
     "zone_type": "area"
   },
   {
+    "name": "IZA One - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBywsr2hDXz4Rqwe3zF7TDK0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Ibn Battuta Abu Dhabi Bus Stop E101 - Dubai - Émirats arabes unis",
     "place_id": "ChIJj8ZEESMTXz4RU44PvklzS2A",
     "types": "establishment, point_of_interest",
@@ -7296,6 +7320,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Isometric Zoom Engineering Consultancy - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-SyHbHplXz4R9PijqAsnaoM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Ista vacation homes rental LLC - Dubai - Émirats arabes unis",
     "place_id": "ChIJzVkyDgBDXz4RxeySTb0vUKc",
     "types": "establishment, lodging, point_of_interest",
@@ -7353,6 +7383,18 @@
     "name": "Ivory Grand Hotel Apartments Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJd81Z5L5rXz4RRqa4NVvs-ro",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Izzzi Life Mint - Serviced Apartments - 3rd Street - Dubai - Émirats arabes unis",
+    "place_id": "ChIJh2vx2extXz4RkKzJHqLza0M",
+    "types": "establishment, lodging, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "JACQUEMUS, Dubai Mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIyaLfM9DXz4ReW-G48uunHU",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7455,6 +7497,24 @@
     "name": "JW Marriott Marquis Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ4UiYidlpXz4RrHQmF23CVDg",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jacob's Garden Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbWc6AetDXz4Ro8WiU6QwO1I",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jade Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJX0uB7WdkXz4RL7SVhDnTCi8",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jadeel 3 at Madinat Jumeirah Living - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ8TlE2uFrXz4RusXrz-wiyng",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

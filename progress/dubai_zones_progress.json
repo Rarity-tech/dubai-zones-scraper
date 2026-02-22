@@ -4919,7 +4919,57 @@
     "Dubai IYC",
     "Dubai IYD",
     "Dubai IYE",
-    "Dubai IYF"
+    "Dubai IYF",
+    "Dubai IYG",
+    "Dubai IYH",
+    "Dubai IYI",
+    "Dubai IYJ",
+    "Dubai IYK",
+    "Dubai IYL",
+    "Dubai IYM",
+    "Dubai IYN",
+    "Dubai IYO",
+    "Dubai IYP",
+    "Dubai IYQ",
+    "Dubai IYR",
+    "Dubai IYS",
+    "Dubai IYT",
+    "Dubai IYU",
+    "Dubai IYV",
+    "Dubai IYW",
+    "Dubai IYX",
+    "Dubai IYY",
+    "Dubai IYZ",
+    "Dubai IZA",
+    "Dubai IZB",
+    "Dubai IZC",
+    "Dubai IZD",
+    "Dubai IZE",
+    "Dubai IZF",
+    "Dubai IZG",
+    "Dubai IZH",
+    "Dubai IZI",
+    "Dubai IZJ",
+    "Dubai IZK",
+    "Dubai IZL",
+    "Dubai IZM",
+    "Dubai IZN",
+    "Dubai IZO",
+    "Dubai IZP",
+    "Dubai IZQ",
+    "Dubai IZR",
+    "Dubai IZS",
+    "Dubai IZT",
+    "Dubai IZU",
+    "Dubai IZV",
+    "Dubai IZW",
+    "Dubai IZX",
+    "Dubai IZY",
+    "Dubai IZZ",
+    "Dubai JAA",
+    "Dubai JAB",
+    "Dubai JAC",
+    "Dubai JAD"
   ],
   "pending_n2": [
     {
@@ -62003,6 +62053,56 @@
     "ChIJa2Cp51prXz4RmZKxmKc3bsk": {
       "name": "23 Marina Tower - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJa2Cp51prXz4RmZKxmKc3bsk",
+      "types": "geocode, premise"
+    },
+    "ChIJBywsr2hDXz4Rqwe3zF7TDK0": {
+      "name": "IZA One - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBywsr2hDXz4Rqwe3zF7TDK0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ-SyHbHplXz4R9PijqAsnaoM": {
+      "name": "Isometric Zoom Engineering Consultancy - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ-SyHbHplXz4R9PijqAsnaoM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJh2vx2extXz4RkKzJHqLza0M": {
+      "name": "Izzzi Life Mint - Serviced Apartments - 3rd Street - Dubai - Émirats arabes unis",
+      "place_id": "ChIJh2vx2extXz4RkKzJHqLza0M",
+      "types": "establishment, lodging, point_of_interest, real_estate_agency"
+    },
+    "ChIJR49m3xoNXz4RJzCG2wxLBhE": {
+      "name": "Jabal Ali Industrie 2, Dubai, Émirats arabes unis",
+      "place_id": "ChIJR49m3xoNXz4RJzCG2wxLBhE",
+      "types": "neighborhood, political"
+    },
+    "ChIJ8-AWCaoTXz4RRP0X-I1IkBg": {
+      "name": "Jabal Ali Troisième, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ8-AWCaoTXz4RRP0X-I1IkBg",
+      "types": "neighborhood, political"
+    },
+    "ChIJ4YZ3rYIOXz4Rgdu6N1fWiZI": {
+      "name": "Jabal Ali Industrial Third, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ4YZ3rYIOXz4Rgdu6N1fWiZI",
+      "types": "neighborhood, political"
+    },
+    "ChIJIyaLfM9DXz4ReW-G48uunHU": {
+      "name": "JACQUEMUS, Dubai Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIyaLfM9DXz4ReW-G48uunHU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJbWc6AetDXz4Ro8WiU6QwO1I": {
+      "name": "Jacob's Garden Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbWc6AetDXz4Ro8WiU6QwO1I",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ8TlE2uFrXz4RusXrz-wiyng": {
+      "name": "Jadeel 3 at Madinat Jumeirah Living - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ8TlE2uFrXz4RusXrz-wiyng",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJX0uB7WdkXz4RL7SVhDnTCi8": {
+      "name": "Jade Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJX0uB7WdkXz4RL7SVhDnTCi8",
       "types": "geocode, premise"
     }
   }
