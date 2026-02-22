@@ -8154,6 +8154,12 @@
     "zone_type": "area"
   },
   {
+    "name": "King's College Hospital London - Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1XhuJe5pXz4RGo-ENO0K6Cs",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Kite Beach, Dubai, Émirats arabes unis",
     "place_id": "ChIJu0nLx_9BXz4RC0A74hRtff0",
     "types": "establishment, natural_feature",
@@ -10275,6 +10281,12 @@
     "name": "Đảo Bluewaters - Dubai - Émirats arabes unis",
     "place_id": "ChIJJxxraaQUXz4RXzeOUorJDy8",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "𝐀𝐞𝐬𝐭𝐡𝐞𝐭𝐢𝐜𝐬 𝐛𝐲 𝐊𝐢𝐧𝐠'𝐬 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐇𝐨𝐬𝐩𝐢𝐭𝐚𝐥 𝐋𝐨𝐧𝐝𝐨𝐧 𝐃𝐮𝐛𝐚𝐢 | 𝐁𝐫𝐞𝐚𝐬𝐭 𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐃𝐮𝐛𝐚𝐢 | 𝐋𝐢𝐩𝐨𝐬𝐮𝐜𝐭𝐢𝐨𝐧 𝐃𝐮𝐛𝐚𝐢 | 𝐁𝐮𝐭𝐭 𝐅𝐢𝐥𝐥𝐞𝐫𝐬 𝐃𝐮𝐛𝐚𝐢 - Marina Promenade - next to Spinneys Car Park 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJC2e4fJ1rXz4RSfVUpTxAAR4",
+    "types": "doctor, establishment, health, hospital, point_of_interest",
     "zone_type": "area"
   }
 ]
