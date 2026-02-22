@@ -6252,6 +6252,18 @@
     "zone_type": "area"
   },
   {
+    "name": "HMH Shipping LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJXzwXN08NXz4RbICNZCvSnuU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "HMJ EQUITY HOLIDAY HOMES - Dubai - Émirats arabes unis",
+    "place_id": "ChIJXT59ZmCNEyAR8P4Nv4gGntQ",
+    "types": "establishment, point_of_interest, real_estate_agency, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "HMS Mirdif Hospital - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJazUjZVxhXz4R-4MPg1ycgps",
     "types": "establishment, health, hospital, point_of_interest",
@@ -6506,6 +6518,18 @@
   {
     "name": "Holiday Inn & Suites Dubai Science Park by IHG - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJuXtG1epvXz4RzGMs6BrO-Kg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Home Care center for domestic workers services L.L.C - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ05NcvMpDXz4RJ10Vcnz-J_U",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Home To Home - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJmYpQ33ZrXz4RWL8PTHhVh50",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },

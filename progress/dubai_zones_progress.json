@@ -3919,7 +3919,57 @@
     "Dubai HKQ",
     "Dubai HKR",
     "Dubai HKS",
-    "Dubai HKT"
+    "Dubai HKT",
+    "Dubai HKU",
+    "Dubai HKV",
+    "Dubai HKW",
+    "Dubai HKX",
+    "Dubai HKY",
+    "Dubai HKZ",
+    "Dubai HLA",
+    "Dubai HLB",
+    "Dubai HLC",
+    "Dubai HLD",
+    "Dubai HLE",
+    "Dubai HLF",
+    "Dubai HLG",
+    "Dubai HLH",
+    "Dubai HLI",
+    "Dubai HLJ",
+    "Dubai HLK",
+    "Dubai HLL",
+    "Dubai HLM",
+    "Dubai HLN",
+    "Dubai HLO",
+    "Dubai HLP",
+    "Dubai HLQ",
+    "Dubai HLR",
+    "Dubai HLS",
+    "Dubai HLT",
+    "Dubai HLU",
+    "Dubai HLV",
+    "Dubai HLW",
+    "Dubai HLX",
+    "Dubai HLY",
+    "Dubai HLZ",
+    "Dubai HMA",
+    "Dubai HMB",
+    "Dubai HMC",
+    "Dubai HMD",
+    "Dubai HME",
+    "Dubai HMF",
+    "Dubai HMG",
+    "Dubai HMH",
+    "Dubai HMI",
+    "Dubai HMJ",
+    "Dubai HMK",
+    "Dubai HML",
+    "Dubai HMM",
+    "Dubai HMN",
+    "Dubai HMO",
+    "Dubai HMP",
+    "Dubai HMQ",
+    "Dubai HMR"
   ],
   "pending_n2": [
     {
@@ -60324,6 +60374,26 @@
       "name": "Jordanian Social Club النادي الاردني الاجتماعي - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJT7XBby1dXz4RHp9INKfpXQw",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJmYpQ33ZrXz4RWL8PTHhVh50": {
+      "name": "Home To Home - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJmYpQ33ZrXz4RWL8PTHhVh50",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ05NcvMpDXz4RJ10Vcnz-J_U": {
+      "name": "Home Care center for domestic workers services L.L.C - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ05NcvMpDXz4RJ10Vcnz-J_U",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJXzwXN08NXz4RbICNZCvSnuU": {
+      "name": "HMH Shipping LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJXzwXN08NXz4RbICNZCvSnuU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJXT59ZmCNEyAR8P4Nv4gGntQ": {
+      "name": "HMJ EQUITY HOLIDAY HOMES - Dubai - Émirats arabes unis",
+      "place_id": "ChIJXT59ZmCNEyAR8P4Nv4gGntQ",
+      "types": "establishment, point_of_interest, real_estate_agency, travel_agency"
     }
   }
 }
