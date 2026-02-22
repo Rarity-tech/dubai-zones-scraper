@@ -8172,6 +8172,12 @@
     "zone_type": "area"
   },
   {
+    "name": "KgalleryGallery - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJiek8HGprXz4RiWqLaCFy4IE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Khalidia Palace Hotel Dubai by Mourouj Gloria - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJt8TR8j5dXz4RqFWcMl24H08",
     "types": "establishment, lodging, point_of_interest",
