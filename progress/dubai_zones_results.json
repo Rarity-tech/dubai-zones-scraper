@@ -984,6 +984,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Morocco Cluster - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJA-OrWlthXz4RWbQ8cs4a4k0",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Muhaisnah 4 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJcxlRHIReXz4RvetHmQeMCaM",
     "types": "geocode, neighborhood, political",
@@ -9420,6 +9426,30 @@
     "zone_type": "area"
   },
   {
+    "name": "MOCCAE - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJd7W_5Y5kXz4RAMhNAT8u_Jk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MODON - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJh18XawBxXz4R7RElDCKYwP8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MOE Metro Station - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJkyxuEgBrXz4R6egXqeujcz4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MOUNT SINA HOTEL - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJjQZj4kVDXz4RuvLz77RDC-Y",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "MRA Grand Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJzSFgUMhDXz4RqdFj4EnRCIE",
     "types": "establishment, lodging, point_of_interest",
@@ -9780,6 +9810,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Meridian PF General Trading LLC -MPF TRADERS’s - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ38nez_9hXz4RnTmPftA3n4A",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Mesk 1 - Midtown By Deyaar - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJpwoMaQRtXz4RIAHYoM4BD_U",
     "types": "establishment, point_of_interest",
@@ -9834,6 +9870,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Millennium Place Barsha Heights Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJPSXgFZxrXz4RkcK8pdapZcU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Millennium Plaza Downtown Hotel, Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJE8t3APhDXz4RcS7Q_2YVIvw",
     "types": "establishment, lodging, point_of_interest",
@@ -9870,9 +9912,27 @@
     "zone_type": "area"
   },
   {
+    "name": "Mobile phone market - Dubai - Émirats arabes unis",
+    "place_id": "ChIJaSgzfABDXz4Rw5cALzvB1rE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Modern Vet JVC - Dubai - Émirats arabes unis",
     "place_id": "ChIJN87zhQltXz4RA_d31Mgnjj4",
     "types": "establishment, health, point_of_interest, veterinary_care",
+    "zone_type": "area"
+  },
+  {
+    "name": "Moe Parking - Dubai - Émirats arabes unis",
+    "place_id": "ChIJRWr5SABrXz4RPsal-9chSxo",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Moe's Barbershop - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJM2gwg5prXz4RTvuSplmJC8A",
+    "types": "beauty_salon, establishment, hair_care, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -9882,9 +9942,117 @@
     "zone_type": "area"
   },
   {
+    "name": "Mohammed bin Rashid Library - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJEScpbmRdXz4RxPoH33nklIc",
+    "types": "establishment, library, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mongolia - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJo8RtYdlAXz4R3djRx7QNSKA",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Monorail - Dubai - Émirats arabes unis",
+    "place_id": "ChIJnST0V9YVXz4RbBzHFmmk4uI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Montgomerie Golf Club Dubai, Emirates Hills - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsTbbzpVsXz4RV5iQkOQeDuQ",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Montreal Barsha Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAQAAAAxsXz4RPsQrZiBy1Ts",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Montreal Naif Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDQFIrUhDXz4RLT3j2JCcl-Q",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mood Living 22 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMen_EltDXz4Rlz7OFJ7LiQI",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Moon Valley Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJKQxaBjBDXz4RXpgofebhZG8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Moorfields Eye Hospital - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJB1zPCTRdXz4R4zaUA3nWDPY",
+    "types": "doctor, establishment, health, hospital, physiotherapist, point_of_interest, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "Morocco - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJCWVtfvFAXz4Rjv_KDopNVP8",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Moscow Hotel - Dubai - Émirats arabes unis",
+    "place_id": "ChIJF2l3TtBcXz4RHXl3fe_UuSw",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mosela - The Views - Emaar - Dubai - Émirats arabes unis",
+    "place_id": "ChIJKXgHTXtrXz4RZlrWcdv_wzY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mosque Prayer - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2XvaflxtXz4RR-w-qtSU0w8",
+    "types": "establishment, mosque, place_of_worship, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Mosquée de Jumeirah, Dubai, Émirats arabes unis",
     "place_id": "ChIJ0X70llRCXz4RWhItaFTtgNg",
     "types": "establishment, mosque, place_of_worship, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Motiongate Dubai, Dubai, Émirats arabes unis",
+    "place_id": "ChIJHclFLqIPXz4RZfyOyiO4jOY",
+    "types": "amusement_park, establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mount Royal Hotel - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ-x1c4khDXz4R7nGmPVwI1zE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mountain Extreme - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJO1mXsjVoXz4RppyhdOAamIo",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Movenpick Al Mamzar - Dubai - Émirats arabes unis",
+    "place_id": "ChIJd-pPoohcXz4RN8nkxvaXjYk",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mozambique - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRwIACAJBXz4RMlGQfkN5GE4",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
@@ -9927,6 +10095,30 @@
     "name": "My City Centre Al Barsha - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJY6S2DYxuXz4Rx-ospN2si_0",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mövenpick Grand Al Bustan Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJH6dv-hpdXz4RSfnX0nLzLig",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mövenpick Hotel Apartments Downtown Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJv_9keSZoXz4RvYXBNGpa3VU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mövenpick Hotel Jumeirah Beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJV615SqsUXz4R8iPGhNPndyE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mövenpick Hotel Jumeirah Village Triangle - Dubai - Émirats arabes unis",
+    "place_id": "ChIJM36Tl9NtXz4ROZsPpuRXu1E",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
