@@ -11519,7 +11519,57 @@
     "Dubai WRY",
     "Dubai WRZ",
     "Dubai WSA",
-    "Dubai WSB"
+    "Dubai WSB",
+    "Dubai WSC",
+    "Dubai WSD",
+    "Dubai WSE",
+    "Dubai WSF",
+    "Dubai WSG",
+    "Dubai WSH",
+    "Dubai WSI",
+    "Dubai WSJ",
+    "Dubai WSK",
+    "Dubai WSL",
+    "Dubai WSM",
+    "Dubai WSN",
+    "Dubai WSO",
+    "Dubai WSP",
+    "Dubai WSQ",
+    "Dubai WSR",
+    "Dubai WSS",
+    "Dubai WST",
+    "Dubai WSU",
+    "Dubai WSV",
+    "Dubai WSW",
+    "Dubai WSX",
+    "Dubai WSY",
+    "Dubai WSZ",
+    "Dubai WTA",
+    "Dubai WTB",
+    "Dubai WTC",
+    "Dubai WTD",
+    "Dubai WTE",
+    "Dubai WTF",
+    "Dubai WTG",
+    "Dubai WTH",
+    "Dubai WTI",
+    "Dubai WTJ",
+    "Dubai WTK",
+    "Dubai WTL",
+    "Dubai WTM",
+    "Dubai WTN",
+    "Dubai WTO",
+    "Dubai WTP",
+    "Dubai WTQ",
+    "Dubai WTR",
+    "Dubai WTS",
+    "Dubai WTT",
+    "Dubai WTU",
+    "Dubai WTV",
+    "Dubai WTW",
+    "Dubai WTX",
+    "Dubai WTY",
+    "Dubai WTZ"
   ],
   "pending_n2": [
     {
@@ -73624,6 +73674,21 @@
       "name": "RB - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJpS4LsdVpXz4RKhs8MLZFYV4",
       "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJR1OvsrJDXz4R_MkIzEbG5wU": {
+      "name": "Escape Hunt Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJR1OvsrJDXz4R_MkIzEbG5wU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJjUcaWNlpXz4Rh2x978q6hOQ": {
+      "name": "Dubai Waterfall - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJjUcaWNlpXz4Rh2x978q6hOQ",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJxZJBUlhbXz4Rjjx_NKAl8h0": {
+      "name": "Waterfront Market - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJxZJBUlhbXz4Rjjx_NKAl8h0",
+      "types": "establishment, point_of_interest, tourist_attraction"
     }
   }
 }
