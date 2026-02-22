@@ -1098,6 +1098,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Spain Cluster - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJYYbo7rRmXz4RLyzk1SMu6mE",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Springs 2 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJq268w-5sXz4RMVuOG-RW1WI",
     "types": "geocode, neighborhood, political",
@@ -11124,6 +11130,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Spain - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8Wu3gu5AXz4R12lGXIVC6ts",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sparkle Medical Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDekL51ZDXz4RfIlL8kz1zMA",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Sport City - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ4-Enn8xcXz4RdIyjSAES6fM",
     "types": "establishment, point_of_interest",
@@ -12303,6 +12321,12 @@
     "name": "𝐀𝐞𝐬𝐭𝐡𝐞𝐭𝐢𝐜𝐬 𝐛𝐲 𝐊𝐢𝐧𝐠'𝐬 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐇𝐨𝐬𝐩𝐢𝐭𝐚𝐥 𝐋𝐨𝐧𝐝𝐨𝐧 𝐃𝐮𝐛𝐚𝐢 | 𝐁𝐫𝐞𝐚𝐬𝐭 𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐃𝐮𝐛𝐚𝐢 | 𝐋𝐢𝐩𝐨𝐬𝐮𝐜𝐭𝐢𝐨𝐧 𝐃𝐮𝐛𝐚𝐢 | 𝐁𝐮𝐭𝐭 𝐅𝐢𝐥𝐥𝐞𝐫𝐬 𝐃𝐮𝐛𝐚𝐢 - Marina Promenade - next to Spinneys Car Park 1 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJC2e4fJ1rXz4RSfVUpTxAAR4",
     "types": "doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "𝗠𝗮𝘇𝗮𝘆𝗮 𝟳 | 𝗟𝗜𝗪𝗔𝗡 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJB8qK0UtkXz4RMWDKeYlqM28",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   }
 ]

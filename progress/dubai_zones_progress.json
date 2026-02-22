@@ -7769,7 +7769,57 @@
     "Dubai QOS",
     "Dubai QOT",
     "Dubai QOU",
-    "Dubai QOV"
+    "Dubai QOV",
+    "Dubai QOW",
+    "Dubai QOX",
+    "Dubai QOY",
+    "Dubai QOZ",
+    "Dubai QPA",
+    "Dubai QPB",
+    "Dubai QPC",
+    "Dubai QPD",
+    "Dubai QPE",
+    "Dubai QPF",
+    "Dubai QPG",
+    "Dubai QPH",
+    "Dubai QPI",
+    "Dubai QPJ",
+    "Dubai QPK",
+    "Dubai QPL",
+    "Dubai QPM",
+    "Dubai QPN",
+    "Dubai QPO",
+    "Dubai QPP",
+    "Dubai QPQ",
+    "Dubai QPR",
+    "Dubai QPS",
+    "Dubai QPT",
+    "Dubai QPU",
+    "Dubai QPV",
+    "Dubai QPW",
+    "Dubai QPX",
+    "Dubai QPY",
+    "Dubai QPZ",
+    "Dubai QQA",
+    "Dubai QQB",
+    "Dubai QQC",
+    "Dubai QQD",
+    "Dubai QQE",
+    "Dubai QQF",
+    "Dubai QQG",
+    "Dubai QQH",
+    "Dubai QQI",
+    "Dubai QQJ",
+    "Dubai QQK",
+    "Dubai QQL",
+    "Dubai QQM",
+    "Dubai QQN",
+    "Dubai QQO",
+    "Dubai QQP",
+    "Dubai QQQ",
+    "Dubai QQR",
+    "Dubai QQS",
+    "Dubai QQT"
   ],
   "pending_n2": [
     {
@@ -67013,6 +67063,26 @@
     "ChIJm2hVlUReXz4RauROX4xevLs": {
       "name": "Sonapur Camp 6 - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJm2hVlUReXz4RauROX4xevLs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJYYbo7rRmXz4RLyzk1SMu6mE": {
+      "name": "Spain Cluster - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJYYbo7rRmXz4RLyzk1SMu6mE",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJDekL51ZDXz4RfIlL8kz1zMA": {
+      "name": "Sparkle Medical Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDekL51ZDXz4RfIlL8kz1zMA",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJ8Wu3gu5AXz4R12lGXIVC6ts": {
+      "name": "Spain - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8Wu3gu5AXz4R12lGXIVC6ts",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJB8qK0UtkXz4RMWDKeYlqM28": {
+      "name": "𝗠𝗮𝘇𝗮𝘆𝗮 𝟳 | 𝗟𝗜𝗪𝗔𝗡 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJB8qK0UtkXz4RMWDKeYlqM28",
       "types": "establishment, point_of_interest"
     }
   }
