@@ -12342,6 +12342,12 @@
     "zone_type": "area"
   },
   {
+    "name": "STATION VENDING MACHINES LLC - Dubai - Émirats arabes unis",
+    "place_id": "ChIJWenuorJnXz4R4C2cX6b4ojY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "STD Test Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJTSNAEbdrXz4RGy4beuNuIug",
     "types": "establishment, health, point_of_interest",
