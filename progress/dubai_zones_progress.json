@@ -3719,7 +3719,57 @@
     "Dubai HCY",
     "Dubai HCZ",
     "Dubai HDA",
-    "Dubai HDB"
+    "Dubai HDB",
+    "Dubai HDC",
+    "Dubai HDD",
+    "Dubai HDE",
+    "Dubai HDF",
+    "Dubai HDG",
+    "Dubai HDH",
+    "Dubai HDI",
+    "Dubai HDJ",
+    "Dubai HDK",
+    "Dubai HDL",
+    "Dubai HDM",
+    "Dubai HDN",
+    "Dubai HDO",
+    "Dubai HDP",
+    "Dubai HDQ",
+    "Dubai HDR",
+    "Dubai HDS",
+    "Dubai HDT",
+    "Dubai HDU",
+    "Dubai HDV",
+    "Dubai HDW",
+    "Dubai HDX",
+    "Dubai HDY",
+    "Dubai HDZ",
+    "Dubai HEA",
+    "Dubai HEB",
+    "Dubai HEC",
+    "Dubai HED",
+    "Dubai HEE",
+    "Dubai HEF",
+    "Dubai HEG",
+    "Dubai HEH",
+    "Dubai HEI",
+    "Dubai HEJ",
+    "Dubai HEK",
+    "Dubai HEL",
+    "Dubai HEM",
+    "Dubai HEN",
+    "Dubai HEO",
+    "Dubai HEP",
+    "Dubai HEQ",
+    "Dubai HER",
+    "Dubai HES",
+    "Dubai HET",
+    "Dubai HEU",
+    "Dubai HEV",
+    "Dubai HEW",
+    "Dubai HEX",
+    "Dubai HEY",
+    "Dubai HEZ"
   ],
   "pending_n2": [
     {
@@ -59879,6 +59929,81 @@
       "name": "High Cube Cargo Containers Trading L.L.C - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJxbBAkNlnXz4R5wicn_tfntg",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJeTVIc39rXz4RSabM955OgDE": {
+      "name": "HDR delivery whatever - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJeTVIc39rXz4RSabM955OgDE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ85ciFkphXz4RarlRY6dIxvI": {
+      "name": "HDS Sunstar 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ85ciFkphXz4RarlRY6dIxvI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJtYS4EgxdXz4RTXMssU8FpsI": {
+      "name": "Dubai Health | دبي الصحية - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJtYS4EgxdXz4RTXMssU8FpsI",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJ__-_dTRdXz4Runxyg1YOV4s": {
+      "name": "Healthcare City Block A,B,C - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ__-_dTRdXz4Runxyg1YOV4s",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJ9RQqnvxtXz4RUIraVpPxz8k": {
+      "name": "Al Hebiah Fourth, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ9RQqnvxtXz4RUIraVpPxz8k",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJoZ72JhduXz4RjsGzrSu90VM": {
+      "name": "Al Hebiah Deuxième, Dubai, Émirats arabes unis",
+      "place_id": "ChIJoZ72JhduXz4RjsGzrSu90VM",
+      "types": "neighborhood, political"
+    },
+    "ChIJbYz4fetxXz4RS7pijAieHaM": {
+      "name": "Al Hebiah Fifth, Dubai, Émirats arabes unis",
+      "place_id": "ChIJbYz4fetxXz4RS7pijAieHaM",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJLUAoET1YXz4RfAQHyustBY8": {
+      "name": "Hefair, Dubai, Émirats arabes unis",
+      "place_id": "ChIJLUAoET1YXz4RfAQHyustBY8",
+      "types": "neighborhood, political"
+    },
+    "ChIJgZXb5vdtXz4RG7Zcl_4Jo4M": {
+      "name": "Heilbronn Villas - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgZXb5vdtXz4RG7Zcl_4Jo4M",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJIQW7z5FtXz4RjBz7myJvdE8": {
+      "name": "Apex Swimming Club – Dubai Heights Academy, Al Barsha South – Dubai, UAE - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIQW7z5FtXz4RjBz7myJvdE8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJwXJgUwBtXz4Rxx_X-glo-s8": {
+      "name": "Herad Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJwXJgUwBtXz4Rxx_X-glo-s8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ0_LEeo5jXz4RCz1Q_0KYkew": {
+      "name": "Heriot-Watt University Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0_LEeo5jXz4RCz1Q_0KYkew",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJ-YclOqddXz4R_VcdLXnja1w": {
+      "name": "Hertz - Dubai Airport Terminal 3 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ-YclOqddXz4R_VcdLXnja1w",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJg9MBAOARXz4RLwth-CVRx4A": {
+      "name": "Hessyan First - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJg9MBAOARXz4RLwth-CVRx4A",
+      "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJ1bUfJa1cXz4RLkgUTfw1D7g": {
+      "name": "Hues Boutique Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1bUfJa1cXz4RLkgUTfw1D7g",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }
