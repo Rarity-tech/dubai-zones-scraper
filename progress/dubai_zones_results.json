@@ -426,6 +426,18 @@
     "zone_type": "city"
   },
   {
+    "name": "Saih Shuaib 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJi5BnHQYPXz4RgJq7Vd9R2tw",
+    "types": "geocode, political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
+    "name": "Saih Shuaib 2, Dubai, Émirats arabes unis",
+    "place_id": "ChIJXVXx9-cLXz4R2iOp9qmSZpU",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "The Palm Jebel Ali, Dubai, Émirats arabes unis",
     "place_id": "ChIJC4FZEfQQXz4RIoKQWPML4_8",
     "types": "political, sublocality, sublocality_level_1",
@@ -632,6 +644,18 @@
   {
     "name": "Al Rigga, Dubai, Émirats arabes unis",
     "place_id": "ChIJ9wUnw8xcXz4RmOMJPxUb2Qs",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al Sabkha, Dubai, Émirats arabes unis",
+    "place_id": "ChIJOyXWK0RDXz4RXZGmwSrPEhk",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al Safa 1, Dubai, Émirats arabes unis",
+    "place_id": "ChIJaTeD8O9pXz4RFCQeZymP1EY",
     "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -1134,6 +1158,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Saheel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2ciWuUhuXz4Rn-tTjYg5Y4k",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Seasons Community - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJbVWsiUlsXz4R0Ikyv8LWISE",
     "types": "geocode, neighborhood, political",
@@ -1196,6 +1226,12 @@
   {
     "name": "Ville sportive de Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJbzp2Od1tXz4RTEvxuGfM4Fc",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Wadi Al Safa 5, Dubai, Émirats arabes unis",
+    "place_id": "ChIJdYA-5YxkXz4RmEDYcNGR7wQ",
     "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -1893,6 +1929,12 @@
     "name": "Al Raffa Police Station - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ26DcLRVDXz4RkLlptWUsPhg",
     "types": "establishment, local_government_office, point_of_interest, police",
+    "zone_type": "area"
+  },
+  {
+    "name": "Al Saqr Business Tower - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJwdkgS4xCXz4RA-497s-TKto",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -8364,6 +8406,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Jumeirah Beach Residences - Sadaf 6 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzcYXslRrXz4RS8GzBGgn024",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Jumeirah Burj Al Arab - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJLc8UZFdqXz4ROODwebhx2rM",
     "types": "establishment, lodging, point_of_interest",
@@ -11718,6 +11766,36 @@
     "zone_type": "area"
   },
   {
+    "name": "SAAS Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJc5b0tYFpXz4RAWuHpfh-TBY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "SAE University College Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3_84aWtrXz4RcOXXJaCoxWk",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
+    "name": "SAS 1, Warsan Four , International City Phase 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMyv3f89nXz4RLnEM66HPyCc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "SAWAN RESIDENCE by Satguru Holdings Ltd - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJj4cOHRxtXz4RncvuYBmXTR4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "SB Holiday Homes - Dubai - Émirats arabes unis",
+    "place_id": "ChIJtRmbjl9rXz4RI6y4qjii-Oo",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "SBK Real Estate - Dubai - Émirats arabes unis",
     "place_id": "ChIJ64GFx4xcXz4RbbZijrsvMio",
     "types": "establishment, point_of_interest",
@@ -11748,9 +11826,51 @@
     "zone_type": "area"
   },
   {
+    "name": "Saabrin Building - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ23JB5xNDXz4R2gXjK3FOkEE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Saba 3 Tower - Dubai - Émirats arabes unis",
+    "place_id": "ChIJWTBjl5ZtXz4RzIymYt5Q_3w",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Saba Tower 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJUVGXQKxsXz4RNqJCzPPK_k4",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sadaf 1 - King Salman Bin Abdulaziz Al Saud Street - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJj5ze01RrXz4RcQvHGrrPM2c",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sadaf 8 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJz7QE6FRrXz4RVGWQlgDHmTw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Saeed Tower 1 - Sheikh Zayed Road - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOzeu8u1CXz4RGUWvS4G_ONo",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Safa Park, Dubai, Émirats arabes unis",
     "place_id": "ChIJGcet1glCXz4ROgtn7P3C2K8",
     "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Saffron Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJvcpgqNpcXz4RvYC070I6OHI",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -11760,9 +11880,87 @@
     "zone_type": "area"
   },
   {
+    "name": "Sahara Tower - Dubai - Émirats arabes unis",
+    "place_id": "ChIJhVb7C2JDXz4RnaT5irkNn-I",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Saheel | Arabian Ranches - Dubai - Émirats arabes unis",
+    "place_id": "ChIJNZ1bG0duXz4RQmXVCO7HnNk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Salah Al Din Medical Examination Center for Residency - مركز صلاح الدين للفحص الطبي للإقامة - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJV37lcOldXz4Rk3Pz1q-h2zw",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Salah Al Din Metro Bus Stop 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_SZ5LABdXz4RhVR2eRACxXs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Salem Muhaisnah Medical Fitness Centre - Salem - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJiTLsd8FfXz4RiYwX7GF5zaw",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sama Tower - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJnd12DO9CXz4RDlAbGVxRo6E",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Samaya Hotel Deira - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ4dcK9M1cXz4Re-4aV9E2WKc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Samaya KQ Massage Spa - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgfGWRGZlXz4RCdTS7ITLvrE",
     "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "San Marino Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAzk-behdXz4RhJAz9opQcag",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sanibel Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJyVsMRFRrXz4RXiXZ-LLSGes",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Santorini Damac Lagoons - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJK3XtErNzXz4RAdu9libN8zM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sapphire Residence Silicon Oasis - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJEeBBkW9kXz4Rc7yGD7IQ8O4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sarab 5 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ66g5QH5vXz4Rdl1PrQdiMcY",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Satwa Big Mosque - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTyYnvvtCXz4RGdjpMJZQ2bk",
+    "types": "establishment, mosque, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -11772,9 +11970,45 @@
     "zone_type": "area"
   },
   {
+    "name": "Saudi German Hospital - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ0Y-QUoJrXz4RuwdG-7b_T9A",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Savannah | Arabian Ranches - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_zYuK8ZvXz4RIzgmz1vo6o4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Savills Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJV6wtHQvQDRQRIMakb97Fz5o",
     "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Savoy Central Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5-_dcRZDXz4RpQGi5Kjx_Fo",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Savoy Crest Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZ2IrNz9DXz4R85KUBbw83gg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Savoy Suites Hotel Apartment - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5_M6RSNDXz4RsivuVL9-VA8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sayḩ Miyāda‘ah - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOX1eN7YLXz4RziB8le-FfbI",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
