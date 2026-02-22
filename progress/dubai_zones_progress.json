@@ -6119,7 +6119,57 @@
     "Dubai KTG",
     "Dubai KTH",
     "Dubai KTI",
-    "Dubai KTJ"
+    "Dubai KTJ",
+    "Dubai KTK",
+    "Dubai KTL",
+    "Dubai KTM",
+    "Dubai KTN",
+    "Dubai KTO",
+    "Dubai KTP",
+    "Dubai KTQ",
+    "Dubai KTR",
+    "Dubai KTS",
+    "Dubai KTT",
+    "Dubai KTU",
+    "Dubai KTV",
+    "Dubai KTW",
+    "Dubai KTX",
+    "Dubai KTY",
+    "Dubai KTZ",
+    "Dubai KUA",
+    "Dubai KUB",
+    "Dubai KUC",
+    "Dubai KUD",
+    "Dubai KUE",
+    "Dubai KUF",
+    "Dubai KUG",
+    "Dubai KUH",
+    "Dubai KUI",
+    "Dubai KUJ",
+    "Dubai KUK",
+    "Dubai KUL",
+    "Dubai KUM",
+    "Dubai KUN",
+    "Dubai KUO",
+    "Dubai KUP",
+    "Dubai KUQ",
+    "Dubai KUR",
+    "Dubai KUS",
+    "Dubai KUT",
+    "Dubai KUU",
+    "Dubai KUV",
+    "Dubai KUW",
+    "Dubai KUX",
+    "Dubai KUY",
+    "Dubai KUZ",
+    "Dubai KVA",
+    "Dubai KVB",
+    "Dubai KVC",
+    "Dubai KVD",
+    "Dubai KVE",
+    "Dubai KVF",
+    "Dubai KVG",
+    "Dubai KVH"
   ],
   "pending_n2": [
     {
@@ -63834,6 +63884,21 @@
       "name": "Kite Beach Running Track Start - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ3STxEI9rXz4RM60rWaXpHlk",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJCxTAs61cXz4R2OSaFdRxVQI": {
+      "name": "Al Kuwait Hospital Dubai - مستشفى الكويت دبي - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJCxTAs61cXz4R2OSaFdRxVQI",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJ992fcwBDXz4R8B7ZXKfSXds": {
+      "name": "Luxe Avenue Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ992fcwBDXz4R8B7ZXKfSXds",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJfzruvrgNXz4RaAdlExiri4s": {
+      "name": "Luxury Apartment with Pool Gym - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJfzruvrgNXz4RaAdlExiri4s",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }

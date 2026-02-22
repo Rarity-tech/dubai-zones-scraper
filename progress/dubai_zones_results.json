@@ -1638,6 +1638,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Al Kuwait Hospital Dubai - مستشفى الكويت دبي - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJCxTAs61cXz4R2OSaFdRxVQI",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Al Lesaily, Dubai, Émirats arabes unis",
     "place_id": "ChIJLyIJKfIQXz4RaI10pzbH6O4",
     "types": "establishment, natural_feature",
@@ -8493,6 +8499,18 @@
     "name": "Lulu village - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJsc6tBwBfXz4RL7Bu1jd4luM",
     "types": "establishment, health, pharmacy, point_of_interest, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "Luxe Avenue Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ992fcwBDXz4R8B7ZXKfSXds",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Luxury Apartment with Pool Gym - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJfzruvrgNXz4RaAdlExiri4s",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
