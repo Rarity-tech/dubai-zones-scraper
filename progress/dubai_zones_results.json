@@ -5544,6 +5544,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai jhumeira palm island - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJtb8zGQAVXz4RQiEKXsAvaqI",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai shopping festival - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ44GhLABpXz4RlzNyfJqGJaM",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -7779,6 +7785,12 @@
     "name": "Jumeirah Emirates Towers - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJvSwT-ZJCXz4RkKTQzvKWOmU",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jumeirah Golf Estates Metro Station - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ8zisYk5tXz4Rovq_fV9H5Hk",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
