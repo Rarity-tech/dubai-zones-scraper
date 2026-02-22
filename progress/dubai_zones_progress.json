@@ -7019,7 +7019,57 @@
     "Dubai MGW",
     "Dubai MGX",
     "Dubai MGY",
-    "Dubai MGZ"
+    "Dubai MGZ",
+    "Dubai MHA",
+    "Dubai MHB",
+    "Dubai MHC",
+    "Dubai MHD",
+    "Dubai MHE",
+    "Dubai MHF",
+    "Dubai MHG",
+    "Dubai MHH",
+    "Dubai MHI",
+    "Dubai MHJ",
+    "Dubai MHK",
+    "Dubai MHL",
+    "Dubai MHM",
+    "Dubai MHN",
+    "Dubai MHO",
+    "Dubai MHP",
+    "Dubai MHQ",
+    "Dubai MHR",
+    "Dubai MHS",
+    "Dubai MHT",
+    "Dubai MHU",
+    "Dubai MHV",
+    "Dubai MHW",
+    "Dubai MHX",
+    "Dubai MHY",
+    "Dubai MHZ",
+    "Dubai MJA",
+    "Dubai MJB",
+    "Dubai MJC",
+    "Dubai MJD",
+    "Dubai MJE",
+    "Dubai MJF",
+    "Dubai MJG",
+    "Dubai MJH",
+    "Dubai MJI",
+    "Dubai MJJ",
+    "Dubai MJK",
+    "Dubai MJL",
+    "Dubai MJM",
+    "Dubai MJN",
+    "Dubai MJO",
+    "Dubai MJP",
+    "Dubai MJQ",
+    "Dubai MJR",
+    "Dubai MJS",
+    "Dubai MJT",
+    "Dubai MJU",
+    "Dubai MJV",
+    "Dubai MJW",
+    "Dubai MJX"
   ],
   "pending_n2": [
     {
@@ -65754,6 +65804,21 @@
       "name": "Aster Pharmacy - Zen Cluster, Discovery Gardens (Aster MGP) - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJl740nFkTXz4ReEbulmhtsKA",
       "types": "clothing_store, drugstore, establishment, food, health, pharmacy, point_of_interest, store"
+    },
+    "ChIJE8R_U5VjXz4RyDQaZD0yP5E": {
+      "name": "Manipal Academy of Higher Education - Dubai Campus, G04 - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJE8R_U5VjXz4RyDQaZD0yP5E",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJJwx4niNrXz4RM1dKTffI4rM": {
+      "name": "Asayel Madinat Jumeirah Living - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJwx4niNrXz4RM1dKTffI4rM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJOafXawBrXz4RS45DGuw_vlc": {
+      "name": "MJL RIWA by Meraas - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJOafXawBrXz4RS45DGuw_vlc",
+      "types": "establishment, point_of_interest"
     }
   }
 }

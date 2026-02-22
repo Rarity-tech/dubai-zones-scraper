@@ -2316,6 +2316,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Asayel Madinat Jumeirah Living - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJwx4niNrXz4RM1dKTffI4rM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Ascana 2 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJcSxaS5ZrXz4REYOVmNb5AeI",
     "types": "establishment, point_of_interest",
@@ -9390,6 +9396,12 @@
     "zone_type": "area"
   },
   {
+    "name": "MJL RIWA by Meraas - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOafXawBrXz4RS45DGuw_vlc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "MK Residence - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJZdB7CmhtXz4RuQ7lRNmesCE",
     "types": "establishment, lodging, point_of_interest",
@@ -9531,6 +9543,12 @@
     "name": "Mandarin Oriental Jumeira, Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJdYdk4EZCXz4RtFGDMnXefMM",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Manipal Academy of Higher Education - Dubai Campus, G04 - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJE8R_U5VjXz4RyDQaZD0yP5E",
+    "types": "establishment, point_of_interest, university",
     "zone_type": "area"
   },
   {
