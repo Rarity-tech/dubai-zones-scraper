@@ -1469,7 +1469,57 @@
     "Dubai BKK",
     "Dubai BKL",
     "Dubai BKM",
-    "Dubai BKN"
+    "Dubai BKN",
+    "Dubai BKO",
+    "Dubai BKP",
+    "Dubai BKQ",
+    "Dubai BKR",
+    "Dubai BKS",
+    "Dubai BKT",
+    "Dubai BKU",
+    "Dubai BKV",
+    "Dubai BKW",
+    "Dubai BKX",
+    "Dubai BKY",
+    "Dubai BKZ",
+    "Dubai BLA",
+    "Dubai BLB",
+    "Dubai BLC",
+    "Dubai BLD",
+    "Dubai BLE",
+    "Dubai BLF",
+    "Dubai BLG",
+    "Dubai BLH",
+    "Dubai BLI",
+    "Dubai BLJ",
+    "Dubai BLK",
+    "Dubai BLL",
+    "Dubai BLM",
+    "Dubai BLN",
+    "Dubai BLO",
+    "Dubai BLP",
+    "Dubai BLQ",
+    "Dubai BLR",
+    "Dubai BLS",
+    "Dubai BLT",
+    "Dubai BLU",
+    "Dubai BLV",
+    "Dubai BLW",
+    "Dubai BLX",
+    "Dubai BLY",
+    "Dubai BLZ",
+    "Dubai BMA",
+    "Dubai BMB",
+    "Dubai BMC",
+    "Dubai BMD",
+    "Dubai BME",
+    "Dubai BMF",
+    "Dubai BMG",
+    "Dubai BMH",
+    "Dubai BMI",
+    "Dubai BMJ",
+    "Dubai BMK",
+    "Dubai BML"
   ],
   "pending_n2": [
     {
@@ -55299,6 +55349,81 @@
       "name": "Skin Experts Polyclinic - Dubai - Émirats arabes unis",
       "place_id": "ChIJP7zrV3JDXz4RhUpfcPyaxhw",
       "types": "beauty_salon, doctor, establishment, hair_care, health, point_of_interest"
+    },
+    "ChIJyZaTKuZrXz4RK1bA5_1kjwg": {
+      "name": "Blakely Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJyZaTKuZrXz4RK1bA5_1kjwg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ0V9O6hprXz4RBHHcRolxwhA": {
+      "name": "Black palace beach - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0V9O6hprXz4RBHHcRolxwhA",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJY_rNiCtoXz4RPqL19-eIMQs": {
+      "name": "Boulevard Central Tower 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJY_rNiCtoXz4RPqL19-eIMQs",
+      "types": "geocode, premise"
+    },
+    "ChIJ__-_qyhoXz4RWlbCjEt24vg": {
+      "name": "Boulevard Point - Downtown Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ__-_qyhoXz4RWlbCjEt24vg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJzZmThCtoXz4RGzfexvaHvMo": {
+      "name": "Boulevard Central Tower 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzZmThCtoXz4RGzfexvaHvMo",
+      "types": "geocode, premise"
+    },
+    "ChIJ957U1ihoXz4RGqghhZzb1kY": {
+      "name": "Boulevard Plaza Tower 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ957U1ihoXz4RGqghhZzb1kY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ3_tla4FCXz4RcwQ9W2TClbI": {
+      "name": "Boulevard Plaza Tower 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ3_tla4FCXz4RcwQ9W2TClbI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ9zFRHYJDXz4RQgcXmcPr-0Y": {
+      "name": "Bliss Square Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9zFRHYJDXz4RQgcXmcPr-0Y",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJUZxBkGVtXz4R5u3t8adPtcE": {
+      "name": "Bloom Tower B - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJUZxBkGVtXz4R5u3t8adPtcE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJveM9gDVsXz4RN7u-AT6DCcE": {
+      "name": "Bloom Heights Tower A - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJveM9gDVsXz4RN7u-AT6DCcE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJOyRFX5prXz4Rc5eT3HBEHZ4": {
+      "name": "BLR WORLD - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJOyRFX5prXz4Rc5eT3HBEHZ4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ22AvPwZrXz4Ro5WkhKXGVI0": {
+      "name": "Baron Luxe Real Estate LLC - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ22AvPwZrXz4Ro5WkhKXGVI0",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJhZNJ9NRCXz4RI3-SJpN2qxk": {
+      "name": "BLS International - next to ADCB Bank - Dubai - Émirats arabes unis",
+      "place_id": "ChIJhZNJ9NRCXz4RI3-SJpN2qxk",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJM2BGvCpoXz4R_Xze04Zs5Vg": {
+      "name": "BLVD Heights - Downtown - Emaar - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJM2BGvCpoXz4R_Xze04Zs5Vg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJp-mCSZxDXz4RBfs708I_VA4": {
+      "name": "BMJ One - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJp-mCSZxDXz4RBfs708I_VA4",
+      "types": "establishment, point_of_interest"
     }
   }
 }

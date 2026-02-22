@@ -2334,6 +2334,30 @@
     "zone_type": "area"
   },
   {
+    "name": "BLR WORLD - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOyRFX5prXz4Rc5eT3HBEHZ4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "BLS International - next to ADCB Bank - Dubai - Émirats arabes unis",
+    "place_id": "ChIJhZNJ9NRCXz4RI3-SJpN2qxk",
+    "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "BLVD Heights - Downtown - Emaar - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJM2BGvCpoXz4R_Xze04Zs5Vg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "BMJ One - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJp-mCSZxDXz4RBfs708I_VA4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "BMTC Building - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJvXPqAm1cXz4Rne4xws6Z7T8",
     "types": "geocode, premise",
@@ -2457,6 +2481,12 @@
     "name": "Barceló Al Jaddaf - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ8e4Kr8ddXz4RKh5jSSQTWWw",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Baron Luxe Real Estate LLC - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ22AvPwZrXz4Ro5WkhKXGVI0",
+    "types": "establishment, point_of_interest, real_estate_agency",
     "zone_type": "area"
   },
   {
@@ -2646,6 +2676,36 @@
     "zone_type": "area"
   },
   {
+    "name": "Black palace beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ0V9O6hprXz4RBHHcRolxwhA",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Blakely Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJyZaTKuZrXz4RK1bA5_1kjwg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bliss Square Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9zFRHYJDXz4RQgcXmcPr-0Y",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bloom Heights Tower A - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJveM9gDVsXz4RN7u-AT6DCcE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bloom Tower B - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJUZxBkGVtXz4R5u3t8adPtcE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Blue Bay Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ95ozKC1oXz4RQunxTTfkgwM",
     "types": "geocode, premise",
@@ -2666,6 +2726,36 @@
   {
     "name": "Boston Consulting Group (BCG) - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ62bUOW1rXz4RfPDKEx2JYYY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Boulevard Central Tower 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJY_rNiCtoXz4RPqL19-eIMQs",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Boulevard Central Tower 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzZmThCtoXz4RGzfexvaHvMo",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Boulevard Plaza Tower 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3_tla4FCXz4RcwQ9W2TClbI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Boulevard Plaza Tower 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ957U1ihoXz4RGqghhZzb1kY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Boulevard Point - Downtown Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ__-_qyhoXz4RWlbCjEt24vg",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
