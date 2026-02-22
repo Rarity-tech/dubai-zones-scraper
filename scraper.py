@@ -3,6 +3,7 @@ import json
 import os
 import time
 import string
+import subprocess
 
 PROGRESS_FILE = "progress/dubai_zones_progress.json"
 RESULTS_FILE = "progress/dubai_zones_results.json"
@@ -43,6 +44,22 @@ def get_proxies():
     return None
 
 
+def git_commit_and_push(message):
+    try:
+        subprocess.run(["git", "config", "user.name", "github-actions"], check=True)
+        subprocess.run(["git", "config", "user.email", "actions@github.com"], check=True)
+        subprocess.run(["git", "add", "progress/"], check=True)
+        result = subprocess.run(["git", "diff", "--staged", "--quiet"])
+        if result.returncode != 0:
+            subprocess.run(["git", "commit", "-m", message], check=True)
+            subprocess.run(["git", "push"], check=True)
+            print(f"💾 Git commit+push: {message}")
+        else:
+            print("💾 Rien à commiter")
+    except Exception as e:
+        print(f"⚠️ Erreur git: {e}")
+
+
 def load_progress():
     if os.path.exists(PROGRESS_FILE):
         with open(PROGRESS_FILE, "r") as f:
@@ -79,7 +96,7 @@ def save_results(zones):
     os.makedirs("progress", exist_ok=True)
     with open(RESULTS_FILE, "w") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
-    print(f"✅ {len(result)} zones sauvegardées dans {RESULTS_FILE}")
+    print(f"✅ {len(result)} zones sauvegardées")
 
 
 def query_airbnb(user_input, retries=3):
@@ -101,7 +118,6 @@ def query_airbnb(user_input, retries=3):
                 continue
             if r.status_code == 200:
                 data = r.json()
-                # L'API retourne une liste, on prend le premier élément
                 if isinstance(data, list) and len(data) > 0:
                     return data[0] if isinstance(data[0], dict) else None
                 elif isinstance(data, dict):
@@ -131,7 +147,7 @@ def extract_ae_zones(data, progress, prefix, next_level_pending_key):
                 "place_id": place_id,
                 "types": ", ".join(term.get("location", {}).get("types", []))
             }
-    # Si 10 résultats AE → approfondir cette branche (sauf si on est au dernier niveau)
+    # Si 10 résultats AE → approfondir cette branche (sauf dernier niveau)
     if len(ae_terms) >= 10 and next_level_pending_key in progress:
         for l in string.ascii_uppercase:
             new_query = f"Dubai {prefix}{l}"
@@ -159,22 +175,23 @@ def process_queries(queries, progress, next_level_key, level_name, batch_size=50
         progress["completed"].append(query)
         processed += 1
         print(f"  [{i+1}/{total}] '{query}' → {count} zones AE | Total: {len(progress['zones'])}")
-        # Sauvegarder tous les 50
+        # Sauvegarder et pusher tous les 50
         if processed % batch_size == 0:
             save_progress(progress)
             save_results(progress["zones"])
-            print(f"💾 Sauvegarde intermédiaire après {processed} requêtes")
+            git_commit_and_push(f"{level_name} - {processed}/{total} requêtes - {len(progress['zones'])} zones")
         time.sleep(delay)
     # Sauvegarde finale du niveau
     save_progress(progress)
     save_results(progress["zones"])
+    git_commit_and_push(f"{level_name} terminé - {len(progress['zones'])} zones total")
 
 
 def main():
     progress = load_progress()
     print(f"📂 Reprise: {len(progress['zones'])} zones, {len(progress['completed'])} requêtes complétées")
 
-    # NIVEAU 1 : Dubai A → Dubai Z
+    # NIVEAU 1
     n1_queries = [
         {"query": f"Dubai {l}", "prefix": l}
         for l in string.ascii_uppercase
@@ -185,14 +202,14 @@ def main():
     else:
         print("✅ N1 déjà complété")
 
-    # NIVEAU 2 : Dubai AA → Dubai ZZ (seulement branches saturées)
+    # NIVEAU 2
     n2_queries = [q for q in progress["pending_n2"] if q["query"] not in progress["completed"]]
     if n2_queries:
         process_queries(n2_queries, progress, "pending_n3", "N2")
     else:
         print("✅ N2 déjà complété ou pas nécessaire")
 
-    # NIVEAU 3 : Dubai AAA → Dubai ZZZ (seulement branches saturées)
+    # NIVEAU 3
     n3_queries = [q for q in progress["pending_n3"] if q["query"] not in progress["completed"]]
     if n3_queries:
         process_queries(n3_queries, progress, "_none", "N3")
