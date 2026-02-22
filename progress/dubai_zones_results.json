@@ -4062,6 +4062,18 @@
     "zone_type": "area"
   },
   {
+    "name": "DOMUS INDIGO - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ7UDsztJtXz4RvtiKjlV4IHw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DOSC - Dubai - Émirats arabes unis",
+    "place_id": "ChIJrcddiwVqXz4RlSheU3CMvtc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DP World Head Office - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJOzX19n4SXz4RagirZjYPcv4",
     "types": "establishment, point_of_interest",
@@ -4410,6 +4422,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Doha Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsw7kj8xcXz4RXEW_K98QFGE",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
     "name": "Dolphin Diving Services - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJd1Gk6z1cXz4RpFqJPF2NHKQ",
     "types": "establishment, point_of_interest",
@@ -4422,8 +4440,68 @@
     "zone_type": "area"
   },
   {
+    "name": "Dome tower - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJvWBHz51dXz4RkIYvbnaZVuY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Donatello Hotel Al Barsha Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-4gRJ71rXz4RTPKLp50Qjps",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Donna Towers - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJUeXKC0hkXz4RLAGHabtlT-c",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dopamine eSports Lounge - Dubai - Émirats arabes unis",
+    "place_id": "ChIJb-jXhA9tXz4RaJdPV01A2BU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dorra Bay - Dubai - Émirats arabes unis",
+    "place_id": "ChIJbw6CGlcTXz4RKY0SmF6jos0",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dorra bay Home - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBS2Rd-ITXz4RhCjPw74FGCI",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dorus Hotel - Dubai - Émirats arabes unis",
+    "place_id": "ChIJG_76HrVcXz4RRW2OCddLNn8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dot Com Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVbkdehBDXz4Rf6zFBa6yk7w",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dotcoliv Property # 5 Burdubai ,Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJXXlnXmpDXz4RQlqSyPK_2IU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DoubleTree by Hilton Dubai - Business Bay - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJPdTUEzBoXz4Rrslyy-2ko0s",
+    "types": "establishment, lodging, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "DoubleTree by Hilton Dubai - Jumeirah Beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJt-FjuVcTXz4RNrJCgQbutrQ",
     "types": "establishment, lodging, point_of_interest, spa",
     "zone_type": "area"
   },
@@ -4440,6 +4518,12 @@
     "zone_type": "area"
   },
   {
+    "name": "DoubleTree by Hilton Dubai Port Saeed - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJfevH3ZtdXz4RuH4rdaifbfg",
+    "types": "establishment, lodging, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
     "name": "Down Town Hotel, Dubai, Émirats arabes unis",
     "place_id": "ChIJ9dhENkZDXz4RWCls95iFBmk",
     "types": "establishment, lodging, point_of_interest",
@@ -4448,6 +4532,30 @@
   {
     "name": "Downtown Airbnb | Burj Khalifa Views | Luxury Amenities - Dubai - Émirats arabes unis",
     "place_id": "ChIJO48z9wFpXz4RSD0qyp3dZBk",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Downtown Views II - Tower 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsws6DgBDXz4RyEya2pRGeno",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Downtown Views II - Tower 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJw-LLJwBDXz4RT01pw1zEVLo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Downtown Views II - Tower 3 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ22QaDABDXz4RSpDQG1grMlc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dpie Vacation Homes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJEy6qYgATXz4RJdUFt13Ex9A",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
@@ -4653,6 +4761,18 @@
     "name": "Dubai Dolphinarium - Dubaï - Émirats arabes unis",
     "place_id": "ChIJRZZYxzldXz4RXWWMUmOeDeg",
     "types": "amusement_park, aquarium, establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Dolphinarium Children's City - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsRA3eDldXz4R79eD_AShXWs",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Dry Docks - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTfUM4qZDXz4RjWcHWb_TGg0",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
@@ -4896,9 +5016,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Petroleum Est. - chamoilgas - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJt6BgyvgRXz4RORi4m94t3hg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Polo & Equestrian Club, Dubai, Émirats arabes unis",
     "place_id": "ChIJXcNhArNvXz4Rf4-bFvgEamA",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Public Library - Dubai - Émirats arabes unis",
+    "place_id": "ChIJvbqIXUtcXz4R-WitOY4Z2Ek",
+    "types": "establishment, library, point_of_interest",
     "zone_type": "area"
   },
   {

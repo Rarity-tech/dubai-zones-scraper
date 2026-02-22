@@ -2769,7 +2769,57 @@
     "Dubai DNK",
     "Dubai DNL",
     "Dubai DNM",
-    "Dubai DNN"
+    "Dubai DNN",
+    "Dubai DNO",
+    "Dubai DNP",
+    "Dubai DNQ",
+    "Dubai DNR",
+    "Dubai DNS",
+    "Dubai DNT",
+    "Dubai DNU",
+    "Dubai DNV",
+    "Dubai DNW",
+    "Dubai DNX",
+    "Dubai DNY",
+    "Dubai DNZ",
+    "Dubai DOA",
+    "Dubai DOB",
+    "Dubai DOC",
+    "Dubai DOD",
+    "Dubai DOE",
+    "Dubai DOF",
+    "Dubai DOG",
+    "Dubai DOH",
+    "Dubai DOI",
+    "Dubai DOJ",
+    "Dubai DOK",
+    "Dubai DOL",
+    "Dubai DOM",
+    "Dubai DON",
+    "Dubai DOO",
+    "Dubai DOP",
+    "Dubai DOQ",
+    "Dubai DOR",
+    "Dubai DOS",
+    "Dubai DOT",
+    "Dubai DOU",
+    "Dubai DOV",
+    "Dubai DOW",
+    "Dubai DOX",
+    "Dubai DOY",
+    "Dubai DOZ",
+    "Dubai DPA",
+    "Dubai DPB",
+    "Dubai DPC",
+    "Dubai DPD",
+    "Dubai DPE",
+    "Dubai DPF",
+    "Dubai DPG",
+    "Dubai DPH",
+    "Dubai DPI",
+    "Dubai DPJ",
+    "Dubai DPK",
+    "Dubai DPL"
   ],
   "pending_n2": [
     {
@@ -58064,6 +58114,116 @@
       "name": "Yacht Club - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJbSXAllQTXz4RFV7IPrLNYi8",
       "types": "geocode, premise"
+    },
+    "ChIJsw7kj8xcXz4RXEW_K98QFGE": {
+      "name": "Doha Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJsw7kj8xcXz4RXEW_K98QFGE",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJTfUM4qZDXz4RjWcHWb_TGg0": {
+      "name": "Dubai Dry Docks - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTfUM4qZDXz4RjWcHWb_TGg0",
+      "types": "geocode, premise"
+    },
+    "ChIJsRA3eDldXz4R79eD_AShXWs": {
+      "name": "Dubai Dolphinarium Children's City - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJsRA3eDldXz4R79eD_AShXWs",
+      "types": "geocode, premise"
+    },
+    "ChIJvWBHz51dXz4RkIYvbnaZVuY": {
+      "name": "Dome tower - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJvWBHz51dXz4RkIYvbnaZVuY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ7UDsztJtXz4RvtiKjlV4IHw": {
+      "name": "DOMUS INDIGO - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ7UDsztJtXz4RvtiKjlV4IHw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ-4gRJ71rXz4RTPKLp50Qjps": {
+      "name": "Donatello Hotel Al Barsha Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ-4gRJ71rXz4RTPKLp50Qjps",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJUeXKC0hkXz4RLAGHabtlT-c": {
+      "name": "Donna Towers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJUeXKC0hkXz4RLAGHabtlT-c",
+      "types": "geocode, premise"
+    },
+    "ChIJb-jXhA9tXz4RaJdPV01A2BU": {
+      "name": "Dopamine eSports Lounge - Dubai - Émirats arabes unis",
+      "place_id": "ChIJb-jXhA9tXz4RaJdPV01A2BU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJbw6CGlcTXz4RKY0SmF6jos0": {
+      "name": "Dorra Bay - Dubai - Émirats arabes unis",
+      "place_id": "ChIJbw6CGlcTXz4RKY0SmF6jos0",
+      "types": "geocode, premise"
+    },
+    "ChIJBS2Rd-ITXz4RhCjPw74FGCI": {
+      "name": "Dorra bay Home - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBS2Rd-ITXz4RhCjPw74FGCI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJG_76HrVcXz4RRW2OCddLNn8": {
+      "name": "Dorus Hotel - Dubai - Émirats arabes unis",
+      "place_id": "ChIJG_76HrVcXz4RRW2OCddLNn8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJrcddiwVqXz4RlSheU3CMvtc": {
+      "name": "DOSC - Dubai - Émirats arabes unis",
+      "place_id": "ChIJrcddiwVqXz4RlSheU3CMvtc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJXXlnXmpDXz4RQlqSyPK_2IU": {
+      "name": "Dotcoliv Property # 5 Burdubai ,Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJXXlnXmpDXz4RQlqSyPK_2IU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJVbkdehBDXz4Rf6zFBa6yk7w": {
+      "name": "Dot Com Apartments - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJVbkdehBDXz4Rf6zFBa6yk7w",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJt-FjuVcTXz4RNrJCgQbutrQ": {
+      "name": "DoubleTree by Hilton Dubai - Jumeirah Beach - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJt-FjuVcTXz4RNrJCgQbutrQ",
+      "types": "establishment, lodging, point_of_interest, spa"
+    },
+    "ChIJfevH3ZtdXz4RuH4rdaifbfg": {
+      "name": "DoubleTree by Hilton Dubai Port Saeed - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJfevH3ZtdXz4RuH4rdaifbfg",
+      "types": "establishment, lodging, point_of_interest, spa"
+    },
+    "ChIJsws6DgBDXz4RyEya2pRGeno": {
+      "name": "Downtown Views II - Tower 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJsws6DgBDXz4RyEya2pRGeno",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJw-LLJwBDXz4RT01pw1zEVLo": {
+      "name": "Downtown Views II - Tower 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJw-LLJwBDXz4RT01pw1zEVLo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ22QaDABDXz4RSpDQG1grMlc": {
+      "name": "Downtown Views II - Tower 3 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ22QaDABDXz4RSpDQG1grMlc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJt6BgyvgRXz4RORi4m94t3hg": {
+      "name": "Dubai Petroleum Est. - chamoilgas - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJt6BgyvgRXz4RORi4m94t3hg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJEy6qYgATXz4RJdUFt13Ex9A": {
+      "name": "Dpie Vacation Homes - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJEy6qYgATXz4RJdUFt13Ex9A",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJvbqIXUtcXz4R-WitOY4Z2Ek": {
+      "name": "Dubai Public Library - Dubai - Émirats arabes unis",
+      "place_id": "ChIJvbqIXUtcXz4R-WitOY4Z2Ek",
+      "types": "establishment, library, point_of_interest"
     }
   }
 }
