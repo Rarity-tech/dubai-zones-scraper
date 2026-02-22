@@ -6912,6 +6912,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Iran - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMxLVkOdAXz4RCLTY46yk3uE",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "Iranian Hospital - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJd8hAF1ZCXz4ROxq1Dk0HiEI",
     "types": "establishment, health, hospital, point_of_interest",
@@ -7266,6 +7272,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Lawrie Shabibi - Dubai - Émirats arabes unis",
+    "place_id": "ChIJJ83L4X9pXz4R6D4MGyLjIcs",
+    "types": "art_gallery, establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Le Méridien Dubai Hotel & Conference Centre - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJS3-iLQVdXz4RAXviWHHACB4",
     "types": "establishment, lodging, point_of_interest",
@@ -7449,6 +7461,12 @@
     "name": "Maple 3 | Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJoQuWOsxuXz4Ra7rwln4HAPU",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Masjid Ibaad Ar Rahmaan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJj02AKIlrXz4RSXwReWDnLlg",
+    "types": "establishment, mosque, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {

@@ -4269,7 +4269,57 @@
     "Dubai HZC",
     "Dubai HZD",
     "Dubai HZE",
-    "Dubai HZF"
+    "Dubai HZF",
+    "Dubai HZG",
+    "Dubai HZH",
+    "Dubai HZI",
+    "Dubai HZJ",
+    "Dubai HZK",
+    "Dubai HZL",
+    "Dubai HZM",
+    "Dubai HZN",
+    "Dubai HZO",
+    "Dubai HZP",
+    "Dubai HZQ",
+    "Dubai HZR",
+    "Dubai HZS",
+    "Dubai HZT",
+    "Dubai HZU",
+    "Dubai HZV",
+    "Dubai HZW",
+    "Dubai HZX",
+    "Dubai HZY",
+    "Dubai HZZ",
+    "Dubai IAA",
+    "Dubai IAB",
+    "Dubai IAC",
+    "Dubai IAD",
+    "Dubai IAE",
+    "Dubai IAF",
+    "Dubai IAG",
+    "Dubai IAH",
+    "Dubai IAI",
+    "Dubai IAJ",
+    "Dubai IAK",
+    "Dubai IAL",
+    "Dubai IAM",
+    "Dubai IAN",
+    "Dubai IAO",
+    "Dubai IAP",
+    "Dubai IAQ",
+    "Dubai IAR",
+    "Dubai IAS",
+    "Dubai IAT",
+    "Dubai IAU",
+    "Dubai IAV",
+    "Dubai IAW",
+    "Dubai IAX",
+    "Dubai IAY",
+    "Dubai IAZ",
+    "Dubai IBA",
+    "Dubai IBB",
+    "Dubai IBC",
+    "Dubai IBD"
   ],
   "pending_n2": [
     {
@@ -60854,6 +60904,21 @@
       "name": "Hyde Park Hotel - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ2xbL6RRDXz4R8T6HmqSm2zs",
       "types": "establishment, lodging, point_of_interest, spa"
+    },
+    "ChIJMxLVkOdAXz4RCLTY46yk3uE": {
+      "name": "Iran - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMxLVkOdAXz4RCLTY46yk3uE",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJJ83L4X9pXz4R6D4MGyLjIcs": {
+      "name": "Lawrie Shabibi - Dubai - Émirats arabes unis",
+      "place_id": "ChIJJ83L4X9pXz4R6D4MGyLjIcs",
+      "types": "art_gallery, establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJj02AKIlrXz4RSXwReWDnLlg": {
+      "name": "Masjid Ibaad Ar Rahmaan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJj02AKIlrXz4RSXwReWDnLlg",
+      "types": "establishment, mosque, place_of_worship, point_of_interest"
     }
   }
 }
