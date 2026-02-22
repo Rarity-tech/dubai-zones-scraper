@@ -12450,6 +12450,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Sheikh Zayed Housing Programme - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJYdgrmXZdXz4RpDXWHPA2P_o",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Sheikh Zayed Road - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "EjlTaGVpa2ggWmF5ZWQgUm9hZCAtIER1YmFpIC0gRHViYcOvIC0gw4ltaXJhdHMgYXJhYmVzIHVuaXMiLiosChQKEglXvjpfQxNfPhHQHDFGnQvAtBIUChIJRcbZaklDXz4RYlEphFBu5r0",
     "types": "geocode, route",
@@ -13224,9 +13230,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Symphony Apartments - Dubai - Émirats arabes unis",
+    "place_id": "ChIJK3guGtpDXz4RjUqbN7A34_I",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Syria - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJB-4Y4OhAXz4RxTQzDqSRvq4",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Syrian Pavilion | Global Village - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRdqMEt5vXz4R-SEvHeFEQAE",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -13290,6 +13308,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Taiwan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJdXy1zSZBXz4RutoxhCZ1qqQ",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "Taj Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJyer95yhoXz4Rwl9l67jIHT4",
     "types": "establishment, lodging, point_of_interest",
@@ -13305,6 +13329,12 @@
     "name": "Taj Jumeirah Lakes Towers - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJXSrHSqdsXz4RxjWYx0gL220",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tajikistan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJC0twN9xAXz4R5-VDM31PH2s",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {

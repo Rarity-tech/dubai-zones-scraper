@@ -9319,7 +9319,57 @@
     "Dubai SYI",
     "Dubai SYJ",
     "Dubai SYK",
-    "Dubai SYL"
+    "Dubai SYL",
+    "Dubai SYM",
+    "Dubai SYN",
+    "Dubai SYO",
+    "Dubai SYP",
+    "Dubai SYQ",
+    "Dubai SYR",
+    "Dubai SYS",
+    "Dubai SYT",
+    "Dubai SYU",
+    "Dubai SYV",
+    "Dubai SYW",
+    "Dubai SYX",
+    "Dubai SYY",
+    "Dubai SYZ",
+    "Dubai SZA",
+    "Dubai SZB",
+    "Dubai SZC",
+    "Dubai SZD",
+    "Dubai SZE",
+    "Dubai SZF",
+    "Dubai SZG",
+    "Dubai SZH",
+    "Dubai SZI",
+    "Dubai SZJ",
+    "Dubai SZK",
+    "Dubai SZL",
+    "Dubai SZM",
+    "Dubai SZN",
+    "Dubai SZO",
+    "Dubai SZP",
+    "Dubai SZQ",
+    "Dubai SZR",
+    "Dubai SZS",
+    "Dubai SZT",
+    "Dubai SZU",
+    "Dubai SZV",
+    "Dubai SZW",
+    "Dubai SZX",
+    "Dubai SZY",
+    "Dubai SZZ",
+    "Dubai TAA",
+    "Dubai TAB",
+    "Dubai TAC",
+    "Dubai TAD",
+    "Dubai TAE",
+    "Dubai TAF",
+    "Dubai TAG",
+    "Dubai TAH",
+    "Dubai TAI",
+    "Dubai TAJ"
   ],
   "pending_n2": [
     {
@@ -70309,6 +70359,31 @@
       "name": "Sydney Villas - Dubai - Émirats arabes unis",
       "place_id": "ChIJ_ynttAltXz4RuVstvps5AHo",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJK3guGtpDXz4RjUqbN7A34_I": {
+      "name": "Symphony Apartments - Dubai - Émirats arabes unis",
+      "place_id": "ChIJK3guGtpDXz4RjUqbN7A34_I",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJRdqMEt5vXz4R-SEvHeFEQAE": {
+      "name": "Syrian Pavilion | Global Village - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRdqMEt5vXz4R-SEvHeFEQAE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJYdgrmXZdXz4RpDXWHPA2P_o": {
+      "name": "Sheikh Zayed Housing Programme - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJYdgrmXZdXz4RpDXWHPA2P_o",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJdXy1zSZBXz4RutoxhCZ1qqQ": {
+      "name": "Taiwan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdXy1zSZBXz4RutoxhCZ1qqQ",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJC0twN9xAXz4R5-VDM31PH2s": {
+      "name": "Tajikistan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJC0twN9xAXz4R5-VDM31PH2s",
+      "types": "establishment, natural_feature"
     }
   }
 }
