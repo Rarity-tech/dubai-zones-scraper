@@ -11469,7 +11469,57 @@
     "Dubai WQA",
     "Dubai WQB",
     "Dubai WQC",
-    "Dubai WQD"
+    "Dubai WQD",
+    "Dubai WQE",
+    "Dubai WQF",
+    "Dubai WQG",
+    "Dubai WQH",
+    "Dubai WQI",
+    "Dubai WQJ",
+    "Dubai WQK",
+    "Dubai WQL",
+    "Dubai WQM",
+    "Dubai WQN",
+    "Dubai WQO",
+    "Dubai WQP",
+    "Dubai WQQ",
+    "Dubai WQR",
+    "Dubai WQS",
+    "Dubai WQT",
+    "Dubai WQU",
+    "Dubai WQV",
+    "Dubai WQW",
+    "Dubai WQX",
+    "Dubai WQY",
+    "Dubai WQZ",
+    "Dubai WRA",
+    "Dubai WRB",
+    "Dubai WRC",
+    "Dubai WRD",
+    "Dubai WRE",
+    "Dubai WRF",
+    "Dubai WRG",
+    "Dubai WRH",
+    "Dubai WRI",
+    "Dubai WRJ",
+    "Dubai WRK",
+    "Dubai WRL",
+    "Dubai WRM",
+    "Dubai WRN",
+    "Dubai WRO",
+    "Dubai WRP",
+    "Dubai WRQ",
+    "Dubai WRR",
+    "Dubai WRS",
+    "Dubai WRT",
+    "Dubai WRU",
+    "Dubai WRV",
+    "Dubai WRW",
+    "Dubai WRX",
+    "Dubai WRY",
+    "Dubai WRZ",
+    "Dubai WSA",
+    "Dubai WSB"
   ],
   "pending_n2": [
     {
@@ -73559,6 +73609,21 @@
       "name": "Woodlem Park School Dubai - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ9bLKqVtcXz4Rc8F_X8mvw7o",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJrerQ09djXz4RUOIrnUYpHLQ": {
+      "name": "Warsan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJrerQ09djXz4RUOIrnUYpHLQ",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJZ4K-YztiXz4Rv1ScuTJ5RZw": {
+      "name": "Warsan 3 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZ4K-YztiXz4Rv1ScuTJ5RZw",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJpS4LsdVpXz4RKhs8MLZFYV4": {
+      "name": "RB - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpS4LsdVpXz4RKhs8MLZFYV4",
+      "types": "establishment, health, hospital, point_of_interest"
     }
   }
 }

@@ -1362,6 +1362,18 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Warsan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJrerQ09djXz4RUOIrnUYpHLQ",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Warsan 3 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZ4K-YztiXz4Rv1ScuTJ5RZw",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Za'abeel 1, Dubai, Émirats arabes unis",
     "place_id": "ChIJC-G757lCXz4R5QyiOZTP72w",
     "types": "neighborhood, political",
@@ -11217,6 +11229,12 @@
     "name": "RAK Bank Headquarters - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJNyUVjkNkXz4RhOUF5uqqkus",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "RB - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJpS4LsdVpXz4RKhs8MLZFYV4",
+    "types": "establishment, health, hospital, point_of_interest",
     "zone_type": "area"
   },
   {
