@@ -228,6 +228,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Al Kefaf, Dubai, Émirats arabes unis",
+    "place_id": "ChIJSbp_mNxCXz4Rj_zF4bbHEjU",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Al Nahda 1, Dubai, Émirats arabes unis",
     "place_id": "ChIJ6W0X2mVcXz4R9MntE5k8ZzA",
     "types": "neighborhood, political",
@@ -627,6 +633,12 @@
     "name": "Ajmal Sarah Tower, Dubailand Residence Complex - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJWfHIITVlXz4Rp6JSA7sz9so",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Al Lesaily, Dubai, Émirats arabes unis",
+    "place_id": "ChIJLyIJKfIQXz4RaI10pzbH6O4",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
@@ -1182,6 +1194,12 @@
     "zone_type": "area"
   },
   {
+    "name": "DUBAI KMCC. Dar Al Safiya Building - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHwOUi3hdXz4RgXFLEcmG6JM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DVR Luxury Living Real Estate & Vacation Homes - Marasi Drive - Dubai - Émirats arabes unis",
     "place_id": "ChIJHQUi7PppXz4R_u3Dhoqr3j4",
     "types": "establishment, lodging, point_of_interest, real_estate_agency, travel_agency",
@@ -1419,6 +1437,30 @@
     "name": "Dubai Islands - Émirats arabes unis",
     "place_id": "ChIJA8HSPKdFXz4RgjnyLvmMiFo",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Kartdrome Circuit - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJjVcg_mxuXz4RVjgZfBtB110",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Knowledge Park Conference Centre/Auditorium - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsSTisVlrXz4RrETTl0yIx74",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai London Clinic and Speciality Hospital - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJr3xh40BqXz4RjR0cqOJryyY",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai London Hospital - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTVKwOo9rXz4R2rRdYRLNjbI",
+    "types": "establishment, health, hospital, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -1962,6 +2004,54 @@
     "zone_type": "area"
   },
   {
+    "name": "JS Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZ-wx6U9tXz4RaYuE4NqDNAw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "JSCOM GRAND RESIDENCE - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_026WQBdXz4ReawI9RpQzDg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "JVC District 10 Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJs8K46H5tXz4RiP-XTorREic",
+    "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "JVC District 16 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJR5QUHnNtXz4Rc5JnlZRWzOY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "JW Marriott Hotel Marina - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbQjl4EFDXz4RFUUy8awWyxk",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "JW Marriott Marina Mall Access & Views - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgcXzDapsXz4RzHTmvYKuzKo",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "JW Marriott Marquis Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJlVeUM9ppXz4Ra5sY37tb5zQ",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "JW Marriott Marquis Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ4UiYidlpXz4RrHQmF23CVDg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Jood Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJpcWJlKRdXz4R_xlx3JUG1WQ",
     "types": "establishment, lodging, point_of_interest",
@@ -1977,6 +2067,78 @@
     "name": "Jumeirah Beach - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ33KYXQNCXz4R75Vyz3iKaSk",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jumeirah Burj Al Arab - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJLc8UZFdqXz4ROODwebhx2rM",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jumeirah Zabeel Saray - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJu0L_icYUXz4RQsexAbn9Bes",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jvc district 11 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJX70Km85tXz4RzQuJYeInMRI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "K.M .TRADING SHOPPING CENTRE - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJNaKvuTNdXz4REqSX-W4uopo",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "KG Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJv8yQTVcTXz4RYF0kth65Y_Y",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "KNIGHT ARMOUR HOTEL - Dubai - Émirats arabes unis",
+    "place_id": "ChIJsT4JcR1dXz4RxuIhOxfC1DU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "KSK Homes Student Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJs7OqqoZjXz4ROEtHxeXAPdI",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Karama Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJwTbeStdCXz4RsHfYrklNuMw",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Karama Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9XTZCNdCXz4RUMqOS0iVb0Q",
+    "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kazakhstan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsc-TxNpAXz4R2AMmexlNB2A",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kempinski Central Avenue Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6zFaTIJCXz4RzwlBbB8DgA4",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kempinski Hotel Palm Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ95HhBx4VXz4RjuwjQYpQgAA",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -1998,6 +2160,48 @@
     "zone_type": "area"
   },
   {
+    "name": "Knight Castle Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJYRW2381cXz4R_9EqNsyq2W8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kyoto By Oro24 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJy3T3EQBvXz4RmxXimhnbBaA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kyrgyzstan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQebeDtxAXz4R_stsh_GONyM",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "L'horizon Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHdt1BABnXz4RxAxItPZoK2I",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "LEVA Hotel , Mazaya Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-cpyzABDXz4Rr45m1nUOGgk",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "LM EXCHANGE, Head Office - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAS7zQcxDXz4RtZC_ekMubqI",
+    "types": "establishment, finance, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "LPFLEX Base INDUSTRY LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcyL0HRxcXz4RFdE9RFYRG4M",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "La Mer, Dubai, Émirats arabes unis",
     "place_id": "ChIJFY87vzlDXz4R-k-PFb1DWkQ",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -2006,6 +2210,54 @@
   {
     "name": "Lac de la fontaine de Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJP_HMuyloXz4RyC5haEhlfT4",
+    "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Le Méridien Dubai Hotel & Conference Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJS3-iLQVdXz4RAXviWHHACB4",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Le Méridien Mina Seyahi Beach Resort & Waterpark - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTfKIpE9rXz4RpLxljOHLKAg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Le Royal Méridien Beach Resort & Spa - Dubai - Émirats arabes unis",
+    "place_id": "ChIJLZhqIWZrXz4R2NDMyEXqHEc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Liberty House - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbS7_FY9CXz4ReOKwBnScXzo",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Living Legends - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ60jf63BvXz4R-VC2bH8nuy0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "London Business School Dubai Centre - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_UtV6ZFCXz4RNopP2V-jrvo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lotus Grand Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJr7ycDMxcXz4R-ZfzIBvQjaY",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Love Lake - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJO4P3BkeBXz4RPbovWG84AvA",
     "types": "establishment, park, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
@@ -2061,6 +2313,18 @@
     "name": "Rashidiya Metro Station - Dubai - Émirats arabes unis",
     "place_id": "ChIJu2AXjvddXz4Riu-GzQW3Bug",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Samaya KQ Massage Spa - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgfGWRGZlXz4RCdTS7ITLvrE",
+    "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "Shri Krishna Temple - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJaWR3p0BDXz4RMrzkKD2pjqc",
+    "types": "establishment, hindu_temple, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -2175,6 +2439,12 @@
     "name": "illusion City - illusion museum Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJxbnI61YVXz4R1MeLbGsC69s",
     "types": "establishment, museum, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "kjri - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJC-0JOwBDXz4RdUs_Yjyvw-c",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
