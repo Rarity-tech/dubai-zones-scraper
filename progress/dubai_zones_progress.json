@@ -7419,7 +7419,57 @@
     "Dubai MYG",
     "Dubai MYH",
     "Dubai MYI",
-    "Dubai MYJ"
+    "Dubai MYJ",
+    "Dubai MYK",
+    "Dubai MYL",
+    "Dubai MYM",
+    "Dubai MYN",
+    "Dubai MYO",
+    "Dubai MYP",
+    "Dubai MYQ",
+    "Dubai MYR",
+    "Dubai MYS",
+    "Dubai MYT",
+    "Dubai MYU",
+    "Dubai MYV",
+    "Dubai MYW",
+    "Dubai MYX",
+    "Dubai MYY",
+    "Dubai MYZ",
+    "Dubai MZA",
+    "Dubai MZB",
+    "Dubai MZC",
+    "Dubai MZD",
+    "Dubai MZE",
+    "Dubai MZF",
+    "Dubai MZG",
+    "Dubai MZH",
+    "Dubai MZI",
+    "Dubai MZJ",
+    "Dubai MZK",
+    "Dubai MZL",
+    "Dubai MZM",
+    "Dubai MZN",
+    "Dubai MZO",
+    "Dubai MZP",
+    "Dubai MZQ",
+    "Dubai MZR",
+    "Dubai MZS",
+    "Dubai MZT",
+    "Dubai MZU",
+    "Dubai MZV",
+    "Dubai MZW",
+    "Dubai MZX",
+    "Dubai MZY",
+    "Dubai MZZ",
+    "Dubai QAA",
+    "Dubai QAB",
+    "Dubai QAC",
+    "Dubai QAD",
+    "Dubai QAE",
+    "Dubai QAF",
+    "Dubai QAG",
+    "Dubai QAH"
   ],
   "pending_n2": [
     {
@@ -66513,6 +66563,36 @@
     "ChIJ5ajF2UNqXz4Rxn7jPMkdmAE": {
       "name": "MYJETSKI - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ5ajF2UNqXz4Rxn7jPMkdmAE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ7XMZDgBDXz4RFRYZvcKFhPk": {
+      "name": "Myrtle Central Park - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ7XMZDgBDXz4RFRYZvcKFhPk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJQVTc1gNpXz4RLWMsvltXarg": {
+      "name": "MYZ Pilates - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQVTc1gNpXz4RLWMsvltXarg",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJhzXKcOxcXz4RgP6ZxD73ilU": {
+      "name": "Mohammed Zainal Faraidooni LLC - Dubai - Émirats arabes unis",
+      "place_id": "ChIJhzXKcOxcXz4RgP6ZxD73ilU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJaTbTp1cXz4R0xhU8sdMt-E": {
+      "name": "Al Mamzar Health Center | مركز الممزر الصحي - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJaTbTp1cXz4R0xhU8sdMt-E",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJ5_loxSFDXz4RKnMAePzogfM": {
+      "name": "Mankhool Park - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5_loxSFDXz4RKnMAePzogfM",
+      "types": "establishment, park, point_of_interest, tourist_attraction"
+    },
+    "ChIJ4eRirhhpXz4R0s0R6vuSsjw": {
+      "name": "Mercedes Benz Places by Binghatti - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ4eRirhhpXz4R0s0R6vuSsjw",
       "types": "establishment, point_of_interest"
     }
   }

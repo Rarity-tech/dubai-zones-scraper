@@ -1800,6 +1800,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Al Mamzar Health Center | مركز الممزر الصحي - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJaTbTp1cXz4R0xhU8sdMt-E",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Al Nasr Leisure Land, Dubai, Émirats arabes unis",
     "place_id": "ChIJhwG2Yc1CXz4RmRMPJjuSpxE",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -9576,6 +9582,12 @@
     "zone_type": "area"
   },
   {
+    "name": "MYZ Pilates - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQVTc1gNpXz4RLWMsvltXarg",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Madagascar - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJSxet1wFBXz4RME91ZvQNSvY",
     "types": "establishment, natural_feature",
@@ -9693,6 +9705,12 @@
     "name": "Manipal Academy of Higher Education - Dubai Campus, G04 - Dubaï - Émirats arabes unis",
     "place_id": "ChIJE8R_U5VjXz4RyDQaZD0yP5E",
     "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mankhool Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5_loxSFDXz4RKnMAePzogfM",
+    "types": "establishment, park, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -9918,6 +9936,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Mercedes Benz Places by Binghatti - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ4eRirhhpXz4R0s0R6vuSsjw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Mercure Dubai Barsha Heights Hotel Suites And Apartments - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJDwRRnHFrXz4RmFuD1Z7Scv4",
     "types": "establishment, lodging, point_of_interest",
@@ -10053,6 +10077,12 @@
     "name": "Mohammed Bin Rashid University of Medicine and Health Sciences - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJvVnlpjddXz4RY11gwpxIcgw",
     "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mohammed Zainal Faraidooni LLC - Dubai - Émirats arabes unis",
+    "place_id": "ChIJhzXKcOxcXz4RgP6ZxD73ilU",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -10268,6 +10298,12 @@
   {
     "name": "Mydan site - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgXK90xdpXz4R-6bvJNFUq78",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Myrtle Central Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ7XMZDgBDXz4RFRYZvcKFhPk",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
