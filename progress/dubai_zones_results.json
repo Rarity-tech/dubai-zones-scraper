@@ -6192,6 +6192,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Hamdan Bin Mohammed Smart University (HBMSU) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3Yj9TX1kXz4RLD09biKUAF8",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
     "name": "Hampton by Hilton Dubai Airport - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJbXiU3UlcXz4RiqRWkk0jv-w",
     "types": "establishment, lodging, point_of_interest",
@@ -6279,6 +6285,12 @@
     "name": "Hessa Street - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "EjRIZXNzYSBTdHJlZXQgLSBEdWJhaSAtIER1YmHDryAtIMOJbWlyYXRzIGFyYWJlcyB1bmlzIi4qLAoUChIJtTwQgWtsXz4RKyWcyj5liQsSFAoSCUXG2WpJQ18-EWJRKYRQbua9",
     "types": "geocode, route",
+    "zone_type": "area"
+  },
+  {
+    "name": "High Cube Cargo Containers Trading L.L.C - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxbBAkNlnXz4R5wicn_tfntg",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
