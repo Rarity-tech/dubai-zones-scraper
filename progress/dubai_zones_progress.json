@@ -8819,7 +8819,57 @@
     "Dubai SFC",
     "Dubai SFD",
     "Dubai SFE",
-    "Dubai SFF"
+    "Dubai SFF",
+    "Dubai SFG",
+    "Dubai SFH",
+    "Dubai SFI",
+    "Dubai SFJ",
+    "Dubai SFK",
+    "Dubai SFL",
+    "Dubai SFM",
+    "Dubai SFN",
+    "Dubai SFO",
+    "Dubai SFP",
+    "Dubai SFQ",
+    "Dubai SFR",
+    "Dubai SFS",
+    "Dubai SFT",
+    "Dubai SFU",
+    "Dubai SFV",
+    "Dubai SFW",
+    "Dubai SFX",
+    "Dubai SFY",
+    "Dubai SFZ",
+    "Dubai SGA",
+    "Dubai SGB",
+    "Dubai SGC",
+    "Dubai SGD",
+    "Dubai SGE",
+    "Dubai SGF",
+    "Dubai SGG",
+    "Dubai SGH",
+    "Dubai SGI",
+    "Dubai SGJ",
+    "Dubai SGK",
+    "Dubai SGL",
+    "Dubai SGM",
+    "Dubai SGN",
+    "Dubai SGO",
+    "Dubai SGP",
+    "Dubai SGQ",
+    "Dubai SGR",
+    "Dubai SGS",
+    "Dubai SGT",
+    "Dubai SGU",
+    "Dubai SGV",
+    "Dubai SGW",
+    "Dubai SGX",
+    "Dubai SGY",
+    "Dubai SGZ",
+    "Dubai SHA",
+    "Dubai SHB",
+    "Dubai SHC",
+    "Dubai SHD"
   ],
   "pending_n2": [
     {
@@ -69173,6 +69223,21 @@
     "ChIJVRyPKgBrXz4RAVbC-WsZCms": {
       "name": "Salesforce Middle East (Dubai) - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJVRyPKgBrXz4RAVbC-WsZCms",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJb2xqE25kXz4RhfINL76liJw": {
+      "name": "Sweet Garden Travel Retail - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJb2xqE25kXz4RhfINL76liJw",
+      "types": "establishment, point_of_interest"
+    },
+    "EjVEdWJhaSAtIFNoYXJqYWggUm9hZCAtIENoYXJqYWggLSDDiW1pcmF0cyBhcmFiZXMgdW5pcyIuKiwKFAoSCeEECu7uXF8-ERXj1C9vewr-EhQKEgnRmn2FjllfPhFmWrgcdm_HaA": {
+      "name": "Dubai - Sharjah Road - Charjah - Émirats arabes unis",
+      "place_id": "EjVEdWJhaSAtIFNoYXJqYWggUm9hZCAtIENoYXJqYWggLSDDiW1pcmF0cyBhcmFiZXMgdW5pcyIuKiwKFAoSCeEECu7uXF8-ERXj1C9vewr-EhQKEgnRmn2FjllfPhFmWrgcdm_HaA",
+      "types": "geocode, route"
+    },
+    "ChIJf-aZHQBdXz4RBq_L6r2suSc": {
+      "name": "Dubai Sharjah Border - Charjah - Émirats arabes unis",
+      "place_id": "ChIJf-aZHQBdXz4RBq_L6r2suSc",
       "types": "establishment, point_of_interest"
     }
   }

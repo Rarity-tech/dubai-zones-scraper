@@ -5310,6 +5310,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai - Sharjah Road - Charjah - Émirats arabes unis",
+    "place_id": "EjVEdWJhaSAtIFNoYXJqYWggUm9hZCAtIENoYXJqYWggLSDDiW1pcmF0cyBhcmFiZXMgdW5pcyIuKiwKFAoSCeEECu7uXF8-ERXj1C9vewr-EhQKEgnRmn2FjllfPhFmWrgcdm_HaA",
+    "types": "geocode, route",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Airbnb - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ7VkhEABDXz4RNIYxlpVPxzI",
     "types": "establishment, lodging, point_of_interest",
@@ -5900,6 +5906,12 @@
   {
     "name": "Dubai Science Park by TECOM Group - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ6RV_E4xuXz4RT5q5a84N6I8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Sharjah Border - Charjah - Émirats arabes unis",
+    "place_id": "ChIJf-aZHQBdXz4RBq_L6r2suSc",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -12458,6 +12470,12 @@
   {
     "name": "Surf 2 | Creek Beach - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJnTKAdxpnXz4RnRoR1SfJcSM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sweet Garden Travel Retail - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJb2xqE25kXz4RhfINL76liJw",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
