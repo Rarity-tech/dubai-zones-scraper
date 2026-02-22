@@ -8369,7 +8369,57 @@
     "Dubai RMU",
     "Dubai RMV",
     "Dubai RMW",
-    "Dubai RMX"
+    "Dubai RMX",
+    "Dubai RMY",
+    "Dubai RMZ",
+    "Dubai RNA",
+    "Dubai RNB",
+    "Dubai RNC",
+    "Dubai RND",
+    "Dubai RNE",
+    "Dubai RNF",
+    "Dubai RNG",
+    "Dubai RNH",
+    "Dubai RNI",
+    "Dubai RNJ",
+    "Dubai RNK",
+    "Dubai RNL",
+    "Dubai RNM",
+    "Dubai RNN",
+    "Dubai RNO",
+    "Dubai RNP",
+    "Dubai RNQ",
+    "Dubai RNR",
+    "Dubai RNS",
+    "Dubai RNT",
+    "Dubai RNU",
+    "Dubai RNV",
+    "Dubai RNW",
+    "Dubai RNX",
+    "Dubai RNY",
+    "Dubai RNZ",
+    "Dubai ROA",
+    "Dubai ROB",
+    "Dubai ROC",
+    "Dubai ROD",
+    "Dubai ROE",
+    "Dubai ROF",
+    "Dubai ROG",
+    "Dubai ROH",
+    "Dubai ROI",
+    "Dubai ROJ",
+    "Dubai ROK",
+    "Dubai ROL",
+    "Dubai ROM",
+    "Dubai RON",
+    "Dubai ROO",
+    "Dubai ROP",
+    "Dubai ROQ",
+    "Dubai ROR",
+    "Dubai ROS",
+    "Dubai ROT",
+    "Dubai ROU",
+    "Dubai ROV"
   ],
   "pending_n2": [
     {
@@ -68139,6 +68189,131 @@
       "name": "Rizq Luxurious Villa - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJzTdoJFtpXz4Rma5zopldQ-A",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJUSv4FttbXz4RD4wp-U5f9xo": {
+      "name": "Dubai Rent A Car - Charjah - Émirats arabes unis",
+      "place_id": "ChIJUSv4FttbXz4RD4wp-U5f9xo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJq6p66jlDXz4Ri_vLiRK3Ok4": {
+      "name": "Robin Hostel Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJq6p66jlDXz4Ri_vLiRK3Ok4",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJd0DINdJrXz4RwFWki3srFFs": {
+      "name": "Rocky Road Boxing Club - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJd0DINdJrXz4RwFWki3srFFs",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJj1Y9iKoUXz4RlKUDrLZbEZ0": {
+      "name": "Roda Amwaj Suites - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJj1Y9iKoUXz4RlKUDrLZbEZ0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJf3JCGtUTXz4RF5d7rLJrGjc": {
+      "name": "Roda Amwaj Suites, Amwaj 2 Entrance - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJf3JCGtUTXz4RF5d7rLJrGjc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJiwPK3ipDXz4RgqBm1fMKdRQ": {
+      "name": "Roda Al Murooj Building A - Dubai - Émirats arabes unis",
+      "place_id": "ChIJiwPK3ipDXz4RgqBm1fMKdRQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJI9vmPCVDXz4REQouc1TSiWc": {
+      "name": "Rose Garden Hotel Apartments - Bur Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJI9vmPCVDXz4REQouc1TSiWc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ8eGACE1rXz4RE3bv1iFLvks": {
+      "name": "Rose Plaza Hotel - Al Barsha - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8eGACE1rXz4RE3bv1iFLvks",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJX_TL4eZtXz4R7VZEOa8iA5k": {
+      "name": "Rose 10 Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJX_TL4eZtXz4R7VZEOa8iA5k",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJv80RzW1rXz4RF4e8fjSYyq8": {
+      "name": "The Forge Gym x Roger Gracie Dubai Academy - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJv80RzW1rXz4RF4e8fjSYyq8",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJDwLB7GVjXz4RMIRUxwYCXsA": {
+      "name": "Rohy Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDwLB7GVjXz4RMIRUxwYCXsA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJH6WfEzBsXz4RJ25jNk5bz_E": {
+      "name": "Dubai Rokane G22 Tower - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJH6WfEzBsXz4RJ25jNk5bz_E",
+      "types": "geocode, premise"
+    },
+    "ChIJIWa5pYRDXz4RbSvaZ100KRA": {
+      "name": "ROKANE G25 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIWa5pYRDXz4RbSvaZ100KRA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJq6rqKolCXz4RlwEBiCq-uyQ": {
+      "name": "Rolex Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJq6rqKolCXz4RlwEBiCq-uyQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJCx-4SgBDXz4RMil9mp6ANPg": {
+      "name": "ROLLA STREET BURDUBAI - Dubai - Émirats arabes unis",
+      "place_id": "ChIJCx-4SgBDXz4RMil9mp6ANPg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAzsfHUZDXz4R3yO1U4zrmCc": {
+      "name": "Rolla Suites Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAzsfHUZDXz4R3yO1U4zrmCc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJgTodjT1DXz4RLmAbR_Z1VdM": {
+      "name": "Rolla Residence Hotel Apartment - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgTodjT1DXz4RLmAbR_Z1VdM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJw_xV0-lAXz4Rn6PSu99JF2s": {
+      "name": "Romania - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJw_xV0-lAXz4Rn6PSu99JF2s",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJZxLl6mJtXz4RNHFhGByRkTg": {
+      "name": "ROOMS Photo Studio - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZxLl6mJtXz4RNHFhGByRkTg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJB0j__IZpXz4R8hQl6WcZR9Y": {
+      "name": "Roomyco Rooms & Studios - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJB0j__IZpXz4R8hQl6WcZR9Y",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJqXN4_KlpXz4Rs7pXTUiUwW0": {
+      "name": "Luxury Home Spa Dubai - Home & Hotel Service - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqXN4_KlpXz4Rs7pXTUiUwW0",
+      "types": "establishment, point_of_interest, spa"
+    },
+    "ChIJIwnILJZrXz4RIg01Fs14VTc": {
+      "name": "Rotana Centro Hotel - Albarsha - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIwnILJZrXz4RIg01Fs14VTc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJNz1SxX9pXz4RwGcQu5fOoOc": {
+      "name": "Round 10 Boxing Club - Boxing Gym Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJNz1SxX9pXz4RwGcQu5fOoOc",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJM9h3NVcTXz4R370Yt7qBmmk": {
+      "name": "Rove Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJM9h3NVcTXz4R370Yt7qBmmk",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJAdu0p-hCXz4R7q1bPoFIuNs": {
+      "name": "Rove Trade Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAdu0p-hCXz4R7q1bPoFIuNs",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }
