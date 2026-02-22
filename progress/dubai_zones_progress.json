@@ -1119,7 +1119,57 @@
     "Dubai AWY",
     "Dubai AWZ",
     "Dubai AXA",
-    "Dubai AXB"
+    "Dubai AXB",
+    "Dubai AXC",
+    "Dubai AXD",
+    "Dubai AXE",
+    "Dubai AXF",
+    "Dubai AXG",
+    "Dubai AXH",
+    "Dubai AXI",
+    "Dubai AXJ",
+    "Dubai AXK",
+    "Dubai AXL",
+    "Dubai AXM",
+    "Dubai AXN",
+    "Dubai AXO",
+    "Dubai AXP",
+    "Dubai AXQ",
+    "Dubai AXR",
+    "Dubai AXS",
+    "Dubai AXT",
+    "Dubai AXU",
+    "Dubai AXV",
+    "Dubai AXW",
+    "Dubai AXX",
+    "Dubai AXY",
+    "Dubai AXZ",
+    "Dubai AYA",
+    "Dubai AYB",
+    "Dubai AYC",
+    "Dubai AYD",
+    "Dubai AYE",
+    "Dubai AYF",
+    "Dubai AYG",
+    "Dubai AYH",
+    "Dubai AYI",
+    "Dubai AYJ",
+    "Dubai AYK",
+    "Dubai AYL",
+    "Dubai AYM",
+    "Dubai AYN",
+    "Dubai AYO",
+    "Dubai AYP",
+    "Dubai AYQ",
+    "Dubai AYR",
+    "Dubai AYS",
+    "Dubai AYT",
+    "Dubai AYU",
+    "Dubai AYV",
+    "Dubai AYW",
+    "Dubai AYX",
+    "Dubai AYY",
+    "Dubai AYZ"
   ],
   "pending_n2": [
     {
@@ -54469,6 +54519,71 @@
       "name": "American Wellness Center, Ground Floor - Dubai - Émirats arabes unis",
       "place_id": "ChIJIyaPNzZdXz4RdDwmeUhC2Rs",
       "types": "doctor, establishment, health, hospital, point_of_interest"
+    },
+    "ChIJ7fZQl51rXz4RYNQFjyTtt3k": {
+      "name": "Knowledge Village Block 8 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ7fZQl51rXz4RYNQFjyTtt3k",
+      "types": "doctor, establishment, health, point_of_interest"
+    },
+    "ChIJP8HvruRpXz4R_AnD9Puyol0": {
+      "name": "Taxi Stand Dubai mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP8HvruRpXz4R_AnD9Puyol0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJjYfscQBfXz4RIUfLqsRvsqk": {
+      "name": "Dubai Taxi Corporation - Key Room - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJjYfscQBfXz4RIUfLqsRvsqk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJzy-WmaxfXz4Ree_9bor6-RI": {
+      "name": "Dubai Taxi Company - Amman Street - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzy-WmaxfXz4Ree_9bor6-RI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJhzlmRU9DXz4RqaJv3-xLptU": {
+      "name": "Ayal Nasir - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhzlmRU9DXz4RqaJv3-xLptU",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJDbveDgBlXz4R2yDxtqq3qvo": {
+      "name": "Ayat Oasis - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDbveDgBlXz4R2yDxtqq3qvo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJHWycP8NlXz4RlteTHF3rN6E": {
+      "name": "Ayat Park View - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHWycP8NlXz4RlteTHF3rN6E",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJie8kSQBpXz4RUZowGZ25Fok": {
+      "name": "Aycon - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJie8kSQBpXz4RUZowGZ25Fok",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJswlsk-tdXz4RObu3WiJtSjc": {
+      "name": "Ayedh Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJswlsk-tdXz4RObu3WiJtSjc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ1XiLn91CXz4Rxdx_gt7HWcA": {
+      "name": "Al Yalayis Government Transaction Center - Al Kifaf Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1XiLn91CXz4Rxdx_gt7HWcA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJF8-72_ppXz4RFWqokj9lTKE": {
+      "name": "Aykon Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJF8-72_ppXz4RFWqokj9lTKE",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJge1-Rf9pXz4RvcO_AJOdy7A": {
+      "name": "Aykon City Tower C Sheikh Zayed Road - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJge1-Rf9pXz4RvcO_AJOdy7A",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ8fAITwBtXz4RaWYV0pZIFwQ": {
+      "name": "Ayla Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8fAITwBtXz4RaWYV0pZIFwQ",
+      "types": "establishment, point_of_interest"
     }
   }
 }

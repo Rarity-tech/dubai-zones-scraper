@@ -480,6 +480,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Ayal Nasir - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJhzlmRU9DXz4RqaJv3-xLptU",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Barsha Heights - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJaalDqnBrXz4RfaAHa2zNtu0",
     "types": "geocode, neighborhood, political",
@@ -1362,6 +1368,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Al Yalayis Government Transaction Center - Al Kifaf Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1XiLn91CXz4Rxdx_gt7HWcA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Al Zahra Hospital Dubai - Dubai - Émirats arabes unis",
     "place_id": "ChIJS3AFlXVrXz4RFlR4wkldChs",
     "types": "establishment, health, hospital, point_of_interest",
@@ -2136,6 +2148,30 @@
     "zone_type": "area"
   },
   {
+    "name": "Ayat Oasis - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDbveDgBlXz4R2yDxtqq3qvo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ayat Park View - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHWycP8NlXz4RlteTHF3rN6E",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Aycon - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJie8kSQBpXz4RUZowGZ25Fok",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ayedh Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJswlsk-tdXz4RObu3WiJtSjc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Aykon City - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ9zsKvNxpXz4RaUt49govVHM",
     "types": "establishment, lodging, point_of_interest",
@@ -2150,6 +2186,24 @@
   {
     "name": "Aykon City Tower C - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJR2N5YQBpXz4RQeNg1pGjsu0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Aykon City Tower C Sheikh Zayed Road - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJge1-Rf9pXz4RvcO_AJOdy7A",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Aykon Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJF8-72_ppXz4RFWqokj9lTKE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ayla Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8fAITwBtXz4RaWYV0pZIFwQ",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -2936,6 +2990,18 @@
   {
     "name": "Dubai Square Mall - Creek Harbour - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD6mmWQBnXz4RlFW8eEmuSJg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Taxi Company - Amman Street - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzy-WmaxfXz4Ree_9bor6-RI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Taxi Corporation - Key Room - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJjYfscQBfXz4RIUfLqsRvsqk",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -3729,6 +3795,12 @@
     "name": "Knight Castle Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJYRW2381cXz4R_9EqNsyq2W8",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Knowledge Village Block 8 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ7fZQl51rXz4RYNQFjyTtt3k",
+    "types": "doctor, establishment, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -4611,6 +4683,12 @@
     "name": "Tanzania - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJVUeatv1AXz4R4847v8kimaQ",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Taxi Stand Dubai mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP8HvruRpXz4R_AnD9Puyol0",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
