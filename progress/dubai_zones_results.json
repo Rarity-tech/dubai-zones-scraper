@@ -11064,6 +11064,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Oud Zeryab For Musical Instruments Main office - عود زرياب للآلات الموسيقية الإدارة العامة - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJS7R5yj5dXz4RkQ5od3bbDpY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "PARAGLIDING PARACHUTING CLUB HATTA Dubai - E44 - Dubai - Émirats arabes unis",
     "place_id": "ChIJAw5sDUEf9T4RZW3rstnyORU",
     "types": "establishment, point_of_interest",
@@ -15381,6 +15387,12 @@
     "name": "ZOO Digital Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD9dW725vXz4R4JGzt60bokY",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ZRQMSPEAK - Dubai - Émirats arabes unis",
+    "place_id": "ChIJg81xTDlDXz4RZg1pYd2rjHI",
+    "types": "establishment, point_of_interest, shopping_mall",
     "zone_type": "area"
   },
   {
