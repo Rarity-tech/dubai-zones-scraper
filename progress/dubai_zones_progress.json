@@ -9519,7 +9519,57 @@
     "Dubai TGA",
     "Dubai TGB",
     "Dubai TGC",
-    "Dubai TGD"
+    "Dubai TGD",
+    "Dubai TGE",
+    "Dubai TGF",
+    "Dubai TGG",
+    "Dubai TGH",
+    "Dubai TGI",
+    "Dubai TGJ",
+    "Dubai TGK",
+    "Dubai TGL",
+    "Dubai TGM",
+    "Dubai TGN",
+    "Dubai TGO",
+    "Dubai TGP",
+    "Dubai TGQ",
+    "Dubai TGR",
+    "Dubai TGS",
+    "Dubai TGT",
+    "Dubai TGU",
+    "Dubai TGV",
+    "Dubai TGW",
+    "Dubai TGX",
+    "Dubai TGY",
+    "Dubai TGZ",
+    "Dubai THA",
+    "Dubai THB",
+    "Dubai THC",
+    "Dubai THD",
+    "Dubai THE",
+    "Dubai THF",
+    "Dubai THG",
+    "Dubai THH",
+    "Dubai THI",
+    "Dubai THJ",
+    "Dubai THK",
+    "Dubai THL",
+    "Dubai THM",
+    "Dubai THN",
+    "Dubai THO",
+    "Dubai THP",
+    "Dubai THQ",
+    "Dubai THR",
+    "Dubai THS",
+    "Dubai THT",
+    "Dubai THU",
+    "Dubai THV",
+    "Dubai THW",
+    "Dubai THX",
+    "Dubai THY",
+    "Dubai THZ",
+    "Dubai TIA",
+    "Dubai TIB"
   ],
   "pending_n2": [
     {
@@ -70718,6 +70768,76 @@
     "ChIJua6SJRdoXz4RX7rx39T5Exs": {
       "name": "The Factory Production Studio (TFPS) - Dubai - Émirats arabes unis",
       "place_id": "ChIJua6SJRdoXz4RX7rx39T5Exs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJHUL1ocBZXz4Rzs7d-xtD8LY": {
+      "name": "T GRILLS CAFE & REST. - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHUL1ocBZXz4Rzs7d-xtD8LY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJv8gC1sdsXz4RkKZn95oq2cU": {
+      "name": "Al Thanyah Fifth, Dubai, Émirats arabes unis",
+      "place_id": "ChIJv8gC1sdsXz4RkKZn95oq2cU",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJARon6d9AXz4RztS2t7x_fNU": {
+      "name": "Thailand - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJARon6d9AXz4RztS2t7x_fNU",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJkwQIAmRrXz4RZpPSttgow5w": {
+      "name": "Al Thanyah Third, Dubai, Émirats arabes unis",
+      "place_id": "ChIJkwQIAmRrXz4RZpPSttgow5w",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJFZ6qqvpsXz4R3YScMQuBv1s": {
+      "name": "Al Thanyah Fourth, Dubai, Émirats arabes unis",
+      "place_id": "ChIJFZ6qqvpsXz4R3YScMQuBv1s",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJC7lrkBNrXz4RLUjRIy8PBSA": {
+      "name": "The View Palm Jumeirah, Dubai, Émirats arabes unis",
+      "place_id": "ChIJC7lrkBNrXz4RLUjRIy8PBSA",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJJVaIXxFnXz4RYIXypzPTpbI": {
+      "name": "Le Grand, Dubai, Émirats arabes unis",
+      "place_id": "ChIJJVaIXxFnXz4RYIXypzPTpbI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJwSE2Ch9dXz4RBgZ0Vr4u7pc": {
+      "name": "The Hanging House - An Experiential Agency - Dubai - Émirats arabes unis",
+      "place_id": "ChIJwSE2Ch9dXz4RBgZ0Vr4u7pc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJkyqB_XVsXz4RrWXGZlFUsk8": {
+      "name": "Al Barsha 3, Dubai, Émirats arabes unis",
+      "place_id": "ChIJkyqB_XVsXz4RrWXGZlFUsk8",
+      "types": "neighborhood, political"
+    },
+    "ChIJK05FW1trXz4R8hDCogkxTdQ": {
+      "name": "Thuraya Tower 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJK05FW1trXz4R8hDCogkxTdQ",
+      "types": "geocode, premise"
+    },
+    "ChIJUX7SvitrXz4RumBLd8b6VPs": {
+      "name": "Tiara Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJUX7SvitrXz4RumBLd8b6VPs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ53Z-79NDXz4RujNpX_H7dng": {
+      "name": "Tiara Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ53Z-79NDXz4RujNpX_H7dng",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJO7Hi8NlpXz4RItL8hfpnjnY": {
+      "name": "Tiara United Towers - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJO7Hi8NlpXz4RItL8hfpnjnY",
+      "types": "geocode, premise"
+    },
+    "ChIJtcWSh8xpXz4R7GUv55Em3gs": {
+      "name": "Tiara United Towers - East Tower (P638) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJtcWSh8xpXz4R7GUv55Em3gs",
       "types": "establishment, point_of_interest"
     }
   }

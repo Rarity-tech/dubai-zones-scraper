@@ -192,6 +192,24 @@
     "zone_type": "city"
   },
   {
+    "name": "Al Thanyah Fifth, Dubai, Émirats arabes unis",
+    "place_id": "ChIJv8gC1sdsXz4RkKZn95oq2cU",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
+    "name": "Al Thanyah Fourth, Dubai, Émirats arabes unis",
+    "place_id": "ChIJFZ6qqvpsXz4R3YScMQuBv1s",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
+    "name": "Al Thanyah Third, Dubai, Émirats arabes unis",
+    "place_id": "ChIJkwQIAmRrXz4RZpPSttgow5w",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Al-Raffa, Dubai, Émirats arabes unis",
     "place_id": "ChIJu7ZyDhdDXz4R6wfJPDoMXk0",
     "types": "political, sublocality, sublocality_level_1",
@@ -512,6 +530,12 @@
   {
     "name": "Al Barsha 1, Dubai, Émirats arabes unis",
     "place_id": "ChIJNcoxq5RrXz4Ry1wVA_NmbB0",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al Barsha 3, Dubai, Émirats arabes unis",
+    "place_id": "ChIJkyqB_XVsXz4RrWXGZlFUsk8",
     "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -9276,6 +9300,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Le Grand, Dubai, Émirats arabes unis",
+    "place_id": "ChIJJVaIXxFnXz4RYIXypzPTpbI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Le Méridien Dubai Hotel & Conference Centre - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJS3-iLQVdXz4RAXviWHHACB4",
     "types": "establishment, lodging, point_of_interest",
@@ -13260,6 +13290,12 @@
     "zone_type": "area"
   },
   {
+    "name": "T GRILLS CAFE & REST. - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHUL1ocBZXz4Rzs7d-xtD8LY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "T-Rex Glamping Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJrdtQb6oPXz4Rb3X03aATh6s",
     "types": "establishment, lodging, point_of_interest",
@@ -13542,6 +13578,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Thailand - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJARon6d9AXz4RztS2t7x_fNU",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "The Address Downtown, Dubai, Émirats arabes unis",
     "place_id": "ChIJ7w0gwihoXz4R4F5KVQWLoH0",
     "types": "establishment, lodging, point_of_interest",
@@ -13638,6 +13680,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Hanging House - An Experiential Agency - Dubai - Émirats arabes unis",
+    "place_id": "ChIJwSE2Ch9dXz4RBgZ0Vr4u7pc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "The Island Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJm-8UuOhAXz4Rzu3fJ6acxAs",
     "types": "establishment, natural_feature",
@@ -13722,6 +13770,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The View Palm Jumeirah, Dubai, Émirats arabes unis",
+    "place_id": "ChIJC7lrkBNrXz4RLUjRIy8PBSA",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "The Wings by Al Mizan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCUF7r51DXz4RVfBOqAo76To",
     "types": "establishment, point_of_interest",
@@ -13734,9 +13788,39 @@
     "zone_type": "area"
   },
   {
+    "name": "Thuraya Tower 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJK05FW1trXz4R8hDCogkxTdQ",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Théâtre de l'art numérique, Dubai, Émirats arabes unis",
     "place_id": "ChIJabgg9lZrXz4RG3hNr_vISsg",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tiara Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJUX7SvitrXz4RumBLd8b6VPs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tiara Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ53Z-79NDXz4RujNpX_H7dng",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tiara United Towers - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJO7Hi8NlpXz4RItL8hfpnjnY",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tiara United Towers - East Tower (P638) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJtcWSh8xpXz4R7GUv55Em3gs",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
