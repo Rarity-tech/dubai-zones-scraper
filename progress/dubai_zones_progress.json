@@ -8219,7 +8219,57 @@
     "Dubai RHA",
     "Dubai RHB",
     "Dubai RHC",
-    "Dubai RHD"
+    "Dubai RHD",
+    "Dubai RHE",
+    "Dubai RHF",
+    "Dubai RHG",
+    "Dubai RHH",
+    "Dubai RHI",
+    "Dubai RHJ",
+    "Dubai RHK",
+    "Dubai RHL",
+    "Dubai RHM",
+    "Dubai RHN",
+    "Dubai RHO",
+    "Dubai RHP",
+    "Dubai RHQ",
+    "Dubai RHR",
+    "Dubai RHS",
+    "Dubai RHT",
+    "Dubai RHU",
+    "Dubai RHV",
+    "Dubai RHW",
+    "Dubai RHX",
+    "Dubai RHY",
+    "Dubai RHZ",
+    "Dubai RIA",
+    "Dubai RIB",
+    "Dubai RIC",
+    "Dubai RID",
+    "Dubai RIE",
+    "Dubai RIF",
+    "Dubai RIG",
+    "Dubai RIH",
+    "Dubai RII",
+    "Dubai RIJ",
+    "Dubai RIK",
+    "Dubai RIL",
+    "Dubai RIM",
+    "Dubai RIN",
+    "Dubai RIO",
+    "Dubai RIP",
+    "Dubai RIQ",
+    "Dubai RIR",
+    "Dubai RIS",
+    "Dubai RIT",
+    "Dubai RIU",
+    "Dubai RIV",
+    "Dubai RIW",
+    "Dubai RIX",
+    "Dubai RIY",
+    "Dubai RIZ",
+    "Dubai RJA",
+    "Dubai RJB"
   ],
   "pending_n2": [
     {
@@ -67859,6 +67909,136 @@
       "name": "Park Inn by Radisson Dubai Motor City - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJqx5t8GtuXz4R8d_Y6U15oN8",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ4XJig8lpXz4RhztdGY-zD10": {
+      "name": "Royal Heights at Burj Royale - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ4XJig8lpXz4RhztdGY-zD10",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJJVp3jMtrXz4R6kpDI4XkJIc": {
+      "name": "Perfect Doctors Clinic Dubai Rhinoplasty BBL Liposuction Gynecomastia tummy tuck facelift Breast body lift butt fillers botox - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJVp3jMtrXz4R6kpDI4XkJIc",
+      "types": "beauty_salon, doctor, establishment, hair_care, health, point_of_interest"
+    },
+    "ChIJpXJExGddXz4RsvlnNgWns6E": {
+      "name": "Riah Towers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpXJExGddXz4RsvlnNgWns6E",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ2RMAKs5tXz4RCQxIqh8_TgI": {
+      "name": "Ric Banks Dance Academy - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ2RMAKs5tXz4RCQxIqh8_TgI",
+      "types": "establishment, gym, health, point_of_interest, school"
+    },
+    "ChIJu7ZyDhdDXz4R6wfJPDoMXk0": {
+      "name": "Al-Raffa, Dubai, Émirats arabes unis",
+      "place_id": "ChIJu7ZyDhdDXz4R6wfJPDoMXk0",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJ26DcLRVDXz4RkLlptWUsPhg": {
+      "name": "Al Raffa Police Station - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ26DcLRVDXz4RkLlptWUsPhg",
+      "types": "establishment, local_government_office, point_of_interest, police"
+    },
+    "ChIJTbgT1MxdXz4RFwJgN_qgFqk": {
+      "name": "Rigga night market - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTbgT1MxdXz4RFwJgN_qgFqk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ-Rqbt85cXz4RWV8-dankW1k": {
+      "name": "Rigga business center - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ-Rqbt85cXz4RWV8-dankW1k",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJL3Zs9mRtXz4RVJ7Vd2UH02w": {
+      "name": "Dusit Princess Rijas Hotel JVC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJL3Zs9mRtXz4RVJ7Vd2UH02w",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJO8tBalFDXz4RXLniaYUHJ6A": {
+      "name": "Rikas Hospitality Group - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJO8tBalFDXz4RXLniaYUHJ6A",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJpWoHZqoUXz4R9GXwg_13T7s": {
+      "name": "Rimal 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpWoHZqoUXz4R9GXwg_13T7s",
+      "types": "geocode, premise"
+    },
+    "ChIJ-_locKoUXz4R3nBrRbSIpPo": {
+      "name": "Rimal 3 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ-_locKoUXz4R3nBrRbSIpPo",
+      "types": "geocode, premise"
+    },
+    "ChIJXczRCaoUXz4RT-RJNlGmcwY": {
+      "name": "Rimal 5 - King Salman Bin Abdulaziz Al Saud Street - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJXczRCaoUXz4RT-RJNlGmcwY",
+      "types": "geocode, premise"
+    },
+    "ChIJGfgRBABrXz4RPO9LbQ-22j4": {
+      "name": "Ripe market football - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJGfgRBABrXz4RPO9LbQ-22j4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJycluj8lrXz4R4IVTMfEFFC0": {
+      "name": "The Ripe Market - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJycluj8lrXz4R4IVTMfEFFC0",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJV3up52pDXz4RUICMWNjWiWg": {
+      "name": "Landmark Riqqa Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV3up52pDXz4RUICMWNjWiWg",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJhTor6IZtXz4Rn6C9UuaHVxc": {
+      "name": "Rise Residences - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhTor6IZtXz4Rn6C9UuaHVxc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJbz-irawUXz4ReY-nsmG6otQ": {
+      "name": "The Ritz-Carlton, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbz-irawUXz4ReY-nsmG6otQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJj9T1eI5CXz4RsjfdY7PTTS0": {
+      "name": "The Ritz-Carlton, Dubai International Financial Centre - Dubai - Émirats arabes unis",
+      "place_id": "ChIJj9T1eI5CXz4RsjfdY7PTTS0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ1_QE80ByXz4RSS7g5yJ1dKM": {
+      "name": "Ritaj DIP - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1_QE80ByXz4RSS7g5yJ1dKM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJnUHLZhplXz4R-WY9NdHSuLg": {
+      "name": "Rochester Institute of Technology | DSO (RIT Dubai) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJnUHLZhplXz4R-WY9NdHSuLg",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJP_SCPM1cXz4REduMEFoX85M": {
+      "name": "Riviera Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP_SCPM1cXz4REduMEFoX85M",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJS9Vuc3cPXz4RiLHMzP9CPlQ": {
+      "name": "Riverland Dubaï, Dubai, Émirats arabes unis",
+      "place_id": "ChIJS9Vuc3cPXz4RiLHMzP9CPlQ",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJlYaaWABxXz4RfT6nfDVdUsQ": {
+      "name": "Riverside | DAMAC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJlYaaWABxXz4RfT6nfDVdUsQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJs-j3BgBrXz4Rtv85JQ38YB0": {
+      "name": "Rixos the Palm Hotel Private beach - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJs-j3BgBrXz4Rtv85JQ38YB0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJzTdoJFtpXz4Rma5zopldQ-A": {
+      "name": "Rizq Luxurious Villa - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzTdoJFtpXz4Rma5zopldQ-A",
+      "types": "establishment, point_of_interest"
     }
   }
 }
