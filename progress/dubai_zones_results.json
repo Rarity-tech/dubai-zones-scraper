@@ -13194,8 +13194,26 @@
     "zone_type": "area"
   },
   {
+    "name": "Syann Park 1 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJxW_GwGRuXz4RpR6vLZEsZg8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sycamore Damac Akoya - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJYezZJZl7Xz4RhWOeuEm1eeI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Sydney Tower-JVC - Dubai - Émirats arabes unis",
     "place_id": "ChIJCy5LKbVtXz4RX0cOJIOJFc8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sydney Villas - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ_ynttAltXz4RuVstvps5AHo",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },

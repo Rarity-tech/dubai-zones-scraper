@@ -9269,7 +9269,57 @@
     "Dubai SWK",
     "Dubai SWL",
     "Dubai SWM",
-    "Dubai SWN"
+    "Dubai SWN",
+    "Dubai SWO",
+    "Dubai SWP",
+    "Dubai SWQ",
+    "Dubai SWR",
+    "Dubai SWS",
+    "Dubai SWT",
+    "Dubai SWU",
+    "Dubai SWV",
+    "Dubai SWW",
+    "Dubai SWX",
+    "Dubai SWY",
+    "Dubai SWZ",
+    "Dubai SXA",
+    "Dubai SXB",
+    "Dubai SXC",
+    "Dubai SXD",
+    "Dubai SXE",
+    "Dubai SXF",
+    "Dubai SXG",
+    "Dubai SXH",
+    "Dubai SXI",
+    "Dubai SXJ",
+    "Dubai SXK",
+    "Dubai SXL",
+    "Dubai SXM",
+    "Dubai SXN",
+    "Dubai SXO",
+    "Dubai SXP",
+    "Dubai SXQ",
+    "Dubai SXR",
+    "Dubai SXS",
+    "Dubai SXT",
+    "Dubai SXU",
+    "Dubai SXV",
+    "Dubai SXW",
+    "Dubai SXX",
+    "Dubai SXY",
+    "Dubai SXZ",
+    "Dubai SYA",
+    "Dubai SYB",
+    "Dubai SYC",
+    "Dubai SYD",
+    "Dubai SYE",
+    "Dubai SYF",
+    "Dubai SYG",
+    "Dubai SYH",
+    "Dubai SYI",
+    "Dubai SYJ",
+    "Dubai SYK",
+    "Dubai SYL"
   ],
   "pending_n2": [
     {
@@ -70243,6 +70293,21 @@
     "ChIJ63iSDyhDXz4RWpmOkp0qlbA": {
       "name": "swftbox - E-commerce Fulfillment & Delivery - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ63iSDyhDXz4RWpmOkp0qlbA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJxW_GwGRuXz4RpR6vLZEsZg8": {
+      "name": "Syann Park 1 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJxW_GwGRuXz4RpR6vLZEsZg8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJYezZJZl7Xz4RhWOeuEm1eeI": {
+      "name": "Sycamore Damac Akoya - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJYezZJZl7Xz4RhWOeuEm1eeI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ_ynttAltXz4RuVstvps5AHo": {
+      "name": "Sydney Villas - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ_ynttAltXz4RuVstvps5AHo",
       "types": "establishment, point_of_interest"
     }
   }
