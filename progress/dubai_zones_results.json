@@ -4674,6 +4674,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai - Charjah - Émirats arabes unis",
+    "place_id": "ChIJR25fvGZZXz4RmAAyzMKuKOQ",
+    "types": "establishment, health, point_of_interest, store",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Airbnb - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ7VkhEABDXz4RNIYxlpVPxzI",
     "types": "establishment, lodging, point_of_interest",
