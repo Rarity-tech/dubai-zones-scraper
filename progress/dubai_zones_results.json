@@ -3138,6 +3138,12 @@
     "zone_type": "area"
   },
   {
+    "name": "CBH WORLD - Colaci Business Hub DWC - LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgSHOuaEMXz4RcNeqVVDD4tc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "CK Architecture Interiors LLC - Dubai - Émirats arabes unis",
     "place_id": "ChIJjcI1RrxrXz4RcYlnpaQ7oQY",
     "types": "establishment, point_of_interest",
@@ -3276,6 +3282,24 @@
     "zone_type": "area"
   },
   {
+    "name": "Caya II - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJz6-dcw9lXz4RXHFxBeBrUAA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Caya | Arabian Ranches III - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-RERJdZlXz4RosbQFOlmsVw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cayan Business Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJCQchgnlrXz4RiWrc1hHGcxw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Cayan Tower - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgwipB1FrXz4RuF_dUdnCVs8",
     "types": "establishment, point_of_interest",
@@ -3309,6 +3333,12 @@
     "name": "Chinatown Dubai Mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJj8g_NhxpXz4RRots5mcUfCA",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Chloe Bye One Medical & Laboratory Equipments Repairing Est. - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ23CydABDXz4RhhR3XYj0pIw",
+    "types": "establishment, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3375,6 +3405,12 @@
     "name": "Creek Harbour Public Viewing Deck. - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ0f1J2YFnXz4RuBoXBELr40A",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cuban Boxing Club Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJW2fDlEBrXz4RIP5PJ_vLx34",
+    "types": "establishment, gym, health, point_of_interest",
     "zone_type": "area"
   },
   {

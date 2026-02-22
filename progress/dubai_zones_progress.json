@@ -1869,7 +1869,57 @@
     "Dubai CAU",
     "Dubai CAV",
     "Dubai CAW",
-    "Dubai CAX"
+    "Dubai CAX",
+    "Dubai CAY",
+    "Dubai CAZ",
+    "Dubai CBA",
+    "Dubai CBB",
+    "Dubai CBC",
+    "Dubai CBD",
+    "Dubai CBE",
+    "Dubai CBF",
+    "Dubai CBG",
+    "Dubai CBH",
+    "Dubai CBI",
+    "Dubai CBJ",
+    "Dubai CBK",
+    "Dubai CBL",
+    "Dubai CBM",
+    "Dubai CBN",
+    "Dubai CBO",
+    "Dubai CBP",
+    "Dubai CBQ",
+    "Dubai CBR",
+    "Dubai CBS",
+    "Dubai CBT",
+    "Dubai CBU",
+    "Dubai CBV",
+    "Dubai CBW",
+    "Dubai CBX",
+    "Dubai CBY",
+    "Dubai CBZ",
+    "Dubai CDA",
+    "Dubai CDB",
+    "Dubai CDC",
+    "Dubai CDD",
+    "Dubai CDE",
+    "Dubai CDF",
+    "Dubai CDG",
+    "Dubai CDH",
+    "Dubai CDI",
+    "Dubai CDJ",
+    "Dubai CDK",
+    "Dubai CDL",
+    "Dubai CDM",
+    "Dubai CDN",
+    "Dubai CDO",
+    "Dubai CDP",
+    "Dubai CDQ",
+    "Dubai CDR",
+    "Dubai CDS",
+    "Dubai CDT",
+    "Dubai CDU",
+    "Dubai CDV"
   ],
   "pending_n2": [
     {
@@ -56154,6 +56204,36 @@
       "name": "Cavalli Tower - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJW5GIIslrXz4RIeKqXuXqVz8",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJ-RERJdZlXz4RosbQFOlmsVw": {
+      "name": "Caya | Arabian Ranches III - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ-RERJdZlXz4RosbQFOlmsVw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJz6-dcw9lXz4RXHFxBeBrUAA": {
+      "name": "Caya II - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJz6-dcw9lXz4RXHFxBeBrUAA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJCQchgnlrXz4RiWrc1hHGcxw": {
+      "name": "Cayan Business Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJCQchgnlrXz4RiWrc1hHGcxw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJW2fDlEBrXz4RIP5PJ_vLx34": {
+      "name": "Cuban Boxing Club Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJW2fDlEBrXz4RIP5PJ_vLx34",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJgSHOuaEMXz4RcNeqVVDD4tc": {
+      "name": "CBH WORLD - Colaci Business Hub DWC - LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgSHOuaEMXz4RcNeqVVDD4tc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ23CydABDXz4RhhR3XYj0pIw": {
+      "name": "Chloe Bye One Medical & Laboratory Equipments Repairing Est. - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ23CydABDXz4RhhR3XYj0pIw",
+      "types": "establishment, health, point_of_interest"
     }
   }
 }
