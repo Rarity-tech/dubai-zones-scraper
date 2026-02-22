@@ -2669,7 +2669,57 @@
     "Dubai DJO",
     "Dubai DJP",
     "Dubai DJQ",
-    "Dubai DJR"
+    "Dubai DJR",
+    "Dubai DJS",
+    "Dubai DJT",
+    "Dubai DJU",
+    "Dubai DJV",
+    "Dubai DJW",
+    "Dubai DJX",
+    "Dubai DJY",
+    "Dubai DJZ",
+    "Dubai DKA",
+    "Dubai DKB",
+    "Dubai DKC",
+    "Dubai DKD",
+    "Dubai DKE",
+    "Dubai DKF",
+    "Dubai DKG",
+    "Dubai DKH",
+    "Dubai DKI",
+    "Dubai DKJ",
+    "Dubai DKK",
+    "Dubai DKL",
+    "Dubai DKM",
+    "Dubai DKN",
+    "Dubai DKO",
+    "Dubai DKP",
+    "Dubai DKQ",
+    "Dubai DKR",
+    "Dubai DKS",
+    "Dubai DKT",
+    "Dubai DKU",
+    "Dubai DKV",
+    "Dubai DKW",
+    "Dubai DKX",
+    "Dubai DKY",
+    "Dubai DKZ",
+    "Dubai DLA",
+    "Dubai DLB",
+    "Dubai DLC",
+    "Dubai DLD",
+    "Dubai DLE",
+    "Dubai DLF",
+    "Dubai DLG",
+    "Dubai DLH",
+    "Dubai DLI",
+    "Dubai DLJ",
+    "Dubai DLK",
+    "Dubai DLL",
+    "Dubai DLM",
+    "Dubai DLN",
+    "Dubai DLO",
+    "Dubai DLP"
   ],
   "pending_n2": [
     {
@@ -57874,6 +57924,41 @@
       "name": "Diverse Performing Arts School and Entertainment - Dubai - Émirats arabes unis",
       "place_id": "ChIJk0V1bIxpXz4RTp40uIf9K8o",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJ6UBfenZCXz4RYAK-D4Yhwm8": {
+      "name": "DJS - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ6UBfenZCXz4RYAK-D4Yhwm8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJk7oCbZ9pXz4RkVw7sUhpkws": {
+      "name": "JW Marriott Marquis Dubai Tower B - D86 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJk7oCbZ9pXz4RkVw7sUhpkws",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJleh1NYFCXz4RVx7wMnNxx0k": {
+      "name": "DLA Piper Middle East LLP - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJleh1NYFCXz4RVx7wMnNxx0k",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ8TYPuVNcXz4RvHXCmK0o6dk": {
+      "name": "DLCC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8TYPuVNcXz4RvHXCmK0o6dk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJm_van0dlXz4RLNkFd-UAmA8": {
+      "name": "Dubai London Clinic - The Villa Branch - Dubai - Émirats arabes unis",
+      "place_id": "ChIJm_van0dlXz4RLNkFd-UAmA8",
+      "types": "doctor, establishment, health, hospital, point_of_interest"
+    },
+    "ChIJFbdhaGdpXz4R2jnnHzGBaLg": {
+      "name": "Dulsco Village - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJFbdhaGdpXz4R2jnnHzGBaLg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJUypk_lRDXz4RUISsBfv08Jw": {
+      "name": "Dubai Leisure Holidays - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJUypk_lRDXz4RUISsBfv08Jw",
+      "types": "establishment, point_of_interest, travel_agency"
     }
   }
 }

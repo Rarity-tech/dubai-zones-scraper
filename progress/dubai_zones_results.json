@@ -3996,6 +3996,24 @@
     "zone_type": "area"
   },
   {
+    "name": "DJS - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6UBfenZCXz4RYAK-D4Yhwm8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DLA Piper Middle East LLP - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJleh1NYFCXz4RVx7wMnNxx0k",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DLCC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8TYPuVNcXz4RvHXCmK0o6dk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DLD - Dubai - Émirats arabes unis",
     "place_id": "ChIJo7B9H81cXz4Ro_QBhYCwErQ",
     "types": "establishment, point_of_interest",
@@ -4770,6 +4788,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Leisure Holidays - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJUypk_lRDXz4RUISsBfv08Jw",
+    "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai London Clinic - The Villa Branch - Dubai - Émirats arabes unis",
+    "place_id": "ChIJm_van0dlXz4RLNkFd-UAmA8",
+    "types": "doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai London Clinic and Speciality Hospital - Dubaï - Émirats arabes unis",
     "place_id": "ChIJr3xh40BqXz4RjR0cqOJryyY",
     "types": "establishment, health, hospital, point_of_interest",
@@ -4988,6 +5018,12 @@
   {
     "name": "Dubaï World Trade Centre, Dubai, Émirats arabes unis",
     "place_id": "ChIJBWO8EulCXz4RK2pM9KVtSB4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dulsco Village - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJFbdhaGdpXz4R2jnnHzGBaLg",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -5601,6 +5637,12 @@
     "name": "JW Marriott Marquis Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJlVeUM9ppXz4Ra5sY37tb5zQ",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "JW Marriott Marquis Dubai Tower B - D86 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJk7oCbZ9pXz4RkVw7sUhpkws",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
