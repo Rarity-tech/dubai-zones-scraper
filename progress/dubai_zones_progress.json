@@ -3069,7 +3069,57 @@
     "Dubai DYY",
     "Dubai DYZ",
     "Dubai DZA",
-    "Dubai DZB"
+    "Dubai DZB",
+    "Dubai DZC",
+    "Dubai DZD",
+    "Dubai DZE",
+    "Dubai DZF",
+    "Dubai DZG",
+    "Dubai DZH",
+    "Dubai DZI",
+    "Dubai DZJ",
+    "Dubai DZK",
+    "Dubai DZL",
+    "Dubai DZM",
+    "Dubai DZN",
+    "Dubai DZO",
+    "Dubai DZP",
+    "Dubai DZQ",
+    "Dubai DZR",
+    "Dubai DZS",
+    "Dubai DZT",
+    "Dubai DZU",
+    "Dubai DZV",
+    "Dubai DZW",
+    "Dubai DZX",
+    "Dubai DZY",
+    "Dubai DZZ",
+    "Dubai EAA",
+    "Dubai EAB",
+    "Dubai EAC",
+    "Dubai EAD",
+    "Dubai EAE",
+    "Dubai EAF",
+    "Dubai EAG",
+    "Dubai EAH",
+    "Dubai EAI",
+    "Dubai EAJ",
+    "Dubai EAK",
+    "Dubai EAL",
+    "Dubai EAM",
+    "Dubai EAN",
+    "Dubai EAO",
+    "Dubai EAP",
+    "Dubai EAQ",
+    "Dubai EAR",
+    "Dubai EAS",
+    "Dubai EAT",
+    "Dubai EAU",
+    "Dubai EAV",
+    "Dubai EAW",
+    "Dubai EAX",
+    "Dubai EAY",
+    "Dubai EAZ"
   ],
   "pending_n2": [
     {
@@ -58644,6 +58694,51 @@
       "name": "Dubai - Charjah - Émirats arabes unis",
       "place_id": "ChIJR25fvGZZXz4RmAAyzMKuKOQ",
       "types": "establishment, health, point_of_interest, store"
+    },
+    "ChIJ3S_kJSIVXz4RN8FhLrrvve8": {
+      "name": "DejaView Hostel , The Walk - JBR - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ3S_kJSIVXz4RN8FhLrrvve8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJvSwT-ZJCXz4RkKTQzvKWOmU": {
+      "name": "Jumeirah Emirates Towers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJvSwT-ZJCXz4RkKTQzvKWOmU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJIw9VTCtpXz4Rgn8iwJ8pktQ": {
+      "name": "Escape House - Escape Room Dubai - Al Wasl Road Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIw9VTCtpXz4Rgn8iwJ8pktQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJzRd8vk9DXz4RF_YEG3T9ouw": {
+      "name": "Eagle Hotel Apartment - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzRd8vk9DXz4RF_YEG3T9ouw",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ3Vv1H2TADRQRKSOljiD1CCY": {
+      "name": "Emirates Aviation University - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ3Vv1H2TADRQRKSOljiD1CCY",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJSW6rMUxDXz4RubF3aIPJIys": {
+      "name": "e& (etisalat and) Innovation Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJSW6rMUxDXz4RubF3aIPJIys",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ1c_QSQBtXz4RhKubGSBufhM": {
+      "name": "East 40 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1c_QSQBtXz4RhKubGSBufhM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJsSsUzkprXz4R4vW1TZFggeM": {
+      "name": "East Coast Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJsSsUzkprXz4R4vW1TZFggeM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJPRAL40hsXz4RnAETVPQ5B2w": {
+      "name": "Eaton Place - Ellington Properties - Dubai - Émirats arabes unis",
+      "place_id": "ChIJPRAL40hsXz4RnAETVPQ5B2w",
+      "types": "establishment, point_of_interest"
     }
   }
 }

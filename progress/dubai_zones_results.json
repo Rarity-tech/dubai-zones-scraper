@@ -4296,6 +4296,12 @@
     "zone_type": "area"
   },
   {
+    "name": "DejaView Hostel , The Walk - JBR - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3S_kJSIVXz4RN8FhLrrvve8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Delta Hotels by Marriott - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJr-J-tHwVXz4Rd_oLLuPJ_GI",
     "types": "establishment, lodging, point_of_interest",
@@ -5418,9 +5424,33 @@
     "zone_type": "area"
   },
   {
+    "name": "Eagle Hotel Apartment - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzRd8vk9DXz4RF_YEG3T9ouw",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "East 40 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1c_QSQBtXz4RhKubGSBufhM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "East Coast Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsSsUzkprXz4R4vW1TZFggeM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Easygo - Cozy STU Azzi Riviera 9 10 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJsSNLM2VoXz4RWCx4m5t-Kog",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Eaton Place - Ellington Properties - Dubai - Émirats arabes unis",
+    "place_id": "ChIJPRAL40hsXz4RnAETVPQ5B2w",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -5472,6 +5502,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Emirates Aviation University - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3Vv1H2TADRQRKSOljiD1CCY",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
     "name": "Energy Metro Station - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJj34ceQITXz4REdDUrxz9mTs",
     "types": "establishment, point_of_interest",
@@ -5504,6 +5540,12 @@
   {
     "name": "Escan Tower - Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJO_hoPXgTXz4RB93aiHC22q0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Escape House - Escape Room Dubai - Al Wasl Road Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIw9VTCtpXz4Rgn8iwJ8pktQ",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -6057,6 +6099,12 @@
     "name": "Jumeirah Business Center 3 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJwV-1w6ZsXz4R5eytCAmB3T0",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jumeirah Emirates Towers - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJvSwT-ZJCXz4RkKTQzvKWOmU",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7766,6 +7814,12 @@
   {
     "name": "dip 1 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJN6FZHQBtXz4ReL__8cffwu0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "e& (etisalat and) Innovation Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJSW6rMUxDXz4RubF3aIPJIys",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
