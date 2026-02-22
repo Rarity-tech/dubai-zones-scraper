@@ -4069,7 +4069,57 @@
     "Dubai HQK",
     "Dubai HQL",
     "Dubai HQM",
-    "Dubai HQN"
+    "Dubai HQN",
+    "Dubai HQO",
+    "Dubai HQP",
+    "Dubai HQQ",
+    "Dubai HQR",
+    "Dubai HQS",
+    "Dubai HQT",
+    "Dubai HQU",
+    "Dubai HQV",
+    "Dubai HQW",
+    "Dubai HQX",
+    "Dubai HQY",
+    "Dubai HQZ",
+    "Dubai HRA",
+    "Dubai HRB",
+    "Dubai HRC",
+    "Dubai HRD",
+    "Dubai HRE",
+    "Dubai HRF",
+    "Dubai HRG",
+    "Dubai HRH",
+    "Dubai HRI",
+    "Dubai HRJ",
+    "Dubai HRK",
+    "Dubai HRL",
+    "Dubai HRM",
+    "Dubai HRN",
+    "Dubai HRO",
+    "Dubai HRP",
+    "Dubai HRQ",
+    "Dubai HRR",
+    "Dubai HRS",
+    "Dubai HRT",
+    "Dubai HRU",
+    "Dubai HRV",
+    "Dubai HRW",
+    "Dubai HRX",
+    "Dubai HRY",
+    "Dubai HRZ",
+    "Dubai HSA",
+    "Dubai HSB",
+    "Dubai HSC",
+    "Dubai HSD",
+    "Dubai HSE",
+    "Dubai HSF",
+    "Dubai HSG",
+    "Dubai HSH",
+    "Dubai HSI",
+    "Dubai HSJ",
+    "Dubai HSK",
+    "Dubai HSL"
   ],
   "pending_n2": [
     {
@@ -60564,6 +60614,21 @@
       "name": "House of Hype - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJx3SlGJ9pXz4RbyEYiIKTnOM",
       "types": "amusement_park, establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJSV-4zt5cXz4RR-ozLpjJz2I": {
+      "name": "Green House - near Deira - Dubai - Émirats arabes unis",
+      "place_id": "ChIJSV-4zt5cXz4RR-ozLpjJz2I",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJA2luYNUNXz4R1HU_y3h5OUY": {
+      "name": "HRU Logistics - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJA2luYNUNXz4R1HU_y3h5OUY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJx7ELfTRnXz4R7G-haCEKaRM": {
+      "name": "HSH-DXB Harbour Gate - Dubai Creek Harbour - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJx7ELfTRnXz4R7G-haCEKaRM",
+      "types": "establishment, point_of_interest"
     }
   }
 }

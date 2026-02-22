@@ -6186,6 +6186,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Green House - near Deira - Dubai - Émirats arabes unis",
+    "place_id": "ChIJSV-4zt5cXz4RR-ozLpjJz2I",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
     "name": "Gurū Nānak Darbār - Temple sikh, Dubai, Émirats arabes unis",
     "place_id": "ChIJfzJfUOASXz4RG-Y94bLCo3c",
     "types": "establishment, place_of_worship, point_of_interest, tourist_attraction",
@@ -6297,6 +6303,18 @@
     "name": "HQ - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJeeUI7z5kXz4Rg8CyyMtkJSU",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "HRU Logistics - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJA2luYNUNXz4R1HU_y3h5OUY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "HSH-DXB Harbour Gate - Dubai Creek Harbour - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJx7ELfTRnXz4R7G-haCEKaRM",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
