@@ -5370,6 +5370,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Medical College for Girls, Al - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTej-chFeXz4R6afZ2hF4hfQ",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Medical University Hospital - Dubai - Émirats arabes unis",
     "place_id": "ChIJ_zAuAxFeXz4RAWf1v9C3i8A",
     "types": "establishment, health, hospital, point_of_interest",
@@ -6291,6 +6297,12 @@
     "name": "Gifts for Less - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJncJJSc9cXz4RdP4AWU1EuF8",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Girls Hostel in Daira Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJE40TOwBdXz4Rlhtn0Ary_u8",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -9591,6 +9603,12 @@
     "name": "Views 1 Building, Dubai South - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJaToTUSpzXz4R4rSIyQd0Eo4",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Villa JP-P3VL-044 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJhZrABCBtXz4R_DZwS-xjYhs",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {

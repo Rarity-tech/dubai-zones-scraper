@@ -5369,7 +5369,57 @@
     "Dubai JPK",
     "Dubai JPL",
     "Dubai JPM",
-    "Dubai JPN"
+    "Dubai JPN",
+    "Dubai JPO",
+    "Dubai JPP",
+    "Dubai JPQ",
+    "Dubai JPR",
+    "Dubai JPS",
+    "Dubai JPT",
+    "Dubai JPU",
+    "Dubai JPV",
+    "Dubai JPW",
+    "Dubai JPX",
+    "Dubai JPY",
+    "Dubai JPZ",
+    "Dubai JQA",
+    "Dubai JQB",
+    "Dubai JQC",
+    "Dubai JQD",
+    "Dubai JQE",
+    "Dubai JQF",
+    "Dubai JQG",
+    "Dubai JQH",
+    "Dubai JQI",
+    "Dubai JQJ",
+    "Dubai JQK",
+    "Dubai JQL",
+    "Dubai JQM",
+    "Dubai JQN",
+    "Dubai JQO",
+    "Dubai JQP",
+    "Dubai JQQ",
+    "Dubai JQR",
+    "Dubai JQS",
+    "Dubai JQT",
+    "Dubai JQU",
+    "Dubai JQV",
+    "Dubai JQW",
+    "Dubai JQX",
+    "Dubai JQY",
+    "Dubai JQZ",
+    "Dubai JRA",
+    "Dubai JRB",
+    "Dubai JRC",
+    "Dubai JRD",
+    "Dubai JRE",
+    "Dubai JRF",
+    "Dubai JRG",
+    "Dubai JRH",
+    "Dubai JRI",
+    "Dubai JRJ",
+    "Dubai JRK",
+    "Dubai JRL"
   ],
   "pending_n2": [
     {
@@ -62779,6 +62829,21 @@
       "name": "Joud Boulevard West - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJz6nIgehvXz4RjdqteefSza4",
       "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJhZrABCBtXz4R_DZwS-xjYhs": {
+      "name": "Villa JP-P3VL-044 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhZrABCBtXz4R_DZwS-xjYhs",
+      "types": "geocode, premise"
+    },
+    "ChIJE40TOwBdXz4Rlhtn0Ary_u8": {
+      "name": "Girls Hostel in Daira Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJE40TOwBdXz4Rlhtn0Ary_u8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJTej-chFeXz4R6afZ2hF4hfQ": {
+      "name": "Dubai Medical College for Girls, Al - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTej-chFeXz4R6afZ2hF4hfQ",
+      "types": "establishment, health, point_of_interest"
     }
   }
 }
