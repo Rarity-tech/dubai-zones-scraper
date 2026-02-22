@@ -378,6 +378,12 @@
     "zone_type": "city"
   },
   {
+    "name": "The Palm Jebel Ali, Dubai, Émirats arabes unis",
+    "place_id": "ChIJC4FZEfQQXz4RIoKQWPML4_8",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Umm Hurair 2, Dubai, Émirats arabes unis",
     "place_id": "ChIJTwFafzpdXz4Rqwzvl_Yic00",
     "types": "political, sublocality, sublocality_level_1",
@@ -4368,6 +4374,12 @@
     "zone_type": "area"
   },
   {
+    "name": "DUBAI JEWEL TOWER - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJE6y0G3JrXz4RW7Y_HvwywH8",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "DUBAI KMCC. Dar Al Safiya Building - Dubaï - Émirats arabes unis",
     "place_id": "ChIJHwOUi3hdXz4RgXFLEcmG6JM",
     "types": "establishment, point_of_interest",
@@ -7677,6 +7689,24 @@
     "name": "Jazz Lounge Spa for Men - Umm Suqeim St, Dubai - Dubai - Émirats arabes unis",
     "place_id": "ChIJ2WaRquVrXz4R1MMWYgz0O-Q",
     "types": "beauty_salon, establishment, hair_care, health, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jeewar By BADR - Dubai - Émirats arabes unis",
+    "place_id": "ChIJyyBkrG9tXz4R8Lt917BwLHs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jess School - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJq9ImfrNvXz4RBoggs0fLakE",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jewelz By Danube - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJSbalFD9vXz4R1YkcVf-izgY",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

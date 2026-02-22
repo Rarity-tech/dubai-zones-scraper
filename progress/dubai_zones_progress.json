@@ -5069,7 +5069,57 @@
     "Dubai JDW",
     "Dubai JDX",
     "Dubai JDY",
-    "Dubai JDZ"
+    "Dubai JDZ",
+    "Dubai JEA",
+    "Dubai JEB",
+    "Dubai JEC",
+    "Dubai JED",
+    "Dubai JEE",
+    "Dubai JEF",
+    "Dubai JEG",
+    "Dubai JEH",
+    "Dubai JEI",
+    "Dubai JEJ",
+    "Dubai JEK",
+    "Dubai JEL",
+    "Dubai JEM",
+    "Dubai JEN",
+    "Dubai JEO",
+    "Dubai JEP",
+    "Dubai JEQ",
+    "Dubai JER",
+    "Dubai JES",
+    "Dubai JET",
+    "Dubai JEU",
+    "Dubai JEV",
+    "Dubai JEW",
+    "Dubai JEX",
+    "Dubai JEY",
+    "Dubai JEZ",
+    "Dubai JFA",
+    "Dubai JFB",
+    "Dubai JFC",
+    "Dubai JFD",
+    "Dubai JFE",
+    "Dubai JFF",
+    "Dubai JFG",
+    "Dubai JFH",
+    "Dubai JFI",
+    "Dubai JFJ",
+    "Dubai JFK",
+    "Dubai JFL",
+    "Dubai JFM",
+    "Dubai JFN",
+    "Dubai JFO",
+    "Dubai JFP",
+    "Dubai JFQ",
+    "Dubai JFR",
+    "Dubai JFS",
+    "Dubai JFT",
+    "Dubai JFU",
+    "Dubai JFV",
+    "Dubai JFW",
+    "Dubai JFX"
   ],
   "pending_n2": [
     {
@@ -62333,6 +62383,31 @@
     "ChIJ88wKp2BvXz4RDIGrLt9ZzI4": {
       "name": "JD Photography Dubai - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ88wKp2BvXz4RDIGrLt9ZzI4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJC4FZEfQQXz4RIoKQWPML4_8": {
+      "name": "The Palm Jebel Ali, Dubai, Émirats arabes unis",
+      "place_id": "ChIJC4FZEfQQXz4RIoKQWPML4_8",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJyyBkrG9tXz4R8Lt917BwLHs": {
+      "name": "Jeewar By BADR - Dubai - Émirats arabes unis",
+      "place_id": "ChIJyyBkrG9tXz4R8Lt917BwLHs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJq9ImfrNvXz4RBoggs0fLakE": {
+      "name": "Jess School - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJq9ImfrNvXz4RBoggs0fLakE",
+      "types": "geocode, premise"
+    },
+    "ChIJE6y0G3JrXz4RW7Y_HvwywH8": {
+      "name": "DUBAI JEWEL TOWER - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJE6y0G3JrXz4RW7Y_HvwywH8",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJSbalFD9vXz4R1YkcVf-izgY": {
+      "name": "Jewelz By Danube - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJSbalFD9vXz4R1YkcVf-izgY",
       "types": "establishment, point_of_interest"
     }
   }
