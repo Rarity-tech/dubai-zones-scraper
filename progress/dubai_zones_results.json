@@ -13878,6 +13878,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Best Zest Business Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJs_u2GJMF8aERMlp56FI76eI",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "The Bulgari SPA, Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJhyS2KFZDXz4RiozvO3nS3OQ",
     "types": "establishment, point_of_interest, spa",
@@ -15351,6 +15357,12 @@
     "name": "Za'abeel Stadium - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJixa8b01dXz4R1iKugfDQv5o",
     "types": "establishment, point_of_interest, stadium",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zabeel Fire station - Dubai - Émirats arabes unis",
+    "place_id": "ChIJqy19UpxCXz4RWTM2BL8OLlw",
+    "types": "establishment, local_government_office, point_of_interest",
     "zone_type": "area"
   },
   {
