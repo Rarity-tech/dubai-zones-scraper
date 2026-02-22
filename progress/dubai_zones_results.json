@@ -3150,6 +3150,12 @@
     "zone_type": "area"
   },
   {
+    "name": "CIMA Pilates & Yoga Studio - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJS7NWUQBtXz4REtHO_kYRWO4",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "CK Architecture Interiors LLC - Dubai - Émirats arabes unis",
     "place_id": "ChIJjcI1RrxrXz4RcYlnpaQ7oQY",
     "types": "establishment, point_of_interest",
@@ -3432,6 +3438,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Churchill Executive Towers - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJW7yPZc5pXz4R9uD3exKAymI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Churchill Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJuVcrT85pXz4R4TqWgZB6AN8",
     "types": "geocode, premise",
@@ -3444,6 +3456,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Cigna Healthcare Middle East - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBWO77HxDXz4R5UHQe55K684",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Cinq Hôtel Jumeirah Village Circle, Dubai, Émirats arabes unis",
     "place_id": "ChIJLd9BQ0tsXz4RANu9Y4fNC64",
     "types": "establishment, lodging, point_of_interest",
@@ -3453,6 +3471,12 @@
     "name": "Circle Mall by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJuZnW7f1tXz4RVBkrTufK1Qc",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Circle mall Mosque - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDUqFuI5tXz4RD1XTftPnW6w",
+    "types": "establishment, mosque, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3513,6 +3537,12 @@
     "name": "Consulate General of the Republic of Azerbaijan in Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJX51-mVFrXz4RjNE9tk1aKRo",
     "types": "embassy, establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cookiejar Interactive - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJi_-_jHlrXz4RE76Cfs1xagE",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3825,6 +3855,12 @@
     "name": "Dubai Chambers - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ73mlQ81cXz4RcLU0B5b-_Vw",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Circus School - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9TP-8o9rXz4RYbLYxRiCqnk",
+    "types": "establishment, gym, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -5460,6 +5496,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Reel Cinemas, Dubai, Émirats arabes unis",
+    "place_id": "ChIJ87sPdihoXz4RuOf3XNRmFn4",
+    "types": "establishment, movie_theater, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Remraam Community - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD3ym-L5xXz4RuLpk3PuClVM",
     "types": "geocode, premise",
@@ -6132,6 +6174,12 @@
     "zone_type": "area"
   },
   {
+    "name": "VOX Cinemas Mall of the Emirates, Dubai, Émirats arabes unis",
+    "place_id": "ChIJFRfpr75rXz4Rsr1pyFsGTYg",
+    "types": "establishment, movie_theater, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "VPN - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ1ZHvcutDXz4RapyNvVvwWuQ",
     "types": "establishment, lodging, point_of_interest",
@@ -6230,6 +6278,12 @@
   {
     "name": "Vox Cinéma, Dubai, Émirats arabes unis",
     "place_id": "ChIJdcLub1xDXz4Rhqc1zSlZqVA",
+    "types": "establishment, movie_theater, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Vox Cinéma, Dubai, Émirats arabes unis",
+    "place_id": "ChIJZ1x_6dhcXz4RmEcrXQkzn6c",
     "types": "establishment, movie_theater, point_of_interest",
     "zone_type": "area"
   },

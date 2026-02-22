@@ -2019,7 +2019,57 @@
     "Dubai CHO",
     "Dubai CHP",
     "Dubai CHQ",
-    "Dubai CHR"
+    "Dubai CHR",
+    "Dubai CHS",
+    "Dubai CHT",
+    "Dubai CHU",
+    "Dubai CHV",
+    "Dubai CHW",
+    "Dubai CHX",
+    "Dubai CHY",
+    "Dubai CHZ",
+    "Dubai CIA",
+    "Dubai CIB",
+    "Dubai CIC",
+    "Dubai CID",
+    "Dubai CIE",
+    "Dubai CIF",
+    "Dubai CIG",
+    "Dubai CIH",
+    "Dubai CII",
+    "Dubai CIJ",
+    "Dubai CIK",
+    "Dubai CIL",
+    "Dubai CIM",
+    "Dubai CIN",
+    "Dubai CIO",
+    "Dubai CIP",
+    "Dubai CIQ",
+    "Dubai CIR",
+    "Dubai CIS",
+    "Dubai CIT",
+    "Dubai CIU",
+    "Dubai CIV",
+    "Dubai CIW",
+    "Dubai CIX",
+    "Dubai CIY",
+    "Dubai CIZ",
+    "Dubai CJA",
+    "Dubai CJB",
+    "Dubai CJC",
+    "Dubai CJD",
+    "Dubai CJE",
+    "Dubai CJF",
+    "Dubai CJG",
+    "Dubai CJH",
+    "Dubai CJI",
+    "Dubai CJJ",
+    "Dubai CJK",
+    "Dubai CJL",
+    "Dubai CJM",
+    "Dubai CJN",
+    "Dubai CJO",
+    "Dubai CJP"
   ],
   "pending_n2": [
     {
@@ -56454,6 +56504,51 @@
       "name": "Christ Church Jebel Ali - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJL3IakuASXz4RSfNV4gerAkM",
       "types": "church, establishment, place_of_worship, point_of_interest"
+    },
+    "ChIJW7yPZc5pXz4R9uD3exKAymI": {
+      "name": "Churchill Executive Towers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJW7yPZc5pXz4R9uD3exKAymI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBWO77HxDXz4R5UHQe55K684": {
+      "name": "Cigna Healthcare Middle East - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBWO77HxDXz4R5UHQe55K684",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJS7NWUQBtXz4REtHO_kYRWO4": {
+      "name": "CIMA Pilates & Yoga Studio - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJS7NWUQBtXz4REtHO_kYRWO4",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJ87sPdihoXz4RuOf3XNRmFn4": {
+      "name": "Reel Cinemas, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ87sPdihoXz4RuOf3XNRmFn4",
+      "types": "establishment, movie_theater, point_of_interest"
+    },
+    "ChIJZ1x_6dhcXz4RmEcrXQkzn6c": {
+      "name": "Vox Cinéma, Dubai, Émirats arabes unis",
+      "place_id": "ChIJZ1x_6dhcXz4RmEcrXQkzn6c",
+      "types": "establishment, movie_theater, point_of_interest"
+    },
+    "ChIJFRfpr75rXz4Rsr1pyFsGTYg": {
+      "name": "VOX Cinemas Mall of the Emirates, Dubai, Émirats arabes unis",
+      "place_id": "ChIJFRfpr75rXz4Rsr1pyFsGTYg",
+      "types": "establishment, movie_theater, point_of_interest"
+    },
+    "ChIJ9TP-8o9rXz4RYbLYxRiCqnk": {
+      "name": "Dubai Circus School - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9TP-8o9rXz4RYbLYxRiCqnk",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJDUqFuI5tXz4RD1XTftPnW6w": {
+      "name": "Circle mall Mosque - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDUqFuI5tXz4RD1XTftPnW6w",
+      "types": "establishment, mosque, place_of_worship, point_of_interest"
+    },
+    "ChIJi_-_jHlrXz4RE76Cfs1xagE": {
+      "name": "Cookiejar Interactive - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJi_-_jHlrXz4RE76Cfs1xagE",
+      "types": "establishment, point_of_interest"
     }
   }
 }
