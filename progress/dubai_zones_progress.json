@@ -9769,7 +9769,57 @@
     "Dubai TUQ",
     "Dubai TUR",
     "Dubai TUS",
-    "Dubai TUT"
+    "Dubai TUT",
+    "Dubai TUU",
+    "Dubai TUV",
+    "Dubai TUW",
+    "Dubai TUX",
+    "Dubai TUY",
+    "Dubai TUZ",
+    "Dubai TWA",
+    "Dubai TWB",
+    "Dubai TWC",
+    "Dubai TWD",
+    "Dubai TWE",
+    "Dubai TWF",
+    "Dubai TWG",
+    "Dubai TWH",
+    "Dubai TWI",
+    "Dubai TWJ",
+    "Dubai TWK",
+    "Dubai TWL",
+    "Dubai TWM",
+    "Dubai TWN",
+    "Dubai TWO",
+    "Dubai TWP",
+    "Dubai TWQ",
+    "Dubai TWR",
+    "Dubai TWS",
+    "Dubai TWT",
+    "Dubai TWU",
+    "Dubai TWV",
+    "Dubai TWW",
+    "Dubai TWX",
+    "Dubai TWY",
+    "Dubai TWZ",
+    "Dubai TXA",
+    "Dubai TXB",
+    "Dubai TXC",
+    "Dubai TXD",
+    "Dubai TXE",
+    "Dubai TXF",
+    "Dubai TXG",
+    "Dubai TXH",
+    "Dubai TXI",
+    "Dubai TXJ",
+    "Dubai TXK",
+    "Dubai TXL",
+    "Dubai TXM",
+    "Dubai TXN",
+    "Dubai TXO",
+    "Dubai TXP",
+    "Dubai TXQ",
+    "Dubai TXR"
   ],
   "pending_n2": [
     {
@@ -71159,6 +71209,46 @@
       "name": "Tuscan Residences Florence 2 - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJL8mPRjdsXz4Rc7SOE-kXGco",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJ8eWdQ8ZdXz4RGOQi7vBl2Os": {
+      "name": "Al Twar Square - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8eWdQ8ZdXz4RGOQi7vBl2Os",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJKS5ccllcXz4RSfUlJQ-0Kpw": {
+      "name": "Twar Health Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJKS5ccllcXz4RSfUlJQ-0Kpw",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJibEz7d1dXz4RuTfiGbgz-Gs": {
+      "name": "Al-Twar 3, Dubai, Émirats arabes unis",
+      "place_id": "ChIJibEz7d1dXz4RuTfiGbgz-Gs",
+      "types": "neighborhood, political"
+    },
+    "ChIJ02NcOu9dXz4Rn2T64Z4o3Bk": {
+      "name": "Twin Towers Shopping Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ02NcOu9dXz4Rn2T64Z4o3Bk",
+      "types": "establishment, point_of_interest, real_estate_agency, shopping_mall"
+    },
+    "ChIJ1269pDlwXz4RgivMjnFSiXM": {
+      "name": "Town Square Sales Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1269pDlwXz4RgivMjnFSiXM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ14LiootxXz4Rblk8Pqbouek": {
+      "name": "Town Square Community Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ14LiootxXz4Rblk8Pqbouek",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJM1pHfQBDXz4R3OOJSZKK4p8": {
+      "name": "two season hotel sheikh zayed - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJM1pHfQBDXz4R3OOJSZKK4p8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJr_wbuG9pXz4RfrrcZhFtBuw": {
+      "name": "DxBike - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJr_wbuG9pXz4RfrrcZhFtBuw",
+      "types": "establishment, gym, health, point_of_interest"
     }
   }
 }

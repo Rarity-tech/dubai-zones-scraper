@@ -750,6 +750,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Al-Twar 3, Dubai, Émirats arabes unis",
+    "place_id": "ChIJibEz7d1dXz4RuTfiGbgz-Gs",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Alvorada - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ3atsNzduXz4RX7YqkJbpd2E",
     "types": "geocode, neighborhood, political",
@@ -2042,6 +2048,12 @@
   {
     "name": "Al Suwaidi Farm - Dubaï - Émirats arabes unis",
     "place_id": "ChIJk964jbCL9T4RxTDCUkBIzqU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Al Twar Square - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8eWdQ8ZdXz4RGOQi7vBl2Os",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -6291,6 +6303,12 @@
     "name": "Dusk by Binghatti - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJy9bn--VtXz4RGBzXPfP33hc",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DxBike - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJr_wbuG9pXz4RfrrcZhFtBuw",
+    "types": "establishment, gym, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -13980,6 +13998,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Town Square Community Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ14LiootxXz4Rblk8Pqbouek",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Town Square Sales Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1269pDlwXz4RgivMjnFSiXM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Trade Centre Exhibition Halls - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ8ZP9h-tCXz4RxwFVYECNAzs",
     "types": "establishment, point_of_interest",
@@ -14040,9 +14070,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Twar Health Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJKS5ccllcXz4RSfUlJQ-0Kpw",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Twin Tower Deira - Baniyas Road - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJFy2UDDZDXz4RrakhlYJuIrQ",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Twin Towers Shopping Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ02NcOu9dXz4Rn2T64Z4o3Bk",
+    "types": "establishment, point_of_interest, real_estate_agency, shopping_mall",
     "zone_type": "area"
   },
   {
@@ -14805,6 +14847,12 @@
     "name": "tour de l'horloge, Dubai, Émirats arabes unis",
     "place_id": "ChIJ93m8jtpcXz4RaxuU0cysPmc",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "two season hotel sheikh zayed - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJM1pHfQBDXz4R3OOJSZKK4p8",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
