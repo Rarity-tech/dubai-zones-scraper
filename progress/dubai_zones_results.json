@@ -14136,6 +14136,12 @@
     "zone_type": "area"
   },
   {
+    "name": "UD Trucks MEENA - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ_av-DZgNXz4RBG22ipkVigA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "UFC GYM - Business Bay | Bay Square - Dubai - Émirats arabes unis",
     "place_id": "ChIJy6qqZjBoXz4RGOq7ZGVcIi8",
     "types": "establishment, gym, health, point_of_interest",
@@ -14888,6 +14894,12 @@
   {
     "name": "typing center - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJO2LpXyRDXz4R0UFGhV3Sm20",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "uDare Co., Ltd. - Dubai - Émirats arabes unis",
+    "place_id": "ChIJI7GIMWpzXz4RK0oR16JMczc",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
