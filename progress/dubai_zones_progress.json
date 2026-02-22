@@ -11419,7 +11419,57 @@
     "Dubai WOC",
     "Dubai WOD",
     "Dubai WOE",
-    "Dubai WOF"
+    "Dubai WOF",
+    "Dubai WOG",
+    "Dubai WOH",
+    "Dubai WOI",
+    "Dubai WOJ",
+    "Dubai WOK",
+    "Dubai WOL",
+    "Dubai WOM",
+    "Dubai WON",
+    "Dubai WOO",
+    "Dubai WOP",
+    "Dubai WOQ",
+    "Dubai WOR",
+    "Dubai WOS",
+    "Dubai WOT",
+    "Dubai WOU",
+    "Dubai WOV",
+    "Dubai WOW",
+    "Dubai WOX",
+    "Dubai WOY",
+    "Dubai WOZ",
+    "Dubai WPA",
+    "Dubai WPB",
+    "Dubai WPC",
+    "Dubai WPD",
+    "Dubai WPE",
+    "Dubai WPF",
+    "Dubai WPG",
+    "Dubai WPH",
+    "Dubai WPI",
+    "Dubai WPJ",
+    "Dubai WPK",
+    "Dubai WPL",
+    "Dubai WPM",
+    "Dubai WPN",
+    "Dubai WPO",
+    "Dubai WPP",
+    "Dubai WPQ",
+    "Dubai WPR",
+    "Dubai WPS",
+    "Dubai WPT",
+    "Dubai WPU",
+    "Dubai WPV",
+    "Dubai WPW",
+    "Dubai WPX",
+    "Dubai WPY",
+    "Dubai WPZ",
+    "Dubai WQA",
+    "Dubai WQB",
+    "Dubai WQC",
+    "Dubai WQD"
   ],
   "pending_n2": [
     {
@@ -73478,6 +73528,36 @@
     "ChIJpciHZklDXz4RPjXKUyrAq-8": {
       "name": "XNB- Etihad Luxury Coach Bus Station - Dubaï - Émirats arabes unis",
       "place_id": "ChIJpciHZklDXz4RPjXKUyrAq-8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJb-8CGXNrXz4RzCvKVyJ-SDo": {
+      "name": "immobilien-welt.ae - Immobilien in Dubai kaufen & mieten - Dubai - Émirats arabes unis",
+      "place_id": "ChIJb-8CGXNrXz4RzCvKVyJ-SDo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJc8neLnhrXz4RtVgz3x6dAKs": {
+      "name": "woo-hoo! UAE - Children's Museum in Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJc8neLnhrXz4RtVgz3x6dAKs",
+      "types": "establishment, museum, point_of_interest"
+    },
+    "ChIJVZEBg69cXz4RxLs6iXzHrEI": {
+      "name": "Dubai Women's Association - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJVZEBg69cXz4RxLs6iXzHrEI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJqwETbERDXz4Rx_sTV5IMtCQ": {
+      "name": "Women's Museum - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqwETbERDXz4Rx_sTV5IMtCQ",
+      "types": "establishment, museum, point_of_interest, tourist_attraction"
+    },
+    "ChIJpQhYy9lrXz4Re4yh_58Lz3o": {
+      "name": "Wonderbee Ice Cream Factory - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpQhYy9lrXz4Re4yh_58Lz3o",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ9bLKqVtcXz4Rc8F_X8mvw7o": {
+      "name": "Woodlem Park School Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9bLKqVtcXz4Rc8F_X8mvw7o",
       "types": "establishment, point_of_interest"
     }
   }

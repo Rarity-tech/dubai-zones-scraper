@@ -6228,6 +6228,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Women's Association - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVZEBg69cXz4RxLs6iXzHrEI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai World Central - Al Maktoum International Airport (DWC) - Dubaï - Émirats arabes unis",
     "place_id": "ChIJKxDRavt0Xz4RGNmgrLNWd6I",
     "types": "airport, establishment, point_of_interest",
@@ -15162,8 +15168,26 @@
     "zone_type": "area"
   },
   {
+    "name": "Women's Museum - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqwETbERDXz4Rx_sTV5IMtCQ",
+    "types": "establishment, museum, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Wonderbee Ice Cream Factory - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJpQhYy9lrXz4Re4yh_58Lz3o",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Wood Craft House - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJv6n0PXtpXz4RVordQ6ECneY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Woodlem Park School Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9bLKqVtcXz4Rc8F_X8mvw7o",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -15492,6 +15516,12 @@
     "zone_type": "area"
   },
   {
+    "name": "immobilien-welt.ae - Immobilien in Dubai kaufen & mieten - Dubai - Émirats arabes unis",
+    "place_id": "ChIJb-8CGXNrXz4RzCvKVyJ-SDo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "jomira - Dubai - Émirats arabes unis",
     "place_id": "ChIJxZ3-QwBDXz4RBI-FXLEBR6g",
     "types": "establishment, point_of_interest",
@@ -15615,6 +15645,12 @@
     "name": "voco Dubai by IHG - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJs1e96-1CXz4R4hbvD9mPqis",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "woo-hoo! UAE - Children's Museum in Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJc8neLnhrXz4RtVgz3x6dAKs",
+    "types": "establishment, museum, point_of_interest",
     "zone_type": "area"
   },
   {
