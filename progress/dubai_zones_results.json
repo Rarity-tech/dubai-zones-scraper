@@ -4080,6 +4080,12 @@
     "zone_type": "area"
   },
   {
+    "name": "DPN Cloud - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDZCw77nIZ4QROsmQmQkglto",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DQuarters - Dubai Media City - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJaca26i5DXz4RPeVOijuIYl4",
     "types": "establishment, point_of_interest",
@@ -4572,6 +4578,30 @@
     "zone_type": "area"
   },
   {
+    "name": "Dream City Hotel Apartments LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP-jBXMZdXz4RYfDhxyqKyrw",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dream Land Department Store - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHz9ZSR1DXz4R8s0AL-OxgGc",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dream Tower 1 - Sheikh Zayed Road - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJYaxsa1MTXz4RXkUr0LjGWk4",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Drivedubai - Head Office Dip 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5x7Qo61zXz4RblNRWy09Rf4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DryDocks World HR Building - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJAQAAzwZqXz4RWzZq1akRG-k",
     "types": "establishment, point_of_interest",
@@ -5025,6 +5055,12 @@
     "name": "Dubai Polo & Equestrian Club, Dubai, Émirats arabes unis",
     "place_id": "ChIJXcNhArNvXz4Rf4-bFvgEamA",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Private Tour I Dubai Stopover & Layover Tour I Dubai Luxury Vip Tours I Dubai Night Tour - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIQ98ZdRCXz4RM1n-zZxl7CA",
+    "types": "establishment, point_of_interest, travel_agency",
     "zone_type": "area"
   },
   {

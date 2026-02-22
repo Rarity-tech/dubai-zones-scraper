@@ -2819,7 +2819,57 @@
     "Dubai DPI",
     "Dubai DPJ",
     "Dubai DPK",
-    "Dubai DPL"
+    "Dubai DPL",
+    "Dubai DPM",
+    "Dubai DPN",
+    "Dubai DPO",
+    "Dubai DPP",
+    "Dubai DPQ",
+    "Dubai DPR",
+    "Dubai DPS",
+    "Dubai DPT",
+    "Dubai DPU",
+    "Dubai DPV",
+    "Dubai DPW",
+    "Dubai DPX",
+    "Dubai DPY",
+    "Dubai DPZ",
+    "Dubai DQA",
+    "Dubai DQB",
+    "Dubai DQC",
+    "Dubai DQD",
+    "Dubai DQE",
+    "Dubai DQF",
+    "Dubai DQG",
+    "Dubai DQH",
+    "Dubai DQI",
+    "Dubai DQJ",
+    "Dubai DQK",
+    "Dubai DQL",
+    "Dubai DQM",
+    "Dubai DQN",
+    "Dubai DQO",
+    "Dubai DQP",
+    "Dubai DQQ",
+    "Dubai DQR",
+    "Dubai DQS",
+    "Dubai DQT",
+    "Dubai DQU",
+    "Dubai DQV",
+    "Dubai DQW",
+    "Dubai DQX",
+    "Dubai DQY",
+    "Dubai DQZ",
+    "Dubai DRA",
+    "Dubai DRB",
+    "Dubai DRC",
+    "Dubai DRD",
+    "Dubai DRE",
+    "Dubai DRF",
+    "Dubai DRG",
+    "Dubai DRH",
+    "Dubai DRI",
+    "Dubai DRJ"
   ],
   "pending_n2": [
     {
@@ -58224,6 +58274,36 @@
       "name": "Dubai Public Library - Dubai - Émirats arabes unis",
       "place_id": "ChIJvbqIXUtcXz4R-WitOY4Z2Ek",
       "types": "establishment, library, point_of_interest"
+    },
+    "ChIJDZCw77nIZ4QROsmQmQkglto": {
+      "name": "DPN Cloud - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDZCw77nIZ4QROsmQmQkglto",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJIQ98ZdRCXz4RM1n-zZxl7CA": {
+      "name": "Dubai Private Tour I Dubai Stopover & Layover Tour I Dubai Luxury Vip Tours I Dubai Night Tour - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIQ98ZdRCXz4RM1n-zZxl7CA",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJYaxsa1MTXz4RXkUr0LjGWk4": {
+      "name": "Dream Tower 1 - Sheikh Zayed Road - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJYaxsa1MTXz4RXkUr0LjGWk4",
+      "types": "geocode, premise"
+    },
+    "ChIJP-jBXMZdXz4RYfDhxyqKyrw": {
+      "name": "Dream City Hotel Apartments LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP-jBXMZdXz4RYfDhxyqKyrw",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJHz9ZSR1DXz4R8s0AL-OxgGc": {
+      "name": "Dream Land Department Store - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHz9ZSR1DXz4R8s0AL-OxgGc",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJ5x7Qo61zXz4RblNRWy09Rf4": {
+      "name": "Drivedubai - Head Office Dip 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5x7Qo61zXz4RblNRWy09Rf4",
+      "types": "establishment, point_of_interest"
     }
   }
 }
