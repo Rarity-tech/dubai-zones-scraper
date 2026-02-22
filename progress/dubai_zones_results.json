@@ -11616,6 +11616,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Ruba, Arabian Ranches 3 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJA6X9R0RlXz4RVhpg4Lk5Vco",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ruby Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJlTBj2c5lXz4RTQQMsaP_34Y",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Rukan 3 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ7xz2DABvXz4REsdBR99TbFg",
     "types": "establishment, point_of_interest",
@@ -11624,6 +11636,24 @@
   {
     "name": "Rukan Community - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJV-sV-NxvXz4RRNUZlVL5lzc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Rukan Residences - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRyOoVwBvXz4RVrDDFLuAjD8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Rukan Tower A - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJmxMmWQBvXz4RF2_e3hOmX7I",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Rukan Tower B - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-7UkBgBvXz4R3GRFIXf2dOc",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
