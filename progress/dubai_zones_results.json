@@ -6984,6 +6984,18 @@
     "zone_type": "area"
   },
   {
+    "name": "ITP Media Group - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3xyGnUNrXz4RDVEfCV8LYNw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ITR Middle East - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQW7X8NwMXz4RzIu6G3V-t-c",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "IVY Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJx1b_bABtXz4Rls2sLHISxx8",
     "types": "establishment, point_of_interest",
@@ -7254,9 +7266,57 @@
     "zone_type": "area"
   },
   {
+    "name": "Ismaili Centre Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsyxqgtFCXz4RbJJzIZqmzk4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ista vacation homes rental LLC - Dubai - Émirats arabes unis",
+    "place_id": "ChIJzVkyDgBDXz4RxeySTb0vUKc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Istituto Marangoni - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ46WJAMtDXz4RxJOY_DYNj6E",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
     "name": "Italy - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ29qs-sFAXz4RhveElLgQAO0",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Italy Cluster U20 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_a6pPS5nXz4Ry9mnW6nFLL4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Italy U 10 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ94vJMUVnXz4RKZpQiBHLIGc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Italy U12 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcT3VZMpmXz4RQ3SRTQ365s0",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ithraa tower - Dubai - Émirats arabes unis",
+    "place_id": "ChIJdZITUYZdXz4RxjNJZE4vxdY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Itly u 17 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJX2vROyNnXz4RV1tE2ES-_Jo",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -9453,6 +9513,12 @@
     "name": "iSee by Al Jaber - Circle Mall الجابر للنظارات فرع آي سي - سيركل مول - Dubai - Émirats arabes unis",
     "place_id": "ChIJP0tHMrptXz4RrTBb1x3k59o",
     "types": "establishment, health, point_of_interest, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "iSwim - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMWvJj1RrXz4RlzbnQkGACQg",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

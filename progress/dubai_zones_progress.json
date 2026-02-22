@@ -4769,7 +4769,57 @@
     "Dubai ISI",
     "Dubai ISJ",
     "Dubai ISK",
-    "Dubai ISL"
+    "Dubai ISL",
+    "Dubai ISM",
+    "Dubai ISN",
+    "Dubai ISO",
+    "Dubai ISP",
+    "Dubai ISQ",
+    "Dubai ISR",
+    "Dubai ISS",
+    "Dubai IST",
+    "Dubai ISU",
+    "Dubai ISV",
+    "Dubai ISW",
+    "Dubai ISX",
+    "Dubai ISY",
+    "Dubai ISZ",
+    "Dubai ITA",
+    "Dubai ITB",
+    "Dubai ITC",
+    "Dubai ITD",
+    "Dubai ITE",
+    "Dubai ITF",
+    "Dubai ITG",
+    "Dubai ITH",
+    "Dubai ITI",
+    "Dubai ITJ",
+    "Dubai ITK",
+    "Dubai ITL",
+    "Dubai ITM",
+    "Dubai ITN",
+    "Dubai ITO",
+    "Dubai ITP",
+    "Dubai ITQ",
+    "Dubai ITR",
+    "Dubai ITS",
+    "Dubai ITT",
+    "Dubai ITU",
+    "Dubai ITV",
+    "Dubai ITW",
+    "Dubai ITX",
+    "Dubai ITY",
+    "Dubai ITZ",
+    "Dubai IUA",
+    "Dubai IUB",
+    "Dubai IUC",
+    "Dubai IUD",
+    "Dubai IUE",
+    "Dubai IUF",
+    "Dubai IUG",
+    "Dubai IUH",
+    "Dubai IUI",
+    "Dubai IUJ"
   ],
   "pending_n2": [
     {
@@ -61748,6 +61798,61 @@
     "ChIJU--x0eMVXz4RrFVTgqw-oKg": {
       "name": "Palm Islands, Dubai, Émirats arabes unis",
       "place_id": "ChIJU--x0eMVXz4RrFVTgqw-oKg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJsyxqgtFCXz4RbJJzIZqmzk4": {
+      "name": "Ismaili Centre Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJsyxqgtFCXz4RbJJzIZqmzk4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJzVkyDgBDXz4RxeySTb0vUKc": {
+      "name": "Ista vacation homes rental LLC - Dubai - Émirats arabes unis",
+      "place_id": "ChIJzVkyDgBDXz4RxeySTb0vUKc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ46WJAMtDXz4RxJOY_DYNj6E": {
+      "name": "Istituto Marangoni - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ46WJAMtDXz4RxJOY_DYNj6E",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJMWvJj1RrXz4RlzbnQkGACQg": {
+      "name": "iSwim - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMWvJj1RrXz4RlzbnQkGACQg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJcT3VZMpmXz4RQ3SRTQ365s0": {
+      "name": "Italy U12 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJcT3VZMpmXz4RQ3SRTQ365s0",
+      "types": "geocode, premise"
+    },
+    "ChIJ94vJMUVnXz4RKZpQiBHLIGc": {
+      "name": "Italy U 10 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ94vJMUVnXz4RKZpQiBHLIGc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ_a6pPS5nXz4Ry9mnW6nFLL4": {
+      "name": "Italy Cluster U20 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_a6pPS5nXz4Ry9mnW6nFLL4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJdZITUYZdXz4RxjNJZE4vxdY": {
+      "name": "Ithraa tower - Dubai - Émirats arabes unis",
+      "place_id": "ChIJdZITUYZdXz4RxjNJZE4vxdY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJX2vROyNnXz4RV1tE2ES-_Jo": {
+      "name": "Itly u 17 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJX2vROyNnXz4RV1tE2ES-_Jo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ3xyGnUNrXz4RDVEfCV8LYNw": {
+      "name": "ITP Media Group - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ3xyGnUNrXz4RDVEfCV8LYNw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJQW7X8NwMXz4RzIu6G3V-t-c": {
+      "name": "ITR Middle East - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQW7X8NwMXz4RzIu6G3V-t-c",
       "types": "establishment, point_of_interest"
     }
   }
