@@ -11094,6 +11094,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Sonapur Camp 6 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJm2hVlUReXz4RauROX4xevLs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Souk Al Bahar, Dubai, Émirats arabes unis",
     "place_id": "ChIJW6S-_oFCXz4RyKETHbDcGSc",
     "types": "establishment, point_of_interest, shopping_mall",
