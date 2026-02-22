@@ -1269,7 +1269,57 @@
     "Dubai BCS",
     "Dubai BCT",
     "Dubai BCU",
-    "Dubai BCV"
+    "Dubai BCV",
+    "Dubai BCW",
+    "Dubai BCX",
+    "Dubai BCY",
+    "Dubai BCZ",
+    "Dubai BDA",
+    "Dubai BDB",
+    "Dubai BDC",
+    "Dubai BDD",
+    "Dubai BDE",
+    "Dubai BDF",
+    "Dubai BDG",
+    "Dubai BDH",
+    "Dubai BDI",
+    "Dubai BDJ",
+    "Dubai BDK",
+    "Dubai BDL",
+    "Dubai BDM",
+    "Dubai BDN",
+    "Dubai BDO",
+    "Dubai BDP",
+    "Dubai BDQ",
+    "Dubai BDR",
+    "Dubai BDS",
+    "Dubai BDT",
+    "Dubai BDU",
+    "Dubai BDV",
+    "Dubai BDW",
+    "Dubai BDX",
+    "Dubai BDY",
+    "Dubai BDZ",
+    "Dubai BEA",
+    "Dubai BEB",
+    "Dubai BEC",
+    "Dubai BED",
+    "Dubai BEE",
+    "Dubai BEF",
+    "Dubai BEG",
+    "Dubai BEH",
+    "Dubai BEI",
+    "Dubai BEJ",
+    "Dubai BEK",
+    "Dubai BEL",
+    "Dubai BEM",
+    "Dubai BEN",
+    "Dubai BEO",
+    "Dubai BEP",
+    "Dubai BEQ",
+    "Dubai BER",
+    "Dubai BES",
+    "Dubai BET"
   ],
   "pending_n2": [
     {
@@ -54879,6 +54929,71 @@
       "name": "Business Central Towers - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJO65qcm5rXz4RMgWnDCsiWBk",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJCR6M-5JcXz4RVr38on_UKOg": {
+      "name": "BDT Tourism Guidance Services L.L.C - Dubai - Émirats arabes unis",
+      "place_id": "ChIJCR6M-5JcXz4RVr38on_UKOg",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJKa9C0KBdXz4RiCJxBkvFKxs": {
+      "name": "Terminal 3 Metro Station - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJKa9C0KBdXz4RiCJxBkvFKxs",
+      "types": "geocode, premise"
+    },
+    "ChIJaRrAebZDXz4RCf0k29_pXhA": {
+      "name": "Dubai Beaches, Jumeirah 2 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJaRrAebZDXz4RCf0k29_pXhA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJa5t49NNzXz4RdmLMvwcfMu8": {
+      "name": "Bed & Biscuits - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJa5t49NNzXz4RdmLMvwcfMu8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJubk9rT1rXz4R6_5l63yy2BY": {
+      "name": "Bekky Barber Beachfront - Dubai - Émirats arabes unis",
+      "place_id": "ChIJubk9rT1rXz4R6_5l63yy2BY",
+      "types": "establishment, hair_care, health, point_of_interest"
+    },
+    "ChIJjSs6Bi5oXz4RmRldQ6m8vP0": {
+      "name": "Bellevue Towers - Residential Apartments | Dubai Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJjSs6Bi5oXz4RmRldQ6m8vP0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJGXBkE19vXz4RU4bnOeNN0fk": {
+      "name": "Bella Rose - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJGXBkE19vXz4RU4bnOeNN0fk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ58ZAdr9rXz4RGw_-yaCTRx4": {
+      "name": "Be One Creative Marketing - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ58ZAdr9rXz4RGw_-yaCTRx4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAw5sDUEf9T4RZW3rstnyORU": {
+      "name": "PARAGLIDING PARACHUTING CLUB HATTA Dubai - E44 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJAw5sDUEf9T4RZW3rstnyORU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ31g7QoVpXz4RAT6OyYw0hd4": {
+      "name": "Berkeley Place - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ31g7QoVpXz4RAT6OyYw0hd4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJK3GzKndtXz4RImnk-P9oEOY": {
+      "name": "Bermuda Views Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJK3GzKndtXz4RImnk-P9oEOY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJZyGzQ5hdXz4RNiXJm5UTrqA": {
+      "name": "Best Western Premier M Four Hotel - Dubai - Émirats arabes unis",
+      "place_id": "ChIJZyGzQ5hdXz4RNiXJm5UTrqA",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJm1NFndFcXz4RYMg12h6m42Y": {
+      "name": "Best Western Plus: Pearl Creek Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJm1NFndFcXz4RYMg12h6m42Y",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }
