@@ -519,7 +519,57 @@
     "Dubai ZW",
     "Dubai ZX",
     "Dubai ZY",
-    "Dubai ZZ"
+    "Dubai ZZ",
+    "Dubai AAA",
+    "Dubai AAB",
+    "Dubai AAC",
+    "Dubai AAD",
+    "Dubai AAE",
+    "Dubai AAF",
+    "Dubai AAG",
+    "Dubai AAH",
+    "Dubai AAI",
+    "Dubai AAJ",
+    "Dubai AAK",
+    "Dubai AAL",
+    "Dubai AAM",
+    "Dubai AAN",
+    "Dubai AAO",
+    "Dubai AAP",
+    "Dubai AAQ",
+    "Dubai AAR",
+    "Dubai AAS",
+    "Dubai AAT",
+    "Dubai AAU",
+    "Dubai AAV",
+    "Dubai AAW",
+    "Dubai AAX",
+    "Dubai AAY",
+    "Dubai AAZ",
+    "Dubai ABA",
+    "Dubai ABB",
+    "Dubai ABC",
+    "Dubai ABD",
+    "Dubai ABE",
+    "Dubai ABF",
+    "Dubai ABG",
+    "Dubai ABH",
+    "Dubai ABI",
+    "Dubai ABJ",
+    "Dubai ABK",
+    "Dubai ABL",
+    "Dubai ABM",
+    "Dubai ABN",
+    "Dubai ABO",
+    "Dubai ABP",
+    "Dubai ABQ",
+    "Dubai ABR",
+    "Dubai ABS",
+    "Dubai ABT",
+    "Dubai ABU",
+    "Dubai ABV",
+    "Dubai ABW",
+    "Dubai ABX"
   ],
   "pending_n2": [
     {
@@ -52699,6 +52749,106 @@
       "name": "Zzz d - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJk4odZABrXz4RGOZmbmbZ6jA",
       "types": "establishment, place_of_worship, point_of_interest"
+    },
+    "ChIJ7S8tVt9hXz4RqJoZ8a14E2E": {
+      "name": "Dubaï Safari Park, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ7S8tVt9hXz4RqJoZ8a14E2E",
+      "types": "establishment, park, point_of_interest, zoo"
+    },
+    "ChIJwyGLXcFCXz4RthyG7eNRSRk": {
+      "name": "Dubai Garden Glow maintenant fermé rouvrira en octobre, Dubai, Émirats arabes unis",
+      "place_id": "ChIJwyGLXcFCXz4RthyG7eNRSRk",
+      "types": "amusement_park, establishment, park, point_of_interest, tourist_attraction"
+    },
+    "ChIJX1m8TEVCXz4RQ3O8PGVJ0q0": {
+      "name": "Dubaï Ladies Club, Dubai, Émirats arabes unis",
+      "place_id": "ChIJX1m8TEVCXz4RQ3O8PGVJ0q0",
+      "types": "establishment, gym, health, point_of_interest, spa, tourist_attraction"
+    },
+    "ChIJ016GFd1vXz4Rfco2izB0OeM": {
+      "name": "Arabian Ranches 3 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ016GFd1vXz4Rfco2izB0OeM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ401nVJtgXz4Ru7XrkeeteU0": {
+      "name": "Arabian Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ401nVJtgXz4Ru7XrkeeteU0",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJGTKkJjRdXz4RC5-FXb6sggE": {
+      "name": "American Academy of Cosmetic Surgery Hospital - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJGTKkJjRdXz4RC5-FXb6sggE",
+      "types": "beauty_salon, doctor, establishment, hair_care, health, hospital, point_of_interest"
+    },
+    "ChIJexooMT1dXz4RyL4PS6lAhl4": {
+      "name": "Dubai Creek Golf & Yacht Club, Dubai, Émirats arabes unis",
+      "place_id": "ChIJexooMT1dXz4RyL4PS6lAhl4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJXcNhArNvXz4Rf4-bFvgEamA": {
+      "name": "Dubai Polo & Equestrian Club, Dubai, Émirats arabes unis",
+      "place_id": "ChIJXcNhArNvXz4Rf4-bFvgEamA",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJ0TNBLQBDXz4REw9E4ywVflE": {
+      "name": "Aas Villas - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0TNBLQBDXz4REw9E4ywVflE",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJU112c9ptXz4RiAfe93pap5c": {
+      "name": "Dubaï International Stadium, Dubai, Émirats arabes unis",
+      "place_id": "ChIJU112c9ptXz4RiAfe93pap5c",
+      "types": "establishment, point_of_interest, stadium"
+    },
+    "ChIJ2_0cg4VcXz4RugizkxtHfbc": {
+      "name": "Dubai International Bowling Centre, Émirats arabes unis",
+      "place_id": "ChIJ2_0cg4VcXz4RugizkxtHfbc",
+      "types": "bowling_alley, establishment, point_of_interest"
+    },
+    "ChIJQyHszSBtXz4RgzS9TFXLewo": {
+      "name": "Abar Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQyHszSBtXz4RgzS9TFXLewo",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ37eqLnldXz4RDgE-7BepOBc": {
+      "name": "Dubai Festival City, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ37eqLnldXz4RDgE-7BepOBc",
+      "types": "establishment, furniture_store, home_goods_store, point_of_interest, store"
+    },
+    "ChIJr8nZXO1kXz4Re6FbhWeCCWo": {
+      "name": "Abidos Hotel Apartment Dubailand - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJr8nZXO1kXz4Re6FbhWeCCWo",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ5RwmQsCJ9T4R7usUjSX03_4": {
+      "name": "General Directorate of Identity and Foreigners Affairs Dubai - Al Awir - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5RwmQsCJ9T4R7usUjSX03_4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ8f8_qbdcXz4RW4Cl0KJsjRo": {
+      "name": "ABJAD CROWN Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8f8_qbdcXz4RW4Cl0KJsjRo",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJV4ceawBDXz4RLzcJfi46PPg": {
+      "name": "ABNA RASHID HAMD BIN HUWAIDI BUILDING - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV4ceawBDXz4RLzcJfi46PPg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ5_y9mVRDXz4RsmsasDPJRU8": {
+      "name": "Abra Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5_y9mVRDXz4RsmsasDPJRU8",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJRxzOnEhDXz4RthFQ7mDTtuM": {
+      "name": "Abraj Shopping Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRxzOnEhDXz4RthFQ7mDTtuM",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJv8f0-4lcXz4Rmg_D6iERtQ4": {
+      "name": "Abraj Al Mamzar, Block A - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJv8f0-4lcXz4Rmg_D6iERtQ4",
+      "types": "establishment, point_of_interest"
     }
   }
 }
