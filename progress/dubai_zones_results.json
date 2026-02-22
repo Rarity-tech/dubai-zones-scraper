@@ -8394,6 +8394,12 @@
     "zone_type": "area"
   },
   {
+    "name": "L'ÉCOLE, School of Jewelry Arts (Dubai - Dubai Design District) - Dubai - Émirats arabes unis",
+    "place_id": "ChIJe7NHrBdpXz4RxQjxtLnH1tU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "LBC Kiosk - Carrefour Deira City Centre - Dubai - Émirats arabes unis",
     "place_id": "ChIJE6FjKH1dXz4RYUVDbxCTZqQ",
     "types": "establishment, point_of_interest",
@@ -8658,9 +8664,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Lebanon - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJc4nSuehAXz4Rc86HbSnaTNw",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "Liberty House - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJbS7_FY9CXz4ReOKwBnScXzo",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Libya - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_0Xe_e9AXz4R7gQqyVx_9dI",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
@@ -8691,6 +8709,12 @@
     "name": "London Centre for Aesthetic Surgery. مركز لندن للجراحة التجميلية - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJdQQRZDRDXz4RDjTP5l__mAU",
     "types": "doctor, establishment, health, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "London city hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBQk0E5dDXz4R_yt0RBc6E2w",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {

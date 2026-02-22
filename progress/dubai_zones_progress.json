@@ -6269,7 +6269,57 @@
     "Dubai LCA",
     "Dubai LCB",
     "Dubai LCC",
-    "Dubai LCD"
+    "Dubai LCD",
+    "Dubai LCE",
+    "Dubai LCF",
+    "Dubai LCG",
+    "Dubai LCH",
+    "Dubai LCI",
+    "Dubai LCJ",
+    "Dubai LCK",
+    "Dubai LCL",
+    "Dubai LCM",
+    "Dubai LCN",
+    "Dubai LCO",
+    "Dubai LCP",
+    "Dubai LCQ",
+    "Dubai LCR",
+    "Dubai LCS",
+    "Dubai LCT",
+    "Dubai LCU",
+    "Dubai LCV",
+    "Dubai LCW",
+    "Dubai LCX",
+    "Dubai LCY",
+    "Dubai LCZ",
+    "Dubai LDA",
+    "Dubai LDB",
+    "Dubai LDC",
+    "Dubai LDD",
+    "Dubai LDE",
+    "Dubai LDF",
+    "Dubai LDG",
+    "Dubai LDH",
+    "Dubai LDI",
+    "Dubai LDJ",
+    "Dubai LDK",
+    "Dubai LDL",
+    "Dubai LDM",
+    "Dubai LDN",
+    "Dubai LDO",
+    "Dubai LDP",
+    "Dubai LDQ",
+    "Dubai LDR",
+    "Dubai LDS",
+    "Dubai LDT",
+    "Dubai LDU",
+    "Dubai LDV",
+    "Dubai LDW",
+    "Dubai LDX",
+    "Dubai LDY",
+    "Dubai LDZ",
+    "Dubai LEA",
+    "Dubai LEB"
   ],
   "pending_n2": [
     {
@@ -64199,6 +64249,26 @@
       "name": "London Centre for Aesthetic Surgery. مركز لندن للجراحة التجميلية - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJdQQRZDRDXz4RDjTP5l__mAU",
       "types": "doctor, establishment, health, local_government_office, point_of_interest"
+    },
+    "ChIJe7NHrBdpXz4RxQjxtLnH1tU": {
+      "name": "L'ÉCOLE, School of Jewelry Arts (Dubai - Dubai Design District) - Dubai - Émirats arabes unis",
+      "place_id": "ChIJe7NHrBdpXz4RxQjxtLnH1tU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBQk0E5dDXz4R_yt0RBc6E2w": {
+      "name": "London city hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBQk0E5dDXz4R_yt0RBc6E2w",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJc4nSuehAXz4Rc86HbSnaTNw": {
+      "name": "Lebanon - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJc4nSuehAXz4Rc86HbSnaTNw",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJ_0Xe_e9AXz4R7gQqyVx_9dI": {
+      "name": "Libya - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_0Xe_e9AXz4R7gQqyVx_9dI",
+      "types": "establishment, natural_feature"
     }
   }
 }
