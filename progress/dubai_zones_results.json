@@ -2454,6 +2454,30 @@
     "zone_type": "area"
   },
   {
+    "name": "Bay Avenue By Dubai Retail - Dubai - Émirats arabes unis",
+    "place_id": "ChIJFWC04RZpXz4RR_d0qX17bUE",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bay Square Building 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBfutTzBoXz4RFObA86P4qaw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bay View Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ7Rk_y8xpXz4RNh47QaqGnq4",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bayz by Danube Properties - Dubai - Émirats arabes unis",
+    "place_id": "ChIJn6_trTZoXz4RP6yhiFeeR9w",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Beach Walk Hotel - Jumeirah - Dubai - Émirats arabes unis",
     "place_id": "ChIJSXyphl1rXz4ReDAUpLHSWnQ",
     "types": "establishment, lodging, point_of_interest",
@@ -2478,9 +2502,27 @@
     "zone_type": "area"
   },
   {
+    "name": "Bollywood Beach Hostel, Apartment - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ-zc5s-4VXz4RTJKwBXGOeYk",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Boston Consulting Group (BCG) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ62bUOW1rXz4RfPDKEx2JYYY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Boxpark by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCZUgGmxCXz4RGt_ilFc-0s8",
     "types": "establishment, food, movie_theater, point_of_interest, restaurant, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Brands Shop | Dubai Creek Tower Building, Opposite Sheraton Creek Deira Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJf0M50sxcXz4RVWhjdGtW2bM",
+    "types": "establishment, point_of_interest, shopping_mall",
     "zone_type": "area"
   },
   {
@@ -2523,6 +2565,12 @@
     "name": "Burj Park, Dubai, Émirats arabes unis",
     "place_id": "ChIJ2en7dCpoXz4Rniz_tpr3Xk4",
     "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Business Central Towers - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJO65qcm5rXz4RMgWnDCsiWBk",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

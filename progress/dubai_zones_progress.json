@@ -1219,7 +1219,57 @@
     "Dubai BAU",
     "Dubai BAV",
     "Dubai BAW",
-    "Dubai BAX"
+    "Dubai BAX",
+    "Dubai BAY",
+    "Dubai BAZ",
+    "Dubai BBA",
+    "Dubai BBB",
+    "Dubai BBC",
+    "Dubai BBD",
+    "Dubai BBE",
+    "Dubai BBF",
+    "Dubai BBG",
+    "Dubai BBH",
+    "Dubai BBI",
+    "Dubai BBJ",
+    "Dubai BBK",
+    "Dubai BBL",
+    "Dubai BBM",
+    "Dubai BBN",
+    "Dubai BBO",
+    "Dubai BBP",
+    "Dubai BBQ",
+    "Dubai BBR",
+    "Dubai BBS",
+    "Dubai BBT",
+    "Dubai BBU",
+    "Dubai BBV",
+    "Dubai BBW",
+    "Dubai BBX",
+    "Dubai BBY",
+    "Dubai BBZ",
+    "Dubai BCA",
+    "Dubai BCB",
+    "Dubai BCC",
+    "Dubai BCD",
+    "Dubai BCE",
+    "Dubai BCF",
+    "Dubai BCG",
+    "Dubai BCH",
+    "Dubai BCI",
+    "Dubai BCJ",
+    "Dubai BCK",
+    "Dubai BCL",
+    "Dubai BCM",
+    "Dubai BCN",
+    "Dubai BCO",
+    "Dubai BCP",
+    "Dubai BCQ",
+    "Dubai BCR",
+    "Dubai BCS",
+    "Dubai BCT",
+    "Dubai BCU",
+    "Dubai BCV"
   ],
   "pending_n2": [
     {
@@ -54788,6 +54838,46 @@
     "ChIJ7TFTGxdpXz4RJs_RR5l3qyg": {
       "name": "Baseline Sports Academy - Dubai - Émirats arabes unis",
       "place_id": "ChIJ7TFTGxdpXz4RJs_RR5l3qyg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJn6_trTZoXz4RP6yhiFeeR9w": {
+      "name": "Bayz by Danube Properties - Dubai - Émirats arabes unis",
+      "place_id": "ChIJn6_trTZoXz4RP6yhiFeeR9w",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ7Rk_y8xpXz4RNh47QaqGnq4": {
+      "name": "Bay View Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ7Rk_y8xpXz4RNh47QaqGnq4",
+      "types": "geocode, premise"
+    },
+    "ChIJFWC04RZpXz4RR_d0qX17bUE": {
+      "name": "Bay Avenue By Dubai Retail - Dubai - Émirats arabes unis",
+      "place_id": "ChIJFWC04RZpXz4RR_d0qX17bUE",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJBfutTzBoXz4RFObA86P4qaw": {
+      "name": "Bay Square Building 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBfutTzBoXz4RFObA86P4qaw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ-zc5s-4VXz4RTJKwBXGOeYk": {
+      "name": "Bollywood Beach Hostel, Apartment - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ-zc5s-4VXz4RTJKwBXGOeYk",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJf0M50sxcXz4RVWhjdGtW2bM": {
+      "name": "Brands Shop | Dubai Creek Tower Building, Opposite Sheraton Creek Deira Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJf0M50sxcXz4RVWhjdGtW2bM",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJ62bUOW1rXz4RfPDKEx2JYYY": {
+      "name": "Boston Consulting Group (BCG) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ62bUOW1rXz4RfPDKEx2JYYY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJO65qcm5rXz4RMgWnDCsiWBk": {
+      "name": "Business Central Towers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJO65qcm5rXz4RMgWnDCsiWBk",
       "types": "establishment, point_of_interest"
     }
   }
