@@ -5269,7 +5269,57 @@
     "Dubai JLO",
     "Dubai JLP",
     "Dubai JLQ",
-    "Dubai JLR"
+    "Dubai JLR",
+    "Dubai JLS",
+    "Dubai JLT",
+    "Dubai JLU",
+    "Dubai JLV",
+    "Dubai JLW",
+    "Dubai JLX",
+    "Dubai JLY",
+    "Dubai JLZ",
+    "Dubai JMA",
+    "Dubai JMB",
+    "Dubai JMC",
+    "Dubai JMD",
+    "Dubai JME",
+    "Dubai JMF",
+    "Dubai JMG",
+    "Dubai JMH",
+    "Dubai JMI",
+    "Dubai JMJ",
+    "Dubai JMK",
+    "Dubai JML",
+    "Dubai JMM",
+    "Dubai JMN",
+    "Dubai JMO",
+    "Dubai JMP",
+    "Dubai JMQ",
+    "Dubai JMR",
+    "Dubai JMS",
+    "Dubai JMT",
+    "Dubai JMU",
+    "Dubai JMV",
+    "Dubai JMW",
+    "Dubai JMX",
+    "Dubai JMY",
+    "Dubai JMZ",
+    "Dubai JNA",
+    "Dubai JNB",
+    "Dubai JNC",
+    "Dubai JND",
+    "Dubai JNE",
+    "Dubai JNF",
+    "Dubai JNG",
+    "Dubai JNH",
+    "Dubai JNI",
+    "Dubai JNJ",
+    "Dubai JNK",
+    "Dubai JNL",
+    "Dubai JNM",
+    "Dubai JNN",
+    "Dubai JNO",
+    "Dubai JNP"
   ],
   "pending_n2": [
     {
@@ -62614,6 +62664,36 @@
       "name": "Jumeirah Living Marina Gate - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJQcH9dO9tXz4ReayUzeWBfmM",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJS9cVnelCXz4RnmylxUf73F0": {
+      "name": "Jumeirah Living World Trade Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJS9cVnelCXz4RnmylxUf73F0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJSwcqUdVDXz4RHtCxMY04ARo": {
+      "name": "JMR AGGREGATE LLC. - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJSwcqUdVDXz4RHtCxMY04ARo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJrbQWRNZtXz4R0yRx3kOMihE": {
+      "name": "JNE Homes | Holiday Home Rentals - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJrbQWRNZtXz4R0yRx3kOMihE",
+      "types": "establishment, point_of_interest, real_estate_agency, travel_agency"
+    },
+    "ChIJUSwpOgBlXz4RsiWns0WRxio": {
+      "name": "June, Arabian Ranches 3 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJUSwpOgBlXz4RsiWns0WRxio",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJm_8CpDddXz4R4sNn4mE4JTc": {
+      "name": "Johnson & Johnson Middle East - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJm_8CpDddXz4R4sNn4mE4JTc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJLWk0XQBDXz4R__VDFr6ufoY": {
+      "name": "Jnp sharjha - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJLWk0XQBDXz4R__VDFr6ufoY",
+      "types": "establishment, point_of_interest"
     }
   }
 }

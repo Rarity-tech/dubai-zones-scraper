@@ -7554,6 +7554,18 @@
     "zone_type": "area"
   },
   {
+    "name": "JMR AGGREGATE LLC. - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJSwcqUdVDXz4RHtCxMY04ARo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "JNE Homes | Holiday Home Rentals - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJrbQWRNZtXz4R0yRx3kOMihE",
+    "types": "establishment, point_of_interest, real_estate_agency, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "JOYA DORADO - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ22-qujFvXz4R0yQ46VOhV8o",
     "types": "establishment, point_of_interest",
@@ -7752,9 +7764,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Jnp sharjha - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJLWk0XQBDXz4R__VDFr6ufoY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Jobs in Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJybIYu5xDXz4RAMFhS0D3jHw",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Johnson & Johnson Middle East - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJm_8CpDddXz4R4sNn4mE4JTc",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7836,9 +7860,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Jumeirah Living World Trade Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJS9cVnelCXz4RnmylxUf73F0",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Jumeirah Zabeel Saray - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJu0L_icYUXz4RQsexAbn9Bes",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "June, Arabian Ranches 3 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJUSwpOgBlXz4RsiWns0WRxio",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
