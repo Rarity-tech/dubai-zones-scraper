@@ -1932,6 +1932,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Art Dubai - Dubai Design District - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ7850wpFCXz4RgldgCgGPz1g",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Arup Gulf Limited - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ0ZrquyVDXz4RS1zZBq02vtc",
     "types": "establishment, point_of_interest",
@@ -3864,6 +3870,12 @@
     "zone_type": "area"
   },
   {
+    "name": "DDP - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ393X4fxlXz4RyzZ6nIWNrtQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DFC - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ5duj5ghdXz4RtKEMOC-LFb4",
     "types": "establishment, health, hospital, point_of_interest",
@@ -3890,6 +3902,12 @@
   {
     "name": "DMCC - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJhWLEpK1sXz4RHAYBMv3eItw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DMDC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJt76FrQZDXz4Rwgp8F2BvXus",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -4080,6 +4098,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dolphin Diving Services - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJd1Gk6z1cXz4RpFqJPF2NHKQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dolphin Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJG5CEXjZdXz4R6-Kz2GSh7bA",
     "types": "establishment, lodging, point_of_interest",
@@ -4125,6 +4149,12 @@
     "name": "Dragon Mart, Dubai, Émirats arabes unis",
     "place_id": "ChIJ-RX5UklhXz4RqRE2cZdsQAw",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "DryDocks World HR Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAQAAzwZqXz4RWzZq1akRG-k",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -4242,6 +4272,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai College of Tourism - Dubai - Émirats arabes unis",
+    "place_id": "ChIJockKghtdXz4Rz1zqrOm5vRU",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Cooperative Society Building - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ04S_EXRdXz4R7dkWCqZ0ICE",
     "types": "geocode, premise",
@@ -4284,6 +4320,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Desert Safari - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJyrmJSZDXz4R6XahvsREnSE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Design District (D3) by TECOM Group - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCUZ_qRZoXz4RQvsPyNmppTs",
     "types": "establishment, point_of_interest",
@@ -4293,6 +4335,12 @@
     "name": "Dubai Dolphinarium - Dubaï - Émirats arabes unis",
     "place_id": "ChIJRZZYxzldXz4RXWWMUmOeDeg",
     "types": "amusement_park, aquarium, establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Duty Free Main Office - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJI4yXop1dXz4R7Kh5owtY9bI",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -4730,6 +4778,12 @@
   {
     "name": "Elite Residence, Dubai, Émirats arabes unis",
     "place_id": "ChIJO5otEFBrXz4RGjjKAdTr41A",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emaar Community Management Office- Dubai Creek Harbour - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJy5PY5-9nXz4ROjEwwkM6Bbs",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -6081,6 +6135,12 @@
     "name": "Second Cup - Dubai - Émirats arabes unis",
     "place_id": "ChIJX3oyiMpcXz4R1pw3ZQmzPvw",
     "types": "amusement_park, cafe, establishment, food, health, lodging, night_club, point_of_interest, spa, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "Serena - Dubai Community Management office - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9bGwabNxXz4R-OvhHWgqZWM",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

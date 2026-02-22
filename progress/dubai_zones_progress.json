@@ -2469,7 +2469,57 @@
     "Dubai DBW",
     "Dubai DBX",
     "Dubai DBY",
-    "Dubai DBZ"
+    "Dubai DBZ",
+    "Dubai DCA",
+    "Dubai DCB",
+    "Dubai DCC",
+    "Dubai DCD",
+    "Dubai DCE",
+    "Dubai DCF",
+    "Dubai DCG",
+    "Dubai DCH",
+    "Dubai DCI",
+    "Dubai DCJ",
+    "Dubai DCK",
+    "Dubai DCL",
+    "Dubai DCM",
+    "Dubai DCN",
+    "Dubai DCO",
+    "Dubai DCP",
+    "Dubai DCQ",
+    "Dubai DCR",
+    "Dubai DCS",
+    "Dubai DCT",
+    "Dubai DCU",
+    "Dubai DCV",
+    "Dubai DCW",
+    "Dubai DCX",
+    "Dubai DCY",
+    "Dubai DCZ",
+    "Dubai DDA",
+    "Dubai DDB",
+    "Dubai DDC",
+    "Dubai DDD",
+    "Dubai DDE",
+    "Dubai DDF",
+    "Dubai DDG",
+    "Dubai DDH",
+    "Dubai DDI",
+    "Dubai DDJ",
+    "Dubai DDK",
+    "Dubai DDL",
+    "Dubai DDM",
+    "Dubai DDN",
+    "Dubai DDO",
+    "Dubai DDP",
+    "Dubai DDQ",
+    "Dubai DDR",
+    "Dubai DDS",
+    "Dubai DDT",
+    "Dubai DDU",
+    "Dubai DDV",
+    "Dubai DDW",
+    "Dubai DDX"
   ],
   "pending_n2": [
     {
@@ -57353,6 +57403,56 @@
     "ChIJ7V4-d9dcXz4R2ZHs_UfY86E": {
       "name": "Dubai Business Women Council (DBWC) - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ7V4-d9dcXz4R2ZHs_UfY86E",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJy5PY5-9nXz4ROjEwwkM6Bbs": {
+      "name": "Emaar Community Management Office- Dubai Creek Harbour - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJy5PY5-9nXz4ROjEwwkM6Bbs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ9bGwabNxXz4R-OvhHWgqZWM": {
+      "name": "Serena - Dubai Community Management office - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9bGwabNxXz4R-OvhHWgqZWM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJockKghtdXz4Rz1zqrOm5vRU": {
+      "name": "Dubai College of Tourism - Dubai - Émirats arabes unis",
+      "place_id": "ChIJockKghtdXz4Rz1zqrOm5vRU",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJ7850wpFCXz4RgldgCgGPz1g": {
+      "name": "Art Dubai - Dubai Design District - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ7850wpFCXz4RgldgCgGPz1g",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJI4yXop1dXz4R7Kh5owtY9bI": {
+      "name": "Dubai Duty Free Main Office - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJI4yXop1dXz4R7Kh5owtY9bI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJt76FrQZDXz4Rwgp8F2BvXus": {
+      "name": "DMDC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJt76FrQZDXz4Rwgp8F2BvXus",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ393X4fxlXz4RyzZ6nIWNrtQ": {
+      "name": "DDP - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ393X4fxlXz4RyzZ6nIWNrtQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJyrmJSZDXz4R6XahvsREnSE": {
+      "name": "Dubai Desert Safari - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJyrmJSZDXz4R6XahvsREnSE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJd1Gk6z1cXz4RpFqJPF2NHKQ": {
+      "name": "Dolphin Diving Services - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJd1Gk6z1cXz4RpFqJPF2NHKQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAQAAzwZqXz4RWzZq1akRG-k": {
+      "name": "DryDocks World HR Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAQAAzwZqXz4RWzZq1akRG-k",
       "types": "establishment, point_of_interest"
     }
   }
