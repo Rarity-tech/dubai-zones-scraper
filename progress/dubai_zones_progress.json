@@ -8869,7 +8869,57 @@
     "Dubai SHA",
     "Dubai SHB",
     "Dubai SHC",
-    "Dubai SHD"
+    "Dubai SHD",
+    "Dubai SHE",
+    "Dubai SHF",
+    "Dubai SHG",
+    "Dubai SHH",
+    "Dubai SHI",
+    "Dubai SHJ",
+    "Dubai SHK",
+    "Dubai SHL",
+    "Dubai SHM",
+    "Dubai SHN",
+    "Dubai SHO",
+    "Dubai SHP",
+    "Dubai SHQ",
+    "Dubai SHR",
+    "Dubai SHS",
+    "Dubai SHT",
+    "Dubai SHU",
+    "Dubai SHV",
+    "Dubai SHW",
+    "Dubai SHX",
+    "Dubai SHY",
+    "Dubai SHZ",
+    "Dubai SIA",
+    "Dubai SIB",
+    "Dubai SIC",
+    "Dubai SID",
+    "Dubai SIE",
+    "Dubai SIF",
+    "Dubai SIG",
+    "Dubai SIH",
+    "Dubai SII",
+    "Dubai SIJ",
+    "Dubai SIK",
+    "Dubai SIL",
+    "Dubai SIM",
+    "Dubai SIN",
+    "Dubai SIO",
+    "Dubai SIP",
+    "Dubai SIQ",
+    "Dubai SIR",
+    "Dubai SIS",
+    "Dubai SIT",
+    "Dubai SIU",
+    "Dubai SIV",
+    "Dubai SIW",
+    "Dubai SIX",
+    "Dubai SIY",
+    "Dubai SIZ",
+    "Dubai SJA",
+    "Dubai SJB"
   ],
   "pending_n2": [
     {
@@ -69239,6 +69289,166 @@
       "name": "Dubai Sharjah Border - Charjah - Émirats arabes unis",
       "place_id": "ChIJf-aZHQBdXz4RBq_L6r2suSc",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJ2XhJxlcTXz4R39QwBesCT08": {
+      "name": "Sheraton Jumeirah Beach Resort - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2XhJxlcTXz4R39QwBesCT08",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJnTOfw75rXz4Rc1mCICEuy80": {
+      "name": "Sheraton Mall of the Emirates Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJnTOfw75rXz4Rc1mCICEuy80",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJSdkQiClkXz4RL7Sm_krBz9E": {
+      "name": "Nad Al Sheba 4, Dubai, Émirats arabes unis",
+      "place_id": "ChIJSdkQiClkXz4RL7Sm_krBz9E",
+      "types": "neighborhood, political"
+    },
+    "ChIJyXzrDYkVXz4Rv00XMrwoF2A": {
+      "name": "SHH holiday homes - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJyXzrDYkVXz4Rv00XMrwoF2A",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ-eBxzWtDXz4RqyPmHPxH2KE": {
+      "name": "Al-Shindagha, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ-eBxzWtDXz4RqyPmHPxH2KE",
+      "types": "neighborhood, political"
+    },
+    "ChIJ3TbG2T5DXz4R5ymC5SLhb7Q": {
+      "name": "Temple de Shiva, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ3TbG2T5DXz4R5ymC5SLhb7Q",
+      "types": "establishment, hindu_temple, place_of_worship, point_of_interest, tourist_attraction"
+    },
+    "ChIJnU3EOD9kXz4RM2jZZ3L35lc": {
+      "name": "Schneider Electric - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJnU3EOD9kXz4RM2jZZ3L35lc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJC1euzDFrXz4R1Fwxhi9UFcI": {
+      "name": "Shoreline 15 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJC1euzDFrXz4R1Fwxhi9UFcI",
+      "types": "geocode, premise"
+    },
+    "ChIJ234gAetgXz4RgS1fui9KG0o": {
+      "name": "Shorooq - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ234gAetgXz4RgS1fui9KG0o",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJd1-lrIlCXz4RJhNPuczn90o": {
+      "name": "Shuraa Business Setup (Main Branch Dubai & UAE) - Dubai - Émirats arabes unis",
+      "place_id": "ChIJd1-lrIlCXz4RJhNPuczn90o",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJ5-1UMtuXz4R3jfBFoJTbf0": {
+      "name": "Sidra 3 - Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJ5-1UMtuXz4R3jfBFoJTbf0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ82TX23RrXz4RG0MsvOKlS6U": {
+      "name": "Sidra Tower - Sheikh Zayed Road - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ82TX23RrXz4RG0MsvOKlS6U",
+      "types": "geocode, premise"
+    },
+    "ChIJL90l3HRrXz4RD3vKG9p4fCk": {
+      "name": "Sidra 1 - Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJL90l3HRrXz4RD3vKG9p4fCk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBzw14sluXz4RNswSrvonXng": {
+      "name": "Sidra 2 - Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBzw14sluXz4RNswSrvonXng",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ20QNyj5qXz4RZGbmOIiR9ng": {
+      "name": "Sidra Village - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ20QNyj5qXz4RZGbmOIiR9ng",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJe7rwzwlyXz4Rcvj47n0o5nQ": {
+      "name": "Sienna Lakes - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJe7rwzwlyXz4Rcvj47n0o5nQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ1X9rGIpvXz4RrEOrEVqA9x8": {
+      "name": "Sierra by Iman Developers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1X9rGIpvXz4RrEOrEVqA9x8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJCwh1EXJtXz4RhCUQNRx8hYs": {
+      "name": "Signature Livings - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJCwh1EXJtXz4RhCUQNRx8hYs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJVV1jbxrXz4RNGc6EORvFBU": {
+      "name": "Signature Hotel Barsha - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJVV1jbxrXz4RNGc6EORvFBU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ5YLeFn0PXz4R0o0J0367YGc": {
+      "name": "Sih Shu`aib - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5YLeFn0PXz4R0o0J0367YGc",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJyerk0KpsXz4Rm6zc92A8FTs": {
+      "name": "Silverene Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJyerk0KpsXz4Rm6zc92A8FTs",
+      "types": "geocode, premise"
+    },
+    "ChIJbyycjNFpXz4RnjKcoEji1vQ": {
+      "name": "Silver Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbyycjNFpXz4RnjKcoEji1vQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJByBhwT5DXz4RUKbxgvJ4gyQ": {
+      "name": "Sindhi Ceremonial Centre, Meena Bazaar - Dubai - Émirats arabes unis",
+      "place_id": "ChIJByBhwT5DXz4RUKbxgvJ4gyQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJDwiGj4xpXz4RIEuWwfYFUCI": {
+      "name": "Single Business Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDwiGj4xpXz4RIEuWwfYFUCI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ17lRUSdBXz4RR9ftd5rZDrY": {
+      "name": "Singapore - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ17lRUSdBXz4RR9ftd5rZDrY",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJi9J4UXtuXz4RqNYGeRC1zcs": {
+      "name": "Siraj Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJi9J4UXtuXz4RqNYGeRC1zcs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJadEi9dZCXz4RwdCY6oLJshg": {
+      "name": "SIRO One Za'abeel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJadEi9dZCXz4RwdCY6oLJshg",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJwwXiiDlDXz4R09-dW-HEHFw": {
+      "name": "SITARA HOTEL APARTMENT - opposite Lamcy Plaza - Dubai - Émirats arabes unis",
+      "place_id": "ChIJwwXiiDlDXz4R09-dW-HEHFw",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ1050DW5kXz4Rv-6xNqju8RY": {
+      "name": "SIT Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1050DW5kXz4Rv-6xNqju8RY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJh1LzhulrXz4RAHDu2KOW2mo": {
+      "name": "Six Senses Residences Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJh1LzhulrXz4RAHDu2KOW2mo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJe3F4Z-sVXz4R89L4Lt1H-FE": {
+      "name": "Six Senses Residences The Palm - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJe3F4Z-sVXz4R89L4Lt1H-FE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJwUONw08TXz4R7_i7tViynVY": {
+      "name": "Sizzlin' Steak - IBN Battuta Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJwUONw08TXz4R7_i7tViynVY",
+      "types": "establishment, food, point_of_interest, restaurant, shopping_mall"
     }
   }
 }

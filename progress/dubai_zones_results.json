@@ -720,6 +720,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Al-Shindagha, Dubai, Émirats arabes unis",
+    "place_id": "ChIJ-eBxzWtDXz4RqyPmHPxH2KE",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Alvorada - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ3atsNzduXz4RX7YqkJbpd2E",
     "types": "geocode, neighborhood, political",
@@ -1122,6 +1128,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Nad Al Sheba 4, Dubai, Émirats arabes unis",
+    "place_id": "ChIJSdkQiClkXz4RL7Sm_krBz9E",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "New West Camp - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJDyR_m-YNXz4RdYHhCYZAthE",
     "types": "geocode, neighborhood, political",
@@ -1172,6 +1184,12 @@
   {
     "name": "Seasons Community - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJbVWsiUlsXz4R0Ikyv8LWISE",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Shorooq - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ234gAetgXz4RgS1fui9KG0o",
     "types": "geocode, neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -11850,15 +11868,39 @@
     "zone_type": "area"
   },
   {
+    "name": "SHH holiday homes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJyXzrDYkVXz4Rv00XMrwoF2A",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "SHJ GARDEN CITY -Mosque - Dubai - Émirats arabes unis",
     "place_id": "ChIJWUz1p9CP9T4RWPn04F1sL2c",
     "types": "establishment, mosque, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "SIRO One Za'abeel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJadEi9dZCXz4RwdCY6oLJshg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "SIT Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ-3GkE25kXz4RejGoQGiDq7o",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "SIT Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1050DW5kXz4Rv-6xNqju8RY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "SITARA HOTEL APARTMENT - opposite Lamcy Plaza - Dubai - Émirats arabes unis",
+    "place_id": "ChIJwwXiiDlDXz4R09-dW-HEHFw",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -12084,6 +12126,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Schneider Electric - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJnU3EOD9kXz4RM2jZZ3L35lc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Science Park Residence - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJcYx07wtvXz4RrbGEJWNvSyU",
     "types": "establishment, point_of_interest",
@@ -12240,14 +12288,80 @@
     "zone_type": "area"
   },
   {
+    "name": "Sheraton Jumeirah Beach Resort - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2XhJxlcTXz4R39QwBesCT08",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sheraton Mall of the Emirates Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJnTOfw75rXz4Rc1mCICEuy80",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Shoreline 15 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJC1euzDFrXz4R1Fwxhi9UFcI",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Shri Krishna Temple - Dubaï - Émirats arabes unis",
     "place_id": "ChIJaWR3p0BDXz4RMrzkKD2pjqc",
     "types": "establishment, hindu_temple, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "Shuraa Business Setup (Main Branch Dubai & UAE) - Dubai - Émirats arabes unis",
+    "place_id": "ChIJd1-lrIlCXz4RJhNPuczn90o",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Sidr Residence | Expo City Dubai - Dubai - Émirats arabes unis",
     "place_id": "ChIJN1urlfh8UKMRXgx1RQDZKh4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sidra 1 - Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJL90l3HRrXz4RD3vKG9p4fCk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sidra 2 - Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBzw14sluXz4RNswSrvonXng",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sidra 3 - Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJ5-1UMtuXz4R3jfBFoJTbf0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sidra Tower - Sheikh Zayed Road - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ82TX23RrXz4RG0MsvOKlS6U",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sidra Village - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ20QNyj5qXz4RZGbmOIiR9ng",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sienna Lakes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJe7rwzwlyXz4Rcvj47n0o5nQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sierra by Iman Developers - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1X9rGIpvXz4RrEOrEVqA9x8",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -12258,9 +12372,27 @@
     "zone_type": "area"
   },
   {
+    "name": "Signature Hotel Barsha - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJVV1jbxrXz4RNGc6EORvFBU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Signature Livings - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJCwh1EXJtXz4RhCUQNRx8hYs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Signature Supreme Court Complex - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJb2hhIuxdXz4R1Ai5n78itvE",
     "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sih Shu`aib - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5YLeFn0PXz4R0o0J0367YGc",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
@@ -12273,6 +12405,18 @@
     "name": "Silicon Gates 1 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJlU1ZiyllXz4RTAdbALpT_Fk",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Silver Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbyycjNFpXz4RnjKcoEji1vQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Silverene Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJyerk0KpsXz4Rm6zc92A8FTs",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
@@ -12291,6 +12435,48 @@
     "name": "Simply Comfort Suites in Sarai Palm Jumeirah - Dubai - Émirats arabes unis",
     "place_id": "ChIJaZGkquAZ_kARttkbzGIkPpI",
     "types": "establishment, point_of_interest, real_estate_agency, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sindhi Ceremonial Centre, Meena Bazaar - Dubai - Émirats arabes unis",
+    "place_id": "ChIJByBhwT5DXz4RUKbxgvJ4gyQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Singapore - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ17lRUSdBXz4RR9ftd5rZDrY",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Single Business Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDwiGj4xpXz4RIEuWwfYFUCI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Siraj Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJi9J4UXtuXz4RqNYGeRC1zcs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Six Senses Residences Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJh1LzhulrXz4RAHDu2KOW2mo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Six Senses Residences The Palm - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJe3F4Z-sVXz4R89L4Lt1H-FE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sizzlin' Steak - IBN Battuta Mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJwUONw08TXz4R7_i7tViynVY",
+    "types": "establishment, food, point_of_interest, restaurant, shopping_mall",
     "zone_type": "area"
   },
   {
@@ -12603,6 +12789,12 @@
     "name": "Taxi Stand Dubai mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJP8HvruRpXz4R_AnD9Puyol0",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Temple de Shiva, Dubai, Émirats arabes unis",
+    "place_id": "ChIJ3TbG2T5DXz4R5ymC5SLhb7Q",
+    "types": "establishment, hindu_temple, place_of_worship, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
