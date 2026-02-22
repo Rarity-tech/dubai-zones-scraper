@@ -1296,6 +1296,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Umm Al Sheif - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJc9XKDcprXz4RrYPNd-UzE4g",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Umm Hurair 1, Dubai, Émirats arabes unis",
     "place_id": "ChIJDxtMkixDXz4REYT5SHnqulA",
     "types": "neighborhood, political",
