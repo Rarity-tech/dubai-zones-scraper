@@ -3419,7 +3419,57 @@
     "Dubai EOK",
     "Dubai EOL",
     "Dubai EOM",
-    "Dubai EON"
+    "Dubai EON",
+    "Dubai EOO",
+    "Dubai EOP",
+    "Dubai EOQ",
+    "Dubai EOR",
+    "Dubai EOS",
+    "Dubai EOT",
+    "Dubai EOU",
+    "Dubai EOV",
+    "Dubai EOW",
+    "Dubai EOX",
+    "Dubai EOY",
+    "Dubai EOZ",
+    "Dubai EPA",
+    "Dubai EPB",
+    "Dubai EPC",
+    "Dubai EPD",
+    "Dubai EPE",
+    "Dubai EPF",
+    "Dubai EPG",
+    "Dubai EPH",
+    "Dubai EPI",
+    "Dubai EPJ",
+    "Dubai EPK",
+    "Dubai EPL",
+    "Dubai EPM",
+    "Dubai EPN",
+    "Dubai EPO",
+    "Dubai EPP",
+    "Dubai EPQ",
+    "Dubai EPR",
+    "Dubai EPS",
+    "Dubai EPT",
+    "Dubai EPU",
+    "Dubai EPV",
+    "Dubai EPW",
+    "Dubai EPX",
+    "Dubai EPY",
+    "Dubai EPZ",
+    "Dubai EQA",
+    "Dubai EQB",
+    "Dubai EQC",
+    "Dubai EQD",
+    "Dubai EQE",
+    "Dubai EQF",
+    "Dubai EQG",
+    "Dubai EQH",
+    "Dubai EQI",
+    "Dubai EQJ",
+    "Dubai EQK",
+    "Dubai EQL"
   ],
   "pending_n2": [
     {
@@ -59354,6 +59404,26 @@
       "name": "Empower Energy Solutions - Head Office - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJb4SDRNRpXz4RtQ9EP7MSSTg",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJVTt1ip9DXz4RbOZQ6aNX6dY": {
+      "name": "Rose Executive Hotel - DWTC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJVTt1ip9DXz4RbOZQ6aNX6dY",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ4SD_mf5pXz4RwaLr-W1GrJ4": {
+      "name": "Epasero Real Estate LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ4SD_mf5pXz4RwaLr-W1GrJ4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJM7Ug6CBzXz4RY7qFQnRiJ2c": {
+      "name": "Expo City Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJM7Ug6CBzXz4RY7qFQnRiJ2c",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJLzv1RgCdXz4Rz9WY1rnVBCo": {
+      "name": "Expo 2020 Lake - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJLzv1RgCdXz4Rz9WY1rnVBCo",
+      "types": "establishment, point_of_interest, tourist_attraction"
     }
   }
 }

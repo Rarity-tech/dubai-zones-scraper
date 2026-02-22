@@ -684,6 +684,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Expo City Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJM7Ug6CBzXz4RY7qFQnRiJ2c",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "International City - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJceuNuE5hXz4RFY7hJ5e9ORY",
     "types": "geocode, neighborhood, political",
@@ -5790,6 +5796,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Epasero Real Estate LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ4SD_mf5pXz4RwaLr-W1GrJ4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Equiti Residence - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJzRmj1oVtXz4Rm9WXFbykIP0",
     "types": "establishment, point_of_interest",
@@ -5871,6 +5883,12 @@
     "name": "Ewan Residences - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJv766tolyXz4RsxSBcmZgN4s",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Expo 2020 Lake - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJLzv1RgCdXz4Rz9WY1rnVBCo",
+    "types": "establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -7112,6 +7130,12 @@
   {
     "name": "Rixos The Palm Hotel & Suites - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJj83eQydrXz4RgxkILyCse3Y",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Rose Executive Hotel - DWTC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVTt1ip9DXz4RbOZQ6aNX6dY",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
