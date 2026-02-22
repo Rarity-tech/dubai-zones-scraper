@@ -4419,7 +4419,57 @@
     "Dubai IEW",
     "Dubai IEX",
     "Dubai IEY",
-    "Dubai IEZ"
+    "Dubai IEZ",
+    "Dubai IFA",
+    "Dubai IFB",
+    "Dubai IFC",
+    "Dubai IFD",
+    "Dubai IFE",
+    "Dubai IFF",
+    "Dubai IFG",
+    "Dubai IFH",
+    "Dubai IFI",
+    "Dubai IFJ",
+    "Dubai IFK",
+    "Dubai IFL",
+    "Dubai IFM",
+    "Dubai IFN",
+    "Dubai IFO",
+    "Dubai IFP",
+    "Dubai IFQ",
+    "Dubai IFR",
+    "Dubai IFS",
+    "Dubai IFT",
+    "Dubai IFU",
+    "Dubai IFV",
+    "Dubai IFW",
+    "Dubai IFX",
+    "Dubai IFY",
+    "Dubai IFZ",
+    "Dubai IGA",
+    "Dubai IGB",
+    "Dubai IGC",
+    "Dubai IGD",
+    "Dubai IGE",
+    "Dubai IGF",
+    "Dubai IGG",
+    "Dubai IGH",
+    "Dubai IGI",
+    "Dubai IGJ",
+    "Dubai IGK",
+    "Dubai IGL",
+    "Dubai IGM",
+    "Dubai IGN",
+    "Dubai IGO",
+    "Dubai IGP",
+    "Dubai IGQ",
+    "Dubai IGR",
+    "Dubai IGS",
+    "Dubai IGT",
+    "Dubai IGU",
+    "Dubai IGV",
+    "Dubai IGW",
+    "Dubai IGX"
   ],
   "pending_n2": [
     {
@@ -61134,6 +61184,46 @@
       "name": "Keyani Health Services - Dubai - Émirats arabes unis",
       "place_id": "ChIJty4-FIRpXz4RXOVvTSmy59w",
       "types": "establishment, health, point_of_interest"
+    },
+    "ChIJ8Sx3rbRDXz4RTvhzs2lNI9A": {
+      "name": "DIFC Grand Mosque - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ8Sx3rbRDXz4RTvhzs2lNI9A",
+      "types": "establishment, mosque, place_of_worship, point_of_interest"
+    },
+    "ChIJ0-aW1WJzXz4Rvw9jqOIdSCE": {
+      "name": "IFFCO Ice Cream Factory (Seville Products- Ice Cream) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0-aW1WJzXz4Rvw9jqOIdSCE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ893hGzb_9D4R5bYwMWA4vSA": {
+      "name": "International Food Industries LLC (IFI) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ893hGzb_9D4R5bYwMWA4vSA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJB7a_H59vXz4R2TKV9fWisE0": {
+      "name": "IFZA Business Park - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJB7a_H59vXz4R2TKV9fWisE0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJufxfm1drXz4Ra0p59VY13fc": {
+      "name": "IFS - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJufxfm1drXz4Ra0p59VY13fc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJQ-rGXohhXz4RPbddSW_X2jk": {
+      "name": "iFrame Opticals, Mirdif (RTA Approved Eye Test Center)- ايفريم للبصريات ,مردف - opp. Trolleys Supermarket - Dubai - Émirats arabes unis",
+      "place_id": "ChIJQ-rGXohhXz4RPbddSW_X2jk",
+      "types": "establishment, health, point_of_interest, store"
+    },
+    "ChIJtdr1WhxoXz4RB_humdvVaFY": {
+      "name": "IGI Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJtdr1WhxoXz4RB_humdvVaFY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJM15J7uASXz4RGx_FlGXC8_k": {
+      "name": "Iglesia de San Francisco de Asís - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJM15J7uASXz4RGx_FlGXC8_k",
+      "types": "church, establishment, place_of_worship, point_of_interest, tourist_attraction"
     }
   }
 }

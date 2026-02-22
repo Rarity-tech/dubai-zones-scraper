@@ -4146,6 +4146,12 @@
     "zone_type": "area"
   },
   {
+    "name": "DIFC Grand Mosque - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ8Sx3rbRDXz4RTvhzs2lNI9A",
+    "types": "establishment, mosque, place_of_worship, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DIFC Innovation Hub - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ_-mPaJ9DXz4Rkwt-p5VdwkM",
     "types": "establishment, point_of_interest",
@@ -6828,8 +6834,32 @@
     "zone_type": "area"
   },
   {
+    "name": "IFFCO Ice Cream Factory (Seville Products- Ice Cream) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ0-aW1WJzXz4Rvw9jqOIdSCE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "IFS - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJufxfm1drXz4Ra0p59VY13fc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "IFZA Business Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJB7a_H59vXz4R2TKV9fWisE0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "IFZA HQ - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJw9ppHABlXz4RlvcVGseiKxM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "IGI Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJtdr1WhxoXz4RB_humdvVaFY",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -6936,6 +6966,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Iglesia de San Francisco de Asís - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJM15J7uASXz4RGx_FlGXC8_k",
+    "types": "church, establishment, place_of_worship, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Ikigai studio - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJG3Ndif5DXz4R2kM2QhT5h1A",
     "types": "establishment, gym, health, point_of_interest",
@@ -6962,6 +6998,12 @@
   {
     "name": "International Centre for Culinary Arts - ICCA Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJW2omch1DXz4RyKRs5ImYP1U",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "International Food Industries LLC (IFI) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ893hGzb_9D4R5bYwMWA4vSA",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -9135,6 +9177,12 @@
     "name": "iFly - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJScplBrRgXz4RF7uNHirnGpA",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "iFrame Opticals, Mirdif (RTA Approved Eye Test Center)- ايفريم للبصريات ,مردف - opp. Trolleys Supermarket - Dubai - Émirats arabes unis",
+    "place_id": "ChIJQ-rGXohhXz4RPbddSW_X2jk",
+    "types": "establishment, health, point_of_interest, store",
     "zone_type": "area"
   },
   {
