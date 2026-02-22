@@ -4158,6 +4158,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Central Veterinary Research Laboratory - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP7CjY5dCXz4RHKAfsh2yZr0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Century Mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJzSTnzppcXz4ReyARp6w8pDk",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -14580,6 +14586,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Villanova Cosmetic and Surgical Center - Branch - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJq0ZqKylDXz4RCgZ7KFPAN8g",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Vintage Grand Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJTxnI979tXz4RNARFTTobesY",
     "types": "establishment, lodging, point_of_interest",
@@ -14889,6 +14901,12 @@
     "name": "center point metro station - Dubai - Émirats arabes unis",
     "place_id": "ChIJm38eR-ddXz4Rilv3ZtBmJT0",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "cvs - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJu2onGctvXz4RP3su8Nr7oUw",
+    "types": "establishment, health, point_of_interest",
     "zone_type": "area"
   },
   {

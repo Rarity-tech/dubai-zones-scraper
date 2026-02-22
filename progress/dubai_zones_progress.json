@@ -10469,7 +10469,57 @@
     "Dubai VBO",
     "Dubai VBP",
     "Dubai VBQ",
-    "Dubai VBR"
+    "Dubai VBR",
+    "Dubai VBS",
+    "Dubai VBT",
+    "Dubai VBU",
+    "Dubai VBV",
+    "Dubai VBW",
+    "Dubai VBX",
+    "Dubai VBY",
+    "Dubai VBZ",
+    "Dubai VCA",
+    "Dubai VCB",
+    "Dubai VCC",
+    "Dubai VCD",
+    "Dubai VCE",
+    "Dubai VCF",
+    "Dubai VCG",
+    "Dubai VCH",
+    "Dubai VCI",
+    "Dubai VCJ",
+    "Dubai VCK",
+    "Dubai VCL",
+    "Dubai VCM",
+    "Dubai VCN",
+    "Dubai VCO",
+    "Dubai VCP",
+    "Dubai VCQ",
+    "Dubai VCR",
+    "Dubai VCS",
+    "Dubai VCT",
+    "Dubai VCU",
+    "Dubai VCV",
+    "Dubai VCW",
+    "Dubai VCX",
+    "Dubai VCY",
+    "Dubai VCZ",
+    "Dubai VDA",
+    "Dubai VDB",
+    "Dubai VDC",
+    "Dubai VDD",
+    "Dubai VDE",
+    "Dubai VDF",
+    "Dubai VDG",
+    "Dubai VDH",
+    "Dubai VDI",
+    "Dubai VDJ",
+    "Dubai VDK",
+    "Dubai VDL",
+    "Dubai VDM",
+    "Dubai VDN",
+    "Dubai VDO",
+    "Dubai VDP"
   ],
   "pending_n2": [
     {
@@ -72139,6 +72189,21 @@
       "name": "BBQ Spot - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ5SvCYABjXz4R5IlYzV8yonM",
       "types": "establishment, park, point_of_interest"
+    },
+    "ChIJq0ZqKylDXz4RCgZ7KFPAN8g": {
+      "name": "Villanova Cosmetic and Surgical Center - Branch - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJq0ZqKylDXz4RCgZ7KFPAN8g",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJu2onGctvXz4RP3su8Nr7oUw": {
+      "name": "cvs - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJu2onGctvXz4RP3su8Nr7oUw",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJP7CjY5dCXz4RHKAfsh2yZr0": {
+      "name": "Central Veterinary Research Laboratory - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP7CjY5dCXz4RHKAfsh2yZr0",
+      "types": "establishment, point_of_interest"
     }
   }
 }
