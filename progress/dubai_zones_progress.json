@@ -1569,7 +1569,57 @@
     "Dubai BOG",
     "Dubai BOH",
     "Dubai BOI",
-    "Dubai BOJ"
+    "Dubai BOJ",
+    "Dubai BOK",
+    "Dubai BOL",
+    "Dubai BOM",
+    "Dubai BON",
+    "Dubai BOO",
+    "Dubai BOP",
+    "Dubai BOQ",
+    "Dubai BOR",
+    "Dubai BOS",
+    "Dubai BOT",
+    "Dubai BOU",
+    "Dubai BOV",
+    "Dubai BOW",
+    "Dubai BOX",
+    "Dubai BOY",
+    "Dubai BOZ",
+    "Dubai BQA",
+    "Dubai BQB",
+    "Dubai BQC",
+    "Dubai BQD",
+    "Dubai BQE",
+    "Dubai BQF",
+    "Dubai BQG",
+    "Dubai BQH",
+    "Dubai BQI",
+    "Dubai BQJ",
+    "Dubai BQK",
+    "Dubai BQL",
+    "Dubai BQM",
+    "Dubai BQN",
+    "Dubai BQO",
+    "Dubai BQP",
+    "Dubai BQQ",
+    "Dubai BQR",
+    "Dubai BQS",
+    "Dubai BQT",
+    "Dubai BQU",
+    "Dubai BQV",
+    "Dubai BQW",
+    "Dubai BQX",
+    "Dubai BQY",
+    "Dubai BQZ",
+    "Dubai BRA",
+    "Dubai BRB",
+    "Dubai BRC",
+    "Dubai BRD",
+    "Dubai BRE",
+    "Dubai BRF",
+    "Dubai BRG",
+    "Dubai BRH"
   ],
   "pending_n2": [
     {
@@ -55529,6 +55579,96 @@
       "name": "Bioimmun Medical Laboratory Diagnostics LLC - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJl8KNRWxdXz4R5b-evTSDlC0",
       "types": "establishment, health, point_of_interest, store"
+    },
+    "ChIJnRDfs2pDXz4RxrzHmunyd5s": {
+      "name": "Bollywood - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJnRDfs2pDXz4RxrzHmunyd5s",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJURYraj5oXz4Rw9Z3Ufd1LYo": {
+      "name": "Volante Tower - Marasi Drive - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJURYraj5oXz4Rw9Z3Ufd1LYo",
+      "types": "geocode, premise"
+    },
+    "ChIJBYDg7ctDXz4RtszS2AXn6xw": {
+      "name": "Bollywood building Mena bazaar Bur Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJBYDg7ctDXz4RtszS2AXn6xw",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJG-XDPFRrXz4RUdkNVMJ2yrc": {
+      "name": "Bonaire Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJG-XDPFRrXz4RUdkNVMJ2yrc",
+      "types": "geocode, premise"
+    },
+    "ChIJNwPtBbJsXz4RD37XTVcoP50": {
+      "name": "Bonnington Jumeirah Lakes Towers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJNwPtBbJsXz4RD37XTVcoP50",
+      "types": "geocode, premise"
+    },
+    "ChIJqaCBEE9pXz4R25JOwUJji_I": {
+      "name": "Boo Boo Laand - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqaCBEE9pXz4R25JOwUJji_I",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJD01cHuhrXz4RYgubIERD7wc": {
+      "name": "BURJ AL ARAB BEACH - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJD01cHuhrXz4RYgubIERD7wc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJUwXDHwBrXz4RVeLfbYk1AyY": {
+      "name": "Bossa Nova Health - Dubai - Émirats arabes unis",
+      "place_id": "ChIJUwXDHwBrXz4RVeLfbYk1AyY",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJOeZF3VNrXz4RIpRp1vIC1Lw": {
+      "name": "Botanica Tower Marina - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJOeZF3VNrXz4RIpRp1vIC1Lw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ9T9I2VNrXz4RepnjNfkfSZU": {
+      "name": "Botanica Tower - D94 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9T9I2VNrXz4RepnjNfkfSZU",
+      "types": "geocode, premise"
+    },
+    "ChIJ9070fABtXz4R_nOHdPSQmW0": {
+      "name": "Botanica by Myra - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9070fABtXz4R_nOHdPSQmW0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJsXkF3P9AXz4R5DDo3_I3cqQ": {
+      "name": "Botswana - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJsXkF3P9AXz4R5DDo3_I3cqQ",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJgzxnBStqXz4R7uo1SnN_dGI": {
+      "name": "BOUNCE Al Quoz - Dubai - Émirats arabes unis",
+      "place_id": "ChIJgzxnBStqXz4R7uo1SnN_dGI",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJy4n8ziVvXz4RXJtYeXPireY": {
+      "name": "Bowling City Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJy4n8ziVvXz4RXJtYeXPireY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ2bjwEABtXz4R4ZtYEtwYxF4": {
+      "name": "Bali Residences - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2bjwEABtXz4R4ZtYEtwYxF4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJhcwNXgBpXz4ROh9tukAw2Fc": {
+      "name": "Bali - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhcwNXgBpXz4ROh9tukAw2Fc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJwV-1w6ZsXz4R5eytCAmB3T0": {
+      "name": "Jumeirah Business Center 3 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJwV-1w6ZsXz4R5eytCAmB3T0",
+      "types": "geocode, premise"
+    },
+    "ChIJCaTjJwBDXz4RGvfGd46o5UQ": {
+      "name": "Breez by Danube - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJCaTjJwBDXz4RGvfGd46o5UQ",
+      "types": "establishment, point_of_interest"
     }
   }
 }

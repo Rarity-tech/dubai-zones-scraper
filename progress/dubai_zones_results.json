@@ -2400,6 +2400,12 @@
     "zone_type": "area"
   },
   {
+    "name": "BOUNCE Al Quoz - Dubai - Émirats arabes unis",
+    "place_id": "ChIJgzxnBStqXz4R7uo1SnN_dGI",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "BQ RESIDENCES - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJDzHofABDXz4RyouBPZzFY6c",
     "types": "establishment, point_of_interest",
@@ -2415,6 +2421,12 @@
     "name": "BSM Building - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJuzg0YABdXz4RSvCoBcPaJx8",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "BURJ AL ARAB BEACH - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJD01cHuhrXz4RYgubIERD7wc",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -2469,6 +2481,18 @@
     "name": "Baity Hotel Apartments - Dubai - Émirats arabes unis",
     "place_id": "ChIJ7_Pb0iNDXz4RiEIQej1myMo",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bali - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJhcwNXgBpXz4ROh9tukAw2Fc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bali Residences - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2bjwEABtXz4R4ZtYEtwYxF4",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -2748,15 +2772,75 @@
     "zone_type": "area"
   },
   {
+    "name": "Bollywood - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJnRDfs2pDXz4RxrzHmunyd5s",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
     "name": "Bollywood Beach Hostel, Apartment - Dubai - Émirats arabes unis",
     "place_id": "ChIJ-zc5s-4VXz4RTJKwBXGOeYk",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "Bollywood building Mena bazaar Bur Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJBYDg7ctDXz4RtszS2AXn6xw",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bonaire Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJG-XDPFRrXz4RUdkNVMJ2yrc",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bonnington Jumeirah Lakes Towers - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJNwPtBbJsXz4RD37XTVcoP50",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Boo Boo Laand - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqaCBEE9pXz4R25JOwUJji_I",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bossa Nova Health - Dubai - Émirats arabes unis",
+    "place_id": "ChIJUwXDHwBrXz4RVeLfbYk1AyY",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Boston Consulting Group (BCG) - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ62bUOW1rXz4RfPDKEx2JYYY",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Botanica Tower - D94 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9T9I2VNrXz4RepnjNfkfSZU",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Botanica Tower Marina - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOeZF3VNrXz4RIpRp1vIC1Lw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Botanica by Myra - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9070fABtXz4R_nOHdPSQmW0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Botswana - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsXkF3P9AXz4R5DDo3_I3cqQ",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
@@ -2796,6 +2880,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Bowling City Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJy4n8ziVvXz4RXJtYeXPireY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Boxing Golden Ring - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ1-aKDFtDXz4ROtfUwF1Jc7A",
     "types": "establishment, gym, health, point_of_interest",
@@ -2817,6 +2907,12 @@
     "name": "Brands Shop | Dubai Creek Tower Building, Opposite Sheraton Creek Deira Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJf0M50sxcXz4RVWhjdGtW2bM",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Breez by Danube - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJCaTjJwBDXz4RGvfGd46o5UQ",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -4290,6 +4386,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Jumeirah Business Center 3 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJwV-1w6ZsXz4R5eytCAmB3T0",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Jumeirah Zabeel Saray - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJu0L_icYUXz4RQsexAbn9Bes",
     "types": "establishment, lodging, point_of_interest",
@@ -5667,6 +5769,12 @@
     "name": "Vista Mare by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ0S_cCSxrXz4RIKTrO1zSryc",
     "types": "establishment, food, point_of_interest, restaurant, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Volante Tower - Marasi Drive - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJURYraj5oXz4Rw9Z3Ufd1LYo",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
