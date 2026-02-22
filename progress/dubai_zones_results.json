@@ -954,6 +954,18 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Murooj Al Furjan East 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJW_q5CjFtXz4R7inh4ZqjNeI",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Murooj Al Furjan East 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJlU-6ZC5tXz4R7kP0ZT8JjfE",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "New West Camp - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJDyR_m-YNXz4RdYHhCYZAthE",
     "types": "geocode, neighborhood, political",
@@ -8520,6 +8532,24 @@
     "zone_type": "area"
   },
   {
+    "name": "LUJO homedecor - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIeHcy3FtXz4RWjB3p3umrr8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "LUMA Studio - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ5VJbOyppXz4Rrt1xGVTIw94",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "LVL75 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJF7P6t5ETXz4R6N5-03aJz24",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "La Mer, Dubai, Émirats arabes unis",
     "place_id": "ChIJFY87vzlDXz4R-k-PFb1DWkQ",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -9012,6 +9042,24 @@
     "zone_type": "area"
   },
   {
+    "name": "Luban Spa - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-csjO_ZpXz4RZKCKAt-XLuY",
+    "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lucky Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP3Udt1BtXz4RmaKYxtJwSFA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lucky Spa - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTYcvTUFdXz4R8TRMayce_BU",
+    "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
     "name": "Lueur Aesthetic Clinic - Dubai - Émirats arabes unis",
     "place_id": "ChIJ7Rm_hYRrXz4RZzqmTDGOR6U",
     "types": "beauty_salon, doctor, establishment, health, point_of_interest, spa",
@@ -9024,9 +9072,57 @@
     "zone_type": "area"
   },
   {
+    "name": "Luma22 - TownX Development - West block - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJFYN2XPxtXz4REBtQgM6hSAg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Luma22 East Block - TownX Development - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ42rgKABtXz4RaKl5jHiSAeI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lumina Vista Residences - لومينا فيستا ريزيدنسيز - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJfzRcwBtXz4RsAqnq5aePlk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lusail Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_zHhipRtXz4RWvX_TIZcsIA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lusso Hometels J one - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJxowk5tpXz4RZZJfUBbEvVo",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lusso Hometels Missoni Business Bay - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJF9znftBpXz4R3qCt7kX0Ryc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Luton - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ55vd88VpXz4R7NnaZOjnfK8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Luxe Avenue Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ992fcwBDXz4R8B7ZXKfSXds",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Luxuriate Gents Salon - Dubai - Émirats arabes unis",
+    "place_id": "ChIJDzrOsR9hXz4RZCecBRz5ng8",
+    "types": "establishment, hair_care, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -9285,6 +9381,18 @@
     "name": "Mosquée de Jumeirah, Dubai, Émirats arabes unis",
     "place_id": "ChIJ0X70llRCXz4RWhItaFTtgNg",
     "types": "establishment, mosque, place_of_worship, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Murdoch University Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJS3q5FIxjXz4RXhc7SZ_gW4s",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
+    "name": "Murjan 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZb-17FRrXz4RLYikHzQOZA0",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

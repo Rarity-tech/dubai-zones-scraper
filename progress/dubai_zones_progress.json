@@ -6669,7 +6669,57 @@
     "Dubai LTK",
     "Dubai LTL",
     "Dubai LTM",
-    "Dubai LTN"
+    "Dubai LTN",
+    "Dubai LTO",
+    "Dubai LTP",
+    "Dubai LTQ",
+    "Dubai LTR",
+    "Dubai LTS",
+    "Dubai LTT",
+    "Dubai LTU",
+    "Dubai LTV",
+    "Dubai LTW",
+    "Dubai LTX",
+    "Dubai LTY",
+    "Dubai LTZ",
+    "Dubai LUA",
+    "Dubai LUB",
+    "Dubai LUC",
+    "Dubai LUD",
+    "Dubai LUE",
+    "Dubai LUF",
+    "Dubai LUG",
+    "Dubai LUH",
+    "Dubai LUI",
+    "Dubai LUJ",
+    "Dubai LUK",
+    "Dubai LUL",
+    "Dubai LUM",
+    "Dubai LUN",
+    "Dubai LUO",
+    "Dubai LUP",
+    "Dubai LUQ",
+    "Dubai LUR",
+    "Dubai LUS",
+    "Dubai LUT",
+    "Dubai LUU",
+    "Dubai LUV",
+    "Dubai LUW",
+    "Dubai LUX",
+    "Dubai LUY",
+    "Dubai LUZ",
+    "Dubai LVA",
+    "Dubai LVB",
+    "Dubai LVC",
+    "Dubai LVD",
+    "Dubai LVE",
+    "Dubai LVF",
+    "Dubai LVG",
+    "Dubai LVH",
+    "Dubai LVI",
+    "Dubai LVJ",
+    "Dubai LVK",
+    "Dubai LVL"
   ],
   "pending_n2": [
     {
@@ -64919,6 +64969,96 @@
       "name": "Luxury Sea Boats Charter - Dubai - Émirats arabes unis",
       "place_id": "ChIJX860YFETXz4RCHs2ExCdlT8",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJ-csjO_ZpXz4RZKCKAt-XLuY": {
+      "name": "Luban Spa - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ-csjO_ZpXz4RZKCKAt-XLuY",
+      "types": "establishment, point_of_interest, spa"
+    },
+    "ChIJP3Udt1BtXz4RmaKYxtJwSFA": {
+      "name": "Lucky Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP3Udt1BtXz4RmaKYxtJwSFA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJIeHcy3FtXz4RWjB3p3umrr8": {
+      "name": "LUJO homedecor - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIeHcy3FtXz4RWjB3p3umrr8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJTYcvTUFdXz4R8TRMayce_BU": {
+      "name": "Lucky Spa - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTYcvTUFdXz4R8TRMayce_BU",
+      "types": "establishment, point_of_interest, spa"
+    },
+    "ChIJFYN2XPxtXz4REBtQgM6hSAg": {
+      "name": "Luma22 - TownX Development - West block - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJFYN2XPxtXz4REBtQgM6hSAg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ5VJbOyppXz4Rrt1xGVTIw94": {
+      "name": "LUMA Studio - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ5VJbOyppXz4Rrt1xGVTIw94",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ42rgKABtXz4RaKl5jHiSAeI": {
+      "name": "Luma22 East Block - TownX Development - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ42rgKABtXz4RaKl5jHiSAeI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJfzRcwBtXz4RsAqnq5aePlk": {
+      "name": "Lumina Vista Residences - لومينا فيستا ريزيدنسيز - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJfzRcwBtXz4RsAqnq5aePlk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJZb-17FRrXz4RLYikHzQOZA0": {
+      "name": "Murjan 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZb-17FRrXz4RLYikHzQOZA0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJW_q5CjFtXz4R7inh4ZqjNeI": {
+      "name": "Murooj Al Furjan East 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJW_q5CjFtXz4R7inh4ZqjNeI",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJlU-6ZC5tXz4R7kP0ZT8JjfE": {
+      "name": "Murooj Al Furjan East 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJlU-6ZC5tXz4R7kP0ZT8JjfE",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJS3q5FIxjXz4RXhc7SZ_gW4s": {
+      "name": "Murdoch University Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJS3q5FIxjXz4RXhc7SZ_gW4s",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJJxowk5tpXz4RZZJfUBbEvVo": {
+      "name": "Lusso Hometels J one - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJxowk5tpXz4RZZJfUBbEvVo",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ_zHhipRtXz4RWvX_TIZcsIA": {
+      "name": "Lusail Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_zHhipRtXz4RWvX_TIZcsIA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJF9znftBpXz4R3qCt7kX0Ryc": {
+      "name": "Lusso Hometels Missoni Business Bay - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJF9znftBpXz4R3qCt7kX0Ryc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ55vd88VpXz4R7NnaZOjnfK8": {
+      "name": "Luton - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ55vd88VpXz4R7NnaZOjnfK8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJDzrOsR9hXz4RZCecBRz5ng8": {
+      "name": "Luxuriate Gents Salon - Dubai - Émirats arabes unis",
+      "place_id": "ChIJDzrOsR9hXz4RZCecBRz5ng8",
+      "types": "establishment, hair_care, health, point_of_interest"
+    },
+    "ChIJF7P6t5ETXz4R6N5-03aJz24": {
+      "name": "LVL75 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJF7P6t5ETXz4R6N5-03aJz24",
+      "types": "establishment, gym, health, point_of_interest"
     }
   }
 }
