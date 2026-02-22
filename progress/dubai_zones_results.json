@@ -6666,6 +6666,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Wesal Shipping - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ382S0NBpXz4RwtO32t9Nw9A",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "West Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJBVnofWZpXz4R5gXN1s-VFEQ",
     "types": "establishment, lodging, point_of_interest",
@@ -6705,6 +6711,12 @@
     "name": "Xstrike - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJhTMFgo5rXz4R0ehgq7ZOkxo",
     "types": "amusement_park, establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Xtreme Yacht Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJG1hVmIRDXz4RYcehCpwpAUg",
+    "types": "establishment, point_of_interest, travel_agency",
     "zone_type": "area"
   },
   {
