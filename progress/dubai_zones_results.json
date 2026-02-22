@@ -486,6 +486,18 @@
     "zone_type": "city"
   },
   {
+    "name": "Wadi Al Safa 3 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJm0Th9-1lXz4Rk6vBv6ETaVk",
+    "types": "geocode, political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
+    "name": "Wadi Al Safa 6 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJS-x3WMlvXz4Rw27rg2czCOM",
+    "types": "geocode, political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Wadi Al Safa 6, Dubai, Émirats arabes unis",
     "place_id": "ChIJycr4urZvXz4R4Fs4x7CeC-U",
     "types": "political, sublocality, sublocality_level_1",
@@ -752,6 +764,12 @@
   {
     "name": "Al-Twar 3, Dubai, Émirats arabes unis",
     "place_id": "ChIJibEz7d1dXz4RuTfiGbgz-Gs",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al-Warqaa 2, Dubai, Émirats arabes unis",
+    "place_id": "ChIJdyfUHM5gXz4R92phDVUPbt0",
     "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -6165,6 +6183,12 @@
     "name": "Dubai Vacation Homes - Shoreline Apartment - Dubaï - Émirats arabes unis",
     "place_id": "ChIJTxyMgHhrXz4RC2-UIV_MkV8",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Water Canal Boardwalk - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJXTtKjdtpXz4R6bfOB_Z2r6w",
+    "types": "establishment, park, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -13968,6 +13992,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Walk - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "EjBUaGUgV2FsayAtIER1YmFpIC0gRHViYcOvIC0gw4ltaXJhdHMgYXJhYmVzIHVuaXMiLiosChQKEgnnwsY2qxRfPhGsHRKK7liZxRIUChIJRcbZaklDXz4RYlEphFBu5r0",
+    "types": "geocode, route",
+    "zone_type": "area"
+  },
+  {
     "name": "The Wings by Al Mizan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCUF7r51DXz4RVfBOqAo76To",
     "types": "establishment, point_of_interest",
@@ -14856,6 +14886,12 @@
     "zone_type": "area"
   },
   {
+    "name": "WABI-SABI - Dubai - Émirats arabes unis",
+    "place_id": "ChIJY2_Jv_JCXz4RAhitrGZY_6o",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "WD Solutions FZ LLC (WellDone) - Dubai - Émirats arabes unis",
     "place_id": "ChIJs6PqO9FrXz4RoGhtLBz5awM",
     "types": "establishment, point_of_interest",
@@ -14880,9 +14916,93 @@
     "zone_type": "area"
   },
   {
+    "name": "Wadi Al Safa 7 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJW9qbCj9vXz4RYuC9ULBziwM",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Wafi City, Dubai, Émirats arabes unis",
+    "place_id": "ChIJM1pC8DVdXz4RG5jX8duwoUw",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
     "name": "Wafi Mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ5Y2bfgVdXz4RdMwGqE1v_2I",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Wafi Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJr3f530ldXz4RoIEDlpX2EUo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Waitrose - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ3_edgoJCXz4RtwnBVCfDpOU",
+    "types": "establishment, food, grocery_or_supermarket, health, point_of_interest, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "Waldorf Astoria Dubai International Financial Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAX38lnhDXz4R6NfrS3bY6yo",
+    "types": "establishment, lodging, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "Waldorf Astoria Dubai Palm Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ__30xjFrXz4RVhGdvh_K-cw",
+    "types": "establishment, lodging, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "Warsan 4th - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMcVUJwBnXz4RmEZR9S6Ul8Q",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Wasl - Green Park (R1081) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJazd3BFFnXz4R4skVNmBYnzI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Wasl Village (R1083) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJs6ZbHE1fXz4RfQXe92qMyQ0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Wasl Vita - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ74RZtWlCXz4RrJ3l0m5CERY",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Wave International Hotel - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ43ErIUZDXz4RPvxl4xzAWJU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Waves Grande - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ82VDTMZpXz4RfRsaFGTzl_s",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Waves Tower by KASCO - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxUS9iPVpXz4RKf2DrRGPXts",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Wavez by Danube Properties - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_dIdkrhlXz4RAlHK_VcSDPQ",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -14904,6 +15024,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Wild Wadi Waterpark, Dubai, Émirats arabes unis",
+    "place_id": "ChIJh7LUHlFqXz4RbIRg-g5fo-E",
+    "types": "amusement_park, establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Wilton Park Residences – Ellington Properties - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ5wqPSh1pXz4RFKSWo_w0Rz0",
     "types": "establishment, point_of_interest",
@@ -14913,6 +15039,12 @@
     "name": "Windsor Manor Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJe9MiliJoXz4R1HaiwKDIYp8",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Wood Craft House - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJv6n0PXtpXz4RVordQ6ECneY",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

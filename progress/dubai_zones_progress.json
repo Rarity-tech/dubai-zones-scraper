@@ -11069,7 +11069,57 @@
     "Dubai VZQ",
     "Dubai VZR",
     "Dubai VZS",
-    "Dubai VZT"
+    "Dubai VZT",
+    "Dubai VZU",
+    "Dubai VZV",
+    "Dubai VZW",
+    "Dubai VZX",
+    "Dubai VZY",
+    "Dubai VZZ",
+    "Dubai WAA",
+    "Dubai WAB",
+    "Dubai WAC",
+    "Dubai WAD",
+    "Dubai WAE",
+    "Dubai WAF",
+    "Dubai WAG",
+    "Dubai WAH",
+    "Dubai WAI",
+    "Dubai WAJ",
+    "Dubai WAK",
+    "Dubai WAL",
+    "Dubai WAM",
+    "Dubai WAN",
+    "Dubai WAO",
+    "Dubai WAP",
+    "Dubai WAQ",
+    "Dubai WAR",
+    "Dubai WAS",
+    "Dubai WAT",
+    "Dubai WAU",
+    "Dubai WAV",
+    "Dubai WAW",
+    "Dubai WAX",
+    "Dubai WAY",
+    "Dubai WAZ",
+    "Dubai WCA",
+    "Dubai WCB",
+    "Dubai WCC",
+    "Dubai WCD",
+    "Dubai WCE",
+    "Dubai WCF",
+    "Dubai WCG",
+    "Dubai WCH",
+    "Dubai WCI",
+    "Dubai WCJ",
+    "Dubai WCK",
+    "Dubai WCL",
+    "Dubai WCM",
+    "Dubai WCN",
+    "Dubai WCO",
+    "Dubai WCP",
+    "Dubai WCQ",
+    "Dubai WCR"
   ],
   "pending_n2": [
     {
@@ -72914,6 +72964,116 @@
       "name": "Desert Safari Dubai, UAE - VIP Desert Safari Dubai - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJHxOJsztcXz4RJU0f6lqbt08",
       "types": "establishment, point_of_interest, tourist_attraction, travel_agency"
+    },
+    "ChIJY2_Jv_JCXz4RAhitrGZY_6o": {
+      "name": "WABI-SABI - Dubai - Émirats arabes unis",
+      "place_id": "ChIJY2_Jv_JCXz4RAhitrGZY_6o",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJm0Th9-1lXz4Rk6vBv6ETaVk": {
+      "name": "Wadi Al Safa 3 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJm0Th9-1lXz4Rk6vBv6ETaVk",
+      "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJS-x3WMlvXz4Rw27rg2czCOM": {
+      "name": "Wadi Al Safa 6 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJS-x3WMlvXz4Rw27rg2czCOM",
+      "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJW9qbCj9vXz4RYuC9ULBziwM": {
+      "name": "Wadi Al Safa 7 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJW9qbCj9vXz4RYuC9ULBziwM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJh7LUHlFqXz4RbIRg-g5fo-E": {
+      "name": "Wild Wadi Waterpark, Dubai, Émirats arabes unis",
+      "place_id": "ChIJh7LUHlFqXz4RbIRg-g5fo-E",
+      "types": "amusement_park, establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJM1pC8DVdXz4RG5jX8duwoUw": {
+      "name": "Wafi City, Dubai, Émirats arabes unis",
+      "place_id": "ChIJM1pC8DVdXz4RG5jX8duwoUw",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJr3f530ldXz4RoIEDlpX2EUo": {
+      "name": "Wafi Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJr3f530ldXz4RoIEDlpX2EUo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ3_edgoJCXz4RtwnBVCfDpOU": {
+      "name": "Waitrose - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ3_edgoJCXz4RtwnBVCfDpOU",
+      "types": "establishment, food, grocery_or_supermarket, health, point_of_interest, store"
+    },
+    "EjBUaGUgV2FsayAtIER1YmFpIC0gRHViYcOvIC0gw4ltaXJhdHMgYXJhYmVzIHVuaXMiLiosChQKEgnnwsY2qxRfPhGsHRKK7liZxRIUChIJRcbZaklDXz4RYlEphFBu5r0": {
+      "name": "The Walk - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "EjBUaGUgV2FsayAtIER1YmFpIC0gRHViYcOvIC0gw4ltaXJhdHMgYXJhYmVzIHVuaXMiLiosChQKEgnnwsY2qxRfPhGsHRKK7liZxRIUChIJRcbZaklDXz4RYlEphFBu5r0",
+      "types": "geocode, route"
+    },
+    "ChIJAX38lnhDXz4R6NfrS3bY6yo": {
+      "name": "Waldorf Astoria Dubai International Financial Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAX38lnhDXz4R6NfrS3bY6yo",
+      "types": "establishment, lodging, point_of_interest, spa"
+    },
+    "ChIJ__30xjFrXz4RVhGdvh_K-cw": {
+      "name": "Waldorf Astoria Dubai Palm Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ__30xjFrXz4RVhGdvh_K-cw",
+      "types": "establishment, lodging, point_of_interest, spa"
+    },
+    "ChIJMcVUJwBnXz4RmEZR9S6Ul8Q": {
+      "name": "Warsan 4th - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMcVUJwBnXz4RmEZR9S6Ul8Q",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJdyfUHM5gXz4R92phDVUPbt0": {
+      "name": "Al-Warqaa 2, Dubai, Émirats arabes unis",
+      "place_id": "ChIJdyfUHM5gXz4R92phDVUPbt0",
+      "types": "neighborhood, political"
+    },
+    "ChIJs6ZbHE1fXz4RfQXe92qMyQ0": {
+      "name": "Wasl Village (R1083) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJs6ZbHE1fXz4RfQXe92qMyQ0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ74RZtWlCXz4RrJ3l0m5CERY": {
+      "name": "Wasl Vita - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ74RZtWlCXz4RrJ3l0m5CERY",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJazd3BFFnXz4R4skVNmBYnzI": {
+      "name": "Wasl - Green Park (R1081) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJazd3BFFnXz4R4skVNmBYnzI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJXTtKjdtpXz4R6bfOB_Z2r6w": {
+      "name": "Dubai Water Canal Boardwalk - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJXTtKjdtpXz4R6bfOB_Z2r6w",
+      "types": "establishment, park, point_of_interest"
+    },
+    "ChIJ82VDTMZpXz4RfRsaFGTzl_s": {
+      "name": "Waves Grande - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ82VDTMZpXz4RfRsaFGTzl_s",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJxUS9iPVpXz4RKf2DrRGPXts": {
+      "name": "Waves Tower by KASCO - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJxUS9iPVpXz4RKf2DrRGPXts",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ_dIdkrhlXz4RAlHK_VcSDPQ": {
+      "name": "Wavez by Danube Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_dIdkrhlXz4RAlHK_VcSDPQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ43ErIUZDXz4RPvxl4xzAWJU": {
+      "name": "Wave International Hotel - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ43ErIUZDXz4RPvxl4xzAWJU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJv6n0PXtpXz4RVordQ6ECneY": {
+      "name": "Wood Craft House - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJv6n0PXtpXz4RVordQ6ECneY",
+      "types": "establishment, point_of_interest"
     }
   }
 }
