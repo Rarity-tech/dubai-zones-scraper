@@ -6972,6 +6972,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Exotica by Al Marina - إكزوتيكا من المارينا - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJtXeXdgBtXz4RQlA1o0tg5G0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Expo - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJp6TmNKJDXz4Reyvg2ceuaOs",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
     "name": "Expo 2020 Lake - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJLzv1RgCdXz4Rz9WY1rnVBCo",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -11468,6 +11480,12 @@
   {
     "name": "Ramada Plaza by Wyndham Dubai Deira - Dubai - Émirats arabes unis",
     "place_id": "ChIJR6olL3BdXz4RhPxuIANrT-U",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ramada by Wyndham Dubai Barsha Heights - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbTXaaHlrXz4RfQZbCYOegbM",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },

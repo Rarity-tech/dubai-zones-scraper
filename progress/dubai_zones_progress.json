@@ -11619,7 +11619,57 @@
     "Dubai WWU",
     "Dubai WWV",
     "Dubai WWW",
-    "Dubai WWX"
+    "Dubai WWX",
+    "Dubai WWY",
+    "Dubai WWZ",
+    "Dubai WXA",
+    "Dubai WXB",
+    "Dubai WXC",
+    "Dubai WXD",
+    "Dubai WXE",
+    "Dubai WXF",
+    "Dubai WXG",
+    "Dubai WXH",
+    "Dubai WXI",
+    "Dubai WXJ",
+    "Dubai WXK",
+    "Dubai WXL",
+    "Dubai WXM",
+    "Dubai WXN",
+    "Dubai WXO",
+    "Dubai WXP",
+    "Dubai WXQ",
+    "Dubai WXR",
+    "Dubai WXS",
+    "Dubai WXT",
+    "Dubai WXU",
+    "Dubai WXV",
+    "Dubai WXW",
+    "Dubai WXX",
+    "Dubai WXY",
+    "Dubai WXZ",
+    "Dubai WYA",
+    "Dubai WYB",
+    "Dubai WYC",
+    "Dubai WYD",
+    "Dubai WYE",
+    "Dubai WYF",
+    "Dubai WYG",
+    "Dubai WYH",
+    "Dubai WYI",
+    "Dubai WYJ",
+    "Dubai WYK",
+    "Dubai WYL",
+    "Dubai WYM",
+    "Dubai WYN",
+    "Dubai WYO",
+    "Dubai WYP",
+    "Dubai WYQ",
+    "Dubai WYR",
+    "Dubai WYS",
+    "Dubai WYT",
+    "Dubai WYU",
+    "Dubai WYV"
   ],
   "pending_n2": [
     {
@@ -73739,6 +73789,21 @@
       "name": "Waterfront Market - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJxZJBUlhbXz4Rjjx_NKAl8h0",
       "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJtXeXdgBtXz4RQlA1o0tg5G0": {
+      "name": "Exotica by Al Marina - إكزوتيكا من المارينا - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJtXeXdgBtXz4RQlA1o0tg5G0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJp6TmNKJDXz4Reyvg2ceuaOs": {
+      "name": "Expo - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJp6TmNKJDXz4Reyvg2ceuaOs",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJbTXaaHlrXz4RfQZbCYOegbM": {
+      "name": "Ramada by Wyndham Dubai Barsha Heights - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbTXaaHlrXz4RfQZbCYOegbM",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }
