@@ -7422,6 +7422,12 @@
     "zone_type": "area"
   },
   {
+    "name": "J - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "EilKIC0gRHViYWkgLSBEdWJhw68gLSDDiW1pcmF0cyBhcmFiZXMgdW5pcyIuKiwKFAoSCXPAr0QkFV8-EW_MrFJCWAYNEhQKEglFxtlqSUNfPhFiUSmEUG7mvQ",
+    "types": "geocode, route",
+    "zone_type": "area"
+  },
+  {
     "name": "JACQUEMUS, Dubai Mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJIyaLfM9DXz4ReW-G48uunHU",
     "types": "establishment, point_of_interest",
@@ -7518,9 +7524,21 @@
     "zone_type": "area"
   },
   {
+    "name": "JLF Football JLT - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJNYMjt-dtXz4RT3l1P6gwpqU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "JLT Cluster D - Cluster D - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgUSuVKxsXz4R8VXHTF0USS0",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "JLT Cluster G - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZxLeiK5sXz4R0AUDUhbV3R0",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7809,6 +7827,12 @@
     "name": "Jumeirah Golf Estates Metro Station - Dubai - Émirats arabes unis",
     "place_id": "ChIJ8zisYk5tXz4Rovq_fV9H5Hk",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jumeirah Living Marina Gate - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQcH9dO9tXz4ReayUzeWBfmM",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
