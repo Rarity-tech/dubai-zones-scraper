@@ -3066,6 +3066,12 @@
     "zone_type": "area"
   },
   {
+    "name": "BBQ Spot - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5SvCYABjXz4R5IlYzV8yonM",
+    "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "BDT Tourism Guidance Services L.L.C - Dubai - Émirats arabes unis",
     "place_id": "ChIJCR6M-5JcXz4RVr38on_UKOg",
     "types": "establishment, point_of_interest, travel_agency",
@@ -6135,6 +6141,12 @@
     "name": "Dubai Turtle Rehabilitation Project - Dubaï - Émirats arabes unis",
     "place_id": "ChIJy0dti2trXz4R20qz4QKFQYM",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Vacation Homes - Shoreline Apartment - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTxyMgHhrXz4RC2-UIV_MkV8",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -13836,6 +13848,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Luxury Bricks Vacation Homes Rental - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcacJ33RpXz4RpMw4q5B2t_8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "The Meydan Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD-oWVYxoXz4R4lefaDIPgEQ",
     "types": "establishment, lodging, point_of_interest",
@@ -14448,6 +14466,12 @@
     "zone_type": "area"
   },
   {
+    "name": "VOGO GRAND HOTEL DUBAI - Academic Road - Dubai - Émirats arabes unis",
+    "place_id": "ChIJBcgiH55jXz4RV7FGXQ0vulo",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "VOX Cinemas Mall of the Emirates, Dubai, Émirats arabes unis",
     "place_id": "ChIJFRfpr75rXz4Rsr1pyFsGTYg",
     "types": "establishment, movie_theater, point_of_interest",
@@ -14469,6 +14493,18 @@
     "name": "VSL Middle East LLC - Construction company - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJE05Kyz5yXz4RWs9JjL3QzNI",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Vakson Real Estate. Commercial Building @ Umm Al Sheif - Dubai - Émirats arabes unis",
+    "place_id": "ChIJWV1m885rXz4RShgrP3LE0-0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "VayK Holiday Homes Rental Agency - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ45ZL9pgTXz4RsnZ5lQ9OrPY",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -14577,6 +14613,12 @@
     "name": "Vita Grande by Meteora - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ81DSqNttXz4RAB18bQDg-Mo",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Vogue Downtown - MAG318 Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5boVvydoXz4RFHxETMR2I_Y",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {

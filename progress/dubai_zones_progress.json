@@ -10419,7 +10419,57 @@
     "Dubai UZQ",
     "Dubai UZR",
     "Dubai UZS",
-    "Dubai UZT"
+    "Dubai UZT",
+    "Dubai UZU",
+    "Dubai UZV",
+    "Dubai UZW",
+    "Dubai UZX",
+    "Dubai UZY",
+    "Dubai UZZ",
+    "Dubai VAA",
+    "Dubai VAB",
+    "Dubai VAC",
+    "Dubai VAD",
+    "Dubai VAE",
+    "Dubai VAF",
+    "Dubai VAG",
+    "Dubai VAH",
+    "Dubai VAI",
+    "Dubai VAJ",
+    "Dubai VAK",
+    "Dubai VAL",
+    "Dubai VAM",
+    "Dubai VAN",
+    "Dubai VAO",
+    "Dubai VAP",
+    "Dubai VAQ",
+    "Dubai VAR",
+    "Dubai VAS",
+    "Dubai VAT",
+    "Dubai VAU",
+    "Dubai VAV",
+    "Dubai VAW",
+    "Dubai VAX",
+    "Dubai VAY",
+    "Dubai VAZ",
+    "Dubai VBA",
+    "Dubai VBB",
+    "Dubai VBC",
+    "Dubai VBD",
+    "Dubai VBE",
+    "Dubai VBF",
+    "Dubai VBG",
+    "Dubai VBH",
+    "Dubai VBI",
+    "Dubai VBJ",
+    "Dubai VBK",
+    "Dubai VBL",
+    "Dubai VBM",
+    "Dubai VBN",
+    "Dubai VBO",
+    "Dubai VBP",
+    "Dubai VBQ",
+    "Dubai VBR"
   ],
   "pending_n2": [
     {
@@ -72054,6 +72104,41 @@
       "name": "uwu - Dubai - Émirats arabes unis",
       "place_id": "ChIJrS3dU-pDXz4RAgtRwp5OTSc",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJTxyMgHhrXz4RC2-UIV_MkV8": {
+      "name": "Dubai Vacation Homes - Shoreline Apartment - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTxyMgHhrXz4RC2-UIV_MkV8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJcacJ33RpXz4RpMw4q5B2t_8": {
+      "name": "The Luxury Bricks Vacation Homes Rental - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJcacJ33RpXz4RpMw4q5B2t_8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ5boVvydoXz4RFHxETMR2I_Y": {
+      "name": "Vogue Downtown - MAG318 Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5boVvydoXz4RFHxETMR2I_Y",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJBcgiH55jXz4RV7FGXQ0vulo": {
+      "name": "VOGO GRAND HOTEL DUBAI - Academic Road - Dubai - Émirats arabes unis",
+      "place_id": "ChIJBcgiH55jXz4RV7FGXQ0vulo",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJWV1m885rXz4RShgrP3LE0-0": {
+      "name": "Vakson Real Estate. Commercial Building @ Umm Al Sheif - Dubai - Émirats arabes unis",
+      "place_id": "ChIJWV1m885rXz4RShgrP3LE0-0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ45ZL9pgTXz4RsnZ5lQ9OrPY": {
+      "name": "VayK Holiday Homes Rental Agency - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ45ZL9pgTXz4RsnZ5lQ9OrPY",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ5SvCYABjXz4R5IlYzV8yonM": {
+      "name": "BBQ Spot - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5SvCYABjXz4R5IlYzV8yonM",
+      "types": "establishment, park, point_of_interest"
     }
   }
 }
