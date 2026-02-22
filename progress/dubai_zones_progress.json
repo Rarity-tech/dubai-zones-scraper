@@ -5169,7 +5169,57 @@
     "Dubai JHS",
     "Dubai JHT",
     "Dubai JHU",
-    "Dubai JHV"
+    "Dubai JHV",
+    "Dubai JHW",
+    "Dubai JHX",
+    "Dubai JHY",
+    "Dubai JHZ",
+    "Dubai JIA",
+    "Dubai JIB",
+    "Dubai JIC",
+    "Dubai JID",
+    "Dubai JIE",
+    "Dubai JIF",
+    "Dubai JIG",
+    "Dubai JIH",
+    "Dubai JII",
+    "Dubai JIJ",
+    "Dubai JIK",
+    "Dubai JIL",
+    "Dubai JIM",
+    "Dubai JIN",
+    "Dubai JIO",
+    "Dubai JIP",
+    "Dubai JIQ",
+    "Dubai JIR",
+    "Dubai JIS",
+    "Dubai JIT",
+    "Dubai JIU",
+    "Dubai JIV",
+    "Dubai JIW",
+    "Dubai JIX",
+    "Dubai JIY",
+    "Dubai JIZ",
+    "Dubai JJA",
+    "Dubai JJB",
+    "Dubai JJC",
+    "Dubai JJD",
+    "Dubai JJE",
+    "Dubai JJF",
+    "Dubai JJG",
+    "Dubai JJH",
+    "Dubai JJI",
+    "Dubai JJJ",
+    "Dubai JJK",
+    "Dubai JJL",
+    "Dubai JJM",
+    "Dubai JJN",
+    "Dubai JJO",
+    "Dubai JJP",
+    "Dubai JJQ",
+    "Dubai JJR",
+    "Dubai JJS",
+    "Dubai JJT"
   ],
   "pending_n2": [
     {
@@ -62469,6 +62519,31 @@
       "name": "Dubai jhumeira palm island - Dubaï - Émirats arabes unis",
       "place_id": "ChIJtb8zGQAVXz4RQiEKXsAvaqI",
       "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJ_x5QDHBpXz4RhavSHcW2Nh4": {
+      "name": "KIDEO Clinic, Dubai Hills Estate - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ_x5QDHBpXz4RhavSHcW2Nh4",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJ4xZq8v1rXz4RL142P89ZTw0": {
+      "name": "Kids HQ - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ4xZq8v1rXz4RL142P89ZTw0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ5Ytn78-dXz4Rk_2xt7WK-lU": {
+      "name": "Al Jiyad Stables - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5Ytn78-dXz4Rk_2xt7WK-lU",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJn5naS9sNXz4RzN4R5MCX2AE": {
+      "name": "Jingdong International Middle East FZE 京东物流 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJn5naS9sNXz4RzN4R5MCX2AE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJDTiiYvtlXz4RwBtJ5Gm7NeA": {
+      "name": "JJ’s place - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDTiiYvtlXz4RwBtJ5Gm7NeA",
+      "types": "establishment, point_of_interest"
     }
   }
 }

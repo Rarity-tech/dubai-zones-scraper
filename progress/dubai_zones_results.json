@@ -1590,6 +1590,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Al Jiyad Stables - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5Ytn78-dXz4Rk_2xt7WK-lU",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Al Khail Mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ2974PqJpXz4Ra34njZr7E0E",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -7506,6 +7512,12 @@
     "zone_type": "area"
   },
   {
+    "name": "JJ’s place - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDTiiYvtlXz4RwBtJ5Gm7NeA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "JLT Cluster D - Cluster D - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgUSuVKxsXz4R8VXHTF0USS0",
     "types": "geocode, premise",
@@ -7716,6 +7728,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Jingdong International Middle East FZE 京东物流 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJn5naS9sNXz4RzN4R5MCX2AE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Jobs in Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJybIYu5xDXz4RAMFhS0D3jHw",
     "types": "establishment, lodging, point_of_interest",
@@ -7818,6 +7836,12 @@
     "zone_type": "area"
   },
   {
+    "name": "KIDEO Clinic, Dubai Hills Estate - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ_x5QDHBpXz4RhavSHcW2Nh4",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "KNIGHT ARMOUR HOTEL - Dubai - Émirats arabes unis",
     "place_id": "ChIJsT4JcR1dXz4RxuIhOxfC1DU",
     "types": "establishment, lodging, point_of_interest",
@@ -7881,6 +7905,12 @@
     "name": "Khor Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJ_QDHKkFDXz4RiE_I1Srd_8E",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kids HQ - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ4xZq8v1rXz4RL142P89ZTw0",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
