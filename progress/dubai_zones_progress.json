@@ -6769,7 +6769,57 @@
     "Dubai LXG",
     "Dubai LXH",
     "Dubai LXI",
-    "Dubai LXJ"
+    "Dubai LXJ",
+    "Dubai LXK",
+    "Dubai LXL",
+    "Dubai LXM",
+    "Dubai LXN",
+    "Dubai LXO",
+    "Dubai LXP",
+    "Dubai LXQ",
+    "Dubai LXR",
+    "Dubai LXS",
+    "Dubai LXT",
+    "Dubai LXU",
+    "Dubai LXV",
+    "Dubai LXW",
+    "Dubai LXX",
+    "Dubai LXY",
+    "Dubai LXZ",
+    "Dubai LYA",
+    "Dubai LYB",
+    "Dubai LYC",
+    "Dubai LYD",
+    "Dubai LYE",
+    "Dubai LYF",
+    "Dubai LYG",
+    "Dubai LYH",
+    "Dubai LYI",
+    "Dubai LYJ",
+    "Dubai LYK",
+    "Dubai LYL",
+    "Dubai LYM",
+    "Dubai LYN",
+    "Dubai LYO",
+    "Dubai LYP",
+    "Dubai LYQ",
+    "Dubai LYR",
+    "Dubai LYS",
+    "Dubai LYT",
+    "Dubai LYU",
+    "Dubai LYV",
+    "Dubai LYW",
+    "Dubai LYX",
+    "Dubai LYY",
+    "Dubai LYZ",
+    "Dubai LZA",
+    "Dubai LZB",
+    "Dubai LZC",
+    "Dubai LZD",
+    "Dubai LZE",
+    "Dubai LZF",
+    "Dubai LZG",
+    "Dubai LZH"
   ],
   "pending_n2": [
     {
@@ -65113,6 +65163,31 @@
     "ChIJyZ4SaQBrXz4RKrRgSux0-hM": {
       "name": "LWK + PARTNERS DUBAI - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJyZ4SaQBrXz4RKrRgSux0-hM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJQ6zMPuYTXz4RmzNrwf_3fTg": {
+      "name": "Lyo Hostel Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQ6zMPuYTXz4RmzNrwf_3fTg",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ2_hGaplpXz4RbWnOovZQU9s": {
+      "name": "Livin' Experts Real Estate - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ2_hGaplpXz4RbWnOovZQU9s",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJgZBXdq9rXz4Rjp48UzE4xjA": {
+      "name": "Luxe Incorporations - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgZBXdq9rXz4Rjp48UzE4xjA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJcejEDwBDXz4RzaEQ87GfwEs": {
+      "name": "THE LUXE RETREAT HOTEL APARTMENT - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJcejEDwBDXz4RzaEQ87GfwEs",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ8SusZgBrXz4Rk8QwIHLrCws": {
+      "name": "Flag Garden - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8SusZgBrXz4Rk8QwIHLrCws",
       "types": "establishment, point_of_interest"
     }
   }

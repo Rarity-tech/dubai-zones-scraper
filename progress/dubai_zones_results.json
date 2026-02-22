@@ -6372,6 +6372,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Flag Garden - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8SusZgBrXz4Rk8QwIHLrCws",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Fly Dubai Training Centre - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJs0pvwvhcXz4RXsZ9V3Kv_8E",
     "types": "establishment, point_of_interest",
@@ -8916,6 +8922,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Livin' Experts Real Estate - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ2_hGaplpXz4RbWnOovZQU9s",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Living Legends - Dubai - Émirats arabes unis",
     "place_id": "ChIJ60jf63BvXz4R-VC2bH8nuy0",
     "types": "establishment, point_of_interest",
@@ -9126,6 +9138,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Luxe Incorporations - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgZBXdq9rXz4Rjp48UzE4xjA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Luxuriate Gents Salon - Dubai - Émirats arabes unis",
     "place_id": "ChIJDzrOsR9hXz4RZCecBRz5ng8",
     "types": "establishment, hair_care, health, point_of_interest",
@@ -9159,6 +9177,12 @@
     "name": "Lynx Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJRy3XMkNkXz4RaScXhk29TC0",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lyo Hostel Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQ6zMPuYTXz4RmzNrwf_3fTg",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -10179,6 +10203,12 @@
     "name": "TCM Acupuncture Therapy Center-Shop 2 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJBw1_iiZrXz4RcvQCJznyFkc",
     "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "THE LUXE RETREAT HOTEL APARTMENT - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcejEDwBDXz4RzaEQ87GfwEs",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
