@@ -2619,7 +2619,57 @@
     "Dubai DHQ",
     "Dubai DHR",
     "Dubai DHS",
-    "Dubai DHT"
+    "Dubai DHT",
+    "Dubai DHU",
+    "Dubai DHV",
+    "Dubai DHW",
+    "Dubai DHX",
+    "Dubai DHY",
+    "Dubai DHZ",
+    "Dubai DIA",
+    "Dubai DIB",
+    "Dubai DIC",
+    "Dubai DID",
+    "Dubai DIE",
+    "Dubai DIF",
+    "Dubai DIG",
+    "Dubai DIH",
+    "Dubai DII",
+    "Dubai DIJ",
+    "Dubai DIK",
+    "Dubai DIL",
+    "Dubai DIM",
+    "Dubai DIN",
+    "Dubai DIO",
+    "Dubai DIP",
+    "Dubai DIQ",
+    "Dubai DIR",
+    "Dubai DIS",
+    "Dubai DIT",
+    "Dubai DIU",
+    "Dubai DIV",
+    "Dubai DIW",
+    "Dubai DIX",
+    "Dubai DIY",
+    "Dubai DIZ",
+    "Dubai DJA",
+    "Dubai DJB",
+    "Dubai DJC",
+    "Dubai DJD",
+    "Dubai DJE",
+    "Dubai DJF",
+    "Dubai DJG",
+    "Dubai DJH",
+    "Dubai DJI",
+    "Dubai DJJ",
+    "Dubai DJK",
+    "Dubai DJL",
+    "Dubai DJM",
+    "Dubai DJN",
+    "Dubai DJO",
+    "Dubai DJP",
+    "Dubai DJQ",
+    "Dubai DJR"
   ],
   "pending_n2": [
     {
@@ -57714,6 +57764,116 @@
       "name": "Dubai Herbal And Treatment Centre - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJQaSVnatCXz4R9-qk0AVoi84",
       "types": "establishment, health, physiotherapist, point_of_interest"
+    },
+    "ChIJPW_eSbVtXz4R41r_Ib1iwJY": {
+      "name": "Diamond Views I - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJPW_eSbVtXz4R41r_Ib1iwJY",
+      "types": "geocode, premise"
+    },
+    "ChIJ1d-3q7xrXz4RvPuiZQxRTH0": {
+      "name": "DIC Metro Station Exit 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1d-3q7xrXz4RvPuiZQxRTH0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJQzsquBZoXz4RSsKJdXazc8U": {
+      "name": "Dubai Institute of Design and Innovation (DIDI) - Dubai - Émirats arabes unis",
+      "place_id": "ChIJQzsquBZoXz4RSsKJdXazc8U",
+      "types": "establishment, point_of_interest, university"
+    },
+    "EjlEaWVyYSBPbGQgU291ayAtIEJ1ciBEdWJhaSAtIER1YmFpIC0gw4ltaXJhdHMgYXJhYmVzIHVuaXMiLiosChQKEgktPLcVQENfPhGGe30dVVbW8xIUChIJRcbZaklDXz4RYlEphFBu5r0": {
+      "name": "Diera Old Souk - Bur Dubai - Dubai - Émirats arabes unis",
+      "place_id": "EjlEaWVyYSBPbGQgU291ayAtIEJ1ciBEdWJhaSAtIER1YmFpIC0gw4ltaXJhdHMgYXJhYmVzIHVuaXMiLiosChQKEgktPLcVQENfPhGGe30dVVbW8xIUChIJRcbZaklDXz4RYlEphFBu5r0",
+      "types": "geocode, route"
+    },
+    "ChIJ_-mPaJ9DXz4Rkwt-p5VdwkM": {
+      "name": "DIFC Innovation Hub - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_-mPaJ9DXz4Rkwt-p5VdwkM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJzTcl0W9DXz4R3iReYH7CR-k": {
+      "name": "DIFC, Gate District Precinct 4 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzTcl0W9DXz4R3iReYH7CR-k",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ_T4g0eVlXz4RCCV92UFfDh4": {
+      "name": "Digital Park A6 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_T4g0eVlXz4RCCV92UFfDh4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ_Yji1u9dXz4RHgdqjYQiGS8": {
+      "name": "Hotel DXB - Dubai International Hotel, Concourse A, B and C - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ_Yji1u9dXz4RHgdqjYQiGS8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJbULK75FCXz4RY4-z8DU3i1U": {
+      "name": "DIFC Academy - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbULK75FCXz4RY4-z8DU3i1U",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJDevLbk5rXz4Rvl33bZU9sJI": {
+      "name": "Dubai International Marine Club - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDevLbk5rXz4Rvl33bZU9sJI",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJhX-JhoJCXz4RgdOpo9VsM4I": {
+      "name": "Dubai Dino - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhX-JhoJCXz4RgdOpo9VsM4I",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJC5xbW8FCXz4RXYEXT70Y6QU": {
+      "name": "Dinosaur Park, Dubai, Émirats arabes unis",
+      "place_id": "ChIJC5xbW8FCXz4RXYEXT70Y6QU",
+      "types": "amusement_park, establishment, food, point_of_interest, tourist_attraction"
+    },
+    "ChIJJ3SQKVNpXz4RE_SXt3Yhv-A": {
+      "name": "Dior Spa The Lana - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJ3SQKVNpXz4RE_SXt3Yhv-A",
+      "types": "establishment, point_of_interest, spa"
+    },
+    "ChIJd0olMEhyXz4RjR7xGLzjeHk": {
+      "name": "DIP 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJd0olMEhyXz4RjR7xGLzjeHk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJ5lkc0lyXz4RSLMdwJzEG7s": {
+      "name": "Dubai Investment Park Second - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJ5lkc0lyXz4RSLMdwJzEG7s",
+      "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJLaBBKABdXz4Rg3579zZhHdA": {
+      "name": "Dira - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJLaBBKABdXz4Rg3579zZhHdA",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJuT1XCQBDXz4Ri5evvxNRjaA": {
+      "name": "Dira dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJuT1XCQBDXz4Ri5evvxNRjaA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJi_cPPXNpXz4RfE7z_6hMfno": {
+      "name": "District One Residences - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJi_cPPXNpXz4RfE7z_6hMfno",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJrSWdeg9tXz4RxAaP_nv0AlM": {
+      "name": "District 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJrSWdeg9tXz4RxAaP_nv0AlM",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJXzCcoiFtXz4Ro8zvScH-Pvs": {
+      "name": "Discovery Gardens Metro Station 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJXzCcoiFtXz4Ro8zvScH-Pvs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJQcbW76xvXz4R4Q2vA1Uo5Pg": {
+      "name": "Divine Living - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQcbW76xvXz4R4Q2vA1Uo5Pg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJk0V1bIxpXz4RTp40uIf9K8o": {
+      "name": "Diverse Performing Arts School and Entertainment - Dubai - Émirats arabes unis",
+      "place_id": "ChIJk0V1bIxpXz4RTp40uIf9K8o",
+      "types": "establishment, point_of_interest"
     }
   }
 }
