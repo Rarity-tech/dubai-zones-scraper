@@ -3360,6 +3360,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Beach walk - 19a St - Dubai - Émirats arabes unis",
+    "place_id": "ChIJj3LAPUBqXz4R0yEtJZne7bc",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "Bed & Biscuits - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJa5t49NNzXz4RdmLMvwcfMu8",
     "types": "establishment, point_of_interest",
@@ -14013,6 +14019,12 @@
     "name": "The Walk - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "EjBUaGUgV2FsayAtIER1YmFpIC0gRHViYcOvIC0gw4ltaXJhdHMgYXJhYmVzIHVuaXMiLiosChQKEgnnwsY2qxRfPhGsHRKK7liZxRIUChIJRcbZaklDXz4RYlEphFBu5r0",
     "types": "geocode, route",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Walk at JBR by Dubai Retail - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-f8jP1YTXz4RF4F-mwIt0vc",
+    "types": "establishment, food, point_of_interest, restaurant, shopping_mall",
     "zone_type": "area"
   },
   {
