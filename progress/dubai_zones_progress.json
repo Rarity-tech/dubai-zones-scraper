@@ -4569,7 +4569,57 @@
     "Dubai IKQ",
     "Dubai IKR",
     "Dubai IKS",
-    "Dubai IKT"
+    "Dubai IKT",
+    "Dubai IKU",
+    "Dubai IKV",
+    "Dubai IKW",
+    "Dubai IKX",
+    "Dubai IKY",
+    "Dubai IKZ",
+    "Dubai ILA",
+    "Dubai ILB",
+    "Dubai ILC",
+    "Dubai ILD",
+    "Dubai ILE",
+    "Dubai ILF",
+    "Dubai ILG",
+    "Dubai ILH",
+    "Dubai ILI",
+    "Dubai ILJ",
+    "Dubai ILK",
+    "Dubai ILL",
+    "Dubai ILM",
+    "Dubai ILN",
+    "Dubai ILO",
+    "Dubai ILP",
+    "Dubai ILQ",
+    "Dubai ILR",
+    "Dubai ILS",
+    "Dubai ILT",
+    "Dubai ILU",
+    "Dubai ILV",
+    "Dubai ILW",
+    "Dubai ILX",
+    "Dubai ILY",
+    "Dubai ILZ",
+    "Dubai IMA",
+    "Dubai IMB",
+    "Dubai IMC",
+    "Dubai IMD",
+    "Dubai IME",
+    "Dubai IMF",
+    "Dubai IMG",
+    "Dubai IMH",
+    "Dubai IMI",
+    "Dubai IMJ",
+    "Dubai IMK",
+    "Dubai IML",
+    "Dubai IMM",
+    "Dubai IMN",
+    "Dubai IMO",
+    "Dubai IMP",
+    "Dubai IMQ",
+    "Dubai IMR"
   ],
   "pending_n2": [
     {
@@ -61359,6 +61409,51 @@
       "name": "Icon Delux Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJxVTO_QJrXz4RyeHomyHv460",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJwVYQv4RFXz4RAHGayzlMPg8": {
+      "name": "Dubai Islands Beach by Dubai Retail - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJwVYQv4RFXz4RAHGayzlMPg8",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJobQZTFRDXz4R4f_FTcCbMNo": {
+      "name": "Musée des Illusions, Dubai, Émirats arabes unis",
+      "place_id": "ChIJobQZTFRDXz4R4f_FTcCbMNo",
+      "types": "establishment, museum, point_of_interest, tourist_attraction"
+    },
+    "ChIJiwDvx5JpXz4R7EfVS5D5wJM": {
+      "name": "Infinite Leisure - Swimming Pool Contractor Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJiwDvx5JpXz4R7EfVS5D5wJM",
+      "types": "establishment, general_contractor, health, point_of_interest, spa, store"
+    },
+    "ChIJXRjTQRxDXz4RncxAcg-imGk": {
+      "name": "Imam Hussein Mosque (Iranian Mosque) - Dubai - Émirats arabes unis",
+      "place_id": "ChIJXRjTQRxDXz4RncxAcg-imGk",
+      "types": "establishment, mosque, place_of_worship, point_of_interest"
+    },
+    "ChIJ27KUih9dXz4RUBB531Sqw7A": {
+      "name": "IMAGINE Show - Dubai Festival City Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ27KUih9dXz4RUBB531Sqw7A",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJ8T9V8BpDXz4RqwDxOfmShyo": {
+      "name": "IMH - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8T9V8BpDXz4RqwDxOfmShyo",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJjR1QIstDXz4R2wab6Hqv_YA": {
+      "name": "Dubai Immo / Elysee Vendome Real Estate LLC - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJjR1QIstDXz4R2wab6Hqv_YA",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJf1JMs7NtXz4Rh0W7W8_w4TA": {
+      "name": "Imperial Residence - Dubai - Émirats arabes unis",
+      "place_id": "ChIJf1JMs7NtXz4Rh0W7W8_w4TA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ75C9EXFkXz4R0i7kZrlmJk4": {
+      "name": "Imperial Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ75C9EXFkXz4R0i7kZrlmJk4",
+      "types": "geocode, premise"
     }
   }
 }

@@ -5190,6 +5190,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Immo / Elysee Vendome Real Estate LLC - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJjR1QIstDXz4R2wab6Hqv_YA",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Indoor Kartdrome Lasertag, Dubai, Émirats arabes unis",
     "place_id": "ChIJe_uod21uXz4Rijx-bQGF3xQ",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -5217,6 +5223,12 @@
     "name": "Dubai Islands - Émirats arabes unis",
     "place_id": "ChIJA8HSPKdFXz4RgjnyLvmMiFo",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Islands Beach by Dubai Retail - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJwVYQv4RFXz4RAHGayzlMPg8",
+    "types": "establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -6894,9 +6906,21 @@
     "zone_type": "area"
   },
   {
+    "name": "IMAGINE Show - Dubai Festival City Mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ27KUih9dXz4RUBB531Sqw7A",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "IMG Mondes d'Aventure, Dubai, Émirats arabes unis",
     "place_id": "ChIJs4NBKX9lXz4RwvniHGkNvxA",
     "types": "amusement_park, establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "IMH - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8T9V8BpDXz4RqwDxOfmShyo",
+    "types": "establishment, health, hospital, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7014,15 +7038,39 @@
     "zone_type": "area"
   },
   {
+    "name": "Imam Hussein Mosque (Iranian Mosque) - Dubai - Émirats arabes unis",
+    "place_id": "ChIJXRjTQRxDXz4RncxAcg-imGk",
+    "types": "establishment, mosque, place_of_worship, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Imperiaa by HOC Globe - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCwSL51hDXz4RgHoForQddt8",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "Imperial Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ75C9EXFkXz4R0i7kZrlmJk4",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Imperial Residence - Dubai - Émirats arabes unis",
+    "place_id": "ChIJf1JMs7NtXz4Rh0W7W8_w4TA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Indian Institute of Management Ahmedabad - Dubai Campus - Dubaï - Émirats arabes unis",
     "place_id": "ChIJRYnkRJ5jXz4RG0J2OuYyY1Y",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Infinite Leisure - Swimming Pool Contractor Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJiwDvx5JpXz4R7EfVS5D5wJM",
+    "types": "establishment, general_contractor, health, point_of_interest, spa, store",
     "zone_type": "area"
   },
   {
@@ -7701,6 +7749,12 @@
     "name": "Mushrif Park - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJNTGXc_ZgXz4RNI-53wUH6kM",
     "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Musée des Illusions, Dubai, Émirats arabes unis",
+    "place_id": "ChIJobQZTFRDXz4R4f_FTcCbMNo",
+    "types": "establishment, museum, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
