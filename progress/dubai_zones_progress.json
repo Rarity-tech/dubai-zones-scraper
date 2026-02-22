@@ -7519,7 +7519,57 @@
     "Dubai QCC",
     "Dubai QCD",
     "Dubai QCE",
-    "Dubai QCF"
+    "Dubai QCF",
+    "Dubai QCG",
+    "Dubai QCH",
+    "Dubai QCI",
+    "Dubai QCJ",
+    "Dubai QCK",
+    "Dubai QCL",
+    "Dubai QCM",
+    "Dubai QCN",
+    "Dubai QCO",
+    "Dubai QCP",
+    "Dubai QCQ",
+    "Dubai QCR",
+    "Dubai QCS",
+    "Dubai QCT",
+    "Dubai QCU",
+    "Dubai QCV",
+    "Dubai QCW",
+    "Dubai QCX",
+    "Dubai QCY",
+    "Dubai QCZ",
+    "Dubai QEA",
+    "Dubai QEB",
+    "Dubai QEC",
+    "Dubai QED",
+    "Dubai QEE",
+    "Dubai QEF",
+    "Dubai QEG",
+    "Dubai QEH",
+    "Dubai QEI",
+    "Dubai QEJ",
+    "Dubai QEK",
+    "Dubai QEL",
+    "Dubai QEM",
+    "Dubai QEN",
+    "Dubai QEO",
+    "Dubai QEP",
+    "Dubai QEQ",
+    "Dubai QER",
+    "Dubai QES",
+    "Dubai QET",
+    "Dubai QEU",
+    "Dubai QEV",
+    "Dubai QEW",
+    "Dubai QEX",
+    "Dubai QEY",
+    "Dubai QEZ",
+    "Dubai QFA",
+    "Dubai QFB",
+    "Dubai QFC",
+    "Dubai QFD"
   ],
   "pending_n2": [
     {
@@ -66679,6 +66729,41 @@
       "name": "Q Cargo - Dubai - Émirats arabes unis",
       "place_id": "ChIJ7VkXuWxrXz4ReHgIJSjDqM4",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJbVWsiUlsXz4R0Ikyv8LWISE": {
+      "name": "Seasons Community - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbVWsiUlsXz4R0Ikyv8LWISE",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJ5xoT4EhDXz4RzORDaqsakTU": {
+      "name": "Seasons Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5xoT4EhDXz4RzORDaqsakTU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJkyNh-EpbXz4RDqv-1lxZvrg": {
+      "name": "Sea Point Hotels - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJkyNh-EpbXz4RDqv-1lxZvrg",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJT3k0jnpvXz4RoXWGfysr9WI": {
+      "name": "Qerein Al-`Esh - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJT3k0jnpvXz4RoXWGfysr9WI",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJAauOmZhdXz4Ram_S7xflSGM": {
+      "name": "Queens Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAauOmZhdXz4Ram_S7xflSGM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJKb4Cmc1pXz4Rn9iqIQBUutM": {
+      "name": "Tawjeeh, Tasheel, Qeyada, Saif Belhasa Building , توجيه ,تسهيل, قيادة ,مركز سيف بالحصا - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJKb4Cmc1pXz4Rn9iqIQBUutM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJFb-L6F9hXz4Rlf6H3dQyg0A": {
+      "name": "UFC GYM Mirdif Hills (Ladies Only) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJFb-L6F9hXz4Rlf6H3dQyg0A",
+      "types": "establishment, gym, health, point_of_interest"
     }
   }
 }

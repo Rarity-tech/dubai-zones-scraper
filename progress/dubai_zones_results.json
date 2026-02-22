@@ -1086,6 +1086,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Seasons Community - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbVWsiUlsXz4R0Ikyv8LWISE",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Springs 2 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJq268w-5sXz4RMVuOG-RW1WI",
     "types": "geocode, neighborhood, political",
@@ -10560,6 +10566,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Qerein Al-`Esh - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT3k0jnpvXz4RoXWGfysr9WI",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "Quad Biking Dubai - Charjah - Émirats arabes unis",
     "place_id": "ChIJfY1d9_FnXz4RywolntXh7pE",
     "types": "establishment, point_of_interest",
@@ -10581,6 +10593,12 @@
     "name": "Queen Elizabeth 2 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ6wdBZ21DXz4RZcQcieT8qXY",
     "types": "establishment, lodging, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Queens Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAauOmZhdXz4Ram_S7xflSGM",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -10860,6 +10878,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Sea Point Hotels - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJkyNh-EpbXz4RDqv-1lxZvrg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Sea View Hotel - Dubai - Émirats arabes unis",
     "place_id": "ChIJDZ-9bRFDXz4R93frTLVsBO8",
     "types": "establishment, lodging, point_of_interest",
@@ -10869,6 +10893,12 @@
     "name": "Searide Dubai Jet Ski Tour | Efoil | Watersports Rentals Dubai, Searide Jetski Jetcar Dubai & Watersports Rental - Dubaï - Émirats arabes unis",
     "place_id": "ChIJlw5qFT5CXz4Rg2prIotHdpw",
     "types": "establishment, point_of_interest, tourist_attraction, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Seasons Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5xoT4EhDXz4RzORDaqsakTU",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -11196,6 +11226,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Tawjeeh, Tasheel, Qeyada, Saif Belhasa Building , توجيه ,تسهيل, قيادة ,مركز سيف بالحصا - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJKb4Cmc1pXz4Rn9iqIQBUutM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Taxi Stand Dubai mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJP8HvruRpXz4R_AnD9Puyol0",
     "types": "establishment, point_of_interest",
@@ -11438,6 +11474,12 @@
   {
     "name": "UFC GYM - Business Bay | Bay Square - Dubai - Émirats arabes unis",
     "place_id": "ChIJy6qqZjBoXz4RGOq7ZGVcIi8",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "UFC GYM Mirdif Hills (Ladies Only) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJFb-L6F9hXz4Rlf6H3dQyg0A",
     "types": "establishment, gym, health, point_of_interest",
     "zone_type": "area"
   },
