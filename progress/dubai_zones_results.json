@@ -60,6 +60,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Al Muraqqabat, Dubai, Émirats arabes unis",
+    "place_id": "ChIJ31m8MM9cXz4RbZ95ojmz9eE",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Al Quoz, Dubai, Émirats arabes unis",
     "place_id": "ChIJ41dViGRpXz4RWDQcfAZJAac",
     "types": "political, sublocality, sublocality_level_1",
@@ -164,6 +170,18 @@
   {
     "name": "Lacs de Jumeirah, Dubai, Émirats arabes unis",
     "place_id": "ChIJJQeKua9sXz4Rl9mM7xrsLWo",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
+    "name": "Mirdif, Dubai, Émirats arabes unis",
+    "place_id": "ChIJn5OI6L1gXz4RhvaoJpnARSI",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
+    "name": "Muhaisnah, Dubai, Émirats arabes unis",
+    "place_id": "ChIJGa2I7G5eXz4RncOYYwBgjZ4",
     "types": "political, sublocality, sublocality_level_1",
     "zone_type": "city"
   },
@@ -462,6 +480,18 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Meydan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJUxoWj1mXz4Rcze5CpRa3eE",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Muhaisnah 4 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcxlRHIReXz4RvetHmQeMCaM",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Remraam - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJPZo3fZVxXz4RPfPeihR6NFc",
     "types": "geocode, neighborhood, political",
@@ -633,6 +663,12 @@
     "name": "Ajmal Sarah Tower, Dubailand Residence Complex - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJWfHIITVlXz4Rp6JSA7sz9so",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Al Habtoor Palace, Preferred Hotels & Resorts - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJm8KuZNtpXz4RoA06ag1r5Tw",
+    "types": "establishment, lodging, point_of_interest, spa",
     "zone_type": "area"
   },
   {
@@ -1464,9 +1500,27 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Mall Fashion Avenue - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQxeJuURDXz4Rv_xWIjU7cpQ",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Mall Zabeel - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJwfLo0BZDXz4RCV_oxFYey_s",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Marina Mall, Dubai, Émirats arabes unis",
     "place_id": "ChIJ_8ErX6psXz4RtzvrH76xoHs",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Museum - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJNT40vT9DXz4RBIFRVC4e7bw",
+    "types": "establishment, museum, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -1725,6 +1779,12 @@
     "name": "Grand Hyatt Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJo2mM-EZdXz4RDa_DMxx70r0",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Grande Mosquée de Bur Dubai, Dubai, Émirats arabes unis",
+    "place_id": "ChIJN_IhWT9DXz4RJRZPGAxlaGs",
+    "types": "establishment, mosque, place_of_worship, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -2052,6 +2112,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Jardin Miracle de Dubaï, Dubai, Émirats arabes unis",
+    "place_id": "ChIJX1IwkDRsXz4RmwA1KiMqKG0",
+    "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Jood Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJpcWJlKRdXz4R_xlx3JUG1WQ",
     "types": "establishment, lodging, point_of_interest",
@@ -2208,9 +2274,21 @@
     "zone_type": "area"
   },
   {
+    "name": "La Quinta by Wyndham Dubai Jumeirah - Dubai - Émirats arabes unis",
+    "place_id": "ChIJo2g2W91DXz4RUWbs10Q4OJc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Lac de la fontaine de Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJP_HMuyloXz4RyC5haEhlfT4",
     "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lawnz by Danube Properties - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJpZdzMgZhXz4Rv_FqvSItp_k",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -2262,8 +2340,164 @@
     "zone_type": "area"
   },
   {
+    "name": "LuLu Shopping Mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJFzqqwl5cXz4RRs4DHlyuZ1c",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lulu village - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsc6tBwBfXz4RL7Bu1jd4luM",
+    "types": "establishment, health, pharmacy, point_of_interest, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lynx Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRy3XMkNkXz4RaScXhk29TC0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lyra Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJrX8Qnp1jXz4R16Ae0UjgnyU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MBK Tower - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJf3YHMNZpXz4RKOxDjUTegIg",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "MBL Royal - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ00yPPABtXz4Rb0t2ZraTNWg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MBR city - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6ZQl_tJpXz4R0JxzxOTHXyA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MCN - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJUSKMs3lrXz4RZbBA5yPOCdg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MD Hotel - By Gewan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVVkaebxrXz4RhJVEmsh8L4E",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MHA Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJjf6iwd5lXz4RywWzF-mN-po",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MJL - Lamtara - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOQdhsiRrXz4RjSMXVMAnaYM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MK Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZdB7CmhtXz4RuQ7lRNmesCE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MM Towers Dubai Silicon Oasis - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJi3NXIqtlXz4Rd5v8ybucYY8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MRA Grand Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzSFgUMhDXz4RqdFj4EnRCIE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MSM 2 Building - Dubai - Émirats arabes unis",
+    "place_id": "ChIJiZ2NUatpXz4RXJL6oOiRYaE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MX Dubai - Buggy Rental Dubai - Dirt Bike Rental Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJF_rH9aeP9T4RfoxYdGGzZqM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MYKA Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ64VnsOxtXz4Rht_tBPbYPFc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Mall of the Emirates, Dubai, Émirats arabes unis",
     "place_id": "ChIJnTOfw75rXz4RTBV1aGLlr0c",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "McDermott Middle East - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzaplVfgNXz4RRzj1u6e3XHU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mediclinic Parkview Hospital - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVVVVVWJuXz4RWskov-gc-ik",
+    "types": "dentist, doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Meena Bazaar, Dubai, Émirats arabes unis",
+    "place_id": "ChIJH9AWoBVDXz4RJnJXoQtDDCg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Millennium Plaza Downtown Hotel, Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJE8t3APhDXz4RcS7Q_2YVIvw",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mnasm 12 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ7ZFgZI1dXz4Rl8OK0iQgS9k",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mosquée de Jumeirah, Dubai, Émirats arabes unis",
+    "place_id": "ChIJ0X70llRCXz4RWhItaFTtgNg",
+    "types": "establishment, mosque, place_of_worship, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mushrif Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJNTGXc_ZgXz4RNI-53wUH6kM",
+    "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Musée du futur, Dubai, Émirats arabes unis",
+    "place_id": "ChIJqU_DoUtDXz4RxC8gnP8G_Ss",
+    "types": "establishment, food, museum, point_of_interest, restaurant, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "My City Centre Al Barsha - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJY6S2DYxuXz4Rx-ospN2si_0",
     "types": "establishment, point_of_interest, shopping_mall",
     "zone_type": "area"
   },
@@ -2445,6 +2679,12 @@
     "name": "kjri - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJC-0JOwBDXz4RdUs_Yjyvw-c",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "metro - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ0_7hipdDXz4RqXwidr5eBvU",
+    "types": "establishment, health, point_of_interest",
     "zone_type": "area"
   },
   {
