@@ -9669,7 +9669,57 @@
     "Dubai TMU",
     "Dubai TMV",
     "Dubai TMW",
-    "Dubai TMX"
+    "Dubai TMX",
+    "Dubai TMY",
+    "Dubai TMZ",
+    "Dubai TNA",
+    "Dubai TNB",
+    "Dubai TNC",
+    "Dubai TND",
+    "Dubai TNE",
+    "Dubai TNF",
+    "Dubai TNG",
+    "Dubai TNH",
+    "Dubai TNI",
+    "Dubai TNJ",
+    "Dubai TNK",
+    "Dubai TNL",
+    "Dubai TNM",
+    "Dubai TNN",
+    "Dubai TNO",
+    "Dubai TNP",
+    "Dubai TNQ",
+    "Dubai TNR",
+    "Dubai TNS",
+    "Dubai TNT",
+    "Dubai TNU",
+    "Dubai TNV",
+    "Dubai TNW",
+    "Dubai TNX",
+    "Dubai TNY",
+    "Dubai TNZ",
+    "Dubai TSA",
+    "Dubai TSB",
+    "Dubai TSC",
+    "Dubai TSD",
+    "Dubai TSE",
+    "Dubai TSF",
+    "Dubai TSG",
+    "Dubai TSH",
+    "Dubai TSI",
+    "Dubai TSJ",
+    "Dubai TSK",
+    "Dubai TSL",
+    "Dubai TSM",
+    "Dubai TSN",
+    "Dubai TSO",
+    "Dubai TSP",
+    "Dubai TSQ",
+    "Dubai TSR",
+    "Dubai TSS",
+    "Dubai TST",
+    "Dubai TSU",
+    "Dubai TSV"
   ],
   "pending_n2": [
     {
@@ -70999,6 +71049,36 @@
       "name": "MapleTree Psychotherapy Center - Dubai - Émirats arabes unis",
       "place_id": "ChIJb5aMP6dsXz4Rs1yv38BVZhk",
       "types": "establishment, health, point_of_interest"
+    },
+    "ChIJP5LEnPZtXz4RGy3hxgU50X8": {
+      "name": "The National Ballet Studio - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP5LEnPZtXz4RGy3hxgU50X8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJw3OOKoZpXz4RvI2q1ytV8OE": {
+      "name": "Team Nogueira Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJw3OOKoZpXz4RvI2q1ytV8OE",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJQ7hzXxZrXz4RNEnKFmExfMU": {
+      "name": "TNH Villa 15 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQ7hzXxZrXz4RNEnKFmExfMU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJKYwcAClwXz4RoNhKOG0DSZ4": {
+      "name": "The Sustainable City in Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJKYwcAClwXz4RoNhKOG0DSZ4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJGZePjGBrXz4RRmm1o9EqudA": {
+      "name": "TSF Meditation - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJGZePjGBrXz4RRmm1o9EqudA",
+      "types": "establishment, health, point_of_interest, school"
+    },
+    "ChIJA1xOaNJxXz4RBSa9Zbh03Hw": {
+      "name": "The Sustainable Homes - Dubai - Émirats arabes unis",
+      "place_id": "ChIJA1xOaNJxXz4RBSa9Zbh03Hw",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }

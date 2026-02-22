@@ -13398,6 +13398,12 @@
     "zone_type": "area"
   },
   {
+    "name": "TNH Villa 15 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQ7hzXxZrXz4RNEnKFmExfMU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "TOPCOM TRUST GENERAL TRADING - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJaelArxVDXz4R6nuYJ5JgH3Y",
     "types": "establishment, point_of_interest",
@@ -13407,6 +13413,12 @@
     "name": "TRYP by Wyndham Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJG_C9dXprXz4RWJQCak2jD_o",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "TSF Meditation - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJGZePjGBrXz4RRmm1o9EqudA",
+    "types": "establishment, health, point_of_interest, school",
     "zone_type": "area"
   },
   {
@@ -13533,6 +13545,12 @@
     "name": "Taxi Stand Dubai mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJP8HvruRpXz4R_AnD9Puyol0",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Team Nogueira Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJw3OOKoZpXz4RvI2q1ytV8OE",
+    "types": "establishment, gym, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -13752,6 +13770,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The National Ballet Studio - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP5LEnPZtXz4RGy3hxgU50X8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "The Palm - Jumeirah - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ18KhzNQUXz4RcjnZiSAG01o",
     "types": "establishment, natural_feature",
@@ -13797,6 +13821,18 @@
     "name": "The Square Nad Al Sheba Gardens - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ1d3BaQBpXz4RIU0ye5N6T2U",
     "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Sustainable City in Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJKYwcAClwXz4RoNhKOG0DSZ4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Sustainable Homes - Dubai - Émirats arabes unis",
+    "place_id": "ChIJA1xOaNJxXz4RBSa9Zbh03Hw",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
