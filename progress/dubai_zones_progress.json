@@ -10519,7 +10519,57 @@
     "Dubai VDM",
     "Dubai VDN",
     "Dubai VDO",
-    "Dubai VDP"
+    "Dubai VDP",
+    "Dubai VDQ",
+    "Dubai VDR",
+    "Dubai VDS",
+    "Dubai VDT",
+    "Dubai VDU",
+    "Dubai VDV",
+    "Dubai VDW",
+    "Dubai VDX",
+    "Dubai VDY",
+    "Dubai VDZ",
+    "Dubai VEA",
+    "Dubai VEB",
+    "Dubai VEC",
+    "Dubai VED",
+    "Dubai VEE",
+    "Dubai VEF",
+    "Dubai VEG",
+    "Dubai VEH",
+    "Dubai VEI",
+    "Dubai VEJ",
+    "Dubai VEK",
+    "Dubai VEL",
+    "Dubai VEM",
+    "Dubai VEN",
+    "Dubai VEO",
+    "Dubai VEP",
+    "Dubai VEQ",
+    "Dubai VER",
+    "Dubai VES",
+    "Dubai VET",
+    "Dubai VEU",
+    "Dubai VEV",
+    "Dubai VEW",
+    "Dubai VEX",
+    "Dubai VEY",
+    "Dubai VEZ",
+    "Dubai VFA",
+    "Dubai VFB",
+    "Dubai VFC",
+    "Dubai VFD",
+    "Dubai VFE",
+    "Dubai VFF",
+    "Dubai VFG",
+    "Dubai VFH",
+    "Dubai VFI",
+    "Dubai VFJ",
+    "Dubai VFK",
+    "Dubai VFL",
+    "Dubai VFM",
+    "Dubai VFN"
   ],
   "pending_n2": [
     {
@@ -72203,6 +72253,51 @@
     "ChIJP7CjY5dCXz4RHKAfsh2yZr0": {
       "name": "Central Veterinary Research Laboratory - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJP7CjY5dCXz4RHKAfsh2yZr0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJDxhm4rFBXz4Rtcif4ec6hBM": {
+      "name": "voco Dubai Monaco Heart of Europe by IHG, Dubai World Islands - Dubai - Émirats arabes unis",
+      "place_id": "ChIJDxhm4rFBXz4Rtcif4ec6hBM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJKccrQdtpXz4R9auFUJlRlLc": {
+      "name": "Vera Real Estate LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJKccrQdtpXz4R9auFUJlRlLc",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJq6ran-BtXz4RH2R_QGqJmy0": {
+      "name": "Venetian Building - Dubai - Émirats arabes unis",
+      "place_id": "ChIJq6ran-BtXz4RH2R_QGqJmy0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJxfjBPS5pXz4R0boIpixmZa4": {
+      "name": "Veo Manzil - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJxfjBPS5pXz4R0boIpixmZa4",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJ4_u5MwBzXz4RxiMP29LMhEM": {
+      "name": "Verdana 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ4_u5MwBzXz4RxiMP29LMhEM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJfdqAfc5cXz4RKq3gHqPes48": {
+      "name": "Versailles by Raviz Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJfdqAfc5cXz4RKq3gHqPes48",
+      "types": "bar, establishment, food, gym, health, lodging, point_of_interest, restaurant, spa"
+    },
+    "ChIJ2Z7H9-RzXz4Rnbm6GJtgdRE": {
+      "name": "VERDANA by Reportage Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2Z7H9-RzXz4Rnbm6GJtgdRE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJqQ1rNABtXz4R32UCKnYDJHk": {
+      "name": "VUE By Crystal Bay - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqQ1rNABtXz4R32UCKnYDJHk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJjakzFgBtXz4RclBa2IUWqQY": {
+      "name": "The Vyne Residences - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJjakzFgBtXz4RclBa2IUWqQY",
       "types": "establishment, point_of_interest"
     }
   }

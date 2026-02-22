@@ -13944,6 +13944,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Vyne Residences - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJjakzFgBtXz4RclBa2IUWqQY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "The Wings by Al Mizan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCUF7r51DXz4RVfBOqAo76To",
     "types": "establishment, point_of_interest",
@@ -14454,6 +14460,12 @@
     "zone_type": "area"
   },
   {
+    "name": "VERDANA by Reportage Properties - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2Z7H9-RzXz4Rnbm6GJtgdRE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "VFS Global, Ground and First Floor - Dubai - Émirats arabes unis",
     "place_id": "ChIJ9fu7-zVdXz4RRfKhEV5sg-g",
     "types": "establishment, local_government_office, point_of_interest",
@@ -14502,6 +14514,12 @@
     "zone_type": "area"
   },
   {
+    "name": "VUE By Crystal Bay - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqQ1rNABtXz4R32UCKnYDJHk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Vakson Real Estate. Commercial Building @ Umm Al Sheif - Dubai - Émirats arabes unis",
     "place_id": "ChIJWV1m885rXz4RShgrP3LE0-0",
     "types": "establishment, point_of_interest",
@@ -14526,9 +14544,39 @@
     "zone_type": "area"
   },
   {
+    "name": "Venetian Building - Dubai - Émirats arabes unis",
+    "place_id": "ChIJq6ran-BtXz4RH2R_QGqJmy0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Venezuela - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJBb5WJpBAXz4RrqasQYkCG6U",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Veo Manzil - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxfjBPS5pXz4R0boIpixmZa4",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Vera Real Estate LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJKccrQdtpXz4R9auFUJlRlLc",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Verdana 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ4_u5MwBzXz4RxiMP29LMhEM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Versailles by Raviz Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJfdqAfc5cXz4RKq3gHqPes48",
+    "types": "bar, establishment, food, gym, health, lodging, point_of_interest, restaurant, spa",
     "zone_type": "area"
   },
   {
@@ -15152,6 +15200,12 @@
   {
     "name": "voco Bonnington Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJb-gEza1sXz4RYMkLefLLZHo",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "voco Dubai Monaco Heart of Europe by IHG, Dubai World Islands - Dubai - Émirats arabes unis",
+    "place_id": "ChIJDxhm4rFBXz4Rtcif4ec6hBM",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
