@@ -14400,6 +14400,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Usa Day Spa In Business Bay | Massage Spa In Business Bay | Massage In Business Bay - Dubai - Émirats arabes unis",
+    "place_id": "ChIJa512yp1pXz4RGfGOVtkyIu0",
+    "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
     "name": "Uzbekistan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ3_YvotxAXz4RSYKTIJhx39Y",
     "types": "establishment, natural_feature",
@@ -14796,6 +14802,12 @@
     "zone_type": "area"
   },
   {
+    "name": "`Urqub Juwayzah - Dubai - Émirats arabes unis",
+    "place_id": "ChIJF0ozHCWAXz4RE93KQ4sTlV0",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "amongst few barber - Dubai - Émirats arabes unis",
     "place_id": "ChIJL5aNbwNrXz4RWZ1RHe208T0",
     "types": "establishment, hair_care, health, point_of_interest",
@@ -15111,6 +15123,18 @@
     "name": "Đảo Bluewaters - Dubai - Émirats arabes unis",
     "place_id": "ChIJJxxraaQUXz4RXzeOUorJDy8",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "‘Urqūb Thurayyā - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ4SsPfT6AXz4R9SD1KMXOxpM",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "‘Urqūb al Jufrah - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJV6vXKl15Xz4R-6lpkBzZAJ8",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {

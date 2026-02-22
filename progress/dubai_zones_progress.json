@@ -10219,7 +10219,57 @@
     "Dubai UPY",
     "Dubai UPZ",
     "Dubai URA",
-    "Dubai URB"
+    "Dubai URB",
+    "Dubai URC",
+    "Dubai URD",
+    "Dubai URE",
+    "Dubai URF",
+    "Dubai URG",
+    "Dubai URH",
+    "Dubai URI",
+    "Dubai URJ",
+    "Dubai URK",
+    "Dubai URL",
+    "Dubai URM",
+    "Dubai URN",
+    "Dubai URO",
+    "Dubai URP",
+    "Dubai URQ",
+    "Dubai URR",
+    "Dubai URS",
+    "Dubai URT",
+    "Dubai URU",
+    "Dubai URV",
+    "Dubai URW",
+    "Dubai URX",
+    "Dubai URY",
+    "Dubai URZ",
+    "Dubai USA",
+    "Dubai USB",
+    "Dubai USC",
+    "Dubai USD",
+    "Dubai USE",
+    "Dubai USF",
+    "Dubai USG",
+    "Dubai USH",
+    "Dubai USI",
+    "Dubai USJ",
+    "Dubai USK",
+    "Dubai USL",
+    "Dubai USM",
+    "Dubai USN",
+    "Dubai USO",
+    "Dubai USP",
+    "Dubai USQ",
+    "Dubai USR",
+    "Dubai USS",
+    "Dubai UST",
+    "Dubai USU",
+    "Dubai USV",
+    "Dubai USW",
+    "Dubai USX",
+    "Dubai USY",
+    "Dubai USZ"
   ],
   "pending_n2": [
     {
@@ -71814,6 +71864,26 @@
       "name": "Urbana II - Emaar South - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJT6RsdvF1Xz4RWgrKEzx1NUM",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJF0ozHCWAXz4RE93KQ4sTlV0": {
+      "name": "`Urqub Juwayzah - Dubai - Émirats arabes unis",
+      "place_id": "ChIJF0ozHCWAXz4RE93KQ4sTlV0",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJ4SsPfT6AXz4R9SD1KMXOxpM": {
+      "name": "‘Urqūb Thurayyā - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ4SsPfT6AXz4R9SD1KMXOxpM",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJV6vXKl15Xz4R-6lpkBzZAJ8": {
+      "name": "‘Urqūb al Jufrah - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV6vXKl15Xz4R-6lpkBzZAJ8",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJa512yp1pXz4RGfGOVtkyIu0": {
+      "name": "Usa Day Spa In Business Bay | Massage Spa In Business Bay | Massage In Business Bay - Dubai - Émirats arabes unis",
+      "place_id": "ChIJa512yp1pXz4RGfGOVtkyIu0",
+      "types": "establishment, point_of_interest, spa"
     }
   }
 }
