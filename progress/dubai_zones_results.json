@@ -24,6 +24,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Al Fagaa - Dubai - Émirats arabes unis",
+    "place_id": "ChIJF8eZRgln9T4RGq3r-s3QYmA",
+    "types": "geocode, political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Al Hebiah Premier, Dubai, Émirats arabes unis",
     "place_id": "ChIJlY15n21uXz4R6o2vcI8xil0",
     "types": "political, sublocality, sublocality_level_1",
@@ -362,6 +368,12 @@
   {
     "name": "Arabian Ranches 2 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ5Qo9mtRvXz4R7mhTni2N144",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Area 4 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-VKL80peXz4RYGVOr7cqY8M",
     "types": "geocode, neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -732,6 +744,18 @@
     "zone_type": "area"
   },
   {
+    "name": "AECOM Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ52ffVjNoXz4Rop71LTIhiBg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "AEON - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP-yaGgBnXz4RpVaK6_jeng4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "AG Tower Business Bay - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJK2HdDNtpXz4R5MO7sdR0wpk",
     "types": "establishment, point_of_interest",
@@ -948,9 +972,45 @@
     "zone_type": "area"
   },
   {
+    "name": "Aeimex Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJF1Yr0FRnXz4R7tuoRTRkuEI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Aequitaz Trading L.L.C, Al Habai Building - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ9UsmqmiJ9T4RwbXjUZBv-hc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Aeternitas Franck Muller by London Gate - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcz2VOgprXz4RoXptcwFm3QA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Affini, A Tribute Portfolio Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1yVO7sZdXz4RDQvxQO1mY9U",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Afghan Consulate - Dubai - Émirats arabes unis",
+    "place_id": "ChIJW26U1uBCXz4R_eEfQQWt-Ig",
+    "types": "embassy, establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Afghanistan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJPT9wvN1AXz4RqVKzKozTTOI",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Afnan 4 - Midtown - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJM0kORndtXz4RrkhzgC8zlR4",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -999,6 +1059,12 @@
     "name": "Al Seef, Dubai, Émirats arabes unis",
     "place_id": "ChIJgTr1QCxDXz4RXUBEfndMUbs",
     "types": "establishment, food, point_of_interest, restaurant, shopping_mall, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Alliance Française Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRwPhQjNdXz4RVmmb_kKLkzQ",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -1124,6 +1190,12 @@
   {
     "name": "Aspect Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ5yjTt9VpXz4R1EqZUkOjiWg",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Aspin Commercial Tower - Sheikh Zayed Road - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsz0CU4hCXz4R_nwta_6pY24",
     "types": "geocode, premise",
     "zone_type": "area"
   },
@@ -3279,6 +3351,12 @@
     "name": "Sea View Hotel - Dubai - Émirats arabes unis",
     "place_id": "ChIJDZ-9bRFDXz4R93frTLVsBO8",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Second Cup - Dubai - Émirats arabes unis",
+    "place_id": "ChIJX3oyiMpcXz4R1pw3ZQmzPvw",
+    "types": "amusement_park, cafe, establishment, food, health, lodging, night_club, point_of_interest, spa, store",
     "zone_type": "area"
   },
   {

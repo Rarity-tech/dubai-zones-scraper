@@ -619,7 +619,57 @@
     "Dubai ADS",
     "Dubai ADT",
     "Dubai ADU",
-    "Dubai ADV"
+    "Dubai ADV",
+    "Dubai ADW",
+    "Dubai ADX",
+    "Dubai ADY",
+    "Dubai ADZ",
+    "Dubai AEA",
+    "Dubai AEB",
+    "Dubai AEC",
+    "Dubai AED",
+    "Dubai AEE",
+    "Dubai AEF",
+    "Dubai AEG",
+    "Dubai AEH",
+    "Dubai AEI",
+    "Dubai AEJ",
+    "Dubai AEK",
+    "Dubai AEL",
+    "Dubai AEM",
+    "Dubai AEN",
+    "Dubai AEO",
+    "Dubai AEP",
+    "Dubai AEQ",
+    "Dubai AER",
+    "Dubai AES",
+    "Dubai AET",
+    "Dubai AEU",
+    "Dubai AEV",
+    "Dubai AEW",
+    "Dubai AEX",
+    "Dubai AEY",
+    "Dubai AEZ",
+    "Dubai AFA",
+    "Dubai AFB",
+    "Dubai AFC",
+    "Dubai AFD",
+    "Dubai AFE",
+    "Dubai AFF",
+    "Dubai AFG",
+    "Dubai AFH",
+    "Dubai AFI",
+    "Dubai AFJ",
+    "Dubai AFK",
+    "Dubai AFL",
+    "Dubai AFM",
+    "Dubai AFN",
+    "Dubai AFO",
+    "Dubai AFP",
+    "Dubai AFQ",
+    "Dubai AFR",
+    "Dubai AFS",
+    "Dubai AFT"
   ],
   "pending_n2": [
     {
@@ -53019,6 +53069,71 @@
       "name": "IMG Mondes d'Aventure, Dubai, Émirats arabes unis",
       "place_id": "ChIJs4NBKX9lXz4RwvniHGkNvxA",
       "types": "amusement_park, establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJ-VKL80peXz4RYGVOr7cqY8M": {
+      "name": "Area 4 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ-VKL80peXz4RYGVOr7cqY8M",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJ52ffVjNoXz4Rop71LTIhiBg": {
+      "name": "AECOM Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ52ffVjNoXz4Rop71LTIhiBg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJX3oyiMpcXz4R1pw3ZQmzPvw": {
+      "name": "Second Cup - Dubai - Émirats arabes unis",
+      "place_id": "ChIJX3oyiMpcXz4R1pw3ZQmzPvw",
+      "types": "amusement_park, cafe, establishment, food, health, lodging, night_club, point_of_interest, spa, store"
+    },
+    "ChIJF1Yr0FRnXz4R7tuoRTRkuEI": {
+      "name": "Aeimex Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJF1Yr0FRnXz4R7tuoRTRkuEI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJP-yaGgBnXz4RpVaK6_jeng4": {
+      "name": "AEON - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP-yaGgBnXz4RpVaK6_jeng4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ9UsmqmiJ9T4RwbXjUZBv-hc": {
+      "name": "Aequitaz Trading L.L.C, Al Habai Building - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ9UsmqmiJ9T4RwbXjUZBv-hc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJcz2VOgprXz4RoXptcwFm3QA": {
+      "name": "Aeternitas Franck Muller by London Gate - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJcz2VOgprXz4RoXptcwFm3QA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJRwPhQjNdXz4RVmmb_kKLkzQ": {
+      "name": "Alliance Française Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRwPhQjNdXz4RVmmb_kKLkzQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ1yVO7sZdXz4RDQvxQO1mY9U": {
+      "name": "Affini, A Tribute Portfolio Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1yVO7sZdXz4RDQvxQO1mY9U",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJW26U1uBCXz4R_eEfQQWt-Ig": {
+      "name": "Afghan Consulate - Dubai - Émirats arabes unis",
+      "place_id": "ChIJW26U1uBCXz4R_eEfQQWt-Ig",
+      "types": "embassy, establishment, point_of_interest"
+    },
+    "ChIJM0kORndtXz4RrkhzgC8zlR4": {
+      "name": "Afnan 4 - Midtown - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJM0kORndtXz4RrkhzgC8zlR4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJsz0CU4hCXz4R_nwta_6pY24": {
+      "name": "Aspin Commercial Tower - Sheikh Zayed Road - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJsz0CU4hCXz4R_nwta_6pY24",
+      "types": "geocode, premise"
+    },
+    "ChIJF8eZRgln9T4RGq3r-s3QYmA": {
+      "name": "Al Fagaa - Dubai - Émirats arabes unis",
+      "place_id": "ChIJF8eZRgln9T4RGq3r-s3QYmA",
+      "types": "geocode, political, sublocality, sublocality_level_1"
     }
   }
 }
