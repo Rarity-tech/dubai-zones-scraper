@@ -10578,6 +10578,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Q-Square consultancy FZ llc - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRy6EVABrXz4RAwzME4Qacgg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Qamar 3 - 1 - محيصنةمحيصنة ١ - Dubai - Émirats arabes unis",
     "place_id": "ChIJcyb3s1lfXz4RHGkcA0G4LTc",
     "types": "establishment, lodging, point_of_interest",
@@ -10653,6 +10659,12 @@
     "name": "Quranic Park - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJH57sCE5hXz4RWDXUqcs-PUo",
     "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Quttainah Specialized Hospital - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbZlPYUprXz4RZrUHqavDK_g",
+    "types": "doctor, establishment, health, hospital, point_of_interest",
     "zone_type": "area"
   },
   {
