@@ -9408,6 +9408,12 @@
     "zone_type": "area"
   },
   {
+    "name": "MKB LIVING Holiday Homes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxdAHUIJdXz4RH5MxEJp7Dkg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "MM Towers Dubai Silicon Oasis - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJi3NXIqtlXz4Rd5v8ybucYY8",
     "types": "establishment, point_of_interest",
@@ -9513,6 +9519,12 @@
     "name": "Mall of the Emirates, Dubai, Émirats arabes unis",
     "place_id": "ChIJnTOfw75rXz4RTBV1aGLlr0c",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Malt & Salt Hospitality - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJN5wRL4BpXz4RLNByMEP6_mU",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
