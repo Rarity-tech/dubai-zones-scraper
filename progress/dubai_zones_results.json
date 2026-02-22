@@ -1584,6 +1584,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Al Jabri Building (JSCOM Real Estate) - Dubai - Émirats arabes unis",
+    "place_id": "ChIJnUtpZydcXz4Rwgul_Vyzva0",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Al Jazi, MJL (Madinat Jumeirah Living) - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ54-eYABrXz4RoOLvvetn5ck",
     "types": "establishment, point_of_interest",
@@ -7605,6 +7611,12 @@
     "name": "JSCOM GRAND RESIDENCE - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ_026WQBdXz4ReawI9RpQzDg",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "JSS International School Football Field - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBcM9TbltXz4RfN6EKMjDow4",
+    "types": "establishment, point_of_interest, university",
     "zone_type": "area"
   },
   {
