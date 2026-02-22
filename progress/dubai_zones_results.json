@@ -1518,6 +1518,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Al Hudaiba Awards Building - Dubai - Émirats arabes unis",
+    "place_id": "ChIJP9oZxHtDXz4Rs9UYBF43048",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Al Jazi, MJL (Madinat Jumeirah Living) - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ54-eYABrXz4RoOLvvetn5ck",
     "types": "establishment, point_of_interest",
@@ -6666,9 +6672,33 @@
     "zone_type": "area"
   },
   {
+    "name": "Huawei Showroom - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQbQxFNprXz4R7pBlMsytMGw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Hub Canal 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT1eeSmVtXz4RIZEv9AtL0K8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Hub Canal 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJSzD0gtttXz4RmStr1PLUuCk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Hues Boutique Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ1bUfJa1cXz4RLkgUTfw1D7g",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Huis Joeri - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1zVG9oltXz4RxTGK7OYINoM",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7863,6 +7893,12 @@
     "name": "Savills Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJV6wtHQvQDRQRIMakb97Fz5o",
     "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Schirmer Safety Consultants - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJNeOfOVNDXz4ReChqpNVc9L8",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

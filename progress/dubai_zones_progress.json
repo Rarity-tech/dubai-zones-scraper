@@ -4119,7 +4119,57 @@
     "Dubai HSI",
     "Dubai HSJ",
     "Dubai HSK",
-    "Dubai HSL"
+    "Dubai HSL",
+    "Dubai HSM",
+    "Dubai HSN",
+    "Dubai HSO",
+    "Dubai HSP",
+    "Dubai HSQ",
+    "Dubai HSR",
+    "Dubai HSS",
+    "Dubai HST",
+    "Dubai HSU",
+    "Dubai HSV",
+    "Dubai HSW",
+    "Dubai HSX",
+    "Dubai HSY",
+    "Dubai HSZ",
+    "Dubai HTA",
+    "Dubai HTB",
+    "Dubai HTC",
+    "Dubai HTD",
+    "Dubai HTE",
+    "Dubai HTF",
+    "Dubai HTG",
+    "Dubai HTH",
+    "Dubai HTI",
+    "Dubai HTJ",
+    "Dubai HTK",
+    "Dubai HTL",
+    "Dubai HTM",
+    "Dubai HTN",
+    "Dubai HTO",
+    "Dubai HTP",
+    "Dubai HTQ",
+    "Dubai HTR",
+    "Dubai HTS",
+    "Dubai HTT",
+    "Dubai HTU",
+    "Dubai HTV",
+    "Dubai HTW",
+    "Dubai HTX",
+    "Dubai HTY",
+    "Dubai HTZ",
+    "Dubai HUA",
+    "Dubai HUB",
+    "Dubai HUC",
+    "Dubai HUD",
+    "Dubai HUE",
+    "Dubai HUF",
+    "Dubai HUG",
+    "Dubai HUH",
+    "Dubai HUI",
+    "Dubai HUJ"
   ],
   "pending_n2": [
     {
@@ -60628,6 +60678,36 @@
     "ChIJx7ELfTRnXz4R7G-haCEKaRM": {
       "name": "HSH-DXB Harbour Gate - Dubai Creek Harbour - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJx7ELfTRnXz4R7G-haCEKaRM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJQbQxFNprXz4R7pBlMsytMGw": {
+      "name": "Huawei Showroom - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQbQxFNprXz4R7pBlMsytMGw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJT1eeSmVtXz4RIZEv9AtL0K8": {
+      "name": "Hub Canal 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJT1eeSmVtXz4RIZEv9AtL0K8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJSzD0gtttXz4RmStr1PLUuCk": {
+      "name": "Hub Canal 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJSzD0gtttXz4RmStr1PLUuCk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJP9oZxHtDXz4Rs9UYBF43048": {
+      "name": "Al Hudaiba Awards Building - Dubai - Émirats arabes unis",
+      "place_id": "ChIJP9oZxHtDXz4Rs9UYBF43048",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJNeOfOVNDXz4ReChqpNVc9L8": {
+      "name": "Schirmer Safety Consultants - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJNeOfOVNDXz4ReChqpNVc9L8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ1zVG9oltXz4RxTGK7OYINoM": {
+      "name": "Huis Joeri - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1zVG9oltXz4RxTGK7OYINoM",
       "types": "establishment, point_of_interest"
     }
   }
