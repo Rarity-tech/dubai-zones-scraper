@@ -8412,9 +8412,27 @@
     "zone_type": "area"
   },
   {
+    "name": "Labor community market - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP05fTl5pXz4RIEzokS3ZDZM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Lac de la fontaine de Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJP_HMuyloXz4RyC5haEhlfT4",
     "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ladybird Nursery Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMyPDjkpqXz4RouBev6O1KeQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ladyboy Massage Spa - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT0jivJNpXz4RzlfgpdacV94",
+    "types": "establishment, point_of_interest, spa",
     "zone_type": "area"
   },
   {
@@ -8469,6 +8487,12 @@
     "name": "Living Legends - Dubai - Émirats arabes unis",
     "place_id": "ChIJ60jf63BvXz4R-VC2bH8nuy0",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Loco Bear - The Ultimate Entertainment Hub - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAX1FCXBpXz4R09JvDPH1r_Y",
+    "types": "amusement_park, establishment, point_of_interest",
     "zone_type": "area"
   },
   {

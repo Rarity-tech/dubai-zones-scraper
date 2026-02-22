@@ -6169,7 +6169,57 @@
     "Dubai KVE",
     "Dubai KVF",
     "Dubai KVG",
-    "Dubai KVH"
+    "Dubai KVH",
+    "Dubai KVI",
+    "Dubai KVJ",
+    "Dubai KVK",
+    "Dubai KVL",
+    "Dubai KVM",
+    "Dubai KVN",
+    "Dubai KVO",
+    "Dubai KVP",
+    "Dubai KVQ",
+    "Dubai KVR",
+    "Dubai KVS",
+    "Dubai KVT",
+    "Dubai KVU",
+    "Dubai KVV",
+    "Dubai KVW",
+    "Dubai KVX",
+    "Dubai KVY",
+    "Dubai KVZ",
+    "Dubai KYA",
+    "Dubai KYB",
+    "Dubai KYC",
+    "Dubai KYD",
+    "Dubai KYE",
+    "Dubai KYF",
+    "Dubai KYG",
+    "Dubai KYH",
+    "Dubai KYI",
+    "Dubai KYJ",
+    "Dubai KYK",
+    "Dubai KYL",
+    "Dubai KYM",
+    "Dubai KYN",
+    "Dubai KYO",
+    "Dubai KYP",
+    "Dubai KYQ",
+    "Dubai KYR",
+    "Dubai KYS",
+    "Dubai KYT",
+    "Dubai KYU",
+    "Dubai KYV",
+    "Dubai KYW",
+    "Dubai KYX",
+    "Dubai KYY",
+    "Dubai KYZ",
+    "Dubai LAA",
+    "Dubai LAB",
+    "Dubai LAC",
+    "Dubai LAD",
+    "Dubai LAE",
+    "Dubai LAF"
   ],
   "pending_n2": [
     {
@@ -63899,6 +63949,26 @@
       "name": "Luxury Apartment with Pool Gym - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJfzruvrgNXz4RaAdlExiri4s",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJP05fTl5pXz4RIEzokS3ZDZM": {
+      "name": "Labor community market - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP05fTl5pXz4RIEzokS3ZDZM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAX1FCXBpXz4R09JvDPH1r_Y": {
+      "name": "Loco Bear - The Ultimate Entertainment Hub - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAX1FCXBpXz4R09JvDPH1r_Y",
+      "types": "amusement_park, establishment, point_of_interest"
+    },
+    "ChIJT0jivJNpXz4RzlfgpdacV94": {
+      "name": "Ladyboy Massage Spa - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJT0jivJNpXz4RzlfgpdacV94",
+      "types": "establishment, point_of_interest, spa"
+    },
+    "ChIJMyPDjkpqXz4RouBev6O1KeQ": {
+      "name": "Ladybird Nursery Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMyPDjkpqXz4RouBev6O1KeQ",
+      "types": "establishment, point_of_interest"
     }
   }
 }
