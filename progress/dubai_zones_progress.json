@@ -6919,7 +6919,57 @@
     "Dubai MDA",
     "Dubai MDB",
     "Dubai MDC",
-    "Dubai MDD"
+    "Dubai MDD",
+    "Dubai MDE",
+    "Dubai MDF",
+    "Dubai MDG",
+    "Dubai MDH",
+    "Dubai MDI",
+    "Dubai MDJ",
+    "Dubai MDK",
+    "Dubai MDL",
+    "Dubai MDM",
+    "Dubai MDN",
+    "Dubai MDO",
+    "Dubai MDP",
+    "Dubai MDQ",
+    "Dubai MDR",
+    "Dubai MDS",
+    "Dubai MDT",
+    "Dubai MDU",
+    "Dubai MDV",
+    "Dubai MDW",
+    "Dubai MDX",
+    "Dubai MDY",
+    "Dubai MDZ",
+    "Dubai MEA",
+    "Dubai MEB",
+    "Dubai MEC",
+    "Dubai MED",
+    "Dubai MEE",
+    "Dubai MEF",
+    "Dubai MEG",
+    "Dubai MEH",
+    "Dubai MEI",
+    "Dubai MEJ",
+    "Dubai MEK",
+    "Dubai MEL",
+    "Dubai MEM",
+    "Dubai MEN",
+    "Dubai MEO",
+    "Dubai MEP",
+    "Dubai MEQ",
+    "Dubai MER",
+    "Dubai MES",
+    "Dubai MET",
+    "Dubai MEU",
+    "Dubai MEV",
+    "Dubai MEW",
+    "Dubai MEX",
+    "Dubai MEY",
+    "Dubai MEZ",
+    "Dubai MFA",
+    "Dubai MFB"
   ],
   "pending_n2": [
     {
@@ -65519,6 +65569,126 @@
       "name": "McKinsey & Company - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJJY3k441CXz4RLJvgs3zTyps",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJN87zhQltXz4RA_d31Mgnjj4": {
+      "name": "Modern Vet JVC - Dubai - Émirats arabes unis",
+      "place_id": "ChIJN87zhQltXz4RA_d31Mgnjj4",
+      "types": "establishment, health, point_of_interest, veterinary_care"
+    },
+    "ChIJBWNFnphdXz4RI_EPB1M9WiU": {
+      "name": "Mediclinic Dubai Mall - Financial Center street - Dubai - Émirats arabes unis",
+      "place_id": "ChIJBWNFnphdXz4RI_EPB1M9WiU",
+      "types": "dentist, doctor, establishment, health, point_of_interest"
+    },
+    "ChIJz3lQaWtrXz4RUShO_Xd8gzk": {
+      "name": "Middlesex University Dubai - Main Campus - Dubai - Émirats arabes unis",
+      "place_id": "ChIJz3lQaWtrXz4RUShO_Xd8gzk",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJ0XYs37psXz4RX8f2jTNQUbg": {
+      "name": "Meadows 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0XYs37psXz4RX8f2jTNQUbg",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJoQ6XeOtsXz4RbRafBdbPNOU": {
+      "name": "Meadows 5 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJoQ6XeOtsXz4RbRafBdbPNOU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJV6aTXgJtXz4RIupEMtjzQjI": {
+      "name": "Meadows 9 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV6aTXgJtXz4RIupEMtjzQjI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJTVTWSoVtXz4RrX3tjZyYJ1M": {
+      "name": "Meadows 1 Tennis Court - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTVTWSoVtXz4RrX3tjZyYJ1M",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJZ5FryvpsXz4RDC7oAbe92_k": {
+      "name": "Meadows Town Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZ5FryvpsXz4RDC7oAbe92_k",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJlzr9mXdrXz4RoI87m-G5iJo": {
+      "name": "Media Rotana - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJlzr9mXdrXz4RoI87m-G5iJo",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJAVqxKjZdXz4R4v9FCSj5bTg": {
+      "name": "Mediclinic City Hospital - Dubai - Émirats arabes unis",
+      "place_id": "ChIJAVqxKjZdXz4R4v9FCSj5bTg",
+      "types": "doctor, establishment, health, hospital, point_of_interest"
+    },
+    "ChIJ15A6odtpXz4R0bI7peMjBVE": {
+      "name": "Meera Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ15A6odtpXz4R0bI7peMjBVE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJdzmBicNDXz4R8XGfQejj_Bw": {
+      "name": "MEENA BAZAAR PLAZA GENERAL TRADING LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdzmBicNDXz4R8XGfQejj_Bw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJV8EorTtpXz4RCvBiOOMZP7I": {
+      "name": "ME Dubai by Meliá - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV8EorTtpXz4RCvBiOOMZP7I",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJS2CxV3hhXz4RVhj5Hr37TQo": {
+      "name": "Meliá Desert Palm member of Meliá Collection - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJS2CxV3hhXz4RVhj5Hr37TQo",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ2eAAERNrXz4RxKyi7uSYGq0": {
+      "name": "MELODY QUEEN HOTEL BY AURA - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2eAAERNrXz4RxKyi7uSYGq0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJr4ZOWLxrXz4RvLYECRw4Bhw": {
+      "name": "MENA ApartHotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJr4ZOWLxrXz4RvLYECRw4Bhw",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJUTBiHWRoXz4RMHjrmu0-uVE": {
+      "name": "Al Merkad, Dubai, Émirats arabes unis",
+      "place_id": "ChIJUTBiHWRoXz4RMHjrmu0-uVE",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJ7UVU5llrXz4RYivDWPFqKgQ": {
+      "name": "Mesk Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ7UVU5llrXz4RYivDWPFqKgQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJpwoMaQRtXz4RIAHYoM4BD_U": {
+      "name": "Mesk 1 - Midtown By Deyaar - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpwoMaQRtXz4RIAHYoM4BD_U",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ1bnr2J1uXz4RRM1LQZ3cpZg": {
+      "name": "Dubai Metropolitan Area - Émirats arabes unis",
+      "place_id": "ChIJ1bnr2J1uXz4RRM1LQZ3cpZg",
+      "types": "colloquial_area, geocode, political"
+    },
+    "ChIJA6V8sXBpXz4RniLeekPBus4": {
+      "name": "MealPlanet - Dubai - Émirats arabes unis",
+      "place_id": "ChIJA6V8sXBpXz4RniLeekPBus4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJwxJWDydpXz4R2OdDGARDfi0": {
+      "name": "Meydan Free Zone - Business Setup In Dubai, UAE - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJwxJWDydpXz4R2OdDGARDfi0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJQSUIb8NpXz4R-Ye7B7RlbwE": {
+      "name": "Meydan Grandstand - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQSUIb8NpXz4R-Ye7B7RlbwE",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ78Djb3VnXz4R4b_tE6hKMOQ": {
+      "name": "Meydan Heights Retail Centre - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ78Djb3VnXz4R4b_tE6hKMOQ",
+      "types": "establishment, point_of_interest, shopping_mall"
     }
   }
 }
