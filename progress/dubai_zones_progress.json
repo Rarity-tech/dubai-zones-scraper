@@ -8969,7 +8969,57 @@
     "Dubai SKW",
     "Dubai SKX",
     "Dubai SKY",
-    "Dubai SKZ"
+    "Dubai SKZ",
+    "Dubai SLA",
+    "Dubai SLB",
+    "Dubai SLC",
+    "Dubai SLD",
+    "Dubai SLE",
+    "Dubai SLF",
+    "Dubai SLG",
+    "Dubai SLH",
+    "Dubai SLI",
+    "Dubai SLJ",
+    "Dubai SLK",
+    "Dubai SLL",
+    "Dubai SLM",
+    "Dubai SLN",
+    "Dubai SLO",
+    "Dubai SLP",
+    "Dubai SLQ",
+    "Dubai SLR",
+    "Dubai SLS",
+    "Dubai SLT",
+    "Dubai SLU",
+    "Dubai SLV",
+    "Dubai SLW",
+    "Dubai SLX",
+    "Dubai SLY",
+    "Dubai SLZ",
+    "Dubai SMA",
+    "Dubai SMB",
+    "Dubai SMC",
+    "Dubai SMD",
+    "Dubai SME",
+    "Dubai SMF",
+    "Dubai SMG",
+    "Dubai SMH",
+    "Dubai SMI",
+    "Dubai SMJ",
+    "Dubai SMK",
+    "Dubai SML",
+    "Dubai SMM",
+    "Dubai SMN",
+    "Dubai SMO",
+    "Dubai SMP",
+    "Dubai SMQ",
+    "Dubai SMR",
+    "Dubai SMS",
+    "Dubai SMT",
+    "Dubai SMU",
+    "Dubai SMV",
+    "Dubai SMW",
+    "Dubai SMX"
   ],
   "pending_n2": [
     {
@@ -69509,6 +69559,46 @@
       "name": "SKEMA Business School - Dubai campus - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ_UJ3kXtDXz4RwM1rhTS57W0",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJDzlooYVdXz4RM9L5hH_q8fU": {
+      "name": "Sustain Labs Paris - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDzlooYVdXz4RM9L5hH_q8fU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ4beAg5JtXz4R9Tf7uzBfKEE": {
+      "name": "SLS Dubai Hotel Staff Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ4beAg5JtXz4R9Tf7uzBfKEE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJX-tvejRaXz4RP_YZZHFOopc": {
+      "name": "Sky Line Travel, Tourism & Shipping LLC. - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJX-tvejRaXz4RP_YZZHFOopc",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJUdmSFPdDXz4RR4JQn4LEwUs": {
+      "name": "Smart Salem Medical Fitness Centre - DIFC, Index Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJUdmSFPdDXz4RR4JQn4LEwUs",
+      "types": "establishment, health, hospital, local_government_office, point_of_interest"
+    },
+    "ChIJJ7AvWDhDXz4RgtxWx69mLkk": {
+      "name": "Sheikh Mohammed Centre for Cultural Understanding - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJ7AvWDhDXz4RgtxWx69mLkk",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJC240gNxpXz4R536ZLgnxBSE": {
+      "name": "SML Vacation Homes - Sky High Apartments with Burj Khalifa and Dubai Fountain Views at Grande Signature, Downtown Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJC240gNxpXz4R536ZLgnxBSE",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJRWNC08xvXz4RqFOQzPgRTdE": {
+      "name": "Smurfs Village - Miracle Garden - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRWNC08xvXz4RqFOQzPgRTdE",
+      "types": "establishment, park, point_of_interest"
+    },
+    "ChIJeX6UcasPXz4R7bUJKvD1Gqs": {
+      "name": "Smurf Village - Motiongate - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJeX6UcasPXz4R7bUJKvD1Gqs",
+      "types": "amusement_park, establishment, park, point_of_interest"
     }
   }
 }
