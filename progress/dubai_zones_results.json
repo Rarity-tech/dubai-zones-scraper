@@ -2928,6 +2928,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Black Gold Jumeirah 1 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJRXnOiOFDXz4R67tqPgpgbUY",
+    "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
     "name": "Black palace beach - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ0V9O6hprXz4RBHHcRolxwhA",
     "types": "establishment, natural_feature",
@@ -6222,6 +6228,12 @@
     "zone_type": "area"
   },
   {
+    "name": "HAVN Lifestyle Getaways - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJkURbt1ZpXz4RG-dHS-JUhtU",
+    "types": "establishment, point_of_interest, real_estate_agency, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "HCT - Dubai - Academic City Campus - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ-cAAsHxkXz4R_ooV0lXMnVs",
     "types": "establishment, point_of_interest, university",
@@ -6327,6 +6339,12 @@
     "name": "HThree By Aurora - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ7RmlPDVtXz4R39VPRZL8op8",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "HV Spa Happy Valley - DIP Branch - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ77aaBlxtXz4R4oX4EvOJZU8",
+    "types": "establishment, point_of_interest, spa",
     "zone_type": "area"
   },
   {
@@ -6702,9 +6720,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Hult International Business School - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJ_jEt2xrXz4ROaDiQ3MNv_A",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
     "name": "Human Relations Institute & Clinics DMCC (HRIC Dubai) - Cluster F - Dubaï - Émirats arabes unis",
     "place_id": "ChIJb17K7GprXz4R66GFyr3nGa0",
     "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Huzaifa Homes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJI5yN4WFpXz4Rx7EYO0QeiB4",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6951,6 +6981,12 @@
     "name": "JVC District 10 Park - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJs8K46H5tXz4RiP-XTorREic",
     "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "JVC District 15 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJlek0bgBtXz4Rrrz3l7o-Lu8",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

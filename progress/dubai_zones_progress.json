@@ -4169,7 +4169,57 @@
     "Dubai HUG",
     "Dubai HUH",
     "Dubai HUI",
-    "Dubai HUJ"
+    "Dubai HUJ",
+    "Dubai HUK",
+    "Dubai HUL",
+    "Dubai HUM",
+    "Dubai HUN",
+    "Dubai HUO",
+    "Dubai HUP",
+    "Dubai HUQ",
+    "Dubai HUR",
+    "Dubai HUS",
+    "Dubai HUT",
+    "Dubai HUU",
+    "Dubai HUV",
+    "Dubai HUW",
+    "Dubai HUX",
+    "Dubai HUY",
+    "Dubai HUZ",
+    "Dubai HVA",
+    "Dubai HVB",
+    "Dubai HVC",
+    "Dubai HVD",
+    "Dubai HVE",
+    "Dubai HVF",
+    "Dubai HVG",
+    "Dubai HVH",
+    "Dubai HVI",
+    "Dubai HVJ",
+    "Dubai HVK",
+    "Dubai HVL",
+    "Dubai HVM",
+    "Dubai HVN",
+    "Dubai HVO",
+    "Dubai HVP",
+    "Dubai HVQ",
+    "Dubai HVR",
+    "Dubai HVS",
+    "Dubai HVT",
+    "Dubai HVU",
+    "Dubai HVV",
+    "Dubai HVW",
+    "Dubai HVX",
+    "Dubai HVY",
+    "Dubai HVZ",
+    "Dubai HWA",
+    "Dubai HWB",
+    "Dubai HWC",
+    "Dubai HWD",
+    "Dubai HWE",
+    "Dubai HWF",
+    "Dubai HWG",
+    "Dubai HWH"
   ],
   "pending_n2": [
     {
@@ -60709,6 +60759,36 @@
       "name": "Huis Joeri - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ1zVG9oltXz4RxTGK7OYINoM",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJJ_jEt2xrXz4ROaDiQ3MNv_A": {
+      "name": "Hult International Business School - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJ_jEt2xrXz4ROaDiQ3MNv_A",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJI5yN4WFpXz4Rx7EYO0QeiB4": {
+      "name": "Huzaifa Homes - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJI5yN4WFpXz4Rx7EYO0QeiB4",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJlek0bgBtXz4Rrrz3l7o-Lu8": {
+      "name": "JVC District 15 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJlek0bgBtXz4Rrrz3l7o-Lu8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJkURbt1ZpXz4RG-dHS-JUhtU": {
+      "name": "HAVN Lifestyle Getaways - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJkURbt1ZpXz4RG-dHS-JUhtU",
+      "types": "establishment, point_of_interest, real_estate_agency, travel_agency"
+    },
+    "ChIJRXnOiOFDXz4R67tqPgpgbUY": {
+      "name": "Black Gold Jumeirah 1 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJRXnOiOFDXz4R67tqPgpgbUY",
+      "types": "establishment, point_of_interest, spa"
+    },
+    "ChIJ77aaBlxtXz4R4oX4EvOJZU8": {
+      "name": "HV Spa Happy Valley - DIP Branch - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ77aaBlxtXz4R4oX4EvOJZU8",
+      "types": "establishment, point_of_interest, spa"
     }
   }
 }
