@@ -7482,6 +7482,12 @@
     "zone_type": "area"
   },
   {
+    "name": "JD Photography Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ88wKp2BvXz4RDIGrLt9ZzI4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "JLT Cluster D - Cluster D - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgUSuVKxsXz4R8VXHTF0USS0",
     "types": "geocode, premise",
