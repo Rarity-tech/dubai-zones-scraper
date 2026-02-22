@@ -3372,9 +3372,39 @@
     "zone_type": "area"
   },
   {
+    "name": "Champs Sports Club - Dubai - Émirats arabes unis",
+    "place_id": "ChIJt6pB8fBrXz4Rm_wMAnny8mk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cheddar Cheese Tower (O-14 Tower) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJq6rqycxpXz4RUlkeImpcPtI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Chelsea Gardens Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJW7O8JzxDXz4RKtZ2t9-Dyuc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cherrywoods by Meraas - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ7xmCzJtxXz4R05zTckk1074",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "China Mall Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJSa3Jly9hXz4RUxaAgRTg2BU",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "China Town - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ0fkJ-9NDXz4R6zniMIU_igE",
+    "types": "establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -3387,6 +3417,18 @@
     "name": "Chloe Bye One Medical & Laboratory Equipments Repairing Est. - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ23CydABDXz4RhhR3XYj0pIw",
     "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Choithrams Head Office Deira - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ8coj4OhcXz4R1KdrRoxDCgs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Christ Church Jebel Ali - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJL3IakuASXz4RSfNV4gerAkM",
+    "types": "church, establishment, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3462,9 +3504,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Consulate General of India - Dubai - Émirats arabes unis",
+    "place_id": "ChIJB6I2YC5DXz4RTYDFMisxfa8",
+    "types": "embassy, establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Consulate General of the Republic of Azerbaijan in Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJX51-mVFrXz4RjNE9tk1aKRo",
     "types": "embassy, establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Corridors Advisory FZ LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJoydg2LtrXz4Rm_wi7qcbWeE",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3542,6 +3596,12 @@
   {
     "name": "DT1 - Ellington Properties - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJyUYZxtRpXz4R4Tem-JteJr0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DUBAI - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJhQsLqn8SXz4RwJU0Im72aIw",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -3759,6 +3819,12 @@
     "name": "Dubai Canal - Dubaï - Émirats arabes unis",
     "place_id": "ChIJqdB_MPdnXz4R7HEpm7-hxJU",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Chambers - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ73mlQ81cXz4RcLU0B5b-_Vw",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -5475,6 +5541,12 @@
     "name": "SBK Real Estate - Dubai - Émirats arabes unis",
     "place_id": "ChIJ64GFx4xcXz4RbbZijrsvMio",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "SHJ GARDEN CITY -Mosque - Dubai - Émirats arabes unis",
+    "place_id": "ChIJWUz1p9CP9T4RWPn04F1sL2c",
+    "types": "establishment, mosque, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {

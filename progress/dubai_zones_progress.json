@@ -1969,7 +1969,57 @@
     "Dubai CFQ",
     "Dubai CFR",
     "Dubai CFS",
-    "Dubai CFT"
+    "Dubai CFT",
+    "Dubai CFU",
+    "Dubai CFV",
+    "Dubai CFW",
+    "Dubai CFX",
+    "Dubai CFY",
+    "Dubai CFZ",
+    "Dubai CGA",
+    "Dubai CGB",
+    "Dubai CGC",
+    "Dubai CGD",
+    "Dubai CGE",
+    "Dubai CGF",
+    "Dubai CGG",
+    "Dubai CGH",
+    "Dubai CGI",
+    "Dubai CGJ",
+    "Dubai CGK",
+    "Dubai CGL",
+    "Dubai CGM",
+    "Dubai CGN",
+    "Dubai CGO",
+    "Dubai CGP",
+    "Dubai CGQ",
+    "Dubai CGR",
+    "Dubai CGS",
+    "Dubai CGT",
+    "Dubai CGU",
+    "Dubai CGV",
+    "Dubai CGW",
+    "Dubai CGX",
+    "Dubai CGY",
+    "Dubai CGZ",
+    "Dubai CHA",
+    "Dubai CHB",
+    "Dubai CHC",
+    "Dubai CHD",
+    "Dubai CHE",
+    "Dubai CHF",
+    "Dubai CHG",
+    "Dubai CHH",
+    "Dubai CHI",
+    "Dubai CHJ",
+    "Dubai CHK",
+    "Dubai CHL",
+    "Dubai CHM",
+    "Dubai CHN",
+    "Dubai CHO",
+    "Dubai CHP",
+    "Dubai CHQ",
+    "Dubai CHR"
   ],
   "pending_n2": [
     {
@@ -56344,6 +56394,66 @@
       "name": "City Centre Mirdif - Dubai - Émirats arabes unis",
       "place_id": "ChIJHWrMCLRgXz4R11IK8CvPJJE",
       "types": "clothing_store, establishment, point_of_interest, shopping_mall, store"
+    },
+    "ChIJB6I2YC5DXz4RTYDFMisxfa8": {
+      "name": "Consulate General of India - Dubai - Émirats arabes unis",
+      "place_id": "ChIJB6I2YC5DXz4RTYDFMisxfa8",
+      "types": "embassy, establishment, point_of_interest"
+    },
+    "ChIJhQsLqn8SXz4RwJU0Im72aIw": {
+      "name": "DUBAI - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhQsLqn8SXz4RwJU0Im72aIw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ73mlQ81cXz4RcLU0B5b-_Vw": {
+      "name": "Dubai Chambers - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ73mlQ81cXz4RcLU0B5b-_Vw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJt6pB8fBrXz4Rm_wMAnny8mk": {
+      "name": "Champs Sports Club - Dubai - Émirats arabes unis",
+      "place_id": "ChIJt6pB8fBrXz4Rm_wMAnny8mk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJoydg2LtrXz4Rm_wi7qcbWeE": {
+      "name": "Corridors Advisory FZ LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJoydg2LtrXz4Rm_wi7qcbWeE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJq6rqycxpXz4RUlkeImpcPtI": {
+      "name": "Cheddar Cheese Tower (O-14 Tower) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJq6rqycxpXz4RUlkeImpcPtI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJW7O8JzxDXz4RKtZ2t9-Dyuc": {
+      "name": "Chelsea Gardens Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJW7O8JzxDXz4RKtZ2t9-Dyuc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ7xmCzJtxXz4R05zTckk1074": {
+      "name": "Cherrywoods by Meraas - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ7xmCzJtxXz4R05zTckk1074",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ0fkJ-9NDXz4R6zniMIU_igE": {
+      "name": "China Town - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0fkJ-9NDXz4R6zniMIU_igE",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJWUz1p9CP9T4RWPn04F1sL2c": {
+      "name": "SHJ GARDEN CITY -Mosque - Dubai - Émirats arabes unis",
+      "place_id": "ChIJWUz1p9CP9T4RWPn04F1sL2c",
+      "types": "establishment, mosque, place_of_worship, point_of_interest"
+    },
+    "ChIJ8coj4OhcXz4R1KdrRoxDCgs": {
+      "name": "Choithrams Head Office Deira - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ8coj4OhcXz4R1KdrRoxDCgs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJL3IakuASXz4RSfNV4gerAkM": {
+      "name": "Christ Church Jebel Ali - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJL3IakuASXz4RSfNV4gerAkM",
+      "types": "church, establishment, place_of_worship, point_of_interest"
     }
   }
 }
