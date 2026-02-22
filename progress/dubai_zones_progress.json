@@ -3969,7 +3969,57 @@
     "Dubai HMO",
     "Dubai HMP",
     "Dubai HMQ",
-    "Dubai HMR"
+    "Dubai HMR",
+    "Dubai HMS",
+    "Dubai HMT",
+    "Dubai HMU",
+    "Dubai HMV",
+    "Dubai HMW",
+    "Dubai HMX",
+    "Dubai HMY",
+    "Dubai HMZ",
+    "Dubai HNA",
+    "Dubai HNB",
+    "Dubai HNC",
+    "Dubai HND",
+    "Dubai HNE",
+    "Dubai HNF",
+    "Dubai HNG",
+    "Dubai HNH",
+    "Dubai HNI",
+    "Dubai HNJ",
+    "Dubai HNK",
+    "Dubai HNL",
+    "Dubai HNM",
+    "Dubai HNN",
+    "Dubai HNO",
+    "Dubai HNP",
+    "Dubai HNQ",
+    "Dubai HNR",
+    "Dubai HNS",
+    "Dubai HNT",
+    "Dubai HNU",
+    "Dubai HNV",
+    "Dubai HNW",
+    "Dubai HNX",
+    "Dubai HNY",
+    "Dubai HNZ",
+    "Dubai HOA",
+    "Dubai HOB",
+    "Dubai HOC",
+    "Dubai HOD",
+    "Dubai HOE",
+    "Dubai HOF",
+    "Dubai HOG",
+    "Dubai HOH",
+    "Dubai HOI",
+    "Dubai HOJ",
+    "Dubai HOK",
+    "Dubai HOL",
+    "Dubai HOM",
+    "Dubai HON",
+    "Dubai HOO",
+    "Dubai HOP"
   ],
   "pending_n2": [
     {
@@ -60394,6 +60444,61 @@
       "name": "HMJ EQUITY HOLIDAY HOMES - Dubai - Émirats arabes unis",
       "place_id": "ChIJXT59ZmCNEyAR8P4Nv4gGntQ",
       "types": "establishment, point_of_interest, real_estate_agency, travel_agency"
+    },
+    "ChIJ6Yih-BtdXz4RrqfMab4bWq8": {
+      "name": "HMS Al Garhoud Hospital - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ6Yih-BtdXz4RrqfMab4bWq8",
+      "types": "doctor, establishment, health, hospital, point_of_interest"
+    },
+    "ChIJA4AhSIVcXz4RfQWsiJGwIis": {
+      "name": "HMS FIFA Medical Centre of Excellence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJA4AhSIVcXz4RfQWsiJGwIis",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJz6R-6NRDXz4RS6Br2y-6MtA": {
+      "name": "Hair n Beyond - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJz6R-6NRDXz4RS6Br2y-6MtA",
+      "types": "beauty_salon, establishment, hair_care, health, point_of_interest"
+    },
+    "ChIJCwSL51hDXz4RgHoForQddt8": {
+      "name": "Imperiaa by HOC Globe - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJCwSL51hDXz4RgHoForQddt8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJGak-5H1CXz4RrZtnu774xQY": {
+      "name": "HOTEL SOFITEL DOWNTOWN - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJGak-5H1CXz4RrZtnu774xQY",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJVV2fNLtpXz4RBBEM-C5Oh_A": {
+      "name": "Holiday Inn Dubai Business Bay, an IHG Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJVV2fNLtpXz4RBBEM-C5Oh_A",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ_cgI6GxrXz4R8i2DxRdQI-s": {
+      "name": "Holiday Inn Express | Dubai Internet City, an IHG Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_cgI6GxrXz4R8i2DxRdQI-s",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJs0pvwvhcXz4R0uD3darmWig": {
+      "name": "Holiday Inn Express Dubai Airport by IHG - Dubai - Émirats arabes unis",
+      "place_id": "ChIJs0pvwvhcXz4R0uD3darmWig",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJIYTh4HhdXz4RczM-TCZluBs": {
+      "name": "Holiday Inn & Suites Dubai Festival City by IHG - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIYTh4HhdXz4RczM-TCZluBs",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJzabySklDXz4Rj87JTXRoPYM": {
+      "name": "Homa Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzabySklDXz4Rj87JTXRoPYM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJCfcypyBBXz4R8jqGI1s22Y8": {
+      "name": "Hong Kong - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJCfcypyBBXz4R8jqGI1s22Y8",
+      "types": "establishment, natural_feature"
     }
   }
 }

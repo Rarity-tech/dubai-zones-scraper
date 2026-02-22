@@ -6264,9 +6264,27 @@
     "zone_type": "area"
   },
   {
+    "name": "HMS Al Garhoud Hospital - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6Yih-BtdXz4RrqfMab4bWq8",
+    "types": "doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "HMS FIFA Medical Centre of Excellence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJA4AhSIVcXz4RfQWsiJGwIis",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "HMS Mirdif Hospital - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJazUjZVxhXz4R-4MPg1ycgps",
     "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "HOTEL SOFITEL DOWNTOWN - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJGak-5H1CXz4RrZtnu774xQY",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6309,6 +6327,12 @@
     "name": "Hafez Hotel Apartments - Dubai - Émirats arabes unis",
     "place_id": "ChIJW6QDvUFDXz4R5VBbLaExFr8",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Hair n Beyond - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJz6R-6NRDXz4RS6Br2y-6MtA",
+    "types": "beauty_salon, establishment, hair_care, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6516,8 +6540,38 @@
     "zone_type": "area"
   },
   {
+    "name": "Holiday Inn & Suites Dubai Festival City by IHG - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIYTh4HhdXz4RczM-TCZluBs",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Holiday Inn & Suites Dubai Science Park by IHG - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJuXtG1epvXz4RzGMs6BrO-Kg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Holiday Inn Dubai Business Bay, an IHG Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVV2fNLtpXz4RBBEM-C5Oh_A",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Holiday Inn Express Dubai Airport by IHG - Dubai - Émirats arabes unis",
+    "place_id": "ChIJs0pvwvhcXz4R0uD3darmWig",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Holiday Inn Express | Dubai Internet City, an IHG Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_cgI6GxrXz4R8i2DxRdQI-s",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Homa Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzabySklDXz4Rj87JTXRoPYM",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
@@ -6531,6 +6585,12 @@
     "name": "Home To Home - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJmYpQ33ZrXz4RWL8PTHhVh50",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Hong Kong - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJCfcypyBBXz4R8jqGI1s22Y8",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
@@ -6717,6 +6777,12 @@
     "name": "Il Primo - Emaar - Dubai - Émirats arabes unis",
     "place_id": "ChIJ75_m93lDXz4RjRHrzjtrwPg",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Imperiaa by HOC Globe - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJCwSL51hDXz4RgHoForQddt8",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
