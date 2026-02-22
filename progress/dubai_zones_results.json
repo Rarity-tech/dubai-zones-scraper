@@ -162,6 +162,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Bukadra - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMVy9JdBnXz4RGAz_c4IVcTY",
+    "types": "geocode, political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Business Bay, Dubai, Émirats arabes unis",
     "place_id": "ChIJV_Ql7y1oXz4RDpVweQnE1D0",
     "types": "political, sublocality, sublocality_level_1",
@@ -747,6 +753,12 @@
     "name": "Remraam - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJPZo3fZVxXz4RPfPeihR6NFc",
     "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Rigga Al Buteen, Dubai, Émirats arabes unis",
+    "place_id": "ChIJJ6W7_NFcXz4R4NqmeXOLQqc",
+    "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
   {
@@ -2424,6 +2436,12 @@
     "zone_type": "area"
   },
   {
+    "name": "BUKA GYM - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJp83jewBtXz4RNRdAKnfCxSI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "BURJ AL ARAB BEACH - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD01cHuhrXz4RYgubIERD7wc",
     "types": "establishment, lodging, point_of_interest",
@@ -2955,6 +2973,54 @@
     "name": "Bruj khalifa - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJxYpOQQBpXz4RXbj3ilBsjmQ",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Buena Vista Holiday Homes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJkx8VrpdpXz4ROm8IndbfvE0",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Buenos Aires - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJO6vrk1pAXz4RwzocPmzZzYg",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bugatti Residences By Binghatti - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJo2YgwBtpXz4RBY0I_610pUs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Building 64 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJV_bhdDRdXz4RkhLrwCr0iCU",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Building Materials Mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJpQVwbidiXz4RaQ0R5ALkyGw",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bulgari Hotel Yacht Club - Dubai - Émirats arabes unis",
+    "place_id": "ChIJV32tUyJCXz4RsqeLoRa68M4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bulgari Residences - Building 3 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJxXjqgflDXz4RWg4f8AswiYI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bunyan Tower - Al Marsa Street - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJtRXEnldrXz4RvCzwRMwtvtg",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
@@ -4959,6 +5025,12 @@
     "name": "Private Animal Sanctuary | Sustainable City - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJf38VqDlxXz4RVUa--Z4kNXc",
     "types": "establishment, point_of_interest, zoo",
+    "zone_type": "area"
+  },
+  {
+    "name": "Public Prosecution Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJreezHCldXz4R1Qtat84NOnM",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

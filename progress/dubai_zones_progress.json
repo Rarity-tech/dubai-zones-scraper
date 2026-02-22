@@ -1669,7 +1669,57 @@
     "Dubai BTC",
     "Dubai BTD",
     "Dubai BTE",
-    "Dubai BTF"
+    "Dubai BTF",
+    "Dubai BTG",
+    "Dubai BTH",
+    "Dubai BTI",
+    "Dubai BTJ",
+    "Dubai BTK",
+    "Dubai BTL",
+    "Dubai BTM",
+    "Dubai BTN",
+    "Dubai BTO",
+    "Dubai BTP",
+    "Dubai BTQ",
+    "Dubai BTR",
+    "Dubai BTS",
+    "Dubai BTT",
+    "Dubai BTU",
+    "Dubai BTV",
+    "Dubai BTW",
+    "Dubai BTX",
+    "Dubai BTY",
+    "Dubai BTZ",
+    "Dubai BUA",
+    "Dubai BUB",
+    "Dubai BUC",
+    "Dubai BUD",
+    "Dubai BUE",
+    "Dubai BUF",
+    "Dubai BUG",
+    "Dubai BUH",
+    "Dubai BUI",
+    "Dubai BUJ",
+    "Dubai BUK",
+    "Dubai BUL",
+    "Dubai BUM",
+    "Dubai BUN",
+    "Dubai BUO",
+    "Dubai BUP",
+    "Dubai BUQ",
+    "Dubai BUR",
+    "Dubai BUS",
+    "Dubai BUT",
+    "Dubai BUU",
+    "Dubai BUV",
+    "Dubai BUW",
+    "Dubai BUX",
+    "Dubai BUY",
+    "Dubai BUZ",
+    "Dubai BVA",
+    "Dubai BVB",
+    "Dubai BVC",
+    "Dubai BVD"
   ],
   "pending_n2": [
     {
@@ -55764,6 +55814,66 @@
       "name": "Bharat Thakur's Artistic Yoga, Emirates Golf Club, Dubai - Dubai - Émirats arabes unis",
       "place_id": "ChIJr7MCVmBrXz4RzaT0fIRWOMk",
       "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJreezHCldXz4R1Qtat84NOnM": {
+      "name": "Public Prosecution Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJreezHCldXz4R1Qtat84NOnM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJkx8VrpdpXz4ROm8IndbfvE0": {
+      "name": "Buena Vista Holiday Homes - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJkx8VrpdpXz4ROm8IndbfvE0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJO6vrk1pAXz4RwzocPmzZzYg": {
+      "name": "Buenos Aires - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJO6vrk1pAXz4RwzocPmzZzYg",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJo2YgwBtpXz4RBY0I_610pUs": {
+      "name": "Bugatti Residences By Binghatti - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJo2YgwBtpXz4RBY0I_610pUs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJV_bhdDRdXz4RkhLrwCr0iCU": {
+      "name": "Building 64 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV_bhdDRdXz4RkhLrwCr0iCU",
+      "types": "geocode, premise"
+    },
+    "ChIJpQVwbidiXz4RaQ0R5ALkyGw": {
+      "name": "Building Materials Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpQVwbidiXz4RaQ0R5ALkyGw",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJp83jewBtXz4RNRdAKnfCxSI": {
+      "name": "BUKA GYM - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJp83jewBtXz4RNRdAKnfCxSI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJMVy9JdBnXz4RGAz_c4IVcTY": {
+      "name": "Bukadra - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMVy9JdBnXz4RGAz_c4IVcTY",
+      "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJxXjqgflDXz4RWg4f8AswiYI": {
+      "name": "Bulgari Residences - Building 3 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJxXjqgflDXz4RWg4f8AswiYI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJV32tUyJCXz4RsqeLoRa68M4": {
+      "name": "Bulgari Hotel Yacht Club - Dubai - Émirats arabes unis",
+      "place_id": "ChIJV32tUyJCXz4RsqeLoRa68M4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJtRXEnldrXz4RvCzwRMwtvtg": {
+      "name": "Bunyan Tower - Al Marsa Street - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJtRXEnldrXz4RvCzwRMwtvtg",
+      "types": "geocode, premise"
+    },
+    "ChIJJ6W7_NFcXz4R4NqmeXOLQqc": {
+      "name": "Rigga Al Buteen, Dubai, Émirats arabes unis",
+      "place_id": "ChIJJ6W7_NFcXz4R4NqmeXOLQqc",
+      "types": "neighborhood, political"
     }
   }
 }
