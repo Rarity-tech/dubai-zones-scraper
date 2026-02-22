@@ -5586,6 +5586,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Bulgari SPA, Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJhyS2KFZDXz4RiozvO3nS3OQ",
+    "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
     "name": "The First Collection Marina, Dubai, a Tribute Portfolio Hotel - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgfwbz1ATXz4RZNLnVz-FaQo",
     "types": "establishment, lodging, point_of_interest",
