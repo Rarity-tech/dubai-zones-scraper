@@ -588,8 +588,26 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Al Qusais Industrial Area 3, Dubai, Émirats arabes unis",
+    "place_id": "ChIJMVvvDxpcXz4R4zK0JDBsUPU",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al Qusais Industrial Area 4, Dubai, Émirats arabes unis",
+    "place_id": "ChIJf-a5lx9cXz4RxqiJnZcMc3I",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Al Qusais Industrial Area 5, Dubai, Émirats arabes unis",
     "place_id": "ChIJuW66C5BeXz4RV6dOK-RELsw",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al Qusais Premier, Dubai, Émirats arabes unis",
+    "place_id": "ChIJC-OLiURcXz4RGCy9CgYzNDk",
     "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -650,6 +668,12 @@
   {
     "name": "Al-Manara, Dubai, Émirats arabes unis",
     "place_id": "ChIJ42dVizFqXz4R5OMgYCBnuWA",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al-Qusais Industrial Area 1, Dubai, Émirats arabes unis",
+    "place_id": "ChIJX3gy3z1cXz4RlYs3lAcGouA",
     "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -1833,6 +1857,18 @@
     "name": "Al Qiyadah Metro Station - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJt_nhnVBdXz4RIu-ub81vPrs",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Al Qudra Lake - Dubai - Émirats arabes unis",
+    "place_id": "ChIJjbdMK7qdXz4RF8JuoOMXgf4",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Al Qudra Lakes Campground - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJKzIoDLmDXz4RrdiC-6481T4",
+    "types": "campground, establishment, lodging, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -8772,6 +8808,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Lac Al-Qudra, Dubai, Émirats arabes unis",
+    "place_id": "ChIJOZu-4uGCXz4RGXqauymiz0s",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Lac de la fontaine de Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJP_HMuyloXz4RyC5haEhlfT4",
     "types": "establishment, park, point_of_interest, tourist_attraction",
@@ -10626,6 +10668,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Quality Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBxd3eU9DXz4Rh4kXbUxmuLw",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "QuantumBlock Solution - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJo9e3zPFpXz4RQ5E-YOCYqrk",
     "types": "establishment, point_of_interest",
@@ -10635,6 +10683,12 @@
     "name": "Quasis - Dubai - Émirats arabes unis",
     "place_id": "ChIJR8yNNgBdXz4RY9nZ7xm_gKo",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Qudra Desert Lake - Dubai - Émirats arabes unis",
+    "place_id": "ChIJxU7j072DXz4RyC2Axt-KrMo",
+    "types": "establishment, park, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -10658,6 +10712,12 @@
   {
     "name": "Quranic Park - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJH57sCE5hXz4RWDXUqcs-PUo",
+    "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Quranic park gate 2 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJTVdudABhXz4RcjDXtJzaDEw",
     "types": "establishment, park, point_of_interest",
     "zone_type": "area"
   },
