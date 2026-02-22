@@ -4092,6 +4092,30 @@
     "zone_type": "area"
   },
   {
+    "name": "DRN Real Estate | Agence Immobilière Dubaï - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJpwL4SqdpXz4REXQ8E_S2SIg",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "DRN | DUBAI REAL ESTATE - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJR9ZntyJpXz4RJR_gKGLXQ94",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "DRYP Fitness and Yoga Studio - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsY5N1NUTXz4R7GFB16EX6rM",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DSO HQ - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ7zy7dABlXz4RxtRCFLFWo6A",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DSOA Techno Hub 2 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJQ1JabBRlXz4RaRkSsznuCig",
     "types": "establishment, point_of_interest",
@@ -4566,6 +4590,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dr Tosun Dental Clinic - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ01QTRx5qXz4R9ahJV_icq6A",
+    "types": "dentist, doctor, establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dragon Mart 2 by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCUhUtT1hXz4Rdd-wCBeYPXg",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -4598,6 +4628,18 @@
   {
     "name": "Drivedubai - Head Office Dip 2 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ5x7Qo61zXz4RblNRWy09Rf4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Druvya Holiday Homes LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJL31Njw7AtY8RA2aIIC5kILs",
+    "types": "establishment, lodging, point_of_interest, real_estate_agency, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dry docks - Dubai - Émirats arabes unis",
+    "place_id": "ChIJhag78tJDXz4RgYh3FFekS5k",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -5112,6 +5154,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Technology Entrepreneur Campus - Dtec - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQcJATj9kXz4RJaE4IQD2zQs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Tennis Stadium - Dubaï - Émirats arabes unis",
     "place_id": "ChIJb54uLhFdXz4RPr-RUVzvLnA",
     "types": "establishment, point_of_interest, stadium",
@@ -5163,6 +5211,12 @@
     "name": "Dubai island beach - Dubaï - Émirats arabes unis",
     "place_id": "ChIJVb_PEABFXz4RShaZwXsFPSM",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai shopping festival - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ44GhLABpXz4RlzNyfJqGJaM",
+    "types": "establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -5577,6 +5631,12 @@
     "name": "Hindu Temple, Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJARHmr2oTXz4RVXJKEr_89Ok",
     "types": "establishment, hindu_temple, place_of_worship, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Holiday Inn & Suites Dubai Science Park by IHG - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJuXtG1epvXz4RzGMs6BrO-Kg",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6812,6 +6872,12 @@
   {
     "name": "Skydive Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ8VRV4FYTXz4RTVWgqPcGwbg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Skydive Dubai Desert Dropzone - دبي - Émirats arabes unis",
+    "place_id": "ChIJb2ug9u9-9T4Rtg8joFn_0sY",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
