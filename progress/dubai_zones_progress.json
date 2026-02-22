@@ -5619,7 +5619,57 @@
     "Dubai JZA",
     "Dubai JZB",
     "Dubai JZC",
-    "Dubai JZD"
+    "Dubai JZD",
+    "Dubai JZE",
+    "Dubai JZF",
+    "Dubai JZG",
+    "Dubai JZH",
+    "Dubai JZI",
+    "Dubai JZJ",
+    "Dubai JZK",
+    "Dubai JZL",
+    "Dubai JZM",
+    "Dubai JZN",
+    "Dubai JZO",
+    "Dubai JZP",
+    "Dubai JZQ",
+    "Dubai JZR",
+    "Dubai JZS",
+    "Dubai JZT",
+    "Dubai JZU",
+    "Dubai JZV",
+    "Dubai JZW",
+    "Dubai JZX",
+    "Dubai JZY",
+    "Dubai JZZ",
+    "Dubai KAA",
+    "Dubai KAB",
+    "Dubai KAC",
+    "Dubai KAD",
+    "Dubai KAE",
+    "Dubai KAF",
+    "Dubai KAG",
+    "Dubai KAH",
+    "Dubai KAI",
+    "Dubai KAJ",
+    "Dubai KAK",
+    "Dubai KAL",
+    "Dubai KAM",
+    "Dubai KAN",
+    "Dubai KAO",
+    "Dubai KAP",
+    "Dubai KAQ",
+    "Dubai KAR",
+    "Dubai KAS",
+    "Dubai KAT",
+    "Dubai KAU",
+    "Dubai KAV",
+    "Dubai KAW",
+    "Dubai KAX",
+    "Dubai KAY",
+    "Dubai KAZ",
+    "Dubai KBA",
+    "Dubai KBB"
   ],
   "pending_n2": [
     {
@@ -63114,6 +63164,66 @@
       "name": "J W T LLC - Dubai - Émirats arabes unis",
       "place_id": "ChIJYbHOVe1DXz4Rrh_UjU4cVPQ",
       "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJUQEswz9DXz4RKDSqlMS1gMI": {
+      "name": "Al Souq Al Kabeer, Dubai, Émirats arabes unis",
+      "place_id": "ChIJUQEswz9DXz4RKDSqlMS1gMI",
+      "types": "neighborhood, political"
+    },
+    "ChIJt8TR8j5dXz4RqFWcMl24H08": {
+      "name": "Khalidia Palace Hotel Dubai by Mourouj Gloria - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJt8TR8j5dXz4RqFWcMl24H08",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ827sgS5oXz4RXXL-IYLvb08": {
+      "name": "Kamoon 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ827sgS5oXz4RXXL-IYLvb08",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJT3p9-gdpXz4R8X_yKUvvozA": {
+      "name": "Kamoon 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJT3p9-gdpXz4R8X_yKUvvozA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJt61hOyxoXz4RGaiQDxLRmwg": {
+      "name": "Kamoon 3 - Sheikh Mohammed bin Rashid Boulevard - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJt61hOyxoXz4RGaiQDxLRmwg",
+      "types": "geocode, premise"
+    },
+    "ChIJLVZ_igNdXz4RRvQytsKdNTY": {
+      "name": "Kandinsky Clinic - Dubai - Émirats arabes unis",
+      "place_id": "ChIJLVZ_igNdXz4RRvQytsKdNTY",
+      "types": "doctor, establishment, health, hospital, point_of_interest"
+    },
+    "ChIJA-S4v55lXz4R9umIjJh8s80": {
+      "name": "Kappa acca 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJA-S4v55lXz4R9umIjJh8s80",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJR_Ro-NdCXz4Rw317_knjS08": {
+      "name": "karama Center - Kuwait Street - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJR_Ro-NdCXz4Rw317_knjS08",
+      "types": "geocode, premise"
+    },
+    "ChIJyQf7LyxpXz4RGG1X5pJbMyc": {
+      "name": "KASCO Homes - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJyQf7LyxpXz4RGG1X5pJbMyc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJVdhl1xtcXz4RpK6lnU3boiQ": {
+      "name": "Kasco Tower - Al Qusais (Dubai - U.A.E) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJVdhl1xtcXz4RpK6lnU3boiQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJd2kpLLOL9T4RBLZ4T-Cf5es": {
+      "name": "Al Khawaneej 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJd2kpLLOL9T4RBLZ4T-Cf5es",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJ_4C60hhgXz4RFEx84Hbsugk": {
+      "name": "Al Khawaneej 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_4C60hhgXz4RFEx84Hbsugk",
+      "types": "geocode, neighborhood, political"
     }
   }
 }

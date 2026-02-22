@@ -486,6 +486,18 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Al Khawaneej 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_4C60hhgXz4RFEx84Hbsugk",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al Khawaneej 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJd2kpLLOL9T4RBLZ4T-Cf5es",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Al Nahda 1, Dubai, Émirats arabes unis",
     "place_id": "ChIJ6W0X2mVcXz4R9MntE5k8ZzA",
     "types": "neighborhood, political",
@@ -536,6 +548,12 @@
   {
     "name": "Al Rigga, Dubai, Émirats arabes unis",
     "place_id": "ChIJ9wUnw8xcXz4RmOMJPxUb2Qs",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al Souq Al Kabeer, Dubai, Émirats arabes unis",
+    "place_id": "ChIJUQEswz9DXz4RKDSqlMS1gMI",
     "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -8004,6 +8022,12 @@
     "zone_type": "area"
   },
   {
+    "name": "KASCO Homes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJyQf7LyxpXz4RGG1X5pJbMyc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "KG Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJv8yQTVcTXz4RYF0kth65Y_Y",
     "types": "establishment, lodging, point_of_interest",
@@ -8028,6 +8052,36 @@
     "zone_type": "area"
   },
   {
+    "name": "Kamoon 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ827sgS5oXz4RXXL-IYLvb08",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kamoon 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT3p9-gdpXz4R8X_yKUvvozA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kamoon 3 - Sheikh Mohammed bin Rashid Boulevard - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJt61hOyxoXz4RGaiQDxLRmwg",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kandinsky Clinic - Dubai - Émirats arabes unis",
+    "place_id": "ChIJLVZ_igNdXz4RRvQytsKdNTY",
+    "types": "doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kappa acca 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJA-S4v55lXz4R9umIjJh8s80",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Karama Centre - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJwTbeStdCXz4RsHfYrklNuMw",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -8037,6 +8091,12 @@
     "name": "Karama Park - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ9XTZCNdCXz4RUMqOS0iVb0Q",
     "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kasco Tower - Al Qusais (Dubai - U.A.E) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVdhl1xtcXz4RpK6lnU3boiQ",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -8073,6 +8133,12 @@
     "name": "Keyani Health Services - Dubai - Émirats arabes unis",
     "place_id": "ChIJty4-FIRpXz4RXOVvTSmy59w",
     "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Khalidia Palace Hotel Dubai by Mourouj Gloria - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJt8TR8j5dXz4RqFWcMl24H08",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -10113,6 +10179,12 @@
     "name": "jujus house 🤍 - 22nd Street - Dubai - Émirats arabes unis",
     "place_id": "ChIJ39qXPABrXz4RNsS8DwnoIrk",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "karama Center - Kuwait Street - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJR_Ro-NdCXz4Rw317_knjS08",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
