@@ -3269,7 +3269,57 @@
     "Dubai EHQ",
     "Dubai EHR",
     "Dubai EHS",
-    "Dubai EHT"
+    "Dubai EHT",
+    "Dubai EHU",
+    "Dubai EHV",
+    "Dubai EHW",
+    "Dubai EHX",
+    "Dubai EHY",
+    "Dubai EHZ",
+    "Dubai EIA",
+    "Dubai EIB",
+    "Dubai EIC",
+    "Dubai EID",
+    "Dubai EIE",
+    "Dubai EIF",
+    "Dubai EIG",
+    "Dubai EIH",
+    "Dubai EII",
+    "Dubai EIJ",
+    "Dubai EIK",
+    "Dubai EIL",
+    "Dubai EIM",
+    "Dubai EIN",
+    "Dubai EIO",
+    "Dubai EIP",
+    "Dubai EIQ",
+    "Dubai EIR",
+    "Dubai EIS",
+    "Dubai EIT",
+    "Dubai EIU",
+    "Dubai EIV",
+    "Dubai EIW",
+    "Dubai EIX",
+    "Dubai EIY",
+    "Dubai EIZ",
+    "Dubai EJA",
+    "Dubai EJB",
+    "Dubai EJC",
+    "Dubai EJD",
+    "Dubai EJE",
+    "Dubai EJF",
+    "Dubai EJG",
+    "Dubai EJH",
+    "Dubai EJI",
+    "Dubai EJJ",
+    "Dubai EJK",
+    "Dubai EJL",
+    "Dubai EJM",
+    "Dubai EJN",
+    "Dubai EJO",
+    "Dubai EJP",
+    "Dubai EJQ",
+    "Dubai EJR"
   ],
   "pending_n2": [
     {
@@ -59024,6 +59074,46 @@
       "name": "Ehtisham branch location - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJreNzqk5DXz4RjvGCp98z-to",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJqaR1_1YTXz4RJqWq7LVizJI": {
+      "name": "Ramada Hotel & Suites by Wyndham Dubai JBR - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqaR1_1YTXz4RJqWq7LVizJI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJIVkFbUVrXz4RJnRhBPuo2-8": {
+      "name": "WHY NOT Yacht Rental - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIVkFbUVrXz4RJnRhBPuo2-8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJrQyD8INkXz4RWoPZ7JBDhM4": {
+      "name": "Emirates Institute of Finance (EIF) معهد الإمارات المالي - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJrQyD8INkXz4RWoPZ7JBDhM4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAwkRi7RtXz4RDEUESHZyMS8": {
+      "name": "Eika Home Dubai - Lazuward South West - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAwkRi7RtXz4RDEUESHZyMS8",
+      "types": "geocode, premise"
+    },
+    "ChIJAV_q359pXz4R7rq0V9NpLmk": {
+      "name": "Emagine - Dubai - Émirats arabes unis",
+      "place_id": "ChIJAV_q359pXz4R7rq0V9NpLmk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBb5WJpBAXz4Ra4ZApuNhLJ8": {
+      "name": "Rio De Janeiro - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBb5WJpBAXz4Ra4ZApuNhLJ8",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJV9hbCVYTXz4RSxGkJpNtTeo": {
+      "name": "XLine Dubai Marina - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV9hbCVYTXz4RSxGkJpNtTeo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJHdA07x9eXz4Robn0AtcrCsM": {
+      "name": "Etihad Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHdA07x9eXz4Robn0AtcrCsM",
+      "types": "establishment, point_of_interest, shopping_mall"
     }
   }
 }

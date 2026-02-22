@@ -5568,6 +5568,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Eika Home Dubai - Lazuward South West - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAwkRi7RtXz4RDEUESHZyMS8",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Elite Business Bay Residence - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJGRx3PcxpXz4RuSqEPR1qZE8",
     "types": "establishment, point_of_interest",
@@ -5610,6 +5616,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Emagine - Dubai - Émirats arabes unis",
+    "place_id": "ChIJAV_q359pXz4R7rq0V9NpLmk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Emirates Aviation University - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ3Vv1H2TADRQRKSOljiD1CCY",
     "types": "establishment, point_of_interest, university",
@@ -5631,6 +5643,12 @@
     "name": "Emirates Hospital Clinics - Business Bay - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJm2oHAdRpXz4RXnf2beZDvgk",
     "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emirates Institute of Finance (EIF) معهد الإمارات المالي - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJrQyD8INkXz4RWoPZ7JBDhM4",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -5685,6 +5703,12 @@
     "name": "Este Medical Group | Hair and Skin Clinic Dubai - Dubai - Émirats arabes unis",
     "place_id": "ChIJM0rVUVJrXz4RO37SirNqh4I",
     "types": "beauty_salon, establishment, hair_care, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Etihad Mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHdA07x9eXz4Robn0AtcrCsM",
+    "types": "establishment, point_of_interest, shopping_mall",
     "zone_type": "area"
   },
   {
@@ -6882,6 +6906,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Ramada Hotel & Suites by Wyndham Dubai JBR - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqaR1_1YTXz4RJqWq7LVizJI",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Rashidiya Metro Station - Dubai - Émirats arabes unis",
     "place_id": "ChIJu2AXjvddXz4Riu-GzQW3Bug",
     "types": "establishment, point_of_interest",
@@ -6921,6 +6951,12 @@
     "name": "Rimal 1 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJxQ9LfKoUXz4RDtrecokfPQA",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Rio De Janeiro - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBb5WJpBAXz4Ra4ZApuNhLJ8",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
@@ -7770,6 +7806,12 @@
     "zone_type": "area"
   },
   {
+    "name": "WHY NOT Yacht Rental - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIVkFbUVrXz4RJnRhBPuo2-8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "WPA - World Padel Academy - Al Qouz, Dubai - Dubai - Émirats arabes unis",
     "place_id": "ChIJZ0hgg45pXz4RFSkePMHBglk",
     "types": "establishment, point_of_interest",
@@ -7833,6 +7875,12 @@
     "name": "Wyndham Residences The Palm - Crescent Road - Dubai - Émirats arabes unis",
     "place_id": "ChIJM0C-p9IVXz4RGklRquwe98s",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "XLine Dubai Marina - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJV9hbCVYTXz4RSxGkJpNtTeo",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
