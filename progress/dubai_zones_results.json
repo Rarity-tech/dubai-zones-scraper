@@ -8070,6 +8070,12 @@
     "zone_type": "area"
   },
   {
+    "name": "KK Tamizha Dance Studio Dubai - Tamil, Malayalam, Telugu, Kannada & Bollywood Dance Classes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJR9eDQeZbXz4RBS8ur4YPNGY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "KNIGHT ARMOUR HOTEL - Dubai - Émirats arabes unis",
     "place_id": "ChIJsT4JcR1dXz4RxuIhOxfC1DU",
     "types": "establishment, lodging, point_of_interest",
@@ -8115,6 +8121,12 @@
     "name": "Karama Centre - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJwTbeStdCXz4RsHfYrklNuMw",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Karama Medical Fitness Express service Center - KMFC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJ7nq2tVCXz4RTq_l-YV9yP0",
+    "types": "establishment, health, point_of_interest, travel_agency",
     "zone_type": "area"
   },
   {
