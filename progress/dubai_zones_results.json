@@ -5178,6 +5178,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dr.Reji Moideen- MINT DENTAL CARE LLC - C008-014 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ7VBnNaRrXz4RfeRfNfzLKFc",
+    "types": "dentist, establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dragon Mart 2 by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCUhUtT1hXz4Rdd-wCBeYPXg",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -5796,6 +5802,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Real Estate Centre - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJpwuHzxFDXz4RpGkbqcGxzmA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Rugby Sevens - Dubaï - Émirats arabes unis",
     "place_id": "ChIJkU5Kqd99Xz4Rv7fe9qZlED4",
     "types": "establishment, point_of_interest",
@@ -5919,6 +5931,12 @@
     "name": "Dubai jhumeira palm island - Dubaï - Émirats arabes unis",
     "place_id": "ChIJtb8zGQAVXz4RQiEKXsAvaqI",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai residential oasis - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ85yJojtcXz4RHu4gK1qFvvk",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -10602,6 +10620,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Park Inn by Radisson Dubai Motor City - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqx5t8GtuXz4R8d_Y6U15oN8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Plage JBR, Dubai, Émirats arabes unis",
     "place_id": "ChIJRR72AlgTXz4R-maJQCnOFoQ",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -10779,6 +10803,12 @@
     "name": "RBS Ravis Auditors LLC/RBS Tax Consultants LLC (RBS Auditors) - Dubai - Émirats arabes unis",
     "place_id": "ChIJhcIBbdBCXz4RZLbp2jWVHZI",
     "types": "accounting, establishment, finance, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "REPORTAGE HILLS - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTWBEVwBxXz4R_5nOQW26zcI",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -11004,9 +11034,45 @@
     "zone_type": "area"
   },
   {
+    "name": "Ready Set Go! - Dubai - Émirats arabes unis",
+    "place_id": "ChIJE0cXtUZpXz4RfUY1WBzm92g",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Real Foot Lounge Jumeirah Kite Beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJExwCv9RrXz4RiZPFyf20V8Y",
+    "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "Real Madrid World - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8eUSJWMPXz4RXivVUKcJ9yA",
+    "types": "amusement_park, establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Red Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMzu5Vd5tXz4RBbBk8v7Af8c",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Reef Mall - Dubai - Émirats arabes unis",
     "place_id": "ChIJm7QNRT9dXz4R2Dk4CdfdVQg",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Reef Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJA1VqHs9tXz4RAv_gB7qQuYY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Reef Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBbsyq65sXz4RnjFDVhOJme0",
+    "types": "establishment, point_of_interest, real_estate_agency",
     "zone_type": "area"
   },
   {
@@ -11016,15 +11082,105 @@
     "zone_type": "area"
   },
   {
+    "name": "Reem Townhouses, Town Square - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJH48j2exxXz4R3RQ45CM5woE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Regal Tower - Al Mustaqbal Street - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgQZGv9BpXz4RP0x1ULvfqg0",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Regalia by Deyaar - Dubai - Émirats arabes unis",
+    "place_id": "ChIJC4I23v5pXz4RyKhXagUOA_A",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Regency Luxury Suites - Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJNSEdtTBtXz4RrUwGf8mP7vU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Regina Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJn2udDnptXz4R820MI19h4Lo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Rejs Jachtem Dubai Marina - Dedi Marine Yachts Rental - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ7ZRhofttXz4RP4X2HL829gM",
+    "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Remal Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVSbW895tXz4RrSjFj8T4raU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Remraam - Al Thammam - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJM8ETD6RxXz4RBJp5LeTAgsc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Remraam Community - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD3ym-L5xXz4RuLpk3PuClVM",
     "types": "geocode, premise",
     "zone_type": "area"
   },
   {
+    "name": "Renaissance Business Bay Hotel, Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJy25LfGFpXz4RAvJbxhUJLpk",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Rental Dispute Center Dubai - Dubai - Émirats arabes unis",
     "place_id": "ChIJaU0YIs1cXz4R57fm-NNQc_0",
     "types": "establishment, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Residence Inn by Marriott Sheikh Zayed Road, Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1xuRM5JDXz4RoYSoJO04rO8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Resivation - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJL0M4KRBtXz4RM_MlV4Ieogg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Resortz By Danube - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgbSlQ4duXz4RoN_aaJJpbog",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Retail shops al awir fruit and vegetable market - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJKfLzE9tmXz4R_oiVDPmUIeE",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Reva Residency - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAZCbZQBpXz4RxU9b8uhw0YA",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Reya Creek Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJx9FIHX5DXz4RxZ01f-6oLUM",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -11055,6 +11211,12 @@
     "name": "Ritz-Carlton Residences Business Bay - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJTQF89jlpXz4R9n9jEE9goxY",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Rixos Premium Dubai JBR - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOaJqF6sUXz4RxzbhQU9vSas",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -11505,6 +11667,12 @@
     "name": "Syria - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJB-4Y4OhAXz4RxTQzDqSRvq4",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "T-Rex Glamping Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJrdtQb6oPXz4Rb3X03aATh6s",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {

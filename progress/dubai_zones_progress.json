@@ -8119,7 +8119,57 @@
     "Dubai RDE",
     "Dubai RDF",
     "Dubai RDG",
-    "Dubai RDH"
+    "Dubai RDH",
+    "Dubai RDI",
+    "Dubai RDJ",
+    "Dubai RDK",
+    "Dubai RDL",
+    "Dubai RDM",
+    "Dubai RDN",
+    "Dubai RDO",
+    "Dubai RDP",
+    "Dubai RDQ",
+    "Dubai RDR",
+    "Dubai RDS",
+    "Dubai RDT",
+    "Dubai RDU",
+    "Dubai RDV",
+    "Dubai RDW",
+    "Dubai RDX",
+    "Dubai RDY",
+    "Dubai RDZ",
+    "Dubai REA",
+    "Dubai REB",
+    "Dubai REC",
+    "Dubai RED",
+    "Dubai REE",
+    "Dubai REF",
+    "Dubai REG",
+    "Dubai REH",
+    "Dubai REI",
+    "Dubai REJ",
+    "Dubai REK",
+    "Dubai REL",
+    "Dubai REM",
+    "Dubai REN",
+    "Dubai REO",
+    "Dubai REP",
+    "Dubai REQ",
+    "Dubai RER",
+    "Dubai RES",
+    "Dubai RET",
+    "Dubai REU",
+    "Dubai REV",
+    "Dubai REW",
+    "Dubai REX",
+    "Dubai REY",
+    "Dubai REZ",
+    "Dubai RFA",
+    "Dubai RFB",
+    "Dubai RFC",
+    "Dubai RFD",
+    "Dubai RFE",
+    "Dubai RFF"
   ],
   "pending_n2": [
     {
@@ -67619,6 +67669,146 @@
       "name": "Ride in Dubai Watersports: Jet Ski, Jet Car & Flyboard Rental - Al Fintaas Street - Dubaï - Émirats arabes unis",
       "place_id": "ChIJdbAUgw9qXz4RFpaHqtdF7SE",
       "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJpwuHzxFDXz4RpGkbqcGxzmA": {
+      "name": "Dubai Real Estate Centre - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpwuHzxFDXz4RpGkbqcGxzmA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJE0cXtUZpXz4RfUY1WBzm92g": {
+      "name": "Ready Set Go! - Dubai - Émirats arabes unis",
+      "place_id": "ChIJE0cXtUZpXz4RfUY1WBzm92g",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ8eUSJWMPXz4RXivVUKcJ9yA": {
+      "name": "Real Madrid World - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8eUSJWMPXz4RXivVUKcJ9yA",
+      "types": "amusement_park, establishment, point_of_interest"
+    },
+    "ChIJExwCv9RrXz4RiZPFyf20V8Y": {
+      "name": "Real Foot Lounge Jumeirah Kite Beach - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJExwCv9RrXz4RiZPFyf20V8Y",
+      "types": "establishment, point_of_interest, spa"
+    },
+    "ChIJMzu5Vd5tXz4RBbBk8v7Af8c": {
+      "name": "Red Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMzu5Vd5tXz4RBbBk8v7Af8c",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJA1VqHs9tXz4RAv_gB7qQuYY": {
+      "name": "Reef Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJA1VqHs9tXz4RAv_gB7qQuYY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBbsyq65sXz4RnjFDVhOJme0": {
+      "name": "Reef Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBbsyq65sXz4RnjFDVhOJme0",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJH48j2exxXz4R3RQ45CM5woE": {
+      "name": "Reem Townhouses, Town Square - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJH48j2exxXz4R3RQ45CM5woE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJn2udDnptXz4R820MI19h4Lo": {
+      "name": "Regina Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJn2udDnptXz4R820MI19h4Lo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJNSEdtTBtXz4RrUwGf8mP7vU": {
+      "name": "Regency Luxury Suites - Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJNSEdtTBtXz4RrUwGf8mP7vU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJC4I23v5pXz4RyKhXagUOA_A": {
+      "name": "Regalia by Deyaar - Dubai - Émirats arabes unis",
+      "place_id": "ChIJC4I23v5pXz4RyKhXagUOA_A",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJgQZGv9BpXz4RP0x1ULvfqg0": {
+      "name": "Regal Tower - Al Mustaqbal Street - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgQZGv9BpXz4RP0x1ULvfqg0",
+      "types": "geocode, premise"
+    },
+    "ChIJ7ZRhofttXz4RP4X2HL829gM": {
+      "name": "Rejs Jachtem Dubai Marina - Dedi Marine Yachts Rental - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ7ZRhofttXz4RP4X2HL829gM",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJ7VBnNaRrXz4RfeRfNfzLKFc": {
+      "name": "Dr.Reji Moideen- MINT DENTAL CARE LLC - C008-014 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ7VBnNaRrXz4RfeRfNfzLKFc",
+      "types": "dentist, establishment, health, point_of_interest"
+    },
+    "ChIJM8ETD6RxXz4RBJp5LeTAgsc": {
+      "name": "Remraam - Al Thammam - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJM8ETD6RxXz4RBJp5LeTAgsc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJVSbW895tXz4RrSjFj8T4raU": {
+      "name": "Remal Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJVSbW895tXz4RrSjFj8T4raU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJy25LfGFpXz4RAvJbxhUJLpk": {
+      "name": "Renaissance Business Bay Hotel, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJy25LfGFpXz4RAvJbxhUJLpk",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJTWBEVwBxXz4R_5nOQW26zcI": {
+      "name": "REPORTAGE HILLS - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTWBEVwBxXz4R_5nOQW26zcI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ1xuRM5JDXz4RoYSoJO04rO8": {
+      "name": "Residence Inn by Marriott Sheikh Zayed Road, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1xuRM5JDXz4RoYSoJO04rO8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJgbSlQ4duXz4RoN_aaJJpbog": {
+      "name": "Resortz By Danube - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgbSlQ4duXz4RoN_aaJJpbog",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJL0M4KRBtXz4RM_MlV4Ieogg": {
+      "name": "Resivation - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJL0M4KRBtXz4RM_MlV4Ieogg",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ85yJojtcXz4RHu4gK1qFvvk": {
+      "name": "Dubai residential oasis - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ85yJojtcXz4RHu4gK1qFvvk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJKfLzE9tmXz4R_oiVDPmUIeE": {
+      "name": "Retail shops al awir fruit and vegetable market - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJKfLzE9tmXz4R_oiVDPmUIeE",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJAZCbZQBpXz4RxU9b8uhw0YA": {
+      "name": "Reva Residency - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAZCbZQBpXz4RxU9b8uhw0YA",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJOaJqF6sUXz4RxzbhQU9vSas": {
+      "name": "Rixos Premium Dubai JBR - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJOaJqF6sUXz4RxzbhQU9vSas",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJrdtQb6oPXz4Rb3X03aATh6s": {
+      "name": "T-Rex Glamping Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJrdtQb6oPXz4Rb3X03aATh6s",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJx9FIHX5DXz4RxZ01f-6oLUM": {
+      "name": "Reya Creek Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJx9FIHX5DXz4RxZ01f-6oLUM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJqx5t8GtuXz4R8d_Y6U15oN8": {
+      "name": "Park Inn by Radisson Dubai Motor City - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqx5t8GtuXz4R8d_Y6U15oN8",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }
