@@ -5508,6 +5508,12 @@
     "zone_type": "area"
   },
   {
+    "name": "EaseMyTrip - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJg3d3FOttXz4REiGS2nlSUWg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "East 40 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ1c_QSQBtXz4RhKubGSBufhM",
     "types": "establishment, point_of_interest",
@@ -5925,6 +5931,12 @@
     "name": "Etlala Residence1 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJJU2f_ttlXz4ROrOy30auRtw",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Euphorium Ice Bath & Sauna Dubai - 24/7 Cold Plunge - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJiVBAiphrXz4RUnPJUNzprQ8",
+    "types": "establishment, general_contractor, health, point_of_interest, spa, store",
     "zone_type": "area"
   },
   {
@@ -7695,6 +7707,12 @@
     "name": "The Palm - Jumeirah - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ18KhzNQUXz4RcjnZiSAG01o",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Wings by Al Mizan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJCUF7r51DXz4RVfBOqAo76To",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

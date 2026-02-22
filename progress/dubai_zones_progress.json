@@ -3569,7 +3569,57 @@
     "Dubai EUE",
     "Dubai EUF",
     "Dubai EUG",
-    "Dubai EUH"
+    "Dubai EUH",
+    "Dubai EUI",
+    "Dubai EUJ",
+    "Dubai EUK",
+    "Dubai EUL",
+    "Dubai EUM",
+    "Dubai EUN",
+    "Dubai EUO",
+    "Dubai EUP",
+    "Dubai EUQ",
+    "Dubai EUR",
+    "Dubai EUS",
+    "Dubai EUT",
+    "Dubai EUU",
+    "Dubai EUV",
+    "Dubai EUW",
+    "Dubai EUX",
+    "Dubai EUY",
+    "Dubai EUZ",
+    "Dubai EWA",
+    "Dubai EWB",
+    "Dubai EWC",
+    "Dubai EWD",
+    "Dubai EWE",
+    "Dubai EWF",
+    "Dubai EWG",
+    "Dubai EWH",
+    "Dubai EWI",
+    "Dubai EWJ",
+    "Dubai EWK",
+    "Dubai EWL",
+    "Dubai EWM",
+    "Dubai EWN",
+    "Dubai EWO",
+    "Dubai EWP",
+    "Dubai EWQ",
+    "Dubai EWR",
+    "Dubai EWS",
+    "Dubai EWT",
+    "Dubai EWU",
+    "Dubai EWV",
+    "Dubai EWW",
+    "Dubai EWX",
+    "Dubai EWY",
+    "Dubai EWZ",
+    "Dubai EZA",
+    "Dubai EZB",
+    "Dubai EZC",
+    "Dubai EZD",
+    "Dubai EZE",
+    "Dubai EZF"
   ],
   "pending_n2": [
     {
@@ -59583,6 +59633,21 @@
     "ChIJvbNnQABlXz4R3I73qmOY4M4": {
       "name": "Etlala Residence 2 - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJvbNnQABlXz4R3I73qmOY4M4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJiVBAiphrXz4RUnPJUNzprQ8": {
+      "name": "Euphorium Ice Bath & Sauna Dubai - 24/7 Cold Plunge - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJiVBAiphrXz4RUnPJUNzprQ8",
+      "types": "establishment, general_contractor, health, point_of_interest, spa, store"
+    },
+    "ChIJCUF7r51DXz4RVfBOqAo76To": {
+      "name": "The Wings by Al Mizan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJCUF7r51DXz4RVfBOqAo76To",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJg3d3FOttXz4REiGS2nlSUWg": {
+      "name": "EaseMyTrip - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJg3d3FOttXz4REiGS2nlSUWg",
       "types": "establishment, point_of_interest"
     }
   }
