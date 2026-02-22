@@ -336,6 +336,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Mugatrah - Dubai - Émirats arabes unis",
+    "place_id": "ChIJSbzj1ZmeXz4RYY-UhKuIiLo",
+    "types": "geocode, political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Muhaisnah, Dubai, Émirats arabes unis",
     "place_id": "ChIJGa2I7G5eXz4RncOYYwBgjZ4",
     "types": "political, sublocality, sublocality_level_1",
@@ -986,6 +992,24 @@
   {
     "name": "Morocco Cluster - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJA-OrWlthXz4RWbQ8cs4a4k0",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Mudon - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJdSUqitBxXz4RM-FYOt3jqJs",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Muhaisnah 1, Dubai, Émirats arabes unis",
+    "place_id": "ChIJZVG_nRBeXz4R5G_lOGSh-Ls",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Muhaisnah 3 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJa8HS1X9eXz4RNQdllG6rThQ",
     "types": "geocode, neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -5580,6 +5604,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Municipality - Headquarters - 17th Street - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJR_Bl-zRDXz4R_wq4PVzSCU0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Municipality Karama Center - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJy68s8ddCXz4Rxi6ytTfS48k",
+    "types": "establishment, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Museum - Dubaï - Émirats arabes unis",
     "place_id": "ChIJNT40vT9DXz4RBIFRVC4e7bw",
     "types": "establishment, museum, point_of_interest",
@@ -6801,6 +6837,18 @@
     "name": "Hatta Hill Park, Dubai, Émirats arabes unis",
     "place_id": "ChIJ2QM9b9ke9T4RHQ0GRDDAZgk",
     "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Hatta MTB Trail Parking - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ4fUh7lce9T4Rhu5bjjwdv4o",
+    "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Hatta Mountain Bike Trail Centre - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ-3Gkfvge9T4R6S0JRWoJV-U",
+    "types": "establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -9270,6 +9318,12 @@
     "zone_type": "area"
   },
   {
+    "name": "M Square Residential Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_SfPcadDXz4R66_zc94uwlI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "MAG 214 Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJywokXqhsXz4RbIc5C0SUOWE",
     "types": "geocode, premise",
@@ -9471,6 +9525,12 @@
     "name": "MSM 2 Building - Dubai - Émirats arabes unis",
     "place_id": "ChIJiZ2NUatpXz4RXJL6oOiRYaE",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MTS Yachts - Boat Tour Dubai | Yacht Rental - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJG-FTLW9rXz4RicasCpi-Hkk",
+    "types": "establishment, point_of_interest, travel_agency",
     "zone_type": "area"
   },
   {
@@ -10074,6 +10134,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Mountain bike track - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZyMERAlhXz4RtkbYIyjc3BY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Movenpick Al Mamzar - Dubai - Émirats arabes unis",
     "place_id": "ChIJd-pPoohcXz4RN8nkxvaXjYk",
     "types": "establishment, lodging, point_of_interest",
@@ -10083,6 +10149,42 @@
     "name": "Mozambique - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJRwIACAJBXz4RMlGQfkN5GE4",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mtown Real Estate Brokerage L.L.C - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJmQ3aBQBlXz4Rjjq8q7rFAoU",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mudon Al Ranim 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZ-LrYQBxXz4R9OJvg5Zvivk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mudon Al Ranim 3 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJpVJfLwBxXz4RKypuMVPcSFU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mudon Community Centre - Dubai - Émirats arabes unis",
+    "place_id": "ChIJn5fCstFxXz4Rx3lcRF61qms",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mudon Views | Dubai Properties - Dubai - Émirats arabes unis",
+    "place_id": "ChIJl9HVIdRxXz4RUdhJwYZaju0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mulberry 1 A2 - Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJI5D8jUppXz4RMWbK7AxlKu8",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
