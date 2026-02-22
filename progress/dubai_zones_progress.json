@@ -669,7 +669,57 @@
     "Dubai AFQ",
     "Dubai AFR",
     "Dubai AFS",
-    "Dubai AFT"
+    "Dubai AFT",
+    "Dubai AFU",
+    "Dubai AFV",
+    "Dubai AFW",
+    "Dubai AFX",
+    "Dubai AFY",
+    "Dubai AFZ",
+    "Dubai AGA",
+    "Dubai AGB",
+    "Dubai AGC",
+    "Dubai AGD",
+    "Dubai AGE",
+    "Dubai AGF",
+    "Dubai AGG",
+    "Dubai AGH",
+    "Dubai AGI",
+    "Dubai AGJ",
+    "Dubai AGK",
+    "Dubai AGL",
+    "Dubai AGM",
+    "Dubai AGN",
+    "Dubai AGO",
+    "Dubai AGP",
+    "Dubai AGQ",
+    "Dubai AGR",
+    "Dubai AGS",
+    "Dubai AGT",
+    "Dubai AGU",
+    "Dubai AGV",
+    "Dubai AGW",
+    "Dubai AGX",
+    "Dubai AGY",
+    "Dubai AGZ",
+    "Dubai AHA",
+    "Dubai AHB",
+    "Dubai AHC",
+    "Dubai AHD",
+    "Dubai AHE",
+    "Dubai AHF",
+    "Dubai AHG",
+    "Dubai AHH",
+    "Dubai AHI",
+    "Dubai AHJ",
+    "Dubai AHK",
+    "Dubai AHL",
+    "Dubai AHM",
+    "Dubai AHN",
+    "Dubai AHO",
+    "Dubai AHP",
+    "Dubai AHQ",
+    "Dubai AHR"
   ],
   "pending_n2": [
     {
@@ -53134,6 +53184,36 @@
       "name": "Al Fagaa - Dubai - Émirats arabes unis",
       "place_id": "ChIJF8eZRgln9T4RGq3r-s3QYmA",
       "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJV17ny51dXz4Rr6VOtHN8M80": {
+      "name": "Al-Futtaim Automotive Talent Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV17ny51dXz4Rr6VOtHN8M80",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJtfdW9_9DXz4RUwLydeRrfVM": {
+      "name": "AL FAZAL RICE TRADING LLC - behind the George hotel - Dubai - Émirats arabes unis",
+      "place_id": "ChIJtfdW9_9DXz4RUwLydeRrfVM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ8c-ogW5rXz4Rifj0kNi88RE": {
+      "name": "The Agenda - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ8c-ogW5rXz4Rifj0kNi88RE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJYd08Sb5gXz4R5TVcMVj6lts": {
+      "name": "Mirdif Villas - Dubai - Émirats arabes unis",
+      "place_id": "ChIJYd08Sb5gXz4R5TVcMVj6lts",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJHauvV8xdXz4Rxflx8O34Ooo": {
+      "name": "Ahli House A - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHauvV8xdXz4Rxflx8O34Ooo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ3Sdr_nFdXz4RTdMuDhDBJV0": {
+      "name": "Ahlan Business Class Lounge - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ3Sdr_nFdXz4RTdMuDhDBJV0",
+      "types": "establishment, point_of_interest"
     }
   }
 }

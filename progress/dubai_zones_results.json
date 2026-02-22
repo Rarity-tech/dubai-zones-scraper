@@ -774,6 +774,12 @@
     "zone_type": "area"
   },
   {
+    "name": "AL FAZAL RICE TRADING LLC - behind the George hotel - Dubai - Émirats arabes unis",
+    "place_id": "ChIJtfdW9_9DXz4RUwLydeRrfVM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "API Trio Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJM1S3FaJrXz4Rw1iB-aQZxds",
     "types": "establishment, point_of_interest",
@@ -1026,6 +1032,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Ahlan Business Class Lounge - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ3Sdr_nFdXz4RTdMuDhDBJV0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ahli House A - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHauvV8xdXz4Rxflx8O34Ooo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Ain Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJzwEAQE9DXz4RiInTlTzw97E",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -1059,6 +1077,12 @@
     "name": "Al Seef, Dubai, Émirats arabes unis",
     "place_id": "ChIJgTr1QCxDXz4RXUBEfndMUbs",
     "types": "establishment, food, point_of_interest, restaurant, shopping_mall, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Al-Futtaim Automotive Talent Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJV17ny51dXz4Rr6VOtHN8M80",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3060,6 +3084,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Mirdif Villas - Dubai - Émirats arabes unis",
+    "place_id": "ChIJYd08Sb5gXz4R5TVcMVj6lts",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Mnasm 12 - Dubai - Émirats arabes unis",
     "place_id": "ChIJ7ZFgZI1dXz4Rl8OK0iQgS9k",
     "types": "establishment, point_of_interest",
@@ -3633,6 +3663,12 @@
     "name": "The Address Downtown, Dubai, Émirats arabes unis",
     "place_id": "ChIJ7w0gwihoXz4R4F5KVQWLoH0",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Agenda - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ8c-ogW5rXz4Rifj0kNi88RE",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
