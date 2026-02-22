@@ -15504,9 +15504,39 @@
     "zone_type": "area"
   },
   {
+    "name": "Zia Dental Aesthetics - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJl8gSDwdrXz4RCTYcPcbY2O0",
+    "types": "dentist, establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zia Medical Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqx3q3hBqXz4RWL1nHxgYsiY",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zieda Aesthetics Clinic - Dubai - Émirats arabes unis",
+    "place_id": "ChIJPVeAhn9DXz4RUpuwjydAfnc",
+    "types": "beauty_salon, dentist, doctor, establishment, hair_care, health, point_of_interest, spa, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zima Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJaM-BY5vXz4RbPJMCuME8fM",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Zimbabwe - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJTWToZv5AXz4R_5K6rwGu2dc",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zinnia Cluster - Villa 273 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMwEmAQB7Xz4RtAz-4bIO48c",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

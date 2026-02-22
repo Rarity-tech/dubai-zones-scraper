@@ -11819,7 +11819,57 @@
     "Dubai ZGM",
     "Dubai ZGN",
     "Dubai ZGO",
-    "Dubai ZGP"
+    "Dubai ZGP",
+    "Dubai ZGQ",
+    "Dubai ZGR",
+    "Dubai ZGS",
+    "Dubai ZGT",
+    "Dubai ZGU",
+    "Dubai ZGV",
+    "Dubai ZGW",
+    "Dubai ZGX",
+    "Dubai ZGY",
+    "Dubai ZGZ",
+    "Dubai ZIA",
+    "Dubai ZIB",
+    "Dubai ZIC",
+    "Dubai ZID",
+    "Dubai ZIE",
+    "Dubai ZIF",
+    "Dubai ZIG",
+    "Dubai ZIH",
+    "Dubai ZII",
+    "Dubai ZIJ",
+    "Dubai ZIK",
+    "Dubai ZIL",
+    "Dubai ZIM",
+    "Dubai ZIN",
+    "Dubai ZIO",
+    "Dubai ZIP",
+    "Dubai ZIQ",
+    "Dubai ZIR",
+    "Dubai ZIS",
+    "Dubai ZIT",
+    "Dubai ZIU",
+    "Dubai ZIV",
+    "Dubai ZIW",
+    "Dubai ZIX",
+    "Dubai ZIY",
+    "Dubai ZIZ",
+    "Dubai ZKA",
+    "Dubai ZKB",
+    "Dubai ZKC",
+    "Dubai ZKD",
+    "Dubai ZKE",
+    "Dubai ZKF",
+    "Dubai ZKG",
+    "Dubai ZKH",
+    "Dubai ZKI",
+    "Dubai ZKJ",
+    "Dubai ZKK",
+    "Dubai ZKL",
+    "Dubai ZKM",
+    "Dubai ZKN"
   ],
   "pending_n2": [
     {
@@ -74089,6 +74139,31 @@
       "name": "Zabeel Fire station - Dubai - Émirats arabes unis",
       "place_id": "ChIJqy19UpxCXz4RWTM2BL8OLlw",
       "types": "establishment, local_government_office, point_of_interest"
+    },
+    "ChIJl8gSDwdrXz4RCTYcPcbY2O0": {
+      "name": "Zia Dental Aesthetics - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJl8gSDwdrXz4RCTYcPcbY2O0",
+      "types": "dentist, establishment, health, point_of_interest"
+    },
+    "ChIJqx3q3hBqXz4RWL1nHxgYsiY": {
+      "name": "Zia Medical Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqx3q3hBqXz4RWL1nHxgYsiY",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJPVeAhn9DXz4RUpuwjydAfnc": {
+      "name": "Zieda Aesthetics Clinic - Dubai - Émirats arabes unis",
+      "place_id": "ChIJPVeAhn9DXz4RUpuwjydAfnc",
+      "types": "beauty_salon, dentist, doctor, establishment, hair_care, health, point_of_interest, spa, store"
+    },
+    "ChIJJaM-BY5vXz4RbPJMCuME8fM": {
+      "name": "Zima Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJaM-BY5vXz4RbPJMCuME8fM",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJMwEmAQB7Xz4RtAz-4bIO48c": {
+      "name": "Zinnia Cluster - Villa 273 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMwEmAQB7Xz4RtAz-4bIO48c",
+      "types": "establishment, point_of_interest"
     }
   }
 }
