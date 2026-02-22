@@ -966,6 +966,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "23 Marina Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJa2Cp51prXz4RmZKxmKc3bsk",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "A A Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ0QQIiWxDXz4RsvDyfRj1hPw",
     "types": "establishment, point_of_interest",
@@ -8103,6 +8109,12 @@
     "name": "One&Only One Za'abeel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJo0YkEMZDXz4R95uvTYa8i04",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Orra Marina Tower - Nasaq Street - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ__kA9FMTXz4R9fp9LHc3Q7w",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
