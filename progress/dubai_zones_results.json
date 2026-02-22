@@ -14520,6 +14520,12 @@
     "zone_type": "area"
   },
   {
+    "name": "VR Wonderland - 7D Theatre, West Atrium, Extension Sahara Centre - Dubai - Émirats arabes unis",
+    "place_id": "ChIJlQLNZ4ZdXz4RIP6Psc5YBw8",
+    "types": "amusement_park, establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "VSL Middle East LLC - Construction company - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJE05Kyz5yXz4RWs9JjL3QzNI",
     "types": "establishment, point_of_interest",
