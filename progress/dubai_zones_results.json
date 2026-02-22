@@ -4932,6 +4932,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai - JVT - District 5 - C22 - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTaVcs1JsXz4RezN8PAgWpTU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Airbnb - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ7VkhEABDXz4RNIYxlpVPxzI",
     "types": "establishment, lodging, point_of_interest",
@@ -7452,6 +7458,12 @@
     "zone_type": "area"
   },
   {
+    "name": "J W T LLC - Dubai - Émirats arabes unis",
+    "place_id": "ChIJYbHOVe1DXz4Rrh_UjU4cVPQ",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "JACQUEMUS, Dubai Mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJIyaLfM9DXz4ReW-G48uunHU",
     "types": "establishment, point_of_interest",
@@ -7635,6 +7647,24 @@
     "name": "JVC District 16 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJR5QUHnNtXz4Rc5JnlZRWzOY",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "JVT Community Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOVVom6ttXz4R5lnWr7jZXHM",
+    "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "JVT District 9 L - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJebcvvlhtXz4Rc_vWDjPlgvk",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "JVT Masjid - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJfX6sSXJtXz4RT8HmTM55tEw",
+    "types": "establishment, mosque, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {

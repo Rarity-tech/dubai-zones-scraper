@@ -5519,7 +5519,57 @@
     "Dubai JVE",
     "Dubai JVF",
     "Dubai JVG",
-    "Dubai JVH"
+    "Dubai JVH",
+    "Dubai JVI",
+    "Dubai JVJ",
+    "Dubai JVK",
+    "Dubai JVL",
+    "Dubai JVM",
+    "Dubai JVN",
+    "Dubai JVO",
+    "Dubai JVP",
+    "Dubai JVQ",
+    "Dubai JVR",
+    "Dubai JVS",
+    "Dubai JVT",
+    "Dubai JVU",
+    "Dubai JVV",
+    "Dubai JVW",
+    "Dubai JVX",
+    "Dubai JVY",
+    "Dubai JVZ",
+    "Dubai JWA",
+    "Dubai JWB",
+    "Dubai JWC",
+    "Dubai JWD",
+    "Dubai JWE",
+    "Dubai JWF",
+    "Dubai JWG",
+    "Dubai JWH",
+    "Dubai JWI",
+    "Dubai JWJ",
+    "Dubai JWK",
+    "Dubai JWL",
+    "Dubai JWM",
+    "Dubai JWN",
+    "Dubai JWO",
+    "Dubai JWP",
+    "Dubai JWQ",
+    "Dubai JWR",
+    "Dubai JWS",
+    "Dubai JWT",
+    "Dubai JWU",
+    "Dubai JWV",
+    "Dubai JWW",
+    "Dubai JWX",
+    "Dubai JWY",
+    "Dubai JWZ",
+    "Dubai JXA",
+    "Dubai JXB",
+    "Dubai JXC",
+    "Dubai JXD",
+    "Dubai JXE",
+    "Dubai JXF"
   ],
   "pending_n2": [
     {
@@ -62989,6 +63039,31 @@
       "name": "Just Be Wellbeing Center - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJm4wm5xlqXz4Rspc0aSiWMpo",
       "types": "establishment, health, point_of_interest"
+    },
+    "ChIJebcvvlhtXz4Rc_vWDjPlgvk": {
+      "name": "JVT District 9 L - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJebcvvlhtXz4Rc_vWDjPlgvk",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJOVVom6ttXz4R5lnWr7jZXHM": {
+      "name": "JVT Community Park - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJOVVom6ttXz4R5lnWr7jZXHM",
+      "types": "establishment, park, point_of_interest, tourist_attraction"
+    },
+    "ChIJfX6sSXJtXz4RT8HmTM55tEw": {
+      "name": "JVT Masjid - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJfX6sSXJtXz4RT8HmTM55tEw",
+      "types": "establishment, mosque, place_of_worship, point_of_interest"
+    },
+    "ChIJTaVcs1JsXz4RezN8PAgWpTU": {
+      "name": "Dubai - JVT - District 5 - C22 - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTaVcs1JsXz4RezN8PAgWpTU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJYbHOVe1DXz4Rrh_UjU4cVPQ": {
+      "name": "J W T LLC - Dubai - Émirats arabes unis",
+      "place_id": "ChIJYbHOVe1DXz4Rrh_UjU4cVPQ",
+      "types": "establishment, point_of_interest, real_estate_agency"
     }
   }
 }
