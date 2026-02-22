@@ -14808,6 +14808,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Vonder Dubai, Holiday Homes BNB Management - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ9VSilXpDXz4RFxbgUMgJ87U",
+    "types": "establishment, point_of_interest, real_estate_agency, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Vox Cinéma, Dubai, Émirats arabes unis",
     "place_id": "ChIJdcLub1xDXz4Rhqc1zSlZqVA",
     "types": "establishment, movie_theater, point_of_interest",
