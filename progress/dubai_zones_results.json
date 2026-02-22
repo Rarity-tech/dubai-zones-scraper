@@ -8040,6 +8040,12 @@
     "zone_type": "area"
   },
   {
+    "name": "K-Spa - European Massage Center - Oud Metha Road - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ7ZL2wT9DXz4R1gs64cXg3vc",
+    "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
     "name": "K.M .TRADING SHOPPING CENTRE - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJNaKvuTNdXz4REqSX-W4uopo",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -8301,6 +8307,12 @@
     "name": "Kirpa Properties - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJDbQM93xrXz4RyvK-mU0vnxc",
     "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kite Beach Running Track Start - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3STxEI9rXz4RM60rWaXpHlk",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
