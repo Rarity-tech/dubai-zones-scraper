@@ -9869,7 +9869,57 @@
     "Dubai TZM",
     "Dubai TZN",
     "Dubai TZO",
-    "Dubai TZP"
+    "Dubai TZP",
+    "Dubai TZQ",
+    "Dubai TZR",
+    "Dubai TZS",
+    "Dubai TZT",
+    "Dubai TZU",
+    "Dubai TZV",
+    "Dubai TZW",
+    "Dubai TZX",
+    "Dubai TZY",
+    "Dubai TZZ",
+    "Dubai UBA",
+    "Dubai UBB",
+    "Dubai UBC",
+    "Dubai UBD",
+    "Dubai UBE",
+    "Dubai UBF",
+    "Dubai UBG",
+    "Dubai UBH",
+    "Dubai UBI",
+    "Dubai UBJ",
+    "Dubai UBK",
+    "Dubai UBL",
+    "Dubai UBM",
+    "Dubai UBN",
+    "Dubai UBO",
+    "Dubai UBP",
+    "Dubai UBQ",
+    "Dubai UBR",
+    "Dubai UBS",
+    "Dubai UBT",
+    "Dubai UBU",
+    "Dubai UBV",
+    "Dubai UBW",
+    "Dubai UBX",
+    "Dubai UBY",
+    "Dubai UBZ",
+    "Dubai UCA",
+    "Dubai UCB",
+    "Dubai UCC",
+    "Dubai UCD",
+    "Dubai UCE",
+    "Dubai UCF",
+    "Dubai UCG",
+    "Dubai UCH",
+    "Dubai UCI",
+    "Dubai UCJ",
+    "Dubai UCK",
+    "Dubai UCL",
+    "Dubai UCM",
+    "Dubai UCN"
   ],
   "pending_n2": [
     {
@@ -71309,6 +71359,21 @@
       "name": "Tokyo Modern Contracting - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJAX1Cp-hrXz4RxHGrdZ_X7b4",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJc6ALXjJdXz4RTFQuNhTNXjs": {
+      "name": "Uber holding area - Dubai - Émirats arabes unis",
+      "place_id": "ChIJc6ALXjJdXz4RTFQuNhTNXjs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJKQjGtIRrXz4R5DhUtNL69RQ": {
+      "name": "UBX Marina Gate, The Residences at Marina Gate - Dubai - Émirats arabes unis",
+      "place_id": "ChIJKQjGtIRrXz4R5DhUtNL69RQ",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJHeJNZwF5Xz4RNOsLfOFZoJw": {
+      "name": "Kamel Uschi - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHeJNZwF5Xz4RNOsLfOFZoJw",
+      "types": "establishment, point_of_interest, tourist_attraction"
     }
   }
 }

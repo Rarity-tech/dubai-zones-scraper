@@ -8730,6 +8730,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Kamel Uschi - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHeJNZwF5Xz4RNOsLfOFZoJw",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Kamoon 1 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ827sgS5oXz4RXXL-IYLvb08",
     "types": "establishment, point_of_interest",
@@ -14124,6 +14130,12 @@
     "zone_type": "area"
   },
   {
+    "name": "UBX Marina Gate, The Residences at Marina Gate - Dubai - Émirats arabes unis",
+    "place_id": "ChIJKQjGtIRrXz4R5DhUtNL69RQ",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "UFC GYM - Business Bay | Bay Square - Dubai - Émirats arabes unis",
     "place_id": "ChIJy6qqZjBoXz4RGOq7ZGVcIi8",
     "types": "establishment, gym, health, point_of_interest",
@@ -14156,6 +14168,12 @@
   {
     "name": "Uber Middle East FZ LLC - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJAZr8fHJrXz4RHILu2zZxqZk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Uber holding area - Dubai - Émirats arabes unis",
+    "place_id": "ChIJc6ALXjJdXz4RTFQuNhTNXjs",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
