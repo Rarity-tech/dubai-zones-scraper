@@ -375,7 +375,57 @@
     "Dubai SI",
     "Dubai SJ",
     "Dubai SK",
-    "Dubai SL"
+    "Dubai SL",
+    "Dubai SM",
+    "Dubai SN",
+    "Dubai SO",
+    "Dubai SP",
+    "Dubai SQ",
+    "Dubai SR",
+    "Dubai SS",
+    "Dubai ST",
+    "Dubai SU",
+    "Dubai SV",
+    "Dubai SW",
+    "Dubai SX",
+    "Dubai SY",
+    "Dubai SZ",
+    "Dubai TA",
+    "Dubai TB",
+    "Dubai TC",
+    "Dubai TD",
+    "Dubai TE",
+    "Dubai TF",
+    "Dubai TG",
+    "Dubai TH",
+    "Dubai TI",
+    "Dubai TJ",
+    "Dubai TK",
+    "Dubai TL",
+    "Dubai TM",
+    "Dubai TN",
+    "Dubai TO",
+    "Dubai TP",
+    "Dubai TQ",
+    "Dubai TR",
+    "Dubai TS",
+    "Dubai TT",
+    "Dubai TU",
+    "Dubai TV",
+    "Dubai TW",
+    "Dubai TX",
+    "Dubai TY",
+    "Dubai TZ",
+    "Dubai UA",
+    "Dubai UB",
+    "Dubai UC",
+    "Dubai UD",
+    "Dubai UE",
+    "Dubai UF",
+    "Dubai UG",
+    "Dubai UH",
+    "Dubai UI",
+    "Dubai UJ"
   ],
   "pending_n2": [
     {
@@ -36259,6 +36309,4270 @@
     {
       "query": "Dubai SLZ",
       "prefix": "SLZ"
+    },
+    {
+      "query": "Dubai SMA",
+      "prefix": "SMA"
+    },
+    {
+      "query": "Dubai SMB",
+      "prefix": "SMB"
+    },
+    {
+      "query": "Dubai SMC",
+      "prefix": "SMC"
+    },
+    {
+      "query": "Dubai SMD",
+      "prefix": "SMD"
+    },
+    {
+      "query": "Dubai SME",
+      "prefix": "SME"
+    },
+    {
+      "query": "Dubai SMF",
+      "prefix": "SMF"
+    },
+    {
+      "query": "Dubai SMG",
+      "prefix": "SMG"
+    },
+    {
+      "query": "Dubai SMH",
+      "prefix": "SMH"
+    },
+    {
+      "query": "Dubai SMI",
+      "prefix": "SMI"
+    },
+    {
+      "query": "Dubai SMJ",
+      "prefix": "SMJ"
+    },
+    {
+      "query": "Dubai SMK",
+      "prefix": "SMK"
+    },
+    {
+      "query": "Dubai SML",
+      "prefix": "SML"
+    },
+    {
+      "query": "Dubai SMM",
+      "prefix": "SMM"
+    },
+    {
+      "query": "Dubai SMN",
+      "prefix": "SMN"
+    },
+    {
+      "query": "Dubai SMO",
+      "prefix": "SMO"
+    },
+    {
+      "query": "Dubai SMP",
+      "prefix": "SMP"
+    },
+    {
+      "query": "Dubai SMQ",
+      "prefix": "SMQ"
+    },
+    {
+      "query": "Dubai SMR",
+      "prefix": "SMR"
+    },
+    {
+      "query": "Dubai SMS",
+      "prefix": "SMS"
+    },
+    {
+      "query": "Dubai SMT",
+      "prefix": "SMT"
+    },
+    {
+      "query": "Dubai SMU",
+      "prefix": "SMU"
+    },
+    {
+      "query": "Dubai SMV",
+      "prefix": "SMV"
+    },
+    {
+      "query": "Dubai SMW",
+      "prefix": "SMW"
+    },
+    {
+      "query": "Dubai SMX",
+      "prefix": "SMX"
+    },
+    {
+      "query": "Dubai SMY",
+      "prefix": "SMY"
+    },
+    {
+      "query": "Dubai SMZ",
+      "prefix": "SMZ"
+    },
+    {
+      "query": "Dubai SNA",
+      "prefix": "SNA"
+    },
+    {
+      "query": "Dubai SNB",
+      "prefix": "SNB"
+    },
+    {
+      "query": "Dubai SNC",
+      "prefix": "SNC"
+    },
+    {
+      "query": "Dubai SND",
+      "prefix": "SND"
+    },
+    {
+      "query": "Dubai SNE",
+      "prefix": "SNE"
+    },
+    {
+      "query": "Dubai SNF",
+      "prefix": "SNF"
+    },
+    {
+      "query": "Dubai SNG",
+      "prefix": "SNG"
+    },
+    {
+      "query": "Dubai SNH",
+      "prefix": "SNH"
+    },
+    {
+      "query": "Dubai SNI",
+      "prefix": "SNI"
+    },
+    {
+      "query": "Dubai SNJ",
+      "prefix": "SNJ"
+    },
+    {
+      "query": "Dubai SNK",
+      "prefix": "SNK"
+    },
+    {
+      "query": "Dubai SNL",
+      "prefix": "SNL"
+    },
+    {
+      "query": "Dubai SNM",
+      "prefix": "SNM"
+    },
+    {
+      "query": "Dubai SNN",
+      "prefix": "SNN"
+    },
+    {
+      "query": "Dubai SNO",
+      "prefix": "SNO"
+    },
+    {
+      "query": "Dubai SNP",
+      "prefix": "SNP"
+    },
+    {
+      "query": "Dubai SNQ",
+      "prefix": "SNQ"
+    },
+    {
+      "query": "Dubai SNR",
+      "prefix": "SNR"
+    },
+    {
+      "query": "Dubai SNS",
+      "prefix": "SNS"
+    },
+    {
+      "query": "Dubai SNT",
+      "prefix": "SNT"
+    },
+    {
+      "query": "Dubai SNU",
+      "prefix": "SNU"
+    },
+    {
+      "query": "Dubai SNV",
+      "prefix": "SNV"
+    },
+    {
+      "query": "Dubai SNW",
+      "prefix": "SNW"
+    },
+    {
+      "query": "Dubai SNX",
+      "prefix": "SNX"
+    },
+    {
+      "query": "Dubai SNY",
+      "prefix": "SNY"
+    },
+    {
+      "query": "Dubai SNZ",
+      "prefix": "SNZ"
+    },
+    {
+      "query": "Dubai SOA",
+      "prefix": "SOA"
+    },
+    {
+      "query": "Dubai SOB",
+      "prefix": "SOB"
+    },
+    {
+      "query": "Dubai SOC",
+      "prefix": "SOC"
+    },
+    {
+      "query": "Dubai SOD",
+      "prefix": "SOD"
+    },
+    {
+      "query": "Dubai SOE",
+      "prefix": "SOE"
+    },
+    {
+      "query": "Dubai SOF",
+      "prefix": "SOF"
+    },
+    {
+      "query": "Dubai SOG",
+      "prefix": "SOG"
+    },
+    {
+      "query": "Dubai SOH",
+      "prefix": "SOH"
+    },
+    {
+      "query": "Dubai SOI",
+      "prefix": "SOI"
+    },
+    {
+      "query": "Dubai SOJ",
+      "prefix": "SOJ"
+    },
+    {
+      "query": "Dubai SOK",
+      "prefix": "SOK"
+    },
+    {
+      "query": "Dubai SOL",
+      "prefix": "SOL"
+    },
+    {
+      "query": "Dubai SOM",
+      "prefix": "SOM"
+    },
+    {
+      "query": "Dubai SON",
+      "prefix": "SON"
+    },
+    {
+      "query": "Dubai SOO",
+      "prefix": "SOO"
+    },
+    {
+      "query": "Dubai SOP",
+      "prefix": "SOP"
+    },
+    {
+      "query": "Dubai SOQ",
+      "prefix": "SOQ"
+    },
+    {
+      "query": "Dubai SOR",
+      "prefix": "SOR"
+    },
+    {
+      "query": "Dubai SOS",
+      "prefix": "SOS"
+    },
+    {
+      "query": "Dubai SOT",
+      "prefix": "SOT"
+    },
+    {
+      "query": "Dubai SOU",
+      "prefix": "SOU"
+    },
+    {
+      "query": "Dubai SOV",
+      "prefix": "SOV"
+    },
+    {
+      "query": "Dubai SOW",
+      "prefix": "SOW"
+    },
+    {
+      "query": "Dubai SOX",
+      "prefix": "SOX"
+    },
+    {
+      "query": "Dubai SOY",
+      "prefix": "SOY"
+    },
+    {
+      "query": "Dubai SOZ",
+      "prefix": "SOZ"
+    },
+    {
+      "query": "Dubai SPA",
+      "prefix": "SPA"
+    },
+    {
+      "query": "Dubai SPB",
+      "prefix": "SPB"
+    },
+    {
+      "query": "Dubai SPC",
+      "prefix": "SPC"
+    },
+    {
+      "query": "Dubai SPD",
+      "prefix": "SPD"
+    },
+    {
+      "query": "Dubai SPE",
+      "prefix": "SPE"
+    },
+    {
+      "query": "Dubai SPF",
+      "prefix": "SPF"
+    },
+    {
+      "query": "Dubai SPG",
+      "prefix": "SPG"
+    },
+    {
+      "query": "Dubai SPH",
+      "prefix": "SPH"
+    },
+    {
+      "query": "Dubai SPI",
+      "prefix": "SPI"
+    },
+    {
+      "query": "Dubai SPJ",
+      "prefix": "SPJ"
+    },
+    {
+      "query": "Dubai SPK",
+      "prefix": "SPK"
+    },
+    {
+      "query": "Dubai SPL",
+      "prefix": "SPL"
+    },
+    {
+      "query": "Dubai SPM",
+      "prefix": "SPM"
+    },
+    {
+      "query": "Dubai SPN",
+      "prefix": "SPN"
+    },
+    {
+      "query": "Dubai SPO",
+      "prefix": "SPO"
+    },
+    {
+      "query": "Dubai SPP",
+      "prefix": "SPP"
+    },
+    {
+      "query": "Dubai SPQ",
+      "prefix": "SPQ"
+    },
+    {
+      "query": "Dubai SPR",
+      "prefix": "SPR"
+    },
+    {
+      "query": "Dubai SPS",
+      "prefix": "SPS"
+    },
+    {
+      "query": "Dubai SPT",
+      "prefix": "SPT"
+    },
+    {
+      "query": "Dubai SPU",
+      "prefix": "SPU"
+    },
+    {
+      "query": "Dubai SPV",
+      "prefix": "SPV"
+    },
+    {
+      "query": "Dubai SPW",
+      "prefix": "SPW"
+    },
+    {
+      "query": "Dubai SPX",
+      "prefix": "SPX"
+    },
+    {
+      "query": "Dubai SPY",
+      "prefix": "SPY"
+    },
+    {
+      "query": "Dubai SPZ",
+      "prefix": "SPZ"
+    },
+    {
+      "query": "Dubai SQA",
+      "prefix": "SQA"
+    },
+    {
+      "query": "Dubai SQB",
+      "prefix": "SQB"
+    },
+    {
+      "query": "Dubai SQC",
+      "prefix": "SQC"
+    },
+    {
+      "query": "Dubai SQD",
+      "prefix": "SQD"
+    },
+    {
+      "query": "Dubai SQE",
+      "prefix": "SQE"
+    },
+    {
+      "query": "Dubai SQF",
+      "prefix": "SQF"
+    },
+    {
+      "query": "Dubai SQG",
+      "prefix": "SQG"
+    },
+    {
+      "query": "Dubai SQH",
+      "prefix": "SQH"
+    },
+    {
+      "query": "Dubai SQI",
+      "prefix": "SQI"
+    },
+    {
+      "query": "Dubai SQJ",
+      "prefix": "SQJ"
+    },
+    {
+      "query": "Dubai SQK",
+      "prefix": "SQK"
+    },
+    {
+      "query": "Dubai SQL",
+      "prefix": "SQL"
+    },
+    {
+      "query": "Dubai SQM",
+      "prefix": "SQM"
+    },
+    {
+      "query": "Dubai SQN",
+      "prefix": "SQN"
+    },
+    {
+      "query": "Dubai SQO",
+      "prefix": "SQO"
+    },
+    {
+      "query": "Dubai SQP",
+      "prefix": "SQP"
+    },
+    {
+      "query": "Dubai SQQ",
+      "prefix": "SQQ"
+    },
+    {
+      "query": "Dubai SQR",
+      "prefix": "SQR"
+    },
+    {
+      "query": "Dubai SQS",
+      "prefix": "SQS"
+    },
+    {
+      "query": "Dubai SQT",
+      "prefix": "SQT"
+    },
+    {
+      "query": "Dubai SQU",
+      "prefix": "SQU"
+    },
+    {
+      "query": "Dubai SQV",
+      "prefix": "SQV"
+    },
+    {
+      "query": "Dubai SQW",
+      "prefix": "SQW"
+    },
+    {
+      "query": "Dubai SQX",
+      "prefix": "SQX"
+    },
+    {
+      "query": "Dubai SQY",
+      "prefix": "SQY"
+    },
+    {
+      "query": "Dubai SQZ",
+      "prefix": "SQZ"
+    },
+    {
+      "query": "Dubai SRA",
+      "prefix": "SRA"
+    },
+    {
+      "query": "Dubai SRB",
+      "prefix": "SRB"
+    },
+    {
+      "query": "Dubai SRC",
+      "prefix": "SRC"
+    },
+    {
+      "query": "Dubai SRD",
+      "prefix": "SRD"
+    },
+    {
+      "query": "Dubai SRE",
+      "prefix": "SRE"
+    },
+    {
+      "query": "Dubai SRF",
+      "prefix": "SRF"
+    },
+    {
+      "query": "Dubai SRG",
+      "prefix": "SRG"
+    },
+    {
+      "query": "Dubai SRH",
+      "prefix": "SRH"
+    },
+    {
+      "query": "Dubai SRI",
+      "prefix": "SRI"
+    },
+    {
+      "query": "Dubai SRJ",
+      "prefix": "SRJ"
+    },
+    {
+      "query": "Dubai SRK",
+      "prefix": "SRK"
+    },
+    {
+      "query": "Dubai SRL",
+      "prefix": "SRL"
+    },
+    {
+      "query": "Dubai SRM",
+      "prefix": "SRM"
+    },
+    {
+      "query": "Dubai SRN",
+      "prefix": "SRN"
+    },
+    {
+      "query": "Dubai SRO",
+      "prefix": "SRO"
+    },
+    {
+      "query": "Dubai SRP",
+      "prefix": "SRP"
+    },
+    {
+      "query": "Dubai SRQ",
+      "prefix": "SRQ"
+    },
+    {
+      "query": "Dubai SRR",
+      "prefix": "SRR"
+    },
+    {
+      "query": "Dubai SRS",
+      "prefix": "SRS"
+    },
+    {
+      "query": "Dubai SRT",
+      "prefix": "SRT"
+    },
+    {
+      "query": "Dubai SRU",
+      "prefix": "SRU"
+    },
+    {
+      "query": "Dubai SRV",
+      "prefix": "SRV"
+    },
+    {
+      "query": "Dubai SRW",
+      "prefix": "SRW"
+    },
+    {
+      "query": "Dubai SRX",
+      "prefix": "SRX"
+    },
+    {
+      "query": "Dubai SRY",
+      "prefix": "SRY"
+    },
+    {
+      "query": "Dubai SRZ",
+      "prefix": "SRZ"
+    },
+    {
+      "query": "Dubai SSA",
+      "prefix": "SSA"
+    },
+    {
+      "query": "Dubai SSB",
+      "prefix": "SSB"
+    },
+    {
+      "query": "Dubai SSC",
+      "prefix": "SSC"
+    },
+    {
+      "query": "Dubai SSD",
+      "prefix": "SSD"
+    },
+    {
+      "query": "Dubai SSE",
+      "prefix": "SSE"
+    },
+    {
+      "query": "Dubai SSF",
+      "prefix": "SSF"
+    },
+    {
+      "query": "Dubai SSG",
+      "prefix": "SSG"
+    },
+    {
+      "query": "Dubai SSH",
+      "prefix": "SSH"
+    },
+    {
+      "query": "Dubai SSI",
+      "prefix": "SSI"
+    },
+    {
+      "query": "Dubai SSJ",
+      "prefix": "SSJ"
+    },
+    {
+      "query": "Dubai SSK",
+      "prefix": "SSK"
+    },
+    {
+      "query": "Dubai SSL",
+      "prefix": "SSL"
+    },
+    {
+      "query": "Dubai SSM",
+      "prefix": "SSM"
+    },
+    {
+      "query": "Dubai SSN",
+      "prefix": "SSN"
+    },
+    {
+      "query": "Dubai SSO",
+      "prefix": "SSO"
+    },
+    {
+      "query": "Dubai SSP",
+      "prefix": "SSP"
+    },
+    {
+      "query": "Dubai SSQ",
+      "prefix": "SSQ"
+    },
+    {
+      "query": "Dubai SSR",
+      "prefix": "SSR"
+    },
+    {
+      "query": "Dubai SSS",
+      "prefix": "SSS"
+    },
+    {
+      "query": "Dubai SST",
+      "prefix": "SST"
+    },
+    {
+      "query": "Dubai SSU",
+      "prefix": "SSU"
+    },
+    {
+      "query": "Dubai SSV",
+      "prefix": "SSV"
+    },
+    {
+      "query": "Dubai SSW",
+      "prefix": "SSW"
+    },
+    {
+      "query": "Dubai SSX",
+      "prefix": "SSX"
+    },
+    {
+      "query": "Dubai SSY",
+      "prefix": "SSY"
+    },
+    {
+      "query": "Dubai SSZ",
+      "prefix": "SSZ"
+    },
+    {
+      "query": "Dubai STA",
+      "prefix": "STA"
+    },
+    {
+      "query": "Dubai STB",
+      "prefix": "STB"
+    },
+    {
+      "query": "Dubai STC",
+      "prefix": "STC"
+    },
+    {
+      "query": "Dubai STD",
+      "prefix": "STD"
+    },
+    {
+      "query": "Dubai STE",
+      "prefix": "STE"
+    },
+    {
+      "query": "Dubai STF",
+      "prefix": "STF"
+    },
+    {
+      "query": "Dubai STG",
+      "prefix": "STG"
+    },
+    {
+      "query": "Dubai STH",
+      "prefix": "STH"
+    },
+    {
+      "query": "Dubai STI",
+      "prefix": "STI"
+    },
+    {
+      "query": "Dubai STJ",
+      "prefix": "STJ"
+    },
+    {
+      "query": "Dubai STK",
+      "prefix": "STK"
+    },
+    {
+      "query": "Dubai STL",
+      "prefix": "STL"
+    },
+    {
+      "query": "Dubai STM",
+      "prefix": "STM"
+    },
+    {
+      "query": "Dubai STN",
+      "prefix": "STN"
+    },
+    {
+      "query": "Dubai STO",
+      "prefix": "STO"
+    },
+    {
+      "query": "Dubai STP",
+      "prefix": "STP"
+    },
+    {
+      "query": "Dubai STQ",
+      "prefix": "STQ"
+    },
+    {
+      "query": "Dubai STR",
+      "prefix": "STR"
+    },
+    {
+      "query": "Dubai STS",
+      "prefix": "STS"
+    },
+    {
+      "query": "Dubai STT",
+      "prefix": "STT"
+    },
+    {
+      "query": "Dubai STU",
+      "prefix": "STU"
+    },
+    {
+      "query": "Dubai STV",
+      "prefix": "STV"
+    },
+    {
+      "query": "Dubai STW",
+      "prefix": "STW"
+    },
+    {
+      "query": "Dubai STX",
+      "prefix": "STX"
+    },
+    {
+      "query": "Dubai STY",
+      "prefix": "STY"
+    },
+    {
+      "query": "Dubai STZ",
+      "prefix": "STZ"
+    },
+    {
+      "query": "Dubai SUA",
+      "prefix": "SUA"
+    },
+    {
+      "query": "Dubai SUB",
+      "prefix": "SUB"
+    },
+    {
+      "query": "Dubai SUC",
+      "prefix": "SUC"
+    },
+    {
+      "query": "Dubai SUD",
+      "prefix": "SUD"
+    },
+    {
+      "query": "Dubai SUE",
+      "prefix": "SUE"
+    },
+    {
+      "query": "Dubai SUF",
+      "prefix": "SUF"
+    },
+    {
+      "query": "Dubai SUG",
+      "prefix": "SUG"
+    },
+    {
+      "query": "Dubai SUH",
+      "prefix": "SUH"
+    },
+    {
+      "query": "Dubai SUI",
+      "prefix": "SUI"
+    },
+    {
+      "query": "Dubai SUJ",
+      "prefix": "SUJ"
+    },
+    {
+      "query": "Dubai SUK",
+      "prefix": "SUK"
+    },
+    {
+      "query": "Dubai SUL",
+      "prefix": "SUL"
+    },
+    {
+      "query": "Dubai SUM",
+      "prefix": "SUM"
+    },
+    {
+      "query": "Dubai SUN",
+      "prefix": "SUN"
+    },
+    {
+      "query": "Dubai SUO",
+      "prefix": "SUO"
+    },
+    {
+      "query": "Dubai SUP",
+      "prefix": "SUP"
+    },
+    {
+      "query": "Dubai SUQ",
+      "prefix": "SUQ"
+    },
+    {
+      "query": "Dubai SUR",
+      "prefix": "SUR"
+    },
+    {
+      "query": "Dubai SUS",
+      "prefix": "SUS"
+    },
+    {
+      "query": "Dubai SUT",
+      "prefix": "SUT"
+    },
+    {
+      "query": "Dubai SUU",
+      "prefix": "SUU"
+    },
+    {
+      "query": "Dubai SUV",
+      "prefix": "SUV"
+    },
+    {
+      "query": "Dubai SUW",
+      "prefix": "SUW"
+    },
+    {
+      "query": "Dubai SUX",
+      "prefix": "SUX"
+    },
+    {
+      "query": "Dubai SUY",
+      "prefix": "SUY"
+    },
+    {
+      "query": "Dubai SUZ",
+      "prefix": "SUZ"
+    },
+    {
+      "query": "Dubai SVA",
+      "prefix": "SVA"
+    },
+    {
+      "query": "Dubai SVB",
+      "prefix": "SVB"
+    },
+    {
+      "query": "Dubai SVC",
+      "prefix": "SVC"
+    },
+    {
+      "query": "Dubai SVD",
+      "prefix": "SVD"
+    },
+    {
+      "query": "Dubai SVE",
+      "prefix": "SVE"
+    },
+    {
+      "query": "Dubai SVF",
+      "prefix": "SVF"
+    },
+    {
+      "query": "Dubai SVG",
+      "prefix": "SVG"
+    },
+    {
+      "query": "Dubai SVH",
+      "prefix": "SVH"
+    },
+    {
+      "query": "Dubai SVI",
+      "prefix": "SVI"
+    },
+    {
+      "query": "Dubai SVJ",
+      "prefix": "SVJ"
+    },
+    {
+      "query": "Dubai SVK",
+      "prefix": "SVK"
+    },
+    {
+      "query": "Dubai SVL",
+      "prefix": "SVL"
+    },
+    {
+      "query": "Dubai SVM",
+      "prefix": "SVM"
+    },
+    {
+      "query": "Dubai SVN",
+      "prefix": "SVN"
+    },
+    {
+      "query": "Dubai SVO",
+      "prefix": "SVO"
+    },
+    {
+      "query": "Dubai SVP",
+      "prefix": "SVP"
+    },
+    {
+      "query": "Dubai SVQ",
+      "prefix": "SVQ"
+    },
+    {
+      "query": "Dubai SVR",
+      "prefix": "SVR"
+    },
+    {
+      "query": "Dubai SVS",
+      "prefix": "SVS"
+    },
+    {
+      "query": "Dubai SVT",
+      "prefix": "SVT"
+    },
+    {
+      "query": "Dubai SVU",
+      "prefix": "SVU"
+    },
+    {
+      "query": "Dubai SVV",
+      "prefix": "SVV"
+    },
+    {
+      "query": "Dubai SVW",
+      "prefix": "SVW"
+    },
+    {
+      "query": "Dubai SVX",
+      "prefix": "SVX"
+    },
+    {
+      "query": "Dubai SVY",
+      "prefix": "SVY"
+    },
+    {
+      "query": "Dubai SVZ",
+      "prefix": "SVZ"
+    },
+    {
+      "query": "Dubai SWA",
+      "prefix": "SWA"
+    },
+    {
+      "query": "Dubai SWB",
+      "prefix": "SWB"
+    },
+    {
+      "query": "Dubai SWC",
+      "prefix": "SWC"
+    },
+    {
+      "query": "Dubai SWD",
+      "prefix": "SWD"
+    },
+    {
+      "query": "Dubai SWE",
+      "prefix": "SWE"
+    },
+    {
+      "query": "Dubai SWF",
+      "prefix": "SWF"
+    },
+    {
+      "query": "Dubai SWG",
+      "prefix": "SWG"
+    },
+    {
+      "query": "Dubai SWH",
+      "prefix": "SWH"
+    },
+    {
+      "query": "Dubai SWI",
+      "prefix": "SWI"
+    },
+    {
+      "query": "Dubai SWJ",
+      "prefix": "SWJ"
+    },
+    {
+      "query": "Dubai SWK",
+      "prefix": "SWK"
+    },
+    {
+      "query": "Dubai SWL",
+      "prefix": "SWL"
+    },
+    {
+      "query": "Dubai SWM",
+      "prefix": "SWM"
+    },
+    {
+      "query": "Dubai SWN",
+      "prefix": "SWN"
+    },
+    {
+      "query": "Dubai SWO",
+      "prefix": "SWO"
+    },
+    {
+      "query": "Dubai SWP",
+      "prefix": "SWP"
+    },
+    {
+      "query": "Dubai SWQ",
+      "prefix": "SWQ"
+    },
+    {
+      "query": "Dubai SWR",
+      "prefix": "SWR"
+    },
+    {
+      "query": "Dubai SWS",
+      "prefix": "SWS"
+    },
+    {
+      "query": "Dubai SWT",
+      "prefix": "SWT"
+    },
+    {
+      "query": "Dubai SWU",
+      "prefix": "SWU"
+    },
+    {
+      "query": "Dubai SWV",
+      "prefix": "SWV"
+    },
+    {
+      "query": "Dubai SWW",
+      "prefix": "SWW"
+    },
+    {
+      "query": "Dubai SWX",
+      "prefix": "SWX"
+    },
+    {
+      "query": "Dubai SWY",
+      "prefix": "SWY"
+    },
+    {
+      "query": "Dubai SWZ",
+      "prefix": "SWZ"
+    },
+    {
+      "query": "Dubai SXA",
+      "prefix": "SXA"
+    },
+    {
+      "query": "Dubai SXB",
+      "prefix": "SXB"
+    },
+    {
+      "query": "Dubai SXC",
+      "prefix": "SXC"
+    },
+    {
+      "query": "Dubai SXD",
+      "prefix": "SXD"
+    },
+    {
+      "query": "Dubai SXE",
+      "prefix": "SXE"
+    },
+    {
+      "query": "Dubai SXF",
+      "prefix": "SXF"
+    },
+    {
+      "query": "Dubai SXG",
+      "prefix": "SXG"
+    },
+    {
+      "query": "Dubai SXH",
+      "prefix": "SXH"
+    },
+    {
+      "query": "Dubai SXI",
+      "prefix": "SXI"
+    },
+    {
+      "query": "Dubai SXJ",
+      "prefix": "SXJ"
+    },
+    {
+      "query": "Dubai SXK",
+      "prefix": "SXK"
+    },
+    {
+      "query": "Dubai SXL",
+      "prefix": "SXL"
+    },
+    {
+      "query": "Dubai SXM",
+      "prefix": "SXM"
+    },
+    {
+      "query": "Dubai SXN",
+      "prefix": "SXN"
+    },
+    {
+      "query": "Dubai SXO",
+      "prefix": "SXO"
+    },
+    {
+      "query": "Dubai SXP",
+      "prefix": "SXP"
+    },
+    {
+      "query": "Dubai SXQ",
+      "prefix": "SXQ"
+    },
+    {
+      "query": "Dubai SXR",
+      "prefix": "SXR"
+    },
+    {
+      "query": "Dubai SXS",
+      "prefix": "SXS"
+    },
+    {
+      "query": "Dubai SXT",
+      "prefix": "SXT"
+    },
+    {
+      "query": "Dubai SXU",
+      "prefix": "SXU"
+    },
+    {
+      "query": "Dubai SXV",
+      "prefix": "SXV"
+    },
+    {
+      "query": "Dubai SXW",
+      "prefix": "SXW"
+    },
+    {
+      "query": "Dubai SXX",
+      "prefix": "SXX"
+    },
+    {
+      "query": "Dubai SXY",
+      "prefix": "SXY"
+    },
+    {
+      "query": "Dubai SXZ",
+      "prefix": "SXZ"
+    },
+    {
+      "query": "Dubai SYA",
+      "prefix": "SYA"
+    },
+    {
+      "query": "Dubai SYB",
+      "prefix": "SYB"
+    },
+    {
+      "query": "Dubai SYC",
+      "prefix": "SYC"
+    },
+    {
+      "query": "Dubai SYD",
+      "prefix": "SYD"
+    },
+    {
+      "query": "Dubai SYE",
+      "prefix": "SYE"
+    },
+    {
+      "query": "Dubai SYF",
+      "prefix": "SYF"
+    },
+    {
+      "query": "Dubai SYG",
+      "prefix": "SYG"
+    },
+    {
+      "query": "Dubai SYH",
+      "prefix": "SYH"
+    },
+    {
+      "query": "Dubai SYI",
+      "prefix": "SYI"
+    },
+    {
+      "query": "Dubai SYJ",
+      "prefix": "SYJ"
+    },
+    {
+      "query": "Dubai SYK",
+      "prefix": "SYK"
+    },
+    {
+      "query": "Dubai SYL",
+      "prefix": "SYL"
+    },
+    {
+      "query": "Dubai SYM",
+      "prefix": "SYM"
+    },
+    {
+      "query": "Dubai SYN",
+      "prefix": "SYN"
+    },
+    {
+      "query": "Dubai SYO",
+      "prefix": "SYO"
+    },
+    {
+      "query": "Dubai SYP",
+      "prefix": "SYP"
+    },
+    {
+      "query": "Dubai SYQ",
+      "prefix": "SYQ"
+    },
+    {
+      "query": "Dubai SYR",
+      "prefix": "SYR"
+    },
+    {
+      "query": "Dubai SYS",
+      "prefix": "SYS"
+    },
+    {
+      "query": "Dubai SYT",
+      "prefix": "SYT"
+    },
+    {
+      "query": "Dubai SYU",
+      "prefix": "SYU"
+    },
+    {
+      "query": "Dubai SYV",
+      "prefix": "SYV"
+    },
+    {
+      "query": "Dubai SYW",
+      "prefix": "SYW"
+    },
+    {
+      "query": "Dubai SYX",
+      "prefix": "SYX"
+    },
+    {
+      "query": "Dubai SYY",
+      "prefix": "SYY"
+    },
+    {
+      "query": "Dubai SYZ",
+      "prefix": "SYZ"
+    },
+    {
+      "query": "Dubai SZA",
+      "prefix": "SZA"
+    },
+    {
+      "query": "Dubai SZB",
+      "prefix": "SZB"
+    },
+    {
+      "query": "Dubai SZC",
+      "prefix": "SZC"
+    },
+    {
+      "query": "Dubai SZD",
+      "prefix": "SZD"
+    },
+    {
+      "query": "Dubai SZE",
+      "prefix": "SZE"
+    },
+    {
+      "query": "Dubai SZF",
+      "prefix": "SZF"
+    },
+    {
+      "query": "Dubai SZG",
+      "prefix": "SZG"
+    },
+    {
+      "query": "Dubai SZH",
+      "prefix": "SZH"
+    },
+    {
+      "query": "Dubai SZI",
+      "prefix": "SZI"
+    },
+    {
+      "query": "Dubai SZJ",
+      "prefix": "SZJ"
+    },
+    {
+      "query": "Dubai SZK",
+      "prefix": "SZK"
+    },
+    {
+      "query": "Dubai SZL",
+      "prefix": "SZL"
+    },
+    {
+      "query": "Dubai SZM",
+      "prefix": "SZM"
+    },
+    {
+      "query": "Dubai SZN",
+      "prefix": "SZN"
+    },
+    {
+      "query": "Dubai SZO",
+      "prefix": "SZO"
+    },
+    {
+      "query": "Dubai SZP",
+      "prefix": "SZP"
+    },
+    {
+      "query": "Dubai SZQ",
+      "prefix": "SZQ"
+    },
+    {
+      "query": "Dubai SZR",
+      "prefix": "SZR"
+    },
+    {
+      "query": "Dubai SZS",
+      "prefix": "SZS"
+    },
+    {
+      "query": "Dubai SZT",
+      "prefix": "SZT"
+    },
+    {
+      "query": "Dubai SZU",
+      "prefix": "SZU"
+    },
+    {
+      "query": "Dubai SZV",
+      "prefix": "SZV"
+    },
+    {
+      "query": "Dubai SZW",
+      "prefix": "SZW"
+    },
+    {
+      "query": "Dubai SZX",
+      "prefix": "SZX"
+    },
+    {
+      "query": "Dubai SZY",
+      "prefix": "SZY"
+    },
+    {
+      "query": "Dubai SZZ",
+      "prefix": "SZZ"
+    },
+    {
+      "query": "Dubai TAA",
+      "prefix": "TAA"
+    },
+    {
+      "query": "Dubai TAB",
+      "prefix": "TAB"
+    },
+    {
+      "query": "Dubai TAC",
+      "prefix": "TAC"
+    },
+    {
+      "query": "Dubai TAD",
+      "prefix": "TAD"
+    },
+    {
+      "query": "Dubai TAE",
+      "prefix": "TAE"
+    },
+    {
+      "query": "Dubai TAF",
+      "prefix": "TAF"
+    },
+    {
+      "query": "Dubai TAG",
+      "prefix": "TAG"
+    },
+    {
+      "query": "Dubai TAH",
+      "prefix": "TAH"
+    },
+    {
+      "query": "Dubai TAI",
+      "prefix": "TAI"
+    },
+    {
+      "query": "Dubai TAJ",
+      "prefix": "TAJ"
+    },
+    {
+      "query": "Dubai TAK",
+      "prefix": "TAK"
+    },
+    {
+      "query": "Dubai TAL",
+      "prefix": "TAL"
+    },
+    {
+      "query": "Dubai TAM",
+      "prefix": "TAM"
+    },
+    {
+      "query": "Dubai TAN",
+      "prefix": "TAN"
+    },
+    {
+      "query": "Dubai TAO",
+      "prefix": "TAO"
+    },
+    {
+      "query": "Dubai TAP",
+      "prefix": "TAP"
+    },
+    {
+      "query": "Dubai TAQ",
+      "prefix": "TAQ"
+    },
+    {
+      "query": "Dubai TAR",
+      "prefix": "TAR"
+    },
+    {
+      "query": "Dubai TAS",
+      "prefix": "TAS"
+    },
+    {
+      "query": "Dubai TAT",
+      "prefix": "TAT"
+    },
+    {
+      "query": "Dubai TAU",
+      "prefix": "TAU"
+    },
+    {
+      "query": "Dubai TAV",
+      "prefix": "TAV"
+    },
+    {
+      "query": "Dubai TAW",
+      "prefix": "TAW"
+    },
+    {
+      "query": "Dubai TAX",
+      "prefix": "TAX"
+    },
+    {
+      "query": "Dubai TAY",
+      "prefix": "TAY"
+    },
+    {
+      "query": "Dubai TAZ",
+      "prefix": "TAZ"
+    },
+    {
+      "query": "Dubai TBA",
+      "prefix": "TBA"
+    },
+    {
+      "query": "Dubai TBB",
+      "prefix": "TBB"
+    },
+    {
+      "query": "Dubai TBC",
+      "prefix": "TBC"
+    },
+    {
+      "query": "Dubai TBD",
+      "prefix": "TBD"
+    },
+    {
+      "query": "Dubai TBE",
+      "prefix": "TBE"
+    },
+    {
+      "query": "Dubai TBF",
+      "prefix": "TBF"
+    },
+    {
+      "query": "Dubai TBG",
+      "prefix": "TBG"
+    },
+    {
+      "query": "Dubai TBH",
+      "prefix": "TBH"
+    },
+    {
+      "query": "Dubai TBI",
+      "prefix": "TBI"
+    },
+    {
+      "query": "Dubai TBJ",
+      "prefix": "TBJ"
+    },
+    {
+      "query": "Dubai TBK",
+      "prefix": "TBK"
+    },
+    {
+      "query": "Dubai TBL",
+      "prefix": "TBL"
+    },
+    {
+      "query": "Dubai TBM",
+      "prefix": "TBM"
+    },
+    {
+      "query": "Dubai TBN",
+      "prefix": "TBN"
+    },
+    {
+      "query": "Dubai TBO",
+      "prefix": "TBO"
+    },
+    {
+      "query": "Dubai TBP",
+      "prefix": "TBP"
+    },
+    {
+      "query": "Dubai TBQ",
+      "prefix": "TBQ"
+    },
+    {
+      "query": "Dubai TBR",
+      "prefix": "TBR"
+    },
+    {
+      "query": "Dubai TBS",
+      "prefix": "TBS"
+    },
+    {
+      "query": "Dubai TBT",
+      "prefix": "TBT"
+    },
+    {
+      "query": "Dubai TBU",
+      "prefix": "TBU"
+    },
+    {
+      "query": "Dubai TBV",
+      "prefix": "TBV"
+    },
+    {
+      "query": "Dubai TBW",
+      "prefix": "TBW"
+    },
+    {
+      "query": "Dubai TBX",
+      "prefix": "TBX"
+    },
+    {
+      "query": "Dubai TBY",
+      "prefix": "TBY"
+    },
+    {
+      "query": "Dubai TBZ",
+      "prefix": "TBZ"
+    },
+    {
+      "query": "Dubai TCA",
+      "prefix": "TCA"
+    },
+    {
+      "query": "Dubai TCB",
+      "prefix": "TCB"
+    },
+    {
+      "query": "Dubai TCC",
+      "prefix": "TCC"
+    },
+    {
+      "query": "Dubai TCD",
+      "prefix": "TCD"
+    },
+    {
+      "query": "Dubai TCE",
+      "prefix": "TCE"
+    },
+    {
+      "query": "Dubai TCF",
+      "prefix": "TCF"
+    },
+    {
+      "query": "Dubai TCG",
+      "prefix": "TCG"
+    },
+    {
+      "query": "Dubai TCH",
+      "prefix": "TCH"
+    },
+    {
+      "query": "Dubai TCI",
+      "prefix": "TCI"
+    },
+    {
+      "query": "Dubai TCJ",
+      "prefix": "TCJ"
+    },
+    {
+      "query": "Dubai TCK",
+      "prefix": "TCK"
+    },
+    {
+      "query": "Dubai TCL",
+      "prefix": "TCL"
+    },
+    {
+      "query": "Dubai TCM",
+      "prefix": "TCM"
+    },
+    {
+      "query": "Dubai TCN",
+      "prefix": "TCN"
+    },
+    {
+      "query": "Dubai TCO",
+      "prefix": "TCO"
+    },
+    {
+      "query": "Dubai TCP",
+      "prefix": "TCP"
+    },
+    {
+      "query": "Dubai TCQ",
+      "prefix": "TCQ"
+    },
+    {
+      "query": "Dubai TCR",
+      "prefix": "TCR"
+    },
+    {
+      "query": "Dubai TCS",
+      "prefix": "TCS"
+    },
+    {
+      "query": "Dubai TCT",
+      "prefix": "TCT"
+    },
+    {
+      "query": "Dubai TCU",
+      "prefix": "TCU"
+    },
+    {
+      "query": "Dubai TCV",
+      "prefix": "TCV"
+    },
+    {
+      "query": "Dubai TCW",
+      "prefix": "TCW"
+    },
+    {
+      "query": "Dubai TCX",
+      "prefix": "TCX"
+    },
+    {
+      "query": "Dubai TCY",
+      "prefix": "TCY"
+    },
+    {
+      "query": "Dubai TCZ",
+      "prefix": "TCZ"
+    },
+    {
+      "query": "Dubai TDA",
+      "prefix": "TDA"
+    },
+    {
+      "query": "Dubai TDB",
+      "prefix": "TDB"
+    },
+    {
+      "query": "Dubai TDC",
+      "prefix": "TDC"
+    },
+    {
+      "query": "Dubai TDD",
+      "prefix": "TDD"
+    },
+    {
+      "query": "Dubai TDE",
+      "prefix": "TDE"
+    },
+    {
+      "query": "Dubai TDF",
+      "prefix": "TDF"
+    },
+    {
+      "query": "Dubai TDG",
+      "prefix": "TDG"
+    },
+    {
+      "query": "Dubai TDH",
+      "prefix": "TDH"
+    },
+    {
+      "query": "Dubai TDI",
+      "prefix": "TDI"
+    },
+    {
+      "query": "Dubai TDJ",
+      "prefix": "TDJ"
+    },
+    {
+      "query": "Dubai TDK",
+      "prefix": "TDK"
+    },
+    {
+      "query": "Dubai TDL",
+      "prefix": "TDL"
+    },
+    {
+      "query": "Dubai TDM",
+      "prefix": "TDM"
+    },
+    {
+      "query": "Dubai TDN",
+      "prefix": "TDN"
+    },
+    {
+      "query": "Dubai TDO",
+      "prefix": "TDO"
+    },
+    {
+      "query": "Dubai TDP",
+      "prefix": "TDP"
+    },
+    {
+      "query": "Dubai TDQ",
+      "prefix": "TDQ"
+    },
+    {
+      "query": "Dubai TDR",
+      "prefix": "TDR"
+    },
+    {
+      "query": "Dubai TDS",
+      "prefix": "TDS"
+    },
+    {
+      "query": "Dubai TDT",
+      "prefix": "TDT"
+    },
+    {
+      "query": "Dubai TDU",
+      "prefix": "TDU"
+    },
+    {
+      "query": "Dubai TDV",
+      "prefix": "TDV"
+    },
+    {
+      "query": "Dubai TDW",
+      "prefix": "TDW"
+    },
+    {
+      "query": "Dubai TDX",
+      "prefix": "TDX"
+    },
+    {
+      "query": "Dubai TDY",
+      "prefix": "TDY"
+    },
+    {
+      "query": "Dubai TDZ",
+      "prefix": "TDZ"
+    },
+    {
+      "query": "Dubai TEA",
+      "prefix": "TEA"
+    },
+    {
+      "query": "Dubai TEB",
+      "prefix": "TEB"
+    },
+    {
+      "query": "Dubai TEC",
+      "prefix": "TEC"
+    },
+    {
+      "query": "Dubai TED",
+      "prefix": "TED"
+    },
+    {
+      "query": "Dubai TEE",
+      "prefix": "TEE"
+    },
+    {
+      "query": "Dubai TEF",
+      "prefix": "TEF"
+    },
+    {
+      "query": "Dubai TEG",
+      "prefix": "TEG"
+    },
+    {
+      "query": "Dubai TEH",
+      "prefix": "TEH"
+    },
+    {
+      "query": "Dubai TEI",
+      "prefix": "TEI"
+    },
+    {
+      "query": "Dubai TEJ",
+      "prefix": "TEJ"
+    },
+    {
+      "query": "Dubai TEK",
+      "prefix": "TEK"
+    },
+    {
+      "query": "Dubai TEL",
+      "prefix": "TEL"
+    },
+    {
+      "query": "Dubai TEM",
+      "prefix": "TEM"
+    },
+    {
+      "query": "Dubai TEN",
+      "prefix": "TEN"
+    },
+    {
+      "query": "Dubai TEO",
+      "prefix": "TEO"
+    },
+    {
+      "query": "Dubai TEP",
+      "prefix": "TEP"
+    },
+    {
+      "query": "Dubai TEQ",
+      "prefix": "TEQ"
+    },
+    {
+      "query": "Dubai TER",
+      "prefix": "TER"
+    },
+    {
+      "query": "Dubai TES",
+      "prefix": "TES"
+    },
+    {
+      "query": "Dubai TET",
+      "prefix": "TET"
+    },
+    {
+      "query": "Dubai TEU",
+      "prefix": "TEU"
+    },
+    {
+      "query": "Dubai TEV",
+      "prefix": "TEV"
+    },
+    {
+      "query": "Dubai TEW",
+      "prefix": "TEW"
+    },
+    {
+      "query": "Dubai TEX",
+      "prefix": "TEX"
+    },
+    {
+      "query": "Dubai TEY",
+      "prefix": "TEY"
+    },
+    {
+      "query": "Dubai TEZ",
+      "prefix": "TEZ"
+    },
+    {
+      "query": "Dubai TFA",
+      "prefix": "TFA"
+    },
+    {
+      "query": "Dubai TFB",
+      "prefix": "TFB"
+    },
+    {
+      "query": "Dubai TFC",
+      "prefix": "TFC"
+    },
+    {
+      "query": "Dubai TFD",
+      "prefix": "TFD"
+    },
+    {
+      "query": "Dubai TFE",
+      "prefix": "TFE"
+    },
+    {
+      "query": "Dubai TFF",
+      "prefix": "TFF"
+    },
+    {
+      "query": "Dubai TFG",
+      "prefix": "TFG"
+    },
+    {
+      "query": "Dubai TFH",
+      "prefix": "TFH"
+    },
+    {
+      "query": "Dubai TFI",
+      "prefix": "TFI"
+    },
+    {
+      "query": "Dubai TFJ",
+      "prefix": "TFJ"
+    },
+    {
+      "query": "Dubai TFK",
+      "prefix": "TFK"
+    },
+    {
+      "query": "Dubai TFL",
+      "prefix": "TFL"
+    },
+    {
+      "query": "Dubai TFM",
+      "prefix": "TFM"
+    },
+    {
+      "query": "Dubai TFN",
+      "prefix": "TFN"
+    },
+    {
+      "query": "Dubai TFO",
+      "prefix": "TFO"
+    },
+    {
+      "query": "Dubai TFP",
+      "prefix": "TFP"
+    },
+    {
+      "query": "Dubai TFQ",
+      "prefix": "TFQ"
+    },
+    {
+      "query": "Dubai TFR",
+      "prefix": "TFR"
+    },
+    {
+      "query": "Dubai TFS",
+      "prefix": "TFS"
+    },
+    {
+      "query": "Dubai TFT",
+      "prefix": "TFT"
+    },
+    {
+      "query": "Dubai TFU",
+      "prefix": "TFU"
+    },
+    {
+      "query": "Dubai TFV",
+      "prefix": "TFV"
+    },
+    {
+      "query": "Dubai TFW",
+      "prefix": "TFW"
+    },
+    {
+      "query": "Dubai TFX",
+      "prefix": "TFX"
+    },
+    {
+      "query": "Dubai TFY",
+      "prefix": "TFY"
+    },
+    {
+      "query": "Dubai TFZ",
+      "prefix": "TFZ"
+    },
+    {
+      "query": "Dubai TGA",
+      "prefix": "TGA"
+    },
+    {
+      "query": "Dubai TGB",
+      "prefix": "TGB"
+    },
+    {
+      "query": "Dubai TGC",
+      "prefix": "TGC"
+    },
+    {
+      "query": "Dubai TGD",
+      "prefix": "TGD"
+    },
+    {
+      "query": "Dubai TGE",
+      "prefix": "TGE"
+    },
+    {
+      "query": "Dubai TGF",
+      "prefix": "TGF"
+    },
+    {
+      "query": "Dubai TGG",
+      "prefix": "TGG"
+    },
+    {
+      "query": "Dubai TGH",
+      "prefix": "TGH"
+    },
+    {
+      "query": "Dubai TGI",
+      "prefix": "TGI"
+    },
+    {
+      "query": "Dubai TGJ",
+      "prefix": "TGJ"
+    },
+    {
+      "query": "Dubai TGK",
+      "prefix": "TGK"
+    },
+    {
+      "query": "Dubai TGL",
+      "prefix": "TGL"
+    },
+    {
+      "query": "Dubai TGM",
+      "prefix": "TGM"
+    },
+    {
+      "query": "Dubai TGN",
+      "prefix": "TGN"
+    },
+    {
+      "query": "Dubai TGO",
+      "prefix": "TGO"
+    },
+    {
+      "query": "Dubai TGP",
+      "prefix": "TGP"
+    },
+    {
+      "query": "Dubai TGQ",
+      "prefix": "TGQ"
+    },
+    {
+      "query": "Dubai TGR",
+      "prefix": "TGR"
+    },
+    {
+      "query": "Dubai TGS",
+      "prefix": "TGS"
+    },
+    {
+      "query": "Dubai TGT",
+      "prefix": "TGT"
+    },
+    {
+      "query": "Dubai TGU",
+      "prefix": "TGU"
+    },
+    {
+      "query": "Dubai TGV",
+      "prefix": "TGV"
+    },
+    {
+      "query": "Dubai TGW",
+      "prefix": "TGW"
+    },
+    {
+      "query": "Dubai TGX",
+      "prefix": "TGX"
+    },
+    {
+      "query": "Dubai TGY",
+      "prefix": "TGY"
+    },
+    {
+      "query": "Dubai TGZ",
+      "prefix": "TGZ"
+    },
+    {
+      "query": "Dubai THA",
+      "prefix": "THA"
+    },
+    {
+      "query": "Dubai THB",
+      "prefix": "THB"
+    },
+    {
+      "query": "Dubai THC",
+      "prefix": "THC"
+    },
+    {
+      "query": "Dubai THD",
+      "prefix": "THD"
+    },
+    {
+      "query": "Dubai THE",
+      "prefix": "THE"
+    },
+    {
+      "query": "Dubai THF",
+      "prefix": "THF"
+    },
+    {
+      "query": "Dubai THG",
+      "prefix": "THG"
+    },
+    {
+      "query": "Dubai THH",
+      "prefix": "THH"
+    },
+    {
+      "query": "Dubai THI",
+      "prefix": "THI"
+    },
+    {
+      "query": "Dubai THJ",
+      "prefix": "THJ"
+    },
+    {
+      "query": "Dubai THK",
+      "prefix": "THK"
+    },
+    {
+      "query": "Dubai THL",
+      "prefix": "THL"
+    },
+    {
+      "query": "Dubai THM",
+      "prefix": "THM"
+    },
+    {
+      "query": "Dubai THN",
+      "prefix": "THN"
+    },
+    {
+      "query": "Dubai THO",
+      "prefix": "THO"
+    },
+    {
+      "query": "Dubai THP",
+      "prefix": "THP"
+    },
+    {
+      "query": "Dubai THQ",
+      "prefix": "THQ"
+    },
+    {
+      "query": "Dubai THR",
+      "prefix": "THR"
+    },
+    {
+      "query": "Dubai THS",
+      "prefix": "THS"
+    },
+    {
+      "query": "Dubai THT",
+      "prefix": "THT"
+    },
+    {
+      "query": "Dubai THU",
+      "prefix": "THU"
+    },
+    {
+      "query": "Dubai THV",
+      "prefix": "THV"
+    },
+    {
+      "query": "Dubai THW",
+      "prefix": "THW"
+    },
+    {
+      "query": "Dubai THX",
+      "prefix": "THX"
+    },
+    {
+      "query": "Dubai THY",
+      "prefix": "THY"
+    },
+    {
+      "query": "Dubai THZ",
+      "prefix": "THZ"
+    },
+    {
+      "query": "Dubai TIA",
+      "prefix": "TIA"
+    },
+    {
+      "query": "Dubai TIB",
+      "prefix": "TIB"
+    },
+    {
+      "query": "Dubai TIC",
+      "prefix": "TIC"
+    },
+    {
+      "query": "Dubai TID",
+      "prefix": "TID"
+    },
+    {
+      "query": "Dubai TIE",
+      "prefix": "TIE"
+    },
+    {
+      "query": "Dubai TIF",
+      "prefix": "TIF"
+    },
+    {
+      "query": "Dubai TIG",
+      "prefix": "TIG"
+    },
+    {
+      "query": "Dubai TIH",
+      "prefix": "TIH"
+    },
+    {
+      "query": "Dubai TII",
+      "prefix": "TII"
+    },
+    {
+      "query": "Dubai TIJ",
+      "prefix": "TIJ"
+    },
+    {
+      "query": "Dubai TIK",
+      "prefix": "TIK"
+    },
+    {
+      "query": "Dubai TIL",
+      "prefix": "TIL"
+    },
+    {
+      "query": "Dubai TIM",
+      "prefix": "TIM"
+    },
+    {
+      "query": "Dubai TIN",
+      "prefix": "TIN"
+    },
+    {
+      "query": "Dubai TIO",
+      "prefix": "TIO"
+    },
+    {
+      "query": "Dubai TIP",
+      "prefix": "TIP"
+    },
+    {
+      "query": "Dubai TIQ",
+      "prefix": "TIQ"
+    },
+    {
+      "query": "Dubai TIR",
+      "prefix": "TIR"
+    },
+    {
+      "query": "Dubai TIS",
+      "prefix": "TIS"
+    },
+    {
+      "query": "Dubai TIT",
+      "prefix": "TIT"
+    },
+    {
+      "query": "Dubai TIU",
+      "prefix": "TIU"
+    },
+    {
+      "query": "Dubai TIV",
+      "prefix": "TIV"
+    },
+    {
+      "query": "Dubai TIW",
+      "prefix": "TIW"
+    },
+    {
+      "query": "Dubai TIX",
+      "prefix": "TIX"
+    },
+    {
+      "query": "Dubai TIY",
+      "prefix": "TIY"
+    },
+    {
+      "query": "Dubai TIZ",
+      "prefix": "TIZ"
+    },
+    {
+      "query": "Dubai TJA",
+      "prefix": "TJA"
+    },
+    {
+      "query": "Dubai TJB",
+      "prefix": "TJB"
+    },
+    {
+      "query": "Dubai TJC",
+      "prefix": "TJC"
+    },
+    {
+      "query": "Dubai TJD",
+      "prefix": "TJD"
+    },
+    {
+      "query": "Dubai TJE",
+      "prefix": "TJE"
+    },
+    {
+      "query": "Dubai TJF",
+      "prefix": "TJF"
+    },
+    {
+      "query": "Dubai TJG",
+      "prefix": "TJG"
+    },
+    {
+      "query": "Dubai TJH",
+      "prefix": "TJH"
+    },
+    {
+      "query": "Dubai TJI",
+      "prefix": "TJI"
+    },
+    {
+      "query": "Dubai TJJ",
+      "prefix": "TJJ"
+    },
+    {
+      "query": "Dubai TJK",
+      "prefix": "TJK"
+    },
+    {
+      "query": "Dubai TJL",
+      "prefix": "TJL"
+    },
+    {
+      "query": "Dubai TJM",
+      "prefix": "TJM"
+    },
+    {
+      "query": "Dubai TJN",
+      "prefix": "TJN"
+    },
+    {
+      "query": "Dubai TJO",
+      "prefix": "TJO"
+    },
+    {
+      "query": "Dubai TJP",
+      "prefix": "TJP"
+    },
+    {
+      "query": "Dubai TJQ",
+      "prefix": "TJQ"
+    },
+    {
+      "query": "Dubai TJR",
+      "prefix": "TJR"
+    },
+    {
+      "query": "Dubai TJS",
+      "prefix": "TJS"
+    },
+    {
+      "query": "Dubai TJT",
+      "prefix": "TJT"
+    },
+    {
+      "query": "Dubai TJU",
+      "prefix": "TJU"
+    },
+    {
+      "query": "Dubai TJV",
+      "prefix": "TJV"
+    },
+    {
+      "query": "Dubai TJW",
+      "prefix": "TJW"
+    },
+    {
+      "query": "Dubai TJX",
+      "prefix": "TJX"
+    },
+    {
+      "query": "Dubai TJY",
+      "prefix": "TJY"
+    },
+    {
+      "query": "Dubai TJZ",
+      "prefix": "TJZ"
+    },
+    {
+      "query": "Dubai TKA",
+      "prefix": "TKA"
+    },
+    {
+      "query": "Dubai TKB",
+      "prefix": "TKB"
+    },
+    {
+      "query": "Dubai TKC",
+      "prefix": "TKC"
+    },
+    {
+      "query": "Dubai TKD",
+      "prefix": "TKD"
+    },
+    {
+      "query": "Dubai TKE",
+      "prefix": "TKE"
+    },
+    {
+      "query": "Dubai TKF",
+      "prefix": "TKF"
+    },
+    {
+      "query": "Dubai TKG",
+      "prefix": "TKG"
+    },
+    {
+      "query": "Dubai TKH",
+      "prefix": "TKH"
+    },
+    {
+      "query": "Dubai TKI",
+      "prefix": "TKI"
+    },
+    {
+      "query": "Dubai TKJ",
+      "prefix": "TKJ"
+    },
+    {
+      "query": "Dubai TKK",
+      "prefix": "TKK"
+    },
+    {
+      "query": "Dubai TKL",
+      "prefix": "TKL"
+    },
+    {
+      "query": "Dubai TKM",
+      "prefix": "TKM"
+    },
+    {
+      "query": "Dubai TKN",
+      "prefix": "TKN"
+    },
+    {
+      "query": "Dubai TKO",
+      "prefix": "TKO"
+    },
+    {
+      "query": "Dubai TKP",
+      "prefix": "TKP"
+    },
+    {
+      "query": "Dubai TKQ",
+      "prefix": "TKQ"
+    },
+    {
+      "query": "Dubai TKR",
+      "prefix": "TKR"
+    },
+    {
+      "query": "Dubai TKS",
+      "prefix": "TKS"
+    },
+    {
+      "query": "Dubai TKT",
+      "prefix": "TKT"
+    },
+    {
+      "query": "Dubai TKU",
+      "prefix": "TKU"
+    },
+    {
+      "query": "Dubai TKV",
+      "prefix": "TKV"
+    },
+    {
+      "query": "Dubai TKW",
+      "prefix": "TKW"
+    },
+    {
+      "query": "Dubai TKX",
+      "prefix": "TKX"
+    },
+    {
+      "query": "Dubai TKY",
+      "prefix": "TKY"
+    },
+    {
+      "query": "Dubai TKZ",
+      "prefix": "TKZ"
+    },
+    {
+      "query": "Dubai TMA",
+      "prefix": "TMA"
+    },
+    {
+      "query": "Dubai TMB",
+      "prefix": "TMB"
+    },
+    {
+      "query": "Dubai TMC",
+      "prefix": "TMC"
+    },
+    {
+      "query": "Dubai TMD",
+      "prefix": "TMD"
+    },
+    {
+      "query": "Dubai TME",
+      "prefix": "TME"
+    },
+    {
+      "query": "Dubai TMF",
+      "prefix": "TMF"
+    },
+    {
+      "query": "Dubai TMG",
+      "prefix": "TMG"
+    },
+    {
+      "query": "Dubai TMH",
+      "prefix": "TMH"
+    },
+    {
+      "query": "Dubai TMI",
+      "prefix": "TMI"
+    },
+    {
+      "query": "Dubai TMJ",
+      "prefix": "TMJ"
+    },
+    {
+      "query": "Dubai TMK",
+      "prefix": "TMK"
+    },
+    {
+      "query": "Dubai TML",
+      "prefix": "TML"
+    },
+    {
+      "query": "Dubai TMM",
+      "prefix": "TMM"
+    },
+    {
+      "query": "Dubai TMN",
+      "prefix": "TMN"
+    },
+    {
+      "query": "Dubai TMO",
+      "prefix": "TMO"
+    },
+    {
+      "query": "Dubai TMP",
+      "prefix": "TMP"
+    },
+    {
+      "query": "Dubai TMQ",
+      "prefix": "TMQ"
+    },
+    {
+      "query": "Dubai TMR",
+      "prefix": "TMR"
+    },
+    {
+      "query": "Dubai TMS",
+      "prefix": "TMS"
+    },
+    {
+      "query": "Dubai TMT",
+      "prefix": "TMT"
+    },
+    {
+      "query": "Dubai TMU",
+      "prefix": "TMU"
+    },
+    {
+      "query": "Dubai TMV",
+      "prefix": "TMV"
+    },
+    {
+      "query": "Dubai TMW",
+      "prefix": "TMW"
+    },
+    {
+      "query": "Dubai TMX",
+      "prefix": "TMX"
+    },
+    {
+      "query": "Dubai TMY",
+      "prefix": "TMY"
+    },
+    {
+      "query": "Dubai TMZ",
+      "prefix": "TMZ"
+    },
+    {
+      "query": "Dubai TNA",
+      "prefix": "TNA"
+    },
+    {
+      "query": "Dubai TNB",
+      "prefix": "TNB"
+    },
+    {
+      "query": "Dubai TNC",
+      "prefix": "TNC"
+    },
+    {
+      "query": "Dubai TND",
+      "prefix": "TND"
+    },
+    {
+      "query": "Dubai TNE",
+      "prefix": "TNE"
+    },
+    {
+      "query": "Dubai TNF",
+      "prefix": "TNF"
+    },
+    {
+      "query": "Dubai TNG",
+      "prefix": "TNG"
+    },
+    {
+      "query": "Dubai TNH",
+      "prefix": "TNH"
+    },
+    {
+      "query": "Dubai TNI",
+      "prefix": "TNI"
+    },
+    {
+      "query": "Dubai TNJ",
+      "prefix": "TNJ"
+    },
+    {
+      "query": "Dubai TNK",
+      "prefix": "TNK"
+    },
+    {
+      "query": "Dubai TNL",
+      "prefix": "TNL"
+    },
+    {
+      "query": "Dubai TNM",
+      "prefix": "TNM"
+    },
+    {
+      "query": "Dubai TNN",
+      "prefix": "TNN"
+    },
+    {
+      "query": "Dubai TNO",
+      "prefix": "TNO"
+    },
+    {
+      "query": "Dubai TNP",
+      "prefix": "TNP"
+    },
+    {
+      "query": "Dubai TNQ",
+      "prefix": "TNQ"
+    },
+    {
+      "query": "Dubai TNR",
+      "prefix": "TNR"
+    },
+    {
+      "query": "Dubai TNS",
+      "prefix": "TNS"
+    },
+    {
+      "query": "Dubai TNT",
+      "prefix": "TNT"
+    },
+    {
+      "query": "Dubai TNU",
+      "prefix": "TNU"
+    },
+    {
+      "query": "Dubai TNV",
+      "prefix": "TNV"
+    },
+    {
+      "query": "Dubai TNW",
+      "prefix": "TNW"
+    },
+    {
+      "query": "Dubai TNX",
+      "prefix": "TNX"
+    },
+    {
+      "query": "Dubai TNY",
+      "prefix": "TNY"
+    },
+    {
+      "query": "Dubai TNZ",
+      "prefix": "TNZ"
+    },
+    {
+      "query": "Dubai TSA",
+      "prefix": "TSA"
+    },
+    {
+      "query": "Dubai TSB",
+      "prefix": "TSB"
+    },
+    {
+      "query": "Dubai TSC",
+      "prefix": "TSC"
+    },
+    {
+      "query": "Dubai TSD",
+      "prefix": "TSD"
+    },
+    {
+      "query": "Dubai TSE",
+      "prefix": "TSE"
+    },
+    {
+      "query": "Dubai TSF",
+      "prefix": "TSF"
+    },
+    {
+      "query": "Dubai TSG",
+      "prefix": "TSG"
+    },
+    {
+      "query": "Dubai TSH",
+      "prefix": "TSH"
+    },
+    {
+      "query": "Dubai TSI",
+      "prefix": "TSI"
+    },
+    {
+      "query": "Dubai TSJ",
+      "prefix": "TSJ"
+    },
+    {
+      "query": "Dubai TSK",
+      "prefix": "TSK"
+    },
+    {
+      "query": "Dubai TSL",
+      "prefix": "TSL"
+    },
+    {
+      "query": "Dubai TSM",
+      "prefix": "TSM"
+    },
+    {
+      "query": "Dubai TSN",
+      "prefix": "TSN"
+    },
+    {
+      "query": "Dubai TSO",
+      "prefix": "TSO"
+    },
+    {
+      "query": "Dubai TSP",
+      "prefix": "TSP"
+    },
+    {
+      "query": "Dubai TSQ",
+      "prefix": "TSQ"
+    },
+    {
+      "query": "Dubai TSR",
+      "prefix": "TSR"
+    },
+    {
+      "query": "Dubai TSS",
+      "prefix": "TSS"
+    },
+    {
+      "query": "Dubai TST",
+      "prefix": "TST"
+    },
+    {
+      "query": "Dubai TSU",
+      "prefix": "TSU"
+    },
+    {
+      "query": "Dubai TSV",
+      "prefix": "TSV"
+    },
+    {
+      "query": "Dubai TSW",
+      "prefix": "TSW"
+    },
+    {
+      "query": "Dubai TSX",
+      "prefix": "TSX"
+    },
+    {
+      "query": "Dubai TSY",
+      "prefix": "TSY"
+    },
+    {
+      "query": "Dubai TSZ",
+      "prefix": "TSZ"
+    },
+    {
+      "query": "Dubai TTA",
+      "prefix": "TTA"
+    },
+    {
+      "query": "Dubai TTB",
+      "prefix": "TTB"
+    },
+    {
+      "query": "Dubai TTC",
+      "prefix": "TTC"
+    },
+    {
+      "query": "Dubai TTD",
+      "prefix": "TTD"
+    },
+    {
+      "query": "Dubai TTE",
+      "prefix": "TTE"
+    },
+    {
+      "query": "Dubai TTF",
+      "prefix": "TTF"
+    },
+    {
+      "query": "Dubai TTG",
+      "prefix": "TTG"
+    },
+    {
+      "query": "Dubai TTH",
+      "prefix": "TTH"
+    },
+    {
+      "query": "Dubai TTI",
+      "prefix": "TTI"
+    },
+    {
+      "query": "Dubai TTJ",
+      "prefix": "TTJ"
+    },
+    {
+      "query": "Dubai TTK",
+      "prefix": "TTK"
+    },
+    {
+      "query": "Dubai TTL",
+      "prefix": "TTL"
+    },
+    {
+      "query": "Dubai TTM",
+      "prefix": "TTM"
+    },
+    {
+      "query": "Dubai TTN",
+      "prefix": "TTN"
+    },
+    {
+      "query": "Dubai TTO",
+      "prefix": "TTO"
+    },
+    {
+      "query": "Dubai TTP",
+      "prefix": "TTP"
+    },
+    {
+      "query": "Dubai TTQ",
+      "prefix": "TTQ"
+    },
+    {
+      "query": "Dubai TTR",
+      "prefix": "TTR"
+    },
+    {
+      "query": "Dubai TTS",
+      "prefix": "TTS"
+    },
+    {
+      "query": "Dubai TTT",
+      "prefix": "TTT"
+    },
+    {
+      "query": "Dubai TTU",
+      "prefix": "TTU"
+    },
+    {
+      "query": "Dubai TTV",
+      "prefix": "TTV"
+    },
+    {
+      "query": "Dubai TTW",
+      "prefix": "TTW"
+    },
+    {
+      "query": "Dubai TTX",
+      "prefix": "TTX"
+    },
+    {
+      "query": "Dubai TTY",
+      "prefix": "TTY"
+    },
+    {
+      "query": "Dubai TTZ",
+      "prefix": "TTZ"
+    },
+    {
+      "query": "Dubai TUA",
+      "prefix": "TUA"
+    },
+    {
+      "query": "Dubai TUB",
+      "prefix": "TUB"
+    },
+    {
+      "query": "Dubai TUC",
+      "prefix": "TUC"
+    },
+    {
+      "query": "Dubai TUD",
+      "prefix": "TUD"
+    },
+    {
+      "query": "Dubai TUE",
+      "prefix": "TUE"
+    },
+    {
+      "query": "Dubai TUF",
+      "prefix": "TUF"
+    },
+    {
+      "query": "Dubai TUG",
+      "prefix": "TUG"
+    },
+    {
+      "query": "Dubai TUH",
+      "prefix": "TUH"
+    },
+    {
+      "query": "Dubai TUI",
+      "prefix": "TUI"
+    },
+    {
+      "query": "Dubai TUJ",
+      "prefix": "TUJ"
+    },
+    {
+      "query": "Dubai TUK",
+      "prefix": "TUK"
+    },
+    {
+      "query": "Dubai TUL",
+      "prefix": "TUL"
+    },
+    {
+      "query": "Dubai TUM",
+      "prefix": "TUM"
+    },
+    {
+      "query": "Dubai TUN",
+      "prefix": "TUN"
+    },
+    {
+      "query": "Dubai TUO",
+      "prefix": "TUO"
+    },
+    {
+      "query": "Dubai TUP",
+      "prefix": "TUP"
+    },
+    {
+      "query": "Dubai TUQ",
+      "prefix": "TUQ"
+    },
+    {
+      "query": "Dubai TUR",
+      "prefix": "TUR"
+    },
+    {
+      "query": "Dubai TUS",
+      "prefix": "TUS"
+    },
+    {
+      "query": "Dubai TUT",
+      "prefix": "TUT"
+    },
+    {
+      "query": "Dubai TUU",
+      "prefix": "TUU"
+    },
+    {
+      "query": "Dubai TUV",
+      "prefix": "TUV"
+    },
+    {
+      "query": "Dubai TUW",
+      "prefix": "TUW"
+    },
+    {
+      "query": "Dubai TUX",
+      "prefix": "TUX"
+    },
+    {
+      "query": "Dubai TUY",
+      "prefix": "TUY"
+    },
+    {
+      "query": "Dubai TUZ",
+      "prefix": "TUZ"
+    },
+    {
+      "query": "Dubai TWA",
+      "prefix": "TWA"
+    },
+    {
+      "query": "Dubai TWB",
+      "prefix": "TWB"
+    },
+    {
+      "query": "Dubai TWC",
+      "prefix": "TWC"
+    },
+    {
+      "query": "Dubai TWD",
+      "prefix": "TWD"
+    },
+    {
+      "query": "Dubai TWE",
+      "prefix": "TWE"
+    },
+    {
+      "query": "Dubai TWF",
+      "prefix": "TWF"
+    },
+    {
+      "query": "Dubai TWG",
+      "prefix": "TWG"
+    },
+    {
+      "query": "Dubai TWH",
+      "prefix": "TWH"
+    },
+    {
+      "query": "Dubai TWI",
+      "prefix": "TWI"
+    },
+    {
+      "query": "Dubai TWJ",
+      "prefix": "TWJ"
+    },
+    {
+      "query": "Dubai TWK",
+      "prefix": "TWK"
+    },
+    {
+      "query": "Dubai TWL",
+      "prefix": "TWL"
+    },
+    {
+      "query": "Dubai TWM",
+      "prefix": "TWM"
+    },
+    {
+      "query": "Dubai TWN",
+      "prefix": "TWN"
+    },
+    {
+      "query": "Dubai TWO",
+      "prefix": "TWO"
+    },
+    {
+      "query": "Dubai TWP",
+      "prefix": "TWP"
+    },
+    {
+      "query": "Dubai TWQ",
+      "prefix": "TWQ"
+    },
+    {
+      "query": "Dubai TWR",
+      "prefix": "TWR"
+    },
+    {
+      "query": "Dubai TWS",
+      "prefix": "TWS"
+    },
+    {
+      "query": "Dubai TWT",
+      "prefix": "TWT"
+    },
+    {
+      "query": "Dubai TWU",
+      "prefix": "TWU"
+    },
+    {
+      "query": "Dubai TWV",
+      "prefix": "TWV"
+    },
+    {
+      "query": "Dubai TWW",
+      "prefix": "TWW"
+    },
+    {
+      "query": "Dubai TWX",
+      "prefix": "TWX"
+    },
+    {
+      "query": "Dubai TWY",
+      "prefix": "TWY"
+    },
+    {
+      "query": "Dubai TWZ",
+      "prefix": "TWZ"
+    },
+    {
+      "query": "Dubai TXA",
+      "prefix": "TXA"
+    },
+    {
+      "query": "Dubai TXB",
+      "prefix": "TXB"
+    },
+    {
+      "query": "Dubai TXC",
+      "prefix": "TXC"
+    },
+    {
+      "query": "Dubai TXD",
+      "prefix": "TXD"
+    },
+    {
+      "query": "Dubai TXE",
+      "prefix": "TXE"
+    },
+    {
+      "query": "Dubai TXF",
+      "prefix": "TXF"
+    },
+    {
+      "query": "Dubai TXG",
+      "prefix": "TXG"
+    },
+    {
+      "query": "Dubai TXH",
+      "prefix": "TXH"
+    },
+    {
+      "query": "Dubai TXI",
+      "prefix": "TXI"
+    },
+    {
+      "query": "Dubai TXJ",
+      "prefix": "TXJ"
+    },
+    {
+      "query": "Dubai TXK",
+      "prefix": "TXK"
+    },
+    {
+      "query": "Dubai TXL",
+      "prefix": "TXL"
+    },
+    {
+      "query": "Dubai TXM",
+      "prefix": "TXM"
+    },
+    {
+      "query": "Dubai TXN",
+      "prefix": "TXN"
+    },
+    {
+      "query": "Dubai TXO",
+      "prefix": "TXO"
+    },
+    {
+      "query": "Dubai TXP",
+      "prefix": "TXP"
+    },
+    {
+      "query": "Dubai TXQ",
+      "prefix": "TXQ"
+    },
+    {
+      "query": "Dubai TXR",
+      "prefix": "TXR"
+    },
+    {
+      "query": "Dubai TXS",
+      "prefix": "TXS"
+    },
+    {
+      "query": "Dubai TXT",
+      "prefix": "TXT"
+    },
+    {
+      "query": "Dubai TXU",
+      "prefix": "TXU"
+    },
+    {
+      "query": "Dubai TXV",
+      "prefix": "TXV"
+    },
+    {
+      "query": "Dubai TXW",
+      "prefix": "TXW"
+    },
+    {
+      "query": "Dubai TXX",
+      "prefix": "TXX"
+    },
+    {
+      "query": "Dubai TXY",
+      "prefix": "TXY"
+    },
+    {
+      "query": "Dubai TXZ",
+      "prefix": "TXZ"
+    },
+    {
+      "query": "Dubai TYA",
+      "prefix": "TYA"
+    },
+    {
+      "query": "Dubai TYB",
+      "prefix": "TYB"
+    },
+    {
+      "query": "Dubai TYC",
+      "prefix": "TYC"
+    },
+    {
+      "query": "Dubai TYD",
+      "prefix": "TYD"
+    },
+    {
+      "query": "Dubai TYE",
+      "prefix": "TYE"
+    },
+    {
+      "query": "Dubai TYF",
+      "prefix": "TYF"
+    },
+    {
+      "query": "Dubai TYG",
+      "prefix": "TYG"
+    },
+    {
+      "query": "Dubai TYH",
+      "prefix": "TYH"
+    },
+    {
+      "query": "Dubai TYI",
+      "prefix": "TYI"
+    },
+    {
+      "query": "Dubai TYJ",
+      "prefix": "TYJ"
+    },
+    {
+      "query": "Dubai TYK",
+      "prefix": "TYK"
+    },
+    {
+      "query": "Dubai TYL",
+      "prefix": "TYL"
+    },
+    {
+      "query": "Dubai TYM",
+      "prefix": "TYM"
+    },
+    {
+      "query": "Dubai TYN",
+      "prefix": "TYN"
+    },
+    {
+      "query": "Dubai TYO",
+      "prefix": "TYO"
+    },
+    {
+      "query": "Dubai TYP",
+      "prefix": "TYP"
+    },
+    {
+      "query": "Dubai TYQ",
+      "prefix": "TYQ"
+    },
+    {
+      "query": "Dubai TYR",
+      "prefix": "TYR"
+    },
+    {
+      "query": "Dubai TYS",
+      "prefix": "TYS"
+    },
+    {
+      "query": "Dubai TYT",
+      "prefix": "TYT"
+    },
+    {
+      "query": "Dubai TYU",
+      "prefix": "TYU"
+    },
+    {
+      "query": "Dubai TYV",
+      "prefix": "TYV"
+    },
+    {
+      "query": "Dubai TYW",
+      "prefix": "TYW"
+    },
+    {
+      "query": "Dubai TYX",
+      "prefix": "TYX"
+    },
+    {
+      "query": "Dubai TYY",
+      "prefix": "TYY"
+    },
+    {
+      "query": "Dubai TYZ",
+      "prefix": "TYZ"
+    },
+    {
+      "query": "Dubai TZA",
+      "prefix": "TZA"
+    },
+    {
+      "query": "Dubai TZB",
+      "prefix": "TZB"
+    },
+    {
+      "query": "Dubai TZC",
+      "prefix": "TZC"
+    },
+    {
+      "query": "Dubai TZD",
+      "prefix": "TZD"
+    },
+    {
+      "query": "Dubai TZE",
+      "prefix": "TZE"
+    },
+    {
+      "query": "Dubai TZF",
+      "prefix": "TZF"
+    },
+    {
+      "query": "Dubai TZG",
+      "prefix": "TZG"
+    },
+    {
+      "query": "Dubai TZH",
+      "prefix": "TZH"
+    },
+    {
+      "query": "Dubai TZI",
+      "prefix": "TZI"
+    },
+    {
+      "query": "Dubai TZJ",
+      "prefix": "TZJ"
+    },
+    {
+      "query": "Dubai TZK",
+      "prefix": "TZK"
+    },
+    {
+      "query": "Dubai TZL",
+      "prefix": "TZL"
+    },
+    {
+      "query": "Dubai TZM",
+      "prefix": "TZM"
+    },
+    {
+      "query": "Dubai TZN",
+      "prefix": "TZN"
+    },
+    {
+      "query": "Dubai TZO",
+      "prefix": "TZO"
+    },
+    {
+      "query": "Dubai TZP",
+      "prefix": "TZP"
+    },
+    {
+      "query": "Dubai TZQ",
+      "prefix": "TZQ"
+    },
+    {
+      "query": "Dubai TZR",
+      "prefix": "TZR"
+    },
+    {
+      "query": "Dubai TZS",
+      "prefix": "TZS"
+    },
+    {
+      "query": "Dubai TZT",
+      "prefix": "TZT"
+    },
+    {
+      "query": "Dubai TZU",
+      "prefix": "TZU"
+    },
+    {
+      "query": "Dubai TZV",
+      "prefix": "TZV"
+    },
+    {
+      "query": "Dubai TZW",
+      "prefix": "TZW"
+    },
+    {
+      "query": "Dubai TZX",
+      "prefix": "TZX"
+    },
+    {
+      "query": "Dubai TZY",
+      "prefix": "TZY"
+    },
+    {
+      "query": "Dubai TZZ",
+      "prefix": "TZZ"
+    },
+    {
+      "query": "Dubai UBA",
+      "prefix": "UBA"
+    },
+    {
+      "query": "Dubai UBB",
+      "prefix": "UBB"
+    },
+    {
+      "query": "Dubai UBC",
+      "prefix": "UBC"
+    },
+    {
+      "query": "Dubai UBD",
+      "prefix": "UBD"
+    },
+    {
+      "query": "Dubai UBE",
+      "prefix": "UBE"
+    },
+    {
+      "query": "Dubai UBF",
+      "prefix": "UBF"
+    },
+    {
+      "query": "Dubai UBG",
+      "prefix": "UBG"
+    },
+    {
+      "query": "Dubai UBH",
+      "prefix": "UBH"
+    },
+    {
+      "query": "Dubai UBI",
+      "prefix": "UBI"
+    },
+    {
+      "query": "Dubai UBJ",
+      "prefix": "UBJ"
+    },
+    {
+      "query": "Dubai UBK",
+      "prefix": "UBK"
+    },
+    {
+      "query": "Dubai UBL",
+      "prefix": "UBL"
+    },
+    {
+      "query": "Dubai UBM",
+      "prefix": "UBM"
+    },
+    {
+      "query": "Dubai UBN",
+      "prefix": "UBN"
+    },
+    {
+      "query": "Dubai UBO",
+      "prefix": "UBO"
+    },
+    {
+      "query": "Dubai UBP",
+      "prefix": "UBP"
+    },
+    {
+      "query": "Dubai UBQ",
+      "prefix": "UBQ"
+    },
+    {
+      "query": "Dubai UBR",
+      "prefix": "UBR"
+    },
+    {
+      "query": "Dubai UBS",
+      "prefix": "UBS"
+    },
+    {
+      "query": "Dubai UBT",
+      "prefix": "UBT"
+    },
+    {
+      "query": "Dubai UBU",
+      "prefix": "UBU"
+    },
+    {
+      "query": "Dubai UBV",
+      "prefix": "UBV"
+    },
+    {
+      "query": "Dubai UBW",
+      "prefix": "UBW"
+    },
+    {
+      "query": "Dubai UBX",
+      "prefix": "UBX"
+    },
+    {
+      "query": "Dubai UBY",
+      "prefix": "UBY"
+    },
+    {
+      "query": "Dubai UBZ",
+      "prefix": "UBZ"
+    },
+    {
+      "query": "Dubai UCA",
+      "prefix": "UCA"
+    },
+    {
+      "query": "Dubai UCB",
+      "prefix": "UCB"
+    },
+    {
+      "query": "Dubai UCC",
+      "prefix": "UCC"
+    },
+    {
+      "query": "Dubai UCD",
+      "prefix": "UCD"
+    },
+    {
+      "query": "Dubai UCE",
+      "prefix": "UCE"
+    },
+    {
+      "query": "Dubai UCF",
+      "prefix": "UCF"
+    },
+    {
+      "query": "Dubai UCG",
+      "prefix": "UCG"
+    },
+    {
+      "query": "Dubai UCH",
+      "prefix": "UCH"
+    },
+    {
+      "query": "Dubai UCI",
+      "prefix": "UCI"
+    },
+    {
+      "query": "Dubai UCJ",
+      "prefix": "UCJ"
+    },
+    {
+      "query": "Dubai UCK",
+      "prefix": "UCK"
+    },
+    {
+      "query": "Dubai UCL",
+      "prefix": "UCL"
+    },
+    {
+      "query": "Dubai UCM",
+      "prefix": "UCM"
+    },
+    {
+      "query": "Dubai UCN",
+      "prefix": "UCN"
+    },
+    {
+      "query": "Dubai UCO",
+      "prefix": "UCO"
+    },
+    {
+      "query": "Dubai UCP",
+      "prefix": "UCP"
+    },
+    {
+      "query": "Dubai UCQ",
+      "prefix": "UCQ"
+    },
+    {
+      "query": "Dubai UCR",
+      "prefix": "UCR"
+    },
+    {
+      "query": "Dubai UCS",
+      "prefix": "UCS"
+    },
+    {
+      "query": "Dubai UCT",
+      "prefix": "UCT"
+    },
+    {
+      "query": "Dubai UCU",
+      "prefix": "UCU"
+    },
+    {
+      "query": "Dubai UCV",
+      "prefix": "UCV"
+    },
+    {
+      "query": "Dubai UCW",
+      "prefix": "UCW"
+    },
+    {
+      "query": "Dubai UCX",
+      "prefix": "UCX"
+    },
+    {
+      "query": "Dubai UCY",
+      "prefix": "UCY"
+    },
+    {
+      "query": "Dubai UCZ",
+      "prefix": "UCZ"
+    },
+    {
+      "query": "Dubai UDA",
+      "prefix": "UDA"
+    },
+    {
+      "query": "Dubai UDB",
+      "prefix": "UDB"
+    },
+    {
+      "query": "Dubai UDC",
+      "prefix": "UDC"
+    },
+    {
+      "query": "Dubai UDD",
+      "prefix": "UDD"
+    },
+    {
+      "query": "Dubai UDE",
+      "prefix": "UDE"
+    },
+    {
+      "query": "Dubai UDF",
+      "prefix": "UDF"
+    },
+    {
+      "query": "Dubai UDG",
+      "prefix": "UDG"
+    },
+    {
+      "query": "Dubai UDH",
+      "prefix": "UDH"
+    },
+    {
+      "query": "Dubai UDI",
+      "prefix": "UDI"
+    },
+    {
+      "query": "Dubai UDJ",
+      "prefix": "UDJ"
+    },
+    {
+      "query": "Dubai UDK",
+      "prefix": "UDK"
+    },
+    {
+      "query": "Dubai UDL",
+      "prefix": "UDL"
+    },
+    {
+      "query": "Dubai UDM",
+      "prefix": "UDM"
+    },
+    {
+      "query": "Dubai UDN",
+      "prefix": "UDN"
+    },
+    {
+      "query": "Dubai UDO",
+      "prefix": "UDO"
+    },
+    {
+      "query": "Dubai UDP",
+      "prefix": "UDP"
+    },
+    {
+      "query": "Dubai UDQ",
+      "prefix": "UDQ"
+    },
+    {
+      "query": "Dubai UDR",
+      "prefix": "UDR"
+    },
+    {
+      "query": "Dubai UDS",
+      "prefix": "UDS"
+    },
+    {
+      "query": "Dubai UDT",
+      "prefix": "UDT"
+    },
+    {
+      "query": "Dubai UDU",
+      "prefix": "UDU"
+    },
+    {
+      "query": "Dubai UDV",
+      "prefix": "UDV"
+    },
+    {
+      "query": "Dubai UDW",
+      "prefix": "UDW"
+    },
+    {
+      "query": "Dubai UDX",
+      "prefix": "UDX"
+    },
+    {
+      "query": "Dubai UDY",
+      "prefix": "UDY"
+    },
+    {
+      "query": "Dubai UDZ",
+      "prefix": "UDZ"
+    },
+    {
+      "query": "Dubai UEA",
+      "prefix": "UEA"
+    },
+    {
+      "query": "Dubai UEB",
+      "prefix": "UEB"
+    },
+    {
+      "query": "Dubai UEC",
+      "prefix": "UEC"
+    },
+    {
+      "query": "Dubai UED",
+      "prefix": "UED"
+    },
+    {
+      "query": "Dubai UEE",
+      "prefix": "UEE"
+    },
+    {
+      "query": "Dubai UEF",
+      "prefix": "UEF"
+    },
+    {
+      "query": "Dubai UEG",
+      "prefix": "UEG"
+    },
+    {
+      "query": "Dubai UEH",
+      "prefix": "UEH"
+    },
+    {
+      "query": "Dubai UEI",
+      "prefix": "UEI"
+    },
+    {
+      "query": "Dubai UEJ",
+      "prefix": "UEJ"
+    },
+    {
+      "query": "Dubai UEK",
+      "prefix": "UEK"
+    },
+    {
+      "query": "Dubai UEL",
+      "prefix": "UEL"
+    },
+    {
+      "query": "Dubai UEM",
+      "prefix": "UEM"
+    },
+    {
+      "query": "Dubai UEN",
+      "prefix": "UEN"
+    },
+    {
+      "query": "Dubai UEO",
+      "prefix": "UEO"
+    },
+    {
+      "query": "Dubai UEP",
+      "prefix": "UEP"
+    },
+    {
+      "query": "Dubai UEQ",
+      "prefix": "UEQ"
+    },
+    {
+      "query": "Dubai UER",
+      "prefix": "UER"
+    },
+    {
+      "query": "Dubai UES",
+      "prefix": "UES"
+    },
+    {
+      "query": "Dubai UET",
+      "prefix": "UET"
+    },
+    {
+      "query": "Dubai UEU",
+      "prefix": "UEU"
+    },
+    {
+      "query": "Dubai UEV",
+      "prefix": "UEV"
+    },
+    {
+      "query": "Dubai UEW",
+      "prefix": "UEW"
+    },
+    {
+      "query": "Dubai UEX",
+      "prefix": "UEX"
+    },
+    {
+      "query": "Dubai UEY",
+      "prefix": "UEY"
+    },
+    {
+      "query": "Dubai UEZ",
+      "prefix": "UEZ"
+    },
+    {
+      "query": "Dubai UFA",
+      "prefix": "UFA"
+    },
+    {
+      "query": "Dubai UFB",
+      "prefix": "UFB"
+    },
+    {
+      "query": "Dubai UFC",
+      "prefix": "UFC"
+    },
+    {
+      "query": "Dubai UFD",
+      "prefix": "UFD"
+    },
+    {
+      "query": "Dubai UFE",
+      "prefix": "UFE"
+    },
+    {
+      "query": "Dubai UFF",
+      "prefix": "UFF"
+    },
+    {
+      "query": "Dubai UFG",
+      "prefix": "UFG"
+    },
+    {
+      "query": "Dubai UFH",
+      "prefix": "UFH"
+    },
+    {
+      "query": "Dubai UFI",
+      "prefix": "UFI"
+    },
+    {
+      "query": "Dubai UFJ",
+      "prefix": "UFJ"
+    },
+    {
+      "query": "Dubai UFK",
+      "prefix": "UFK"
+    },
+    {
+      "query": "Dubai UFL",
+      "prefix": "UFL"
+    },
+    {
+      "query": "Dubai UFM",
+      "prefix": "UFM"
+    },
+    {
+      "query": "Dubai UFN",
+      "prefix": "UFN"
+    },
+    {
+      "query": "Dubai UFO",
+      "prefix": "UFO"
+    },
+    {
+      "query": "Dubai UFP",
+      "prefix": "UFP"
+    },
+    {
+      "query": "Dubai UFQ",
+      "prefix": "UFQ"
+    },
+    {
+      "query": "Dubai UFR",
+      "prefix": "UFR"
+    },
+    {
+      "query": "Dubai UFS",
+      "prefix": "UFS"
+    },
+    {
+      "query": "Dubai UFT",
+      "prefix": "UFT"
+    },
+    {
+      "query": "Dubai UFU",
+      "prefix": "UFU"
+    },
+    {
+      "query": "Dubai UFV",
+      "prefix": "UFV"
+    },
+    {
+      "query": "Dubai UFW",
+      "prefix": "UFW"
+    },
+    {
+      "query": "Dubai UFX",
+      "prefix": "UFX"
+    },
+    {
+      "query": "Dubai UFY",
+      "prefix": "UFY"
+    },
+    {
+      "query": "Dubai UFZ",
+      "prefix": "UFZ"
+    },
+    {
+      "query": "Dubai UHA",
+      "prefix": "UHA"
+    },
+    {
+      "query": "Dubai UHB",
+      "prefix": "UHB"
+    },
+    {
+      "query": "Dubai UHC",
+      "prefix": "UHC"
+    },
+    {
+      "query": "Dubai UHD",
+      "prefix": "UHD"
+    },
+    {
+      "query": "Dubai UHE",
+      "prefix": "UHE"
+    },
+    {
+      "query": "Dubai UHF",
+      "prefix": "UHF"
+    },
+    {
+      "query": "Dubai UHG",
+      "prefix": "UHG"
+    },
+    {
+      "query": "Dubai UHH",
+      "prefix": "UHH"
+    },
+    {
+      "query": "Dubai UHI",
+      "prefix": "UHI"
+    },
+    {
+      "query": "Dubai UHJ",
+      "prefix": "UHJ"
+    },
+    {
+      "query": "Dubai UHK",
+      "prefix": "UHK"
+    },
+    {
+      "query": "Dubai UHL",
+      "prefix": "UHL"
+    },
+    {
+      "query": "Dubai UHM",
+      "prefix": "UHM"
+    },
+    {
+      "query": "Dubai UHN",
+      "prefix": "UHN"
+    },
+    {
+      "query": "Dubai UHO",
+      "prefix": "UHO"
+    },
+    {
+      "query": "Dubai UHP",
+      "prefix": "UHP"
+    },
+    {
+      "query": "Dubai UHQ",
+      "prefix": "UHQ"
+    },
+    {
+      "query": "Dubai UHR",
+      "prefix": "UHR"
+    },
+    {
+      "query": "Dubai UHS",
+      "prefix": "UHS"
+    },
+    {
+      "query": "Dubai UHT",
+      "prefix": "UHT"
+    },
+    {
+      "query": "Dubai UHU",
+      "prefix": "UHU"
+    },
+    {
+      "query": "Dubai UHV",
+      "prefix": "UHV"
+    },
+    {
+      "query": "Dubai UHW",
+      "prefix": "UHW"
+    },
+    {
+      "query": "Dubai UHX",
+      "prefix": "UHX"
+    },
+    {
+      "query": "Dubai UHY",
+      "prefix": "UHY"
+    },
+    {
+      "query": "Dubai UHZ",
+      "prefix": "UHZ"
+    },
+    {
+      "query": "Dubai UIA",
+      "prefix": "UIA"
+    },
+    {
+      "query": "Dubai UIB",
+      "prefix": "UIB"
+    },
+    {
+      "query": "Dubai UIC",
+      "prefix": "UIC"
+    },
+    {
+      "query": "Dubai UID",
+      "prefix": "UID"
+    },
+    {
+      "query": "Dubai UIE",
+      "prefix": "UIE"
+    },
+    {
+      "query": "Dubai UIF",
+      "prefix": "UIF"
+    },
+    {
+      "query": "Dubai UIG",
+      "prefix": "UIG"
+    },
+    {
+      "query": "Dubai UIH",
+      "prefix": "UIH"
+    },
+    {
+      "query": "Dubai UII",
+      "prefix": "UII"
+    },
+    {
+      "query": "Dubai UIJ",
+      "prefix": "UIJ"
+    },
+    {
+      "query": "Dubai UIK",
+      "prefix": "UIK"
+    },
+    {
+      "query": "Dubai UIL",
+      "prefix": "UIL"
+    },
+    {
+      "query": "Dubai UIM",
+      "prefix": "UIM"
+    },
+    {
+      "query": "Dubai UIN",
+      "prefix": "UIN"
+    },
+    {
+      "query": "Dubai UIO",
+      "prefix": "UIO"
+    },
+    {
+      "query": "Dubai UIP",
+      "prefix": "UIP"
+    },
+    {
+      "query": "Dubai UIQ",
+      "prefix": "UIQ"
+    },
+    {
+      "query": "Dubai UIR",
+      "prefix": "UIR"
+    },
+    {
+      "query": "Dubai UIS",
+      "prefix": "UIS"
+    },
+    {
+      "query": "Dubai UIT",
+      "prefix": "UIT"
+    },
+    {
+      "query": "Dubai UIU",
+      "prefix": "UIU"
+    },
+    {
+      "query": "Dubai UIV",
+      "prefix": "UIV"
+    },
+    {
+      "query": "Dubai UIW",
+      "prefix": "UIW"
+    },
+    {
+      "query": "Dubai UIX",
+      "prefix": "UIX"
+    },
+    {
+      "query": "Dubai UIY",
+      "prefix": "UIY"
+    },
+    {
+      "query": "Dubai UIZ",
+      "prefix": "UIZ"
     }
   ],
   "zones": {
@@ -38831,6 +43145,326 @@
       "name": "SLS Dubai Hotel & Residences - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJdd8SeO1pXz4R4BUPbTuiWGc",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJW3NZvRpDXz4RdhJQG_gqV6U": {
+      "name": "Smana Hotel Al Raffa - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJW3NZvRpDXz4RdhJQG_gqV6U",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ6dpmZPhdXz4R9KZe7RKq4eI": {
+      "name": "Snow white Building - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ6dpmZPhdXz4R9KZe7RKq4eI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAWVWh-lzXz4RBISfTddlaE0": {
+      "name": "Dubai South Residential District - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAWVWh-lzXz4RBISfTddlaE0",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJW6S-_oFCXz4RyKETHbDcGSc": {
+      "name": "Souk Al Bahar, Dubai, Émirats arabes unis",
+      "place_id": "ChIJW6S-_oFCXz4RyKETHbDcGSc",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJq268w-5sXz4RMVuOG-RW1WI": {
+      "name": "Springs 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJq268w-5sXz4RMVuOG-RW1WI",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJ4-Enn8xcXz4RdIyjSAES6fM": {
+      "name": "Sport City - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ4-Enn8xcXz4RdIyjSAES6fM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJfxUiN1dDXz4RqxcIkH-GT5w": {
+      "name": "Dubai Square - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJfxUiN1dDXz4RqxcIkH-GT5w",
+      "types": "establishment, park, point_of_interest"
+    },
+    "ChIJD6mmWQBnXz4RlFW8eEmuSJg": {
+      "name": "Dubai Square Mall - Creek Harbour - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJD6mmWQBnXz4RlFW8eEmuSJg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJoUjsFyNtXz4RFa65WZiE-i4": {
+      "name": "Square Tower by Tiger Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJoUjsFyNtXz4RFa65WZiE-i4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBWAeHB5BXz4RNZ7CGQD4n9M": {
+      "name": "Sri Lanka - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBWAeHB5BXz4RNZ7CGQD4n9M",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJkXvyfwBtXz4RHUWouNdv5Qg": {
+      "name": "S.S Lootah Residence JVC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJkXvyfwBtXz4RHUWouNdv5Qg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJmwNFpD5uXz4RCJwY7RJVa-8": {
+      "name": "Dubai Studio City - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJmwNFpD5uXz4RCJwY7RJVa-8",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJP5hBslMTXz4R6quwLwN0ffY": {
+      "name": "Stella Di Mare Dubai Marina Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP5hBslMTXz4R6quwLwN0ffY",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJMQ2Cj7tdXz4R4uC9OWkqRDE": {
+      "name": "Stadium Metro Station - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMQ2Cj7tdXz4R4uC9OWkqRDE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJDUGtoVprXz4RpFDfixSrwVo": {
+      "name": "Sulafa Tower - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDUGtoVprXz4RpFDfixSrwVo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ7au3KTlqXz4RvVv9tczxk-Q": {
+      "name": "Umm Suqeim, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ7au3KTlqXz4RvVv9tczxk-Q",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJYULiGGtrXz4R3ZbnNEoNd9Y": {
+      "name": "Al Sufouh Second, Dubai, Émirats arabes unis",
+      "place_id": "ChIJYULiGGtrXz4R3ZbnNEoNd9Y",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJPzS48Q5rXz4Rc8O8HDlKpic": {
+      "name": "Al Sufouh 1, Dubai, Émirats arabes unis",
+      "place_id": "ChIJPzS48Q5rXz4Rc8O8HDlKpic",
+      "types": "neighborhood, political"
+    },
+    "ChIJb7K33FprXz4RO9p1ECAh6fY": {
+      "name": "Al Sufouh 2, Dubai, Émirats arabes unis",
+      "place_id": "ChIJb7K33FprXz4RO9p1ECAh6fY",
+      "types": "neighborhood, political"
+    },
+    "ChIJYfzDwERqXz4RPyIbM0jlWx8": {
+      "name": "Sunset Beach - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJYfzDwERqXz4RPyIbM0jlWx8",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJDzGYLNpfXz4RdDaCf_vLFf0": {
+      "name": "Swissôtel Al Murooj Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDzGYLNpfXz4RdDaCf_vLFf0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJWa31U-lAXz4RXGfDKIEBalM": {
+      "name": "Switzerland - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJWa31U-lAXz4RXGfDKIEBalM",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJCy5LKbVtXz4RX0cOJIOJFc8": {
+      "name": "Sydney Tower-JVC - Dubai - Émirats arabes unis",
+      "place_id": "ChIJCy5LKbVtXz4RX0cOJIOJFc8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJB-4Y4OhAXz4RxTQzDqSRvq4": {
+      "name": "Syria - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJB-4Y4OhAXz4RxTQzDqSRvq4",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJKdy5BABrXz4R5hxdlmRfC4Q": {
+      "name": "Symbiosis International University Dubai جامعة سمبيوسيس - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJKdy5BABrXz4R5hxdlmRfC4Q",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJyer95yhoXz4Rwl9l67jIHT4": {
+      "name": "Taj Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJyer95yhoXz4Rwl9l67jIHT4",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJXSrHSqdsXz4RxjWYx0gL220": {
+      "name": "Taj Jumeirah Lakes Towers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJXSrHSqdsXz4RxjWYx0gL220",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJESOwdCwVXz4RRri1XLMGBKI": {
+      "name": "Taj Exotica Resort & Spa, The Palm, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJESOwdCwVXz4RRri1XLMGBKI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJVUeatv1AXz4R4847v8kimaQ": {
+      "name": "Tanzania - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJVUeatv1AXz4R4847v8kimaQ",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJdWwn37RpXz4Rl6eg0U3awp0": {
+      "name": "TBEA_The Regal Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdWwn37RpXz4Rl6eg0U3awp0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBw1_iiZrXz4RcvQCJznyFkc": {
+      "name": "TCM Acupuncture Therapy Center-Shop 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBw1_iiZrXz4RcvQCJznyFkc",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJb54uLhFdXz4RPr-RUVzvLnA": {
+      "name": "Dubai Tennis Stadium - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJb54uLhFdXz4RPr-RUVzvLnA",
+      "types": "establishment, point_of_interest, stadium"
+    },
+    "ChIJmzjaBGVmpBQRU9SrATostDM": {
+      "name": "Terminal 3 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJmzjaBGVmpBQRU9SrATostDM",
+      "types": "geocode, premise"
+    },
+    "ChIJDxu5rfhcXz4RRJSxKhTmuSw": {
+      "name": "Terminal 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDxu5rfhcXz4RRJSxKhTmuSw",
+      "types": "geocode, premise"
+    },
+    "ChIJUU_lFP1kXz4RoO53xm08_FY": {
+      "name": "The Villa - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJUU_lFP1kXz4RoO53xm08_FY",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJjfLajf5pXz4ReJbH_O-5YsU": {
+      "name": "Jumeirah Third, Dubai, Émirats arabes unis",
+      "place_id": "ChIJjfLajf5pXz4ReJbH_O-5YsU",
+      "types": "neighborhood, political"
+    },
+    "ChIJcQdn5v1tXz4RPSOOWcyGWr4": {
+      "name": "Tilal Al Ghaf - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJcQdn5v1tXz4RPSOOWcyGWr4",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJOen6YQBpXz4REaQ26UnUvBA": {
+      "name": "Timeout Market Entrance - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJOen6YQBpXz4REaQ26UnUvBA",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJ131Nm3prXz4Rq3o4BlfkYfE": {
+      "name": "TIME Oak Hotel & Suites - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ131Nm3prXz4Rq3o4BlfkYfE",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJGcblcltrXz4REdsK_8OJU84": {
+      "name": "TKMMAFIT - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJGcblcltrXz4REdsK_8OJU84",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJwUvcGwBpXz4RijPjgv5Vqz4": {
+      "name": "TKO Muay thai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJwUvcGwBpXz4RijPjgv5Vqz4",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJF-iuQVZrXz4RcAFN9T4B3nw": {
+      "name": "Time Place Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJF-iuQVZrXz4RcAFN9T4B3nw",
+      "types": "geocode, premise"
+    },
+    "ChIJxYvl8otCXz4Rb7WNVpc6p_0": {
+      "name": "Towers Rotana - Dubai - Émirats arabes unis",
+      "place_id": "ChIJxYvl8otCXz4Rb7WNVpc6p_0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJh2sF6ElDXz4Rgo2k5SkO-Pk": {
+      "name": "Dubai Tower - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJh2sF6ElDXz4Rgo2k5SkO-Pk",
+      "types": "geocode, premise"
+    },
+    "ChIJ9-MKzS9tXz4RtK_l0uXBuIc": {
+      "name": "Topgolf Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9-MKzS9tXz4RtK_l0uXBuIc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJG_C9dXprXz4RWJQCak2jD_o": {
+      "name": "TRYP by Wyndham Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJG_C9dXprXz4RWJQCak2jD_o",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ8ZP9h-tCXz4RxwFVYECNAzs": {
+      "name": "Trade Centre Exhibition Halls - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8ZP9h-tCXz4RxwFVYECNAzs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJneeHAQ5vXz4RhN8xj8q3Jow": {
+      "name": "TT Lounge - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJneeHAQ5vXz4RhN8xj8q3Jow",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJXy93-tlcXz4RirC7atevtlM": {
+      "name": "Tulip Creek Hotel Apartments - Dubai - Émirats arabes unis",
+      "place_id": "ChIJXy93-tlcXz4RirC7atevtlM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJdzS1YOhAXz4R-mKMdJ-c00Q": {
+      "name": "Turkey - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdzS1YOhAXz4R-mKMdJ-c00Q",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJK-LFFt1AXz4RNK-rV-Lrqwk": {
+      "name": "Turkmenistan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJK-LFFt1AXz4RNK-rV-Lrqwk",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJE_pYGXlrXz4RwMoYMCf15VU": {
+      "name": "Two Towers Tecom - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJE_pYGXlrXz4RwMoYMCf15VU",
+      "types": "geocode, premise"
+    },
+    "ChIJfXJQUFdcXz4RcPoxn94HxKQ": {
+      "name": "Al Twar 1, Dubai, Émirats arabes unis",
+      "place_id": "ChIJfXJQUFdcXz4RcPoxn94HxKQ",
+      "types": "neighborhood, political"
+    },
+    "ChIJFy2UDDZDXz4RrakhlYJuIrQ": {
+      "name": "Twin Tower Deira - Baniyas Road - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJFy2UDDZDXz4RrakhlYJuIrQ",
+      "types": "geocode, premise"
+    },
+    "ChIJO2LpXyRDXz4R0UFGhV3Sm20": {
+      "name": "typing center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJO2LpXyRDXz4R0UFGhV3Sm20",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ2zV8owdlXz4RVRQnOiLI22A": {
+      "name": "UAE SWAT Challenge - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2zV8owdlXz4RVRQnOiLI22A",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJRyw_7c5dXz4R98XfON5Ij6I": {
+      "name": "U.A.E. Youth Hostel Association - Dubai - Émirats arabes unis",
+      "place_id": "ChIJRyw_7c5dXz4R98XfON5Ij6I",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJby0GWzNoXz4R1vK0HdsNCpw": {
+      "name": "Ubora Towers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJby0GWzNoXz4R1vK0HdsNCpw",
+      "types": "geocode, premise"
+    },
+    "ChIJaVDcUDNoXz4Rl5HpapZ_bPs": {
+      "name": "Ubora Residence Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJaVDcUDNoXz4Rl5HpapZ_bPs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAZr8fHJrXz4RHILu2zZxqZk": {
+      "name": "Uber Middle East FZ LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAZr8fHJrXz4RHILu2zZxqZk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJH3qOZdp9Xz4RvBlX1G6YySo": {
+      "name": "'Ud al Bayda' - Dubai - Émirats arabes unis",
+      "place_id": "ChIJH3qOZdp9Xz4RvBlX1G6YySo",
+      "types": "geocode, locality, political"
+    },
+    "ChIJBVnofWZpXz4R5gXN1s-VFEQ": {
+      "name": "West Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBVnofWZpXz4R5gXN1s-VFEQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJy6qqZjBoXz4RGOq7ZGVcIi8": {
+      "name": "UFC GYM - Business Bay | Bay Square - Dubai - Émirats arabes unis",
+      "place_id": "ChIJy6qqZjBoXz4RGOq7ZGVcIi8",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJaVpUaQBtXz4R9oZFbTAzA54": {
+      "name": "Upper House West Tower by Ellington Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJaVpUaQBtXz4R9oZFbTAzA54",
+      "types": "establishment, point_of_interest"
     }
   }
 }
