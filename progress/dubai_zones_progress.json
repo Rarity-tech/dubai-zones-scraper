@@ -6819,7 +6819,57 @@
     "Dubai LZE",
     "Dubai LZF",
     "Dubai LZG",
-    "Dubai LZH"
+    "Dubai LZH",
+    "Dubai LZI",
+    "Dubai LZJ",
+    "Dubai LZK",
+    "Dubai LZL",
+    "Dubai LZM",
+    "Dubai LZN",
+    "Dubai LZO",
+    "Dubai LZP",
+    "Dubai LZQ",
+    "Dubai LZR",
+    "Dubai LZS",
+    "Dubai LZT",
+    "Dubai LZU",
+    "Dubai LZV",
+    "Dubai LZW",
+    "Dubai LZX",
+    "Dubai LZY",
+    "Dubai LZZ",
+    "Dubai MAA",
+    "Dubai MAB",
+    "Dubai MAC",
+    "Dubai MAD",
+    "Dubai MAE",
+    "Dubai MAF",
+    "Dubai MAG",
+    "Dubai MAH",
+    "Dubai MAI",
+    "Dubai MAJ",
+    "Dubai MAK",
+    "Dubai MAL",
+    "Dubai MAM",
+    "Dubai MAN",
+    "Dubai MAO",
+    "Dubai MAP",
+    "Dubai MAQ",
+    "Dubai MAR",
+    "Dubai MAS",
+    "Dubai MAT",
+    "Dubai MAU",
+    "Dubai MAV",
+    "Dubai MAW",
+    "Dubai MAX",
+    "Dubai MAY",
+    "Dubai MAZ",
+    "Dubai MBA",
+    "Dubai MBB",
+    "Dubai MBC",
+    "Dubai MBD",
+    "Dubai MBE",
+    "Dubai MBF"
   ],
   "pending_n2": [
     {
@@ -65188,6 +65238,201 @@
     "ChIJ8SusZgBrXz4Rk8QwIHLrCws": {
       "name": "Flag Garden - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ8SusZgBrXz4Rk8QwIHLrCws",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJL55aHWRcXz4RsNObWO8fKp4": {
+      "name": "Mai Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJL55aHWRcXz4RsNObWO8fKp4",
+      "types": "geocode, premise"
+    },
+    "ChIJ5TKRPwBBXz4RvInvSQb5Y7Q": {
+      "name": "Lesotho - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5TKRPwBBXz4RvInvSQb5Y7Q",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJWUREIVVqXz4Rdpwi6w3vHao": {
+      "name": "Madinat Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJWUREIVVqXz4Rdpwi6w3vHao",
+      "types": "establishment, lodging, point_of_interest, tourist_attraction"
+    },
+    "ChIJKVtjEiZcXz4R5FyhaUUyIwY": {
+      "name": "Madina Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJKVtjEiZcXz4R5FyhaUUyIwY",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJCzeIiql0Xz4RtB5JnOos054": {
+      "name": "Madinat Al Mataar, Dubai, Émirats arabes unis",
+      "place_id": "ChIJCzeIiql0Xz4RtB5JnOos054",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJSxet1wFBXz4RME91ZvQNSvY": {
+      "name": "Madagascar - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJSxet1wFBXz4RME91ZvQNSvY",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJCY0JSgBtXz4RvK9qP7Rcv0I": {
+      "name": "Maeen 4 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJCY0JSgBtXz4RvK9qP7Rcv0I",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJX6kUBSVoXz4RaOsh_7AWeH8": {
+      "name": "MAG 318 Residential Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJX6kUBSVoXz4RaOsh_7AWeH8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJkQ8v2jlpXz4Rck5AKusJXMQ": {
+      "name": "MAG City - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJkQ8v2jlpXz4Rck5AKusJXMQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJKUYNflprXz4Rb0xh2N3XcK0": {
+      "name": "Mag 218 Tower - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJKUYNflprXz4Rb0xh2N3XcK0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJywokXqhsXz4RbIc5C0SUOWE": {
+      "name": "MAG 214 Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJywokXqhsXz4RbIc5C0SUOWE",
+      "types": "geocode, premise"
+    },
+    "ChIJMTs7FrlrXz4RjSCbN_4C5Ts": {
+      "name": "Magic Planet, Dubai, Émirats arabes unis",
+      "place_id": "ChIJMTs7FrlrXz4RjSCbN_4C5Ts",
+      "types": "amusement_park, bowling_alley, establishment, point_of_interest"
+    },
+    "ChIJx_tW-QhxXz4RtSFUcA5EnxQ": {
+      "name": "MAHA TOWNSQUARE - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJx_tW-QhxXz4RtSFUcA5EnxQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJdaDBGQBxXz4REPgUEn6TCO4": {
+      "name": "Maha Townhouses- TownSquare - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdaDBGQBxXz4REPgUEn6TCO4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJS2H9p4ZlXz4RUnPbIc1fWB8": {
+      "name": "Majan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJS2H9p4ZlXz4RUnPbIc1fWB8",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJyZPNND1DXz4RqkuUQFJsA0E": {
+      "name": "Majestic City Retreat Hotel - Dubai - Émirats arabes unis",
+      "place_id": "ChIJyZPNND1DXz4RqkuUQFJsA0E",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJFa0FhQZDXz4R_5u9NFwpDYg": {
+      "name": "Majestic Premier Hotel Bur Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJFa0FhQZDXz4R_5u9NFwpDYg",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJV_ZX__1pXz4RrY7C46fQmqI": {
+      "name": "Majlis Ghorfat Umm-Al Sheif - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV_ZX__1pXz4RrY7C46fQmqI",
+      "types": "establishment, museum, point_of_interest"
+    },
+    "ChIJnRYSLwpbXz4R1EukmElw7ug": {
+      "name": "Al Mamzar, Dubai, Émirats arabes unis",
+      "place_id": "ChIJnRYSLwpbXz4R1EukmElw7ug",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJc7VJMrRpXz4RDIlYNbYNmKQ": {
+      "name": "Mama Shelter Residences - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJc7VJMrRpXz4RDIlYNbYNmKQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ_TR31Q9dXz4RF4G_iwrAo_4": {
+      "name": "Mamzar Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_TR31Q9dXz4RF4G_iwrAo_4",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJf0p9AXxbXz4RgzhbX6VLu7E": {
+      "name": "Plage de Mamzar, Dubai, Émirats arabes unis",
+      "place_id": "ChIJf0p9AXxbXz4RgzhbX6VLu7E",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJwwlEE1lbXz4RDuQeVS-xWVg": {
+      "name": "Mamzar park Car Parking Area - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJwwlEE1lbXz4RDuQeVS-xWVg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJdYdk4EZCXz4RtFGDMnXefMM": {
+      "name": "Mandarin Oriental Jumeira, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdYdk4EZCXz4RtFGDMnXefMM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ42dVizFqXz4R5OMgYCBnuWA": {
+      "name": "Al-Manara, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ42dVizFqXz4R5OMgYCBnuWA",
+      "types": "neighborhood, political"
+    },
+    "ChIJhStYJgBDXz4R6eyTqNh5i5s": {
+      "name": "Mandarin Oriental Downtown, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhStYJgBDXz4R6eyTqNh5i5s",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJsyPUwepdXz4R_6bvc85emrk": {
+      "name": "Marsa Boulevard - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJsyPUwepdXz4R_6bvc85emrk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJO-Q7QylDXz4RGgGzoUZ64Rs": {
+      "name": "Masjid - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJO-Q7QylDXz4RGgGzoUZ64Rs",
+      "types": "establishment, mosque, place_of_worship, point_of_interest"
+    },
+    "ChIJ_V8vhh9pXz4RcSg8z29PRuA": {
+      "name": "Matcha Club Al Quoz | Padel & Movement - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ_V8vhh9pXz4RcSg8z29PRuA",
+      "types": "cafe, establishment, food, gym, health, point_of_interest"
+    },
+    "ChIJpXGB2PBAXz4R9xIv14CMSuQ": {
+      "name": "Mauritania - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpXGB2PBAXz4R9xIv14CMSuQ",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJO2h-BkNDXz4RVTax9xG_IPI": {
+      "name": "MAX Fashion Metro Station - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJO2h-BkNDXz4RVTax9xG_IPI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJqayZyzZoXz4RGS_jzjLP9h0": {
+      "name": "Mayfair Residency - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqayZyzZoXz4RGS_jzjLP9h0",
+      "types": "geocode, premise"
+    },
+    "ChIJy1gL1DZoXz4REKSZNEzo5p0": {
+      "name": "Mayfair Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJy1gL1DZoXz4REKSZNEzo5p0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJtee7gjhsXz4RMUqaOtF-6EQ": {
+      "name": "May Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJtee7gjhsXz4RMUqaOtF-6EQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ4YGVYE4TXz4RhfW_MiUK54g": {
+      "name": "Mazaya Shopping Center (PR1063) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ4YGVYE4TXz4RhfW_MiUK54g",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJCcMZ1q9sXz4RcIkdpPRTqA8": {
+      "name": "Mazaya Business Avenue BB2 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJCcMZ1q9sXz4RcIkdpPRTqA8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJA97wl41CXz4RKomJ0z7VOIs": {
+      "name": "Maze tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJA97wl41CXz4RKomJ0z7VOIs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJX6-f80RrXz4RWnm14MIoPeg": {
+      "name": "MBC Group - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJX6-f80RrXz4RWnm14MIoPeg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJH8YcCFNpXz4RQUHcCJoYdyI": {
+      "name": "MAIL BOXES ETC - BAY SQUARE - Dubai - Émirats arabes unis",
+      "place_id": "ChIJH8YcCFNpXz4RQUHcCJoYdyI",
       "types": "establishment, point_of_interest"
     }
   }
