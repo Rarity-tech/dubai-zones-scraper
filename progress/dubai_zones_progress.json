@@ -4969,7 +4969,57 @@
     "Dubai JAA",
     "Dubai JAB",
     "Dubai JAC",
-    "Dubai JAD"
+    "Dubai JAD",
+    "Dubai JAE",
+    "Dubai JAF",
+    "Dubai JAG",
+    "Dubai JAH",
+    "Dubai JAI",
+    "Dubai JAJ",
+    "Dubai JAK",
+    "Dubai JAL",
+    "Dubai JAM",
+    "Dubai JAN",
+    "Dubai JAO",
+    "Dubai JAP",
+    "Dubai JAQ",
+    "Dubai JAR",
+    "Dubai JAS",
+    "Dubai JAT",
+    "Dubai JAU",
+    "Dubai JAV",
+    "Dubai JAW",
+    "Dubai JAX",
+    "Dubai JAY",
+    "Dubai JAZ",
+    "Dubai JBA",
+    "Dubai JBB",
+    "Dubai JBC",
+    "Dubai JBD",
+    "Dubai JBE",
+    "Dubai JBF",
+    "Dubai JBG",
+    "Dubai JBH",
+    "Dubai JBI",
+    "Dubai JBJ",
+    "Dubai JBK",
+    "Dubai JBL",
+    "Dubai JBM",
+    "Dubai JBN",
+    "Dubai JBO",
+    "Dubai JBP",
+    "Dubai JBQ",
+    "Dubai JBR",
+    "Dubai JBS",
+    "Dubai JBT",
+    "Dubai JBU",
+    "Dubai JBV",
+    "Dubai JBW",
+    "Dubai JBX",
+    "Dubai JBY",
+    "Dubai JBZ",
+    "Dubai JCA",
+    "Dubai JCB"
   ],
   "pending_n2": [
     {
@@ -62104,6 +62154,131 @@
       "name": "Jade Residence - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJX0uB7WdkXz4RL7SVhDnTCi8",
       "types": "geocode, premise"
+    },
+    "ChIJ1RvKgpANXz4RCKBXukGPK1s": {
+      "name": "JAFZA ONE - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1RvKgpANXz4RCKBXukGPK1s",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJV7l0sLdDXz4RMpuSxz4EoF4": {
+      "name": "Jafiliya immigration - Dubai - Émirats arabes unis",
+      "place_id": "ChIJV7l0sLdDXz4RMpuSxz4EoF4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJs7lcPQATXz4Rqqjba2vaJ74": {
+      "name": "JAFZA GATE 4 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJs7lcPQATXz4Rqqjba2vaJ74",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ1zsNCH9DXz4RB63IGYlJd5c": {
+      "name": "Jag Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1zsNCH9DXz4RB63IGYlJd5c",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJpXgGwBxtXz4Rz3XBq0FNPR8": {
+      "name": "Jain Allied Science DMCC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpXgGwBxtXz4Rz3XBq0FNPR8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJbfcNaQBpXz4RGhMi6UlMosc": {
+      "name": "Jakuzi House - Dubai - Émirats arabes unis",
+      "place_id": "ChIJbfcNaQBpXz4RGhMi6UlMosc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJh4u6midrXz4R3KnSDaLqIag": {
+      "name": "JAM Marina Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJh4u6midrXz4R3KnSDaLqIag",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJTR_3fEFrXz4RlZrfgF5pa98": {
+      "name": "James & Alex Dance Studios - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTR_3fEFrXz4RlZrfgF5pa98",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJRZ3D935CXz4RgtM231BsSk4": {
+      "name": "JAM Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRZ3D935CXz4RgtM231BsSk4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJl_CSFGldXz4RhlrREDrsiZU": {
+      "name": "Jameel Arts Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJl_CSFGldXz4RhlrREDrsiZU",
+      "types": "establishment, library, museum, point_of_interest, tourist_attraction"
+    },
+    "ChIJo7fTPVETXz4RiV-uWhyIj9A": {
+      "name": "Jannah Marina Hotel Apartments - Marina Promenade - Dubai - Émirats arabes unis",
+      "place_id": "ChIJo7fTPVETXz4RiV-uWhyIj9A",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJW6cfeChBXz4RAD1Jm3VCRt0": {
+      "name": "Japan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJW6cfeChBXz4RAD1Jm3VCRt0",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJ3alnGgxdXz4RD9GT002aYeE": {
+      "name": "Al Garhoud - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ3alnGgxdXz4RD9GT002aYeE",
+      "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJ0XBN7eNzXz4Ryve5b_hv7Rw": {
+      "name": "Jasmine Lane by Elie Saab - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0XBN7eNzXz4Ryve5b_hv7Rw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBTciR9xrXz4Rer4M-OH1Qv0": {
+      "name": "Jashanmal Service Center - Al Qouz - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBTciR9xrXz4Rer4M-OH1Qv0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJnZ_GWJ5nXz4RgoGLuv8N0mg": {
+      "name": "JaVida Medical Center L.L.C. - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJnZ_GWJ5nXz4RgoGLuv8N0mg",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJsR_VfUFDXz4RcwcTdvmF0dU": {
+      "name": "Jazeera - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJsR_VfUFDXz4RcwcTdvmF0dU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ2WaRquVrXz4R1MMWYgz0O-Q": {
+      "name": "Jazz Lounge Spa for Men - Umm Suqeim St, Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ2WaRquVrXz4R1MMWYgz0O-Q",
+      "types": "beauty_salon, establishment, hair_care, health, point_of_interest, spa"
+    },
+    "ChIJ_7YWRrNsXz4RzqMtc-uTRfo": {
+      "name": "JBC 4 - Cluster N - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_7YWRrNsXz4RzqMtc-uTRfo",
+      "types": "geocode, premise"
+    },
+    "ChIJve12taZsXz4RB53rxAXvcac": {
+      "name": "JBC 3 - Cluster Y - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJve12taZsXz4RB53rxAXvcac",
+      "types": "geocode, premise"
+    },
+    "ChIJCwSBfQBdXz4Rogu4zCz6VHk": {
+      "name": "JBL Consulting LLC-FZ - Dubai - Émirats arabes unis",
+      "place_id": "ChIJCwSBfQBdXz4Rogu4zCz6VHk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJWSSH4ChDXz4RQYhD1JhAxN0": {
+      "name": "JBS North Gate - Dubai - Émirats arabes unis",
+      "place_id": "ChIJWSSH4ChDXz4RQYhD1JhAxN0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJRdgH_fddXz4Rbj8njzn0KaE": {
+      "name": "JBT Building Contracting LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRdgH_fddXz4Rbj8njzn0KaE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJD3xT5acVXz4RyM77TMoQYPs": {
+      "name": "JCB Dubai Marina Apartment - Dubai - Émirats arabes unis",
+      "place_id": "ChIJD3xT5acVXz4RyM77TMoQYPs",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJH5iAe6klNGURMeTQxzI7u98": {
+      "name": "JCB Rental Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJH5iAe6klNGURMeTQxzI7u98",
+      "types": "establishment, point_of_interest"
     }
   }
 }
