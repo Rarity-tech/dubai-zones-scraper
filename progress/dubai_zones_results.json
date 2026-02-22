@@ -696,9 +696,39 @@
     "zone_type": "area"
   },
   {
+    "name": "ABYDOS MIDDLE EAST DMCC - Dubai - Émirats arabes unis",
+    "place_id": "ChIJI4v9lq1sXz4RX5_FV99-WZo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ACICO Business Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJq9RVneBcXz4RAleiAGK3sJo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ACT ONE - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAQoxUUZpXz4RAgKhc2z1WnU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ADCB - Corporate Office - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJj_LW3uFrXz4RvFSvBI4xti4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "ADCB Metro Station Landside Entrance - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJUVrYQQBDXz4RC5XTnjjsU5A",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ADNOC Service Station | Dubai Investment Park (520) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJX4Y2KHRtXz4RVlg7RcUtfP4",
+    "types": "bakery, cafe, car_repair, convenience_store, establishment, food, gas_station, mosque, place_of_worship, point_of_interest, store",
     "zone_type": "area"
   },
   {
@@ -792,9 +822,51 @@
     "zone_type": "area"
   },
   {
+    "name": "Abu Dhabi University - Dubai Campus - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJPUA4wmxrXz4Rn66tMMOQjzk",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
     "name": "Abu Hail Center - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJY8lKwpJcXz4Rgz-8-QE-kkc",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Acacia A - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJww6LLUhpXz4Ryj4A8Ffiibs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Acacia B - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcUquL0ppXz4RFAJZaGHG6So",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Acacia C - Dubai - Émirats arabes unis",
+    "place_id": "ChIJJ4QkH3dpXz4RZ1ZSJ67XPII",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Academy Park - Dubai - Émirats arabes unis",
+    "place_id": "ChIJZdbot2ZrXz4RvS0UrpWjKl4",
+    "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ace Sports Academy - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJUy_VG71gXz4RvIXKr9NfPeQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Aces Chateau (Rijas aces) - Dubai - Émirats arabes unis",
+    "place_id": "ChIJP2iSZcdtXz4R0kETQbOtqS8",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -807,6 +879,18 @@
     "name": "Act One | Act Two - Downtown - Emaar - Dubai - Émirats arabes unis",
     "place_id": "ChIJzcUSHytoXz4Rrxu9WjHzrS4",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Action Park - Paintball - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJtzuNCxcFXz4RRgx9Ft8WpZg",
+    "types": "amusement_park, establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Active games kids amusement arcade co. LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzXRibwBrXz4RTPHXJGzui08",
+    "types": "amusement_park, establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -831,6 +915,36 @@
     "name": "Address Sky View, Dubai, Émirats arabes unis",
     "place_id": "ChIJE-2GlYVDXz4R8fLxPHg9EOE",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Adelspa - Ukrainian and European Massage Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJrehGGbRdXz4RaqPvBxO2OB8",
+    "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "Adhara Star Acube Developments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ63UD7oNvXz4RmtcPw0Q6YLY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Admiral Plaza Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3_PBZBVDXz4RsH7zREeQ1kI",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Adventure Island JBR - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJueUFvksVXz4R6m29javtjdQ",
+    "types": "amusement_park, establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Adventure Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ4x_2w-pvXz4RgyVtCnvedho",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -948,6 +1062,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Aparthotel Adagio Premium The Palm - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJfW1JEXQVXz4Rosv1ASkA58M",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Apricot Tower, Dubai Silicon Oasis - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJcU-FVgBlXz4R_98p0ierWlo",
     "types": "establishment, point_of_interest",
@@ -963,6 +1083,12 @@
     "name": "Aqua Parks Leisure - Dubai - Émirats arabes unis",
     "place_id": "ChIJaayDtSNrXz4RUGHVXKLJci8",
     "types": "amusement_park, clothing_store, establishment, point_of_interest, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "Aquaventure Waterpark - Crescent Road - Dubai - Émirats arabes unis",
+    "place_id": "ChIJRcbZaklDXz4RXfL8v3kej7c",
+    "types": "amusement_park, establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -2112,6 +2238,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Formula Rossa - Abou Dabi - Émirats arabes unis",
+    "place_id": "ChIJiSfmi3tFXj4R0MQUhn1qwFM",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Gate Avenue at DIFC - Dubai - Émirats arabes unis",
     "place_id": "ChIJG7h-uo9CXz4R1pw6Exa8eY0",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -2295,6 +2427,12 @@
     "name": "IIS - Dubai - Émirats arabes unis",
     "place_id": "ChIJd4qpSEFkXz4RT6BNSUB7gCw",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "IMG Mondes d'Aventure, Dubai, Émirats arabes unis",
+    "place_id": "ChIJs4NBKX9lXz4RwvniHGkNvxA",
+    "types": "amusement_park, establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -3939,6 +4077,12 @@
     "name": "Émirats arabes unis, Dubaï, Dubai, Al Awir Road, dragon mall",
     "place_id": "ChIJCfvtCRxhXz4RSpLIUSn97-s",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Émirats arabes unis, Dubaï, Dubai, Sheikh Zayed Road, ACWA办公室",
+    "place_id": "ChIJyd0AeHFrXz4Rp64yLD126IA",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
