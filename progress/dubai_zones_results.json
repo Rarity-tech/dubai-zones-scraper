@@ -10818,6 +10818,12 @@
     "zone_type": "area"
   },
   {
+    "name": "OPENMINDS Centre, Al Barsha - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBwuV5fhrXz4Rcv-4lvEeIZk",
+    "types": "doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Oaks Liwa Heights Hotel Suites Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJk0YxiUlDXz4RbIQ_wYT2Rpk",
     "types": "establishment, lodging, point_of_interest",
@@ -10857,6 +10863,12 @@
     "name": "One&Only One Za'abeel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJo0YkEMZDXz4R95uvTYa8i04",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Open Beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJB10bGj5CXz4RrFxIGxr9M60",
+    "types": "establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -14154,6 +14166,12 @@
     "zone_type": "area"
   },
   {
+    "name": "UFOhouse - Dubai - Émirats arabes unis",
+    "place_id": "ChIJcx9VEgBDXz4Rafd8H86EybY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "UK - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJo9zirZRAXz4Rf8-I240zgO8",
     "types": "establishment, natural_feature",
@@ -14199,6 +14217,12 @@
     "name": "Union Metro Station - Dubai - Émirats arabes unis",
     "place_id": "ChIJ8fKaCDVDXz4RoATjKDaONDE",
     "types": "establishment, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "United Emirates Metals & Abrasives LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP-M_tlpyXz4RqlooSQ2FyNc",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

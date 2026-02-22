@@ -9969,7 +9969,57 @@
     "Dubai UEI",
     "Dubai UEJ",
     "Dubai UEK",
-    "Dubai UEL"
+    "Dubai UEL",
+    "Dubai UEM",
+    "Dubai UEN",
+    "Dubai UEO",
+    "Dubai UEP",
+    "Dubai UEQ",
+    "Dubai UER",
+    "Dubai UES",
+    "Dubai UET",
+    "Dubai UEU",
+    "Dubai UEV",
+    "Dubai UEW",
+    "Dubai UEX",
+    "Dubai UEY",
+    "Dubai UEZ",
+    "Dubai UFA",
+    "Dubai UFB",
+    "Dubai UFC",
+    "Dubai UFD",
+    "Dubai UFE",
+    "Dubai UFF",
+    "Dubai UFG",
+    "Dubai UFH",
+    "Dubai UFI",
+    "Dubai UFJ",
+    "Dubai UFK",
+    "Dubai UFL",
+    "Dubai UFM",
+    "Dubai UFN",
+    "Dubai UFO",
+    "Dubai UFP",
+    "Dubai UFQ",
+    "Dubai UFR",
+    "Dubai UFS",
+    "Dubai UFT",
+    "Dubai UFU",
+    "Dubai UFV",
+    "Dubai UFW",
+    "Dubai UFX",
+    "Dubai UFY",
+    "Dubai UFZ",
+    "Dubai UHA",
+    "Dubai UHB",
+    "Dubai UHC",
+    "Dubai UHD",
+    "Dubai UHE",
+    "Dubai UHF",
+    "Dubai UHG",
+    "Dubai UHH",
+    "Dubai UHI",
+    "Dubai UHJ"
   ],
   "pending_n2": [
     {
@@ -71433,6 +71483,26 @@
     "ChIJ_av-DZgNXz4RBG22ipkVigA": {
       "name": "UD Trucks MEENA - Dubai - Émirats arabes unis",
       "place_id": "ChIJ_av-DZgNXz4RBG22ipkVigA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJP-M_tlpyXz4RqlooSQ2FyNc": {
+      "name": "United Emirates Metals & Abrasives LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP-M_tlpyXz4RqlooSQ2FyNc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBwuV5fhrXz4Rcv-4lvEeIZk": {
+      "name": "OPENMINDS Centre, Al Barsha - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBwuV5fhrXz4Rcv-4lvEeIZk",
+      "types": "doctor, establishment, health, hospital, point_of_interest"
+    },
+    "ChIJB10bGj5CXz4RrFxIGxr9M60": {
+      "name": "Open Beach - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJB10bGj5CXz4RrFxIGxr9M60",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJcx9VEgBDXz4Rafd8H86EybY": {
+      "name": "UFOhouse - Dubai - Émirats arabes unis",
+      "place_id": "ChIJcx9VEgBDXz4Rafd8H86EybY",
       "types": "establishment, point_of_interest"
     }
   }
