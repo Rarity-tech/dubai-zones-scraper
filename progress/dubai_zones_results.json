@@ -6210,6 +6210,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Wharf Tower 2 Block 3 - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ26BGmWpdXz4R_PWo_e3uxVk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Wharf Tower 3 - Dubaï - Émirats arabes unis",
     "place_id": "ChIJGV38Lh1dXz4RbbHg39XEMUQ",
     "types": "establishment, point_of_interest",
@@ -14010,6 +14016,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Warehouse Gym - Al Quoz, Ind.3 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJYw9bGsJrXz4R01xwZxnsUAc",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "The Wings by Al Mizan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCUF7r51DXz4RVfBOqAo76To",
     "types": "establishment, point_of_interest",
@@ -14916,6 +14928,12 @@
     "zone_type": "area"
   },
   {
+    "name": "WHITE SWAN BUILDING - Dubai - Émirats arabes unis",
+    "place_id": "ChIJaUSJkO1CXz4RI2JBlBHR-gI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "WHY NOT Yacht Rental - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJIVkFbUVrXz4RJnRhBPuo2-8",
     "types": "establishment, point_of_interest",
@@ -15036,6 +15054,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Wellcare Limousines- Car With Driver in Dubai, UAE - Al Wasl Road - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_xlnAI1pXz4R2QY4mvkXezQ",
+    "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Wellfit Meydan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJX4wJ9LBpXz4RM39ldHh0JSo",
     "types": "establishment, gym, health, point_of_interest",
@@ -15072,6 +15096,18 @@
     "zone_type": "area"
   },
   {
+    "name": "White Fort Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJu75FUkhDXz4R6bG_ALhAN7Y",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Widcombe House 3 - Barton Street - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJtWyDHmtuXz4RyFRkQFsw2Yc",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Wild Wadi Waterpark, Dubai, Émirats arabes unis",
     "place_id": "ChIJh7LUHlFqXz4RbIRg-g5fo-E",
     "types": "amusement_park, establishment, point_of_interest, tourist_attraction",
@@ -15080,6 +15116,12 @@
   {
     "name": "Wilton Park Residences – Ellington Properties - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ5wqPSh1pXz4RFKSWo_w0Rz0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Wilton Terraces - Ellington Properties - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJnca-IhppXz4RyHcZP7YIeII",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },

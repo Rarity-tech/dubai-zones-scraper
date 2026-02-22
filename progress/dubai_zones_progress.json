@@ -11219,7 +11219,57 @@
     "Dubai WGK",
     "Dubai WGL",
     "Dubai WGM",
-    "Dubai WGN"
+    "Dubai WGN",
+    "Dubai WGO",
+    "Dubai WGP",
+    "Dubai WGQ",
+    "Dubai WGR",
+    "Dubai WGS",
+    "Dubai WGT",
+    "Dubai WGU",
+    "Dubai WGV",
+    "Dubai WGW",
+    "Dubai WGX",
+    "Dubai WGY",
+    "Dubai WGZ",
+    "Dubai WHA",
+    "Dubai WHB",
+    "Dubai WHC",
+    "Dubai WHD",
+    "Dubai WHE",
+    "Dubai WHF",
+    "Dubai WHG",
+    "Dubai WHH",
+    "Dubai WHI",
+    "Dubai WHJ",
+    "Dubai WHK",
+    "Dubai WHL",
+    "Dubai WHM",
+    "Dubai WHN",
+    "Dubai WHO",
+    "Dubai WHP",
+    "Dubai WHQ",
+    "Dubai WHR",
+    "Dubai WHS",
+    "Dubai WHT",
+    "Dubai WHU",
+    "Dubai WHV",
+    "Dubai WHW",
+    "Dubai WHX",
+    "Dubai WHY",
+    "Dubai WHZ",
+    "Dubai WIA",
+    "Dubai WIB",
+    "Dubai WIC",
+    "Dubai WID",
+    "Dubai WIE",
+    "Dubai WIF",
+    "Dubai WIG",
+    "Dubai WIH",
+    "Dubai WII",
+    "Dubai WIJ",
+    "Dubai WIK",
+    "Dubai WIL"
   ],
   "pending_n2": [
     {
@@ -73213,6 +73263,41 @@
     "ChIJNc-Tfu0TXz4RCwmif82HX4c": {
       "name": "Weybridge Gardens 1 By Leos Developments - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJNc-Tfu0TXz4RCwmif82HX4c",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ26BGmWpdXz4R_PWo_e3uxVk": {
+      "name": "Dubai Wharf Tower 2 Block 3 - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ26BGmWpdXz4R_PWo_e3uxVk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJYw9bGsJrXz4R01xwZxnsUAc": {
+      "name": "The Warehouse Gym - Al Quoz, Ind.3 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJYw9bGsJrXz4R01xwZxnsUAc",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJaUSJkO1CXz4RI2JBlBHR-gI": {
+      "name": "WHITE SWAN BUILDING - Dubai - Émirats arabes unis",
+      "place_id": "ChIJaUSJkO1CXz4RI2JBlBHR-gI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJu75FUkhDXz4R6bG_ALhAN7Y": {
+      "name": "White Fort Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJu75FUkhDXz4R6bG_ALhAN7Y",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJtWyDHmtuXz4RyFRkQFsw2Yc": {
+      "name": "Widcombe House 3 - Barton Street - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJtWyDHmtuXz4RyFRkQFsw2Yc",
+      "types": "geocode, premise"
+    },
+    "ChIJ_xlnAI1pXz4R2QY4mvkXezQ": {
+      "name": "Wellcare Limousines- Car With Driver in Dubai, UAE - Al Wasl Road - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_xlnAI1pXz4R2QY4mvkXezQ",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJnca-IhppXz4RyHcZP7YIeII": {
+      "name": "Wilton Terraces - Ellington Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJnca-IhppXz4RyHcZP7YIeII",
       "types": "establishment, point_of_interest"
     }
   }
