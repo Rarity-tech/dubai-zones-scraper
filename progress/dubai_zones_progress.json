@@ -1319,7 +1319,57 @@
     "Dubai BEQ",
     "Dubai BER",
     "Dubai BES",
-    "Dubai BET"
+    "Dubai BET",
+    "Dubai BEU",
+    "Dubai BEV",
+    "Dubai BEW",
+    "Dubai BEX",
+    "Dubai BEY",
+    "Dubai BEZ",
+    "Dubai BFA",
+    "Dubai BFB",
+    "Dubai BFC",
+    "Dubai BFD",
+    "Dubai BFE",
+    "Dubai BFF",
+    "Dubai BFG",
+    "Dubai BFH",
+    "Dubai BFI",
+    "Dubai BFJ",
+    "Dubai BFK",
+    "Dubai BFL",
+    "Dubai BFM",
+    "Dubai BFN",
+    "Dubai BFO",
+    "Dubai BFP",
+    "Dubai BFQ",
+    "Dubai BFR",
+    "Dubai BFS",
+    "Dubai BFT",
+    "Dubai BFU",
+    "Dubai BFV",
+    "Dubai BFW",
+    "Dubai BFX",
+    "Dubai BFY",
+    "Dubai BFZ",
+    "Dubai BGA",
+    "Dubai BGB",
+    "Dubai BGC",
+    "Dubai BGD",
+    "Dubai BGE",
+    "Dubai BGF",
+    "Dubai BGG",
+    "Dubai BGH",
+    "Dubai BGI",
+    "Dubai BGJ",
+    "Dubai BGK",
+    "Dubai BGL",
+    "Dubai BGM",
+    "Dubai BGN",
+    "Dubai BGO",
+    "Dubai BGP",
+    "Dubai BGQ",
+    "Dubai BGR"
   ],
   "pending_n2": [
     {
@@ -54994,6 +55044,41 @@
       "name": "Best Western Plus: Pearl Creek Hotel - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJm1NFndFcXz4RYMg12h6m42Y",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ74pVHAdtXz4R1qdrjrwtc_s": {
+      "name": "Beverly Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ74pVHAdtXz4R1qdrjrwtc_s",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJT1i7u3lvXz4RkV_50s8SEzg": {
+      "name": "Beverly Boulevard By HMB HOMES - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJT1i7u3lvXz4RkV_50s8SEzg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ7zllrDpBXz4RLyyD3JxlSCg": {
+      "name": "New Zealand - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ7zllrDpBXz4RLyyD3JxlSCg",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJ66TuahBDXz4RNILNdKYVpKc": {
+      "name": "New Gold Souq - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ66TuahBDXz4RNILNdKYVpKc",
+      "types": "geocode, premise"
+    },
+    "ChIJZUTf6DZoXz4RVrRU9ryE0ZY": {
+      "name": "Vezul Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZUTf6DZoXz4RVrRU9ryE0ZY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJK2pzPwBhXz4RNWij-aLtypE": {
+      "name": "BFFL Temple - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJK2pzPwBhXz4RNWij-aLtypE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJj5mzDY5oXz4ROqwyQMi6a7g": {
+      "name": "Bilingual French International School ICE | Lycée Français Bilingue International ICE - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJj5mzDY5oXz4ROqwyQMi6a7g",
+      "types": "establishment, point_of_interest, primary_school, school, university"
     }
   }
 }

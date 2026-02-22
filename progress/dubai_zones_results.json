@@ -2316,6 +2316,12 @@
     "zone_type": "area"
   },
   {
+    "name": "BFFL Temple - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJK2pzPwBhXz4RNWij-aLtypE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "BMTC Building - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJvXPqAm1cXz4Rne4xws6Z7T8",
     "types": "geocode, premise",
@@ -2541,6 +2547,24 @@
     "name": "Best Western Premier M Four Hotel - Dubai - Émirats arabes unis",
     "place_id": "ChIJZyGzQ5hdXz4RNiXJm5UTrqA",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Beverly Boulevard By HMB HOMES - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT1i7u3lvXz4RkV_50s8SEzg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Beverly Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ74pVHAdtXz4R1qdrjrwtc_s",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bilingual French International School ICE | Lycée Français Bilingue International ICE - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJj5mzDY5oXz4ROqwyQMi6a7g",
+    "types": "establishment, point_of_interest, primary_school, school, university",
     "zone_type": "area"
   },
   {
@@ -4434,6 +4458,18 @@
     "zone_type": "area"
   },
   {
+    "name": "New Gold Souq - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ66TuahBDXz4RNILNdKYVpKc",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "New Zealand - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ7zllrDpBXz4RLyyD3JxlSCg",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "Oman - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJnUhiTuFAXz4RNAEm1DhddhQ",
     "types": "establishment, natural_feature",
@@ -5295,6 +5331,12 @@
     "name": "Venezuela - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJBb5WJpBAXz4RrqasQYkCG6U",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Vezul Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZUTf6DZoXz4RVrRU9ryE0ZY",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
