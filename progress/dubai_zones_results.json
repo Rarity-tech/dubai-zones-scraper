@@ -3222,6 +3222,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Canadian University Dubai, City walk - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJSRP2eGJCXz4RhAMe6EGbyFw",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
+    "name": "Canadian Wellness Centre - Chiropractic Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJw5zyw-lrXz4RPxhp0_4FosI",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Canal Central Hotel - Business Bay - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ-ZHMSMxpXz4Re-3SPh2Qsp0",
     "types": "establishment, lodging, point_of_interest",
@@ -3801,6 +3813,12 @@
     "name": "Cuban Boxing Club Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJW2fDlEBrXz4RIP5PJ_vLx34",
     "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Curtin University Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3QCgFoxjXz4RKO6FV8oP124",
+    "types": "establishment, point_of_interest, university",
     "zone_type": "area"
   },
   {
@@ -6681,6 +6699,12 @@
     "name": "Wyndham Residences The Palm - Crescent Road - Dubai - Émirats arabes unis",
     "place_id": "ChIJM0C-p9IVXz4RGklRquwe98s",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Xstrike - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJhTMFgo5rXz4R0ehgq7ZOkxo",
+    "types": "amusement_park, establishment, point_of_interest",
     "zone_type": "area"
   },
   {
