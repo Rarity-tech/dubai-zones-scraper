@@ -6528,6 +6528,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Hertz - Airport Road - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJpy3yzZNdXz4RPMYYkGSEyUY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Hertz - Dubai Airport Terminal 3 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ-YclOqddXz4R_VcdLXnja1w",
     "types": "establishment, point_of_interest",
@@ -6657,6 +6663,12 @@
     "name": "Hong Kong - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCfcypyBBXz4R8jqGI1s22Y8",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Hope Abilitation Medical Center - pediatric medical & therapy center Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ337GlBZqXz4RDAaB5Ov1-_o",
+    "types": "establishment, health, hospital, physiotherapist, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6972,6 +6984,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Ihaca Vacation Homes Rental LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJW3qFGk1rXz4R8y4uglfco_c",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Ikigai studio - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJG3Ndif5DXz4R2kM2QhT5h1A",
     "types": "establishment, gym, health, point_of_interest",
@@ -6990,8 +7008,20 @@
     "zone_type": "area"
   },
   {
+    "name": "Indian Institute of Management Ahmedabad - Dubai Campus - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRYnkRJ5jXz4RG0J2OuYyY1Y",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "InterContinental Dubai Marina by IHG - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCUUESVVrXz4RZD1qHUcCgGg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "InterContinental Residences Dubai Business Bay by IHG - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAwtwSgBpXz4RkvpdqtfmZzA",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },

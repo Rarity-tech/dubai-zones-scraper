@@ -4469,7 +4469,57 @@
     "Dubai IGU",
     "Dubai IGV",
     "Dubai IGW",
-    "Dubai IGX"
+    "Dubai IGX",
+    "Dubai IGY",
+    "Dubai IGZ",
+    "Dubai IHA",
+    "Dubai IHB",
+    "Dubai IHC",
+    "Dubai IHD",
+    "Dubai IHE",
+    "Dubai IHF",
+    "Dubai IHG",
+    "Dubai IHH",
+    "Dubai IHI",
+    "Dubai IHJ",
+    "Dubai IHK",
+    "Dubai IHL",
+    "Dubai IHM",
+    "Dubai IHN",
+    "Dubai IHO",
+    "Dubai IHP",
+    "Dubai IHQ",
+    "Dubai IHR",
+    "Dubai IHS",
+    "Dubai IHT",
+    "Dubai IHU",
+    "Dubai IHV",
+    "Dubai IHW",
+    "Dubai IHX",
+    "Dubai IHY",
+    "Dubai IHZ",
+    "Dubai IIA",
+    "Dubai IIB",
+    "Dubai IIC",
+    "Dubai IID",
+    "Dubai IIE",
+    "Dubai IIF",
+    "Dubai IIG",
+    "Dubai IIH",
+    "Dubai III",
+    "Dubai IIJ",
+    "Dubai IIK",
+    "Dubai IIL",
+    "Dubai IIM",
+    "Dubai IIN",
+    "Dubai IIO",
+    "Dubai IIP",
+    "Dubai IIQ",
+    "Dubai IIR",
+    "Dubai IIS",
+    "Dubai IIT",
+    "Dubai IIU",
+    "Dubai IIV"
   ],
   "pending_n2": [
     {
@@ -61224,6 +61274,31 @@
       "name": "Iglesia de San Francisco de Asís - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJM15J7uASXz4RGx_FlGXC8_k",
       "types": "church, establishment, place_of_worship, point_of_interest, tourist_attraction"
+    },
+    "ChIJW3qFGk1rXz4R8y4uglfco_c": {
+      "name": "Ihaca Vacation Homes Rental LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJW3qFGk1rXz4R8y4uglfco_c",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJAwtwSgBpXz4RkvpdqtfmZzA": {
+      "name": "InterContinental Residences Dubai Business Bay by IHG - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAwtwSgBpXz4RkvpdqtfmZzA",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJpy3yzZNdXz4RPMYYkGSEyUY": {
+      "name": "Hertz - Airport Road - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpy3yzZNdXz4RPMYYkGSEyUY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ337GlBZqXz4RDAaB5Ov1-_o": {
+      "name": "Hope Abilitation Medical Center - pediatric medical & therapy center Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ337GlBZqXz4RDAaB5Ov1-_o",
+      "types": "establishment, health, hospital, physiotherapist, point_of_interest"
+    },
+    "ChIJRYnkRJ5jXz4RG0J2OuYyY1Y": {
+      "name": "Indian Institute of Management Ahmedabad - Dubai Campus - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRYnkRJ5jXz4RG0J2OuYyY1Y",
+      "types": "establishment, point_of_interest"
     }
   }
 }
