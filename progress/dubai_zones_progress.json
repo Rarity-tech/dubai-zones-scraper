@@ -3469,7 +3469,57 @@
     "Dubai EQI",
     "Dubai EQJ",
     "Dubai EQK",
-    "Dubai EQL"
+    "Dubai EQL",
+    "Dubai EQM",
+    "Dubai EQN",
+    "Dubai EQO",
+    "Dubai EQP",
+    "Dubai EQQ",
+    "Dubai EQR",
+    "Dubai EQS",
+    "Dubai EQT",
+    "Dubai EQU",
+    "Dubai EQV",
+    "Dubai EQW",
+    "Dubai EQX",
+    "Dubai EQY",
+    "Dubai EQZ",
+    "Dubai ERA",
+    "Dubai ERB",
+    "Dubai ERC",
+    "Dubai ERD",
+    "Dubai ERE",
+    "Dubai ERF",
+    "Dubai ERG",
+    "Dubai ERH",
+    "Dubai ERI",
+    "Dubai ERJ",
+    "Dubai ERK",
+    "Dubai ERL",
+    "Dubai ERM",
+    "Dubai ERN",
+    "Dubai ERO",
+    "Dubai ERP",
+    "Dubai ERQ",
+    "Dubai ERR",
+    "Dubai ERS",
+    "Dubai ERT",
+    "Dubai ERU",
+    "Dubai ERV",
+    "Dubai ERW",
+    "Dubai ERX",
+    "Dubai ERY",
+    "Dubai ERZ",
+    "Dubai ESA",
+    "Dubai ESB",
+    "Dubai ESC",
+    "Dubai ESD",
+    "Dubai ESE",
+    "Dubai ESF",
+    "Dubai ESG",
+    "Dubai ESH",
+    "Dubai ESI",
+    "Dubai ESJ"
   ],
   "pending_n2": [
     {
@@ -59424,6 +59474,31 @@
       "name": "Expo 2020 Lake - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJLzv1RgCdXz4Rz9WY1rnVBCo",
       "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJc5dBZgBvXz4RiS1bpQUxcx4": {
+      "name": "Arista one - Dubai - Émirats arabes unis",
+      "place_id": "ChIJc5dBZgBvXz4RiS1bpQUxcx4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJFeaKig5pXz4RWsQYqR-X7uQ": {
+      "name": "ESAW Accommodation Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJFeaKig5pXz4RWsQYqR-X7uQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJEw0tt3JCXz4Rl2ITtvpO9vY": {
+      "name": "Escape The Room Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJEw0tt3JCXz4Rl2ITtvpO9vY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJoTYbInkVXz4RU10to6lhsP4": {
+      "name": "ES Dubai - JBR Campus - Dubai - Émirats arabes unis",
+      "place_id": "ChIJoTYbInkVXz4RU10to6lhsP4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ_aTkfytpXz4RfKc9rCz-Ppw": {
+      "name": "Eshopify Fulfillment Centre LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_aTkfytpXz4RfKc9rCz-Ppw",
+      "types": "establishment, point_of_interest"
     }
   }
 }

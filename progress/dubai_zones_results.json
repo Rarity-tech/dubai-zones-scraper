@@ -1932,6 +1932,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Arista one - Dubai - Émirats arabes unis",
+    "place_id": "ChIJc5dBZgBvXz4RiS1bpQUxcx4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Ariyana Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJp8nReFdrXz4RV3YqJqdguEo",
     "types": "geocode, premise",
@@ -5472,6 +5478,18 @@
     "zone_type": "area"
   },
   {
+    "name": "ES Dubai - JBR Campus - Dubai - Émirats arabes unis",
+    "place_id": "ChIJoTYbInkVXz4RU10to6lhsP4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ESAW Accommodation Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJFeaKig5pXz4RWsQYqR-X7uQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "EXPO 2020 de Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJ-bSTmNlyXz4R1b_IG3oYylM",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -5832,9 +5850,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Escape The Room Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJEw0tt3JCXz4Rl2ITtvpO9vY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Escape Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJL5yCNtZpXz4RPxSmwOTCwcY",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Eshopify Fulfillment Centre LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_aTkfytpXz4RfKc9rCz-Ppw",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
