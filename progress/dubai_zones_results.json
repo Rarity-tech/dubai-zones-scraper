@@ -14190,6 +14190,18 @@
     "zone_type": "area"
   },
   {
+    "name": "UNA Football Pitch - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIwQ7QBBxXz4R4QJHnLG-o-o",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "UNA Park - Dubai - Émirats arabes unis",
+    "place_id": "ChIJHTN0-vhxXz4R-7-MAqvJrJw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "UP Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJtVL2bI1CXz4RU6DUzKStFSM",
     "types": "geocode, premise",
@@ -14232,6 +14244,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Una at The Views - Emaar - Dubai - Émirats arabes unis",
+    "place_id": "ChIJyQJr1rZrXz4Rn5bd8gd7NXE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Underworld Horror Escape Games - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJvXdni25pXz4RtldlTKc7q0s",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Union Metro Station - Dubai - Émirats arabes unis",
     "place_id": "ChIJ8fKaCDVDXz4RoATjKDaONDE",
     "types": "establishment, local_government_office, point_of_interest",
@@ -14244,9 +14268,51 @@
     "zone_type": "area"
   },
   {
+    "name": "United States Consulate Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJGeh9CjJDXz4RTEpHvxzllsw",
+    "types": "embassy, establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "University of Birmingham Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJdxrIZI5jXz4RLdQiPicLRcc",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
     "name": "University of Wollongong in Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJowZQZmtrXz4RpXpW9fJ-M4Q",
     "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
+    "name": "Unlock J One - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ52qhu9RpXz4RPKT_Sk4y9hI",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Unlock Metropolis - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxYQ6VUppXz4RPyoAlD562rM",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Unlock Stays - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJj0RIT2RpXz4RqIuhp_yyc_8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Unlock Waters Edge - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxSFGzbZpXz4RKqBsiOgS2d4",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Unwind Properties L.L.C - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ37IWZoVpXz4RVxtyR94LYhs",
+    "types": "establishment, point_of_interest, real_estate_agency",
     "zone_type": "area"
   },
   {

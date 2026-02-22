@@ -10119,7 +10119,57 @@
     "Dubai UMC",
     "Dubai UMD",
     "Dubai UME",
-    "Dubai UMF"
+    "Dubai UMF",
+    "Dubai UMG",
+    "Dubai UMH",
+    "Dubai UMI",
+    "Dubai UMJ",
+    "Dubai UMK",
+    "Dubai UML",
+    "Dubai UMM",
+    "Dubai UMN",
+    "Dubai UMO",
+    "Dubai UMP",
+    "Dubai UMQ",
+    "Dubai UMR",
+    "Dubai UMS",
+    "Dubai UMT",
+    "Dubai UMU",
+    "Dubai UMV",
+    "Dubai UMW",
+    "Dubai UMX",
+    "Dubai UMY",
+    "Dubai UMZ",
+    "Dubai UNA",
+    "Dubai UNB",
+    "Dubai UNC",
+    "Dubai UND",
+    "Dubai UNE",
+    "Dubai UNF",
+    "Dubai UNG",
+    "Dubai UNH",
+    "Dubai UNI",
+    "Dubai UNJ",
+    "Dubai UNK",
+    "Dubai UNL",
+    "Dubai UNM",
+    "Dubai UNN",
+    "Dubai UNO",
+    "Dubai UNP",
+    "Dubai UNQ",
+    "Dubai UNR",
+    "Dubai UNS",
+    "Dubai UNT",
+    "Dubai UNU",
+    "Dubai UNV",
+    "Dubai UNW",
+    "Dubai UNX",
+    "Dubai UNY",
+    "Dubai UNZ",
+    "Dubai UOA",
+    "Dubai UOB",
+    "Dubai UOC",
+    "Dubai UOD"
   ],
   "pending_n2": [
     {
@@ -71619,6 +71669,61 @@
       "name": "Al Farooq Omar Bin Al Khattab Mosque - Dubai - Émirats arabes unis",
       "place_id": "ChIJ2X21FvFpXz4RtsrnbiiFKnw",
       "types": "establishment, mosque, place_of_worship, point_of_interest, tourist_attraction"
+    },
+    "ChIJHTN0-vhxXz4R-7-MAqvJrJw": {
+      "name": "UNA Park - Dubai - Émirats arabes unis",
+      "place_id": "ChIJHTN0-vhxXz4R-7-MAqvJrJw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJyQJr1rZrXz4Rn5bd8gd7NXE": {
+      "name": "Una at The Views - Emaar - Dubai - Émirats arabes unis",
+      "place_id": "ChIJyQJr1rZrXz4Rn5bd8gd7NXE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJIwQ7QBBxXz4R4QJHnLG-o-o": {
+      "name": "UNA Football Pitch - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIwQ7QBBxXz4R4QJHnLG-o-o",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJvXdni25pXz4RtldlTKc7q0s": {
+      "name": "Underworld Horror Escape Games - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJvXdni25pXz4RtldlTKc7q0s",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJxYQ6VUppXz4RPyoAlD562rM": {
+      "name": "Unlock Metropolis - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJxYQ6VUppXz4RPyoAlD562rM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJj0RIT2RpXz4RqIuhp_yyc_8": {
+      "name": "Unlock Stays - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJj0RIT2RpXz4RqIuhp_yyc_8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ52qhu9RpXz4RPKT_Sk4y9hI": {
+      "name": "Unlock J One - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ52qhu9RpXz4RPKT_Sk4y9hI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJxSFGzbZpXz4RKqBsiOgS2d4": {
+      "name": "Unlock Waters Edge - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJxSFGzbZpXz4RKqBsiOgS2d4",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJGeh9CjJDXz4RTEpHvxzllsw": {
+      "name": "United States Consulate Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJGeh9CjJDXz4RTEpHvxzllsw",
+      "types": "embassy, establishment, point_of_interest"
+    },
+    "ChIJ37IWZoVpXz4RVxtyR94LYhs": {
+      "name": "Unwind Properties L.L.C - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ37IWZoVpXz4RVxtyR94LYhs",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJdxrIZI5jXz4RLdQiPicLRcc": {
+      "name": "University of Birmingham Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdxrIZI5jXz4RLdQiPicLRcc",
+      "types": "establishment, point_of_interest, university"
     }
   }
 }
