@@ -35,11 +35,13 @@ PROXY_PASS = os.environ.get("PROXY_PASS", "")
 PROXY_HOST = os.environ.get("PROXY_HOST", "")
 PROXY_PORT = os.environ.get("PROXY_PORT", "")
 
+
 def get_proxies():
     if PROXY_HOST and PROXY_USER:
         proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_HOST}:{PROXY_PORT}"
         return {"http": proxy_url, "https": proxy_url}
     return None
+
 
 def load_progress():
     if os.path.exists(PROGRESS_FILE):
@@ -52,10 +54,12 @@ def load_progress():
         "zones": {}
     }
 
+
 def save_progress(progress):
     os.makedirs("progress", exist_ok=True)
     with open(PROGRESS_FILE, "w") as f:
         json.dump(progress, f, ensure_ascii=False, indent=2)
+
 
 def save_results(zones):
     order = {"city": 0, "district": 1, "neighborhood": 2, "area": 3}
@@ -72,9 +76,11 @@ def save_results(zones):
             zone_type = "area"
         result.append({**z, "zone_type": zone_type})
     result.sort(key=lambda x: (order.get(x["zone_type"], 3), x["name"]))
+    os.makedirs("progress", exist_ok=True)
     with open(RESULTS_FILE, "w") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
     print(f"✅ {len(result)} zones sauvegardées dans {RESULTS_FILE}")
+
 
 def query_airbnb(user_input, retries=3):
     params = {**PARAMS_BASE, "user_input": user_input}
@@ -94,16 +100,24 @@ def query_airbnb(user_input, retries=3):
                 time.sleep(wait)
                 continue
             if r.status_code == 200:
-                return r.json()
+                data = r.json()
+                # L'API retourne une liste, on prend le premier élément
+                if isinstance(data, list) and len(data) > 0:
+                    return data[0] if isinstance(data[0], dict) else None
+                elif isinstance(data, dict):
+                    return data
+                else:
+                    return None
         except Exception as e:
             print(f"❌ Erreur sur '{user_input}': {e}")
             time.sleep(10)
     return None
 
-def extract_ae_zones(data, progress, query, prefix, next_level_pending_key):
+
+def extract_ae_zones(data, progress, prefix, next_level_pending_key):
     if not data:
         return 0
-    terms = data[0].get("autocomplete_terms", [])
+    terms = data.get("autocomplete_terms", [])
     ae_terms = [
         t for t in terms
         if t.get("location", {}).get("country_code") == "AE"
@@ -117,7 +131,7 @@ def extract_ae_zones(data, progress, query, prefix, next_level_pending_key):
                 "place_id": place_id,
                 "types": ", ".join(term.get("location", {}).get("types", []))
             }
-    # Si 10 résultats → approfondir
+    # Si 10 résultats AE → approfondir cette branche
     if len(ae_terms) >= 10:
         for l in string.ascii_uppercase:
             new_query = f"Dubai {prefix}{l}"
@@ -130,6 +144,7 @@ def extract_ae_zones(data, progress, query, prefix, next_level_pending_key):
                 })
     return len(ae_terms)
 
+
 def process_queries(queries, progress, next_level_key, level_name, batch_size=50, delay=3):
     total = len(queries)
     print(f"\n🔄 {level_name}: {total} requêtes à traiter")
@@ -140,15 +155,10 @@ def process_queries(queries, progress, next_level_key, level_name, batch_size=50
         if query in progress["completed"]:
             continue
         data = query_airbnb(query)
-        count = extract_ae_zones(data, progress, query, prefix, next_level_key)
+        count = extract_ae_zones(data, progress, prefix, next_level_key)
         progress["completed"].append(query)
-        # Retirer de la liste pending
-        progress[f"pending_{level_name.lower()}"] = [
-            x for x in progress.get(f"pending_{level_name.lower()}", [])
-            if x["query"] != query
-        ]
         processed += 1
-        print(f"  [{i+1}/{total}] '{query}' → {count} zones AE | Total zones: {len(progress['zones'])}")
+        print(f"  [{i+1}/{total}] '{query}' → {count} zones AE | Total: {len(progress['zones'])}")
         # Sauvegarder tous les 50
         if processed % batch_size == 0:
             save_progress(progress)
@@ -159,16 +169,15 @@ def process_queries(queries, progress, next_level_key, level_name, batch_size=50
     save_progress(progress)
     save_results(progress["zones"])
 
-def main():
-    letters = list(string.ascii_uppercase)
-    progress = load_progress()
 
+def main():
+    progress = load_progress()
     print(f"📂 Reprise: {len(progress['zones'])} zones, {len(progress['completed'])} requêtes complétées")
 
-    # NIVEAU 1
+    # NIVEAU 1 : Dubai A → Dubai Z
     n1_queries = [
         {"query": f"Dubai {l}", "prefix": l}
-        for l in letters
+        for l in string.ascii_uppercase
         if f"Dubai {l}" not in progress["completed"]
     ]
     if n1_queries:
@@ -176,14 +185,14 @@ def main():
     else:
         print("✅ N1 déjà complété")
 
-    # NIVEAU 2
+    # NIVEAU 2 : Dubai AA → Dubai ZZ (seulement branches saturées)
     n2_queries = [q for q in progress["pending_n2"] if q["query"] not in progress["completed"]]
     if n2_queries:
         process_queries(n2_queries, progress, "pending_n3", "N2")
     else:
         print("✅ N2 déjà complété ou pas nécessaire")
 
-    # NIVEAU 3
+    # NIVEAU 3 : Dubai AAA → Dubai ZZZ (seulement branches saturées)
     n3_queries = [q for q in progress["pending_n3"] if q["query"] not in progress["completed"]]
     if n3_queries:
         process_queries(n3_queries, progress, "_none", "N3")
@@ -191,6 +200,7 @@ def main():
         print("✅ N3 déjà complété ou pas nécessaire")
 
     print(f"\n🏁 TERMINÉ: {len(progress['zones'])} zones Dubai trouvées")
+
 
 if __name__ == "__main__":
     main()
