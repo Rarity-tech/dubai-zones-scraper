@@ -222,6 +222,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Hadaeq Sheikh Mohammed Bin Rashid, Dubai, Émirats arabes unis",
+    "place_id": "ChIJqYcAAChvXz4RdgfIu-0-DGc",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Hor Al Anz - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJeZRZbJVcXz4RTcg6O_XNsM0",
     "types": "geocode, political, sublocality, sublocality_level_1",
@@ -2550,6 +2556,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Beverly - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ4YSC_q9rXz4RWcIKdsPuqIc",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Beverly Boulevard By HMB HOMES - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJT1i7u3lvXz4RkV_50s8SEzg",
     "types": "establishment, point_of_interest",
@@ -2562,15 +2574,69 @@
     "zone_type": "area"
   },
   {
+    "name": "Bianca by Reportage Properties - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJd-e0YLdlXz4RxxqAgBA3Pc4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bidayaat Company - Dubai - Émirats arabes unis",
+    "place_id": "ChIJh_Zw_cdpXz4RsitOROT6DqU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Big Red Sand Dune Dubai - Dune Buggy & ATV Quad Bikes Rentals - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_c0jI0p29T4RgpP08gW0q3w",
+    "types": "establishment, point_of_interest, tourist_attraction, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "BikeOn - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8deaH7hpXz4RQgfRI50WFn0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Bilingual French International School ICE | Lycée Français Bilingue International ICE - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJj5mzDY5oXz4ROqwyQMi6a7g",
     "types": "establishment, point_of_interest, primary_school, school, university",
     "zone_type": "area"
   },
   {
+    "name": "Biltmore Sufouh - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJmS6M4dlrXz4Rbdz4rxv9elY",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bin Shabib Mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJK2LXXkdcXz4RWSw2CqJh5Nk",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Binghatti Amber - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJS8PFiSttXz4RpReaDhvlZ2w",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Binghatti Corner - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJWY9eQoVtXz4R8g10X8Xm6IU",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Binous Gym | Best Bodybuilding Gym in Dubai | Best Gym Dubai | Most Famous Gym Dubai | Most Expensive Bodybuilding Gym - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJKQEtPOtrXz4Rj4usQIRWolQ",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Biolite Clinic Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ4Xnkw0hqXz4R1SqQ8MaOB18",
+    "types": "beauty_salon, doctor, establishment, hair_care, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -5354,6 +5420,12 @@
   {
     "name": "Vida Dubai Marina & Yacht Club - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJy554lFQTXz4RrxWFctVUNq4",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Vienna Hotel - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ_0cRHkZDXz4R-SfL4n9TZM0",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },

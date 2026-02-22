@@ -1369,7 +1369,57 @@
     "Dubai BGO",
     "Dubai BGP",
     "Dubai BGQ",
-    "Dubai BGR"
+    "Dubai BGR",
+    "Dubai BGS",
+    "Dubai BGT",
+    "Dubai BGU",
+    "Dubai BGV",
+    "Dubai BGW",
+    "Dubai BGX",
+    "Dubai BGY",
+    "Dubai BGZ",
+    "Dubai BHA",
+    "Dubai BHB",
+    "Dubai BHC",
+    "Dubai BHD",
+    "Dubai BHE",
+    "Dubai BHF",
+    "Dubai BHG",
+    "Dubai BHH",
+    "Dubai BHI",
+    "Dubai BHJ",
+    "Dubai BHK",
+    "Dubai BHL",
+    "Dubai BHM",
+    "Dubai BHN",
+    "Dubai BHO",
+    "Dubai BHP",
+    "Dubai BHQ",
+    "Dubai BHR",
+    "Dubai BHS",
+    "Dubai BHT",
+    "Dubai BHU",
+    "Dubai BHV",
+    "Dubai BHW",
+    "Dubai BHX",
+    "Dubai BHY",
+    "Dubai BHZ",
+    "Dubai BIA",
+    "Dubai BIB",
+    "Dubai BIC",
+    "Dubai BID",
+    "Dubai BIE",
+    "Dubai BIF",
+    "Dubai BIG",
+    "Dubai BIH",
+    "Dubai BII",
+    "Dubai BIJ",
+    "Dubai BIK",
+    "Dubai BIL",
+    "Dubai BIM",
+    "Dubai BIN",
+    "Dubai BIO",
+    "Dubai BIP"
   ],
   "pending_n2": [
     {
@@ -55079,6 +55129,66 @@
       "name": "Bilingual French International School ICE | Lycée Français Bilingue International ICE - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJj5mzDY5oXz4ROqwyQMi6a7g",
       "types": "establishment, point_of_interest, primary_school, school, university"
+    },
+    "ChIJ4YSC_q9rXz4RWcIKdsPuqIc": {
+      "name": "Beverly - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ4YSC_q9rXz4RWcIKdsPuqIc",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJd-e0YLdlXz4RxxqAgBA3Pc4": {
+      "name": "Bianca by Reportage Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJd-e0YLdlXz4RxxqAgBA3Pc4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJh_Zw_cdpXz4RsitOROT6DqU": {
+      "name": "Bidayaat Company - Dubai - Émirats arabes unis",
+      "place_id": "ChIJh_Zw_cdpXz4RsitOROT6DqU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ_0cRHkZDXz4R-SfL4n9TZM0": {
+      "name": "Vienna Hotel - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ_0cRHkZDXz4R-SfL4n9TZM0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ_c0jI0p29T4RgpP08gW0q3w": {
+      "name": "Big Red Sand Dune Dubai - Dune Buggy & ATV Quad Bikes Rentals - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_c0jI0p29T4RgpP08gW0q3w",
+      "types": "establishment, point_of_interest, tourist_attraction, travel_agency"
+    },
+    "ChIJ4Xnkw0hqXz4R1SqQ8MaOB18": {
+      "name": "Biolite Clinic Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ4Xnkw0hqXz4R1SqQ8MaOB18",
+      "types": "beauty_salon, doctor, establishment, hair_care, health, point_of_interest"
+    },
+    "ChIJ8deaH7hpXz4RQgfRI50WFn0": {
+      "name": "BikeOn - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8deaH7hpXz4RQgfRI50WFn0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJmS6M4dlrXz4Rbdz4rxv9elY": {
+      "name": "Biltmore Sufouh - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJmS6M4dlrXz4Rbdz4rxv9elY",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJS8PFiSttXz4RpReaDhvlZ2w": {
+      "name": "Binghatti Amber - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJS8PFiSttXz4RpReaDhvlZ2w",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJK2LXXkdcXz4RWSw2CqJh5Nk": {
+      "name": "Bin Shabib Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJK2LXXkdcXz4RWSw2CqJh5Nk",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJqYcAAChvXz4RdgfIu-0-DGc": {
+      "name": "Hadaeq Sheikh Mohammed Bin Rashid, Dubai, Émirats arabes unis",
+      "place_id": "ChIJqYcAAChvXz4RdgfIu-0-DGc",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJKQEtPOtrXz4Rj4usQIRWolQ": {
+      "name": "Binous Gym | Best Bodybuilding Gym in Dubai | Best Gym Dubai | Most Famous Gym Dubai | Most Expensive Bodybuilding Gym - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJKQEtPOtrXz4Rj4usQIRWolQ",
+      "types": "establishment, gym, health, point_of_interest"
     }
   }
 }
