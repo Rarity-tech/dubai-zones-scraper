@@ -919,7 +919,57 @@
     "Dubai APG",
     "Dubai APH",
     "Dubai API",
-    "Dubai APJ"
+    "Dubai APJ",
+    "Dubai APK",
+    "Dubai APL",
+    "Dubai APM",
+    "Dubai APN",
+    "Dubai APO",
+    "Dubai APP",
+    "Dubai APQ",
+    "Dubai APR",
+    "Dubai APS",
+    "Dubai APT",
+    "Dubai APU",
+    "Dubai APV",
+    "Dubai APW",
+    "Dubai APX",
+    "Dubai APY",
+    "Dubai APZ",
+    "Dubai AQA",
+    "Dubai AQB",
+    "Dubai AQC",
+    "Dubai AQD",
+    "Dubai AQE",
+    "Dubai AQF",
+    "Dubai AQG",
+    "Dubai AQH",
+    "Dubai AQI",
+    "Dubai AQJ",
+    "Dubai AQK",
+    "Dubai AQL",
+    "Dubai AQM",
+    "Dubai AQN",
+    "Dubai AQO",
+    "Dubai AQP",
+    "Dubai AQQ",
+    "Dubai AQR",
+    "Dubai AQS",
+    "Dubai AQT",
+    "Dubai AQU",
+    "Dubai AQV",
+    "Dubai AQW",
+    "Dubai AQX",
+    "Dubai AQY",
+    "Dubai AQZ",
+    "Dubai ARA",
+    "Dubai ARB",
+    "Dubai ARC",
+    "Dubai ARD",
+    "Dubai ARE",
+    "Dubai ARF",
+    "Dubai ARG",
+    "Dubai ARH"
   ],
   "pending_n2": [
     {
@@ -53899,6 +53949,81 @@
       "name": "API Horizon Pointe - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJXVIWi05nXz4R02ttyhNj79A",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJkVwqaHVDXz4ReprI8XujAIQ": {
+      "name": "Premium Dormitory Male&Female Bed Space Al jafiliya - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJkVwqaHVDXz4ReprI8XujAIQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJMZ0MnWhkXz4RB36Ld9spCIk": {
+      "name": "Apricot Towers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMZ0MnWhkXz4RB36Ld9spCIk",
+      "types": "geocode, premise"
+    },
+    "ChIJkQPeralkXz4R93NTKfM9ucw": {
+      "name": "Dubai Outlet Mall",
+      "place_id": "ChIJkQPeralkXz4R93NTKfM9ucw",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJJ94SR29cXz4RSLJIO2i5NwY": {
+      "name": "Paid Parking - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJ94SR29cXz4RSLJIO2i5NwY",
+      "types": "geocode, premise"
+    },
+    "ChIJ0Wo4qj8VXz4RmuOI9BArrhc": {
+      "name": "The Lost Chambers Aquarium, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ0Wo4qj8VXz4RmuOI9BArrhc",
+      "types": "aquarium, establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJf5CYDiATXz4RKx_f-d5ziZY": {
+      "name": "Arbor School Badminton Court - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJf5CYDiATXz4RKx_f-d5ziZY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ8QKJmq5sXz4R33iinrwQFHo": {
+      "name": "Dubai Arch Tower - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8QKJmq5sXz4R33iinrwQFHo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJXTPy9FdnXz4RZAuyCGm55iY": {
+      "name": "The Arch Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJXTPy9FdnXz4RZAuyCGm55iY",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJe_HRf1prXz4RZss9uCIO5aU": {
+      "name": "Ardens Medical Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJe_HRf1prXz4RZss9uCIO5aU",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJ_yWsB95tXz4RPUDkm5m9afQ": {
+      "name": "Arena Apartments - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_yWsB95tXz4RPUDkm5m9afQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJuW66C5BeXz4RV6dOK-RELsw": {
+      "name": "Al Qusais Industrial Area 5, Dubai, Émirats arabes unis",
+      "place_id": "ChIJuW66C5BeXz4RV6dOK-RELsw",
+      "types": "neighborhood, political"
+    },
+    "ChIJTwY4NWFrXz4Rt3P2FvdLfeU": {
+      "name": "Arenco Villas, Al Sufouh, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTwY4NWFrXz4Rt3P2FvdLfeU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJHSm_wmxpXz4R3EMXNUzHIbM": {
+      "name": "Al Quoz Industrial Area, Dubai, Émirats arabes unis",
+      "place_id": "ChIJHSm_wmxpXz4R3EMXNUzHIbM",
+      "types": "neighborhood, political"
+    },
+    "ChIJMcyLottrXz4RoDEoWhnggWQ": {
+      "name": "Al Quoz Industrial Area 3, Dubai, Émirats arabes unis",
+      "place_id": "ChIJMcyLottrXz4RoDEoWhnggWQ",
+      "types": "neighborhood, political"
+    },
+    "ChIJH9yZ7ZNdXz4RI8I-v2QUTic": {
+      "name": "Arham Tour - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJH9yZ7ZNdXz4RI8I-v2QUTic",
+      "types": "establishment, point_of_interest, travel_agency"
     }
   }
 }

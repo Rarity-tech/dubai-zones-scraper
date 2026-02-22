@@ -390,6 +390,24 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Al Quoz Industrial Area 3, Dubai, Émirats arabes unis",
+    "place_id": "ChIJMcyLottrXz4RoDEoWhnggWQ",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al Quoz Industrial Area, Dubai, Émirats arabes unis",
+    "place_id": "ChIJHSm_wmxpXz4R3EMXNUzHIbM",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al Qusais Industrial Area 5, Dubai, Émirats arabes unis",
+    "place_id": "ChIJuW66C5BeXz4RV6dOK-RELsw",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Al Ras - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJI36uAERDXz4RFyw5ZZakrtY",
     "types": "geocode, neighborhood, political",
@@ -1650,6 +1668,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Apricot Towers - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMZ0MnWhkXz4RB36Ld9spCIk",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Aqua Fun Water Park, Dubai, Émirats arabes unis",
     "place_id": "ChIJGUY7IBNbXz4R0zmKCH9WDiI",
     "types": "amusement_park, establishment, point_of_interest, tourist_attraction",
@@ -1689,6 +1713,36 @@
     "name": "Arabian Ranches Golf Club, Dubai, Émirats arabes unis",
     "place_id": "ChIJK3jjjUpuXz4RWtO6YE7tWi8",
     "types": "bar, establishment, food, point_of_interest, restaurant",
+    "zone_type": "area"
+  },
+  {
+    "name": "Arbor School Badminton Court - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJf5CYDiATXz4RKx_f-d5ziZY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ardens Medical Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJe_HRf1prXz4RZss9uCIO5aU",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Arena Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_yWsB95tXz4RPUDkm5m9afQ",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Arenco Villas, Al Sufouh, Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTwY4NWFrXz4Rt3P2FvdLfeU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Arham Tour - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJH9yZ7ZNdXz4RI8I-v2QUTic",
+    "types": "establishment, point_of_interest, travel_agency",
     "zone_type": "area"
   },
   {
@@ -2298,6 +2352,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Arch Tower - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8QKJmq5sXz4R33iinrwQFHo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai BBQ & Oven Cleaning - Dubaï - Émirats arabes unis",
     "place_id": "ChIJg5t9xANrXz4RZcUL5c6kX-s",
     "types": "establishment, point_of_interest",
@@ -2511,6 +2571,12 @@
     "name": "Dubai Old City - Dubaï - Émirats arabes unis",
     "place_id": "ChIJy1o3x49DXz4RG9VDdTcLsv4",
     "types": "establishment, museum, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Outlet Mall",
+    "place_id": "ChIJkQPeralkXz4R93NTKfM9ucw",
+    "types": "establishment, point_of_interest, shopping_mall",
     "zone_type": "area"
   },
   {
@@ -3672,6 +3738,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Paid Parking - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJ94SR29cXz4RSLJIO2i5NwY",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Palazzo Versace Hotel, Dubai, Émirats arabes unis",
     "place_id": "ChIJ1_rH1WhdXz4RlRYUFaRnDwc",
     "types": "establishment, lodging, point_of_interest",
@@ -3693,6 +3765,12 @@
     "name": "Plage JBR, Dubai, Émirats arabes unis",
     "place_id": "ChIJRR72AlgTXz4R-maJQCnOFoQ",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Premium Dormitory Male&Female Bed Space Al jafiliya - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJkVwqaHVDXz4ReprI8XujAIQ",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -4230,9 +4308,21 @@
     "zone_type": "area"
   },
   {
+    "name": "The Arch Mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJXTPy9FdnXz4RZAuyCGm55iY",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
     "name": "The First Collection Marina, Dubai, a Tribute Portfolio Hotel - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgfwbz1ATXz4RZNLnVz-FaQo",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Lost Chambers Aquarium, Dubai, Émirats arabes unis",
+    "place_id": "ChIJ0Wo4qj8VXz4RmuOI9BArrhc",
+    "types": "aquarium, establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
