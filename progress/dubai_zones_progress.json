@@ -5319,7 +5319,57 @@
     "Dubai JNM",
     "Dubai JNN",
     "Dubai JNO",
-    "Dubai JNP"
+    "Dubai JNP",
+    "Dubai JNQ",
+    "Dubai JNR",
+    "Dubai JNS",
+    "Dubai JNT",
+    "Dubai JNU",
+    "Dubai JNV",
+    "Dubai JNW",
+    "Dubai JNX",
+    "Dubai JNY",
+    "Dubai JNZ",
+    "Dubai JOA",
+    "Dubai JOB",
+    "Dubai JOC",
+    "Dubai JOD",
+    "Dubai JOE",
+    "Dubai JOF",
+    "Dubai JOG",
+    "Dubai JOH",
+    "Dubai JOI",
+    "Dubai JOJ",
+    "Dubai JOK",
+    "Dubai JOL",
+    "Dubai JOM",
+    "Dubai JON",
+    "Dubai JOO",
+    "Dubai JOP",
+    "Dubai JOQ",
+    "Dubai JOR",
+    "Dubai JOS",
+    "Dubai JOT",
+    "Dubai JOU",
+    "Dubai JOV",
+    "Dubai JOW",
+    "Dubai JOX",
+    "Dubai JOY",
+    "Dubai JOZ",
+    "Dubai JPA",
+    "Dubai JPB",
+    "Dubai JPC",
+    "Dubai JPD",
+    "Dubai JPE",
+    "Dubai JPF",
+    "Dubai JPG",
+    "Dubai JPH",
+    "Dubai JPI",
+    "Dubai JPJ",
+    "Dubai JPK",
+    "Dubai JPL",
+    "Dubai JPM",
+    "Dubai JPN"
   ],
   "pending_n2": [
     {
@@ -62694,6 +62744,41 @@
       "name": "Jnp sharjha - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJLWk0XQBDXz4R__VDFr6ufoY",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJp8E3n38SXz4RRa-YE3PNvr0": {
+      "name": "Join Inn Hotel Jebel Ali, Dubai( formerly easyHotel Jebel Ali) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJp8E3n38SXz4RRa-YE3PNvr0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJCZFWAuFDXz4RooLf01ZfXaI": {
+      "name": "Jollie Atelier Beauty Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJCZFWAuFDXz4RooLf01ZfXaI",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJ01iw_1drXz4REAICnnQ6DFQ": {
+      "name": "Jomara - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ01iw_1drXz4REAICnnQ6DFQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJxZ3-QwBDXz4RBI-FXLEBR6g": {
+      "name": "jomira - Dubai - Émirats arabes unis",
+      "place_id": "ChIJxZ3-QwBDXz4RBI-FXLEBR6g",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJK_NRZWhdXz4RqP-UTC-mZl8": {
+      "name": "Jood Residence - Dubai - Émirats arabes unis",
+      "place_id": "ChIJK_NRZWhdXz4RqP-UTC-mZl8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJp99DIcNAXz4RkUziWdPYEc4": {
+      "name": "Georgia - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJp99DIcNAXz4RkUziWdPYEc4",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJz6nIgehvXz4RjdqteefSza4": {
+      "name": "Joud Boulevard West - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJz6nIgehvXz4RjdqteefSza4",
+      "types": "establishment, point_of_interest, shopping_mall"
     }
   }
 }

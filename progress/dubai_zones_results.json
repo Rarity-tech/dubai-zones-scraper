@@ -6276,6 +6276,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Georgia - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJp99DIcNAXz4RkUziWdPYEc4",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "Gevora Hotel, Dubai, Émirats arabes unis",
     "place_id": "ChIJWZVWoI5CXz4RnBlaz1gMeH4",
     "types": "establishment, lodging, point_of_interest",
@@ -7782,9 +7788,33 @@
     "zone_type": "area"
   },
   {
+    "name": "Join Inn Hotel Jebel Ali, Dubai( formerly easyHotel Jebel Ali) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJp8E3n38SXz4RRa-YE3PNvr0",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jollie Atelier Beauty Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJCZFWAuFDXz4RooLf01ZfXaI",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jomara - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ01iw_1drXz4REAICnnQ6DFQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Jood Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJpcWJlKRdXz4R_xlx3JUG1WQ",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jood Residence - Dubai - Émirats arabes unis",
+    "place_id": "ChIJK_NRZWhdXz4RqP-UTC-mZl8",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7797,6 +7827,12 @@
     "name": "Jordanian Social Club النادي الاردني الاجتماعي - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJT7XBby1dXz4RHp9INKfpXQw",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Joud Boulevard West - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJz6nIgehvXz4RjdqteefSza4",
+    "types": "establishment, point_of_interest, shopping_mall",
     "zone_type": "area"
   },
   {
@@ -9969,6 +10005,12 @@
     "name": "illusion City - illusion museum Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJxbnI61YVXz4R1MeLbGsC69s",
     "types": "establishment, museum, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "jomira - Dubai - Émirats arabes unis",
+    "place_id": "ChIJxZ3-QwBDXz4RBI-FXLEBR6g",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
