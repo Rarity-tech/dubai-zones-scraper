@@ -10698,6 +10698,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Production city - Dubai - Émirats arabes unis",
+    "place_id": "ChIJBxdnSwBtXz4Rzg2PXnZ8-M8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Public Prosecution Dubai - Dubai - Émirats arabes unis",
     "place_id": "ChIJreezHCldXz4R1Qtat84NOnM",
     "types": "establishment, point_of_interest",
@@ -11538,9 +11544,27 @@
     "zone_type": "area"
   },
   {
+    "name": "Roxana Residence - Dubai - Émirats arabes unis",
+    "place_id": "ChIJmyeALy1sXz4RV5oMYPj3J9g",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Royal Ascot Hotel - Dubai - Émirats arabes unis",
+    "place_id": "ChIJkz_xcJNDXz4R9begCrAktSE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Royal Blue Coast Yachts Rental - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJw-vuUldrXz4RxelGK73Qkqo",
     "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Royal Central Hotel and Resort The Palm Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJrzVOI9lqXz4RfRfGTLVIqKQ",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -11550,8 +11574,26 @@
     "zone_type": "area"
   },
   {
+    "name": "Royal Falcon Hotel - Dubai - Émirats arabes unis",
+    "place_id": "ChIJBWNFnphdXz4REguXwMzcqUQ",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Royal Heights at Burj Royale - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ4XJig8lpXz4RhztdGY-zD10",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Royal Palm Holidays LLC Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJY_FW6BNDXz4RopLTEdpdweU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Royal Tulip Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJz4NlI6pDXz4RSVJYMZ4aH90",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },

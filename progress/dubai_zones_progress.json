@@ -8419,7 +8419,57 @@
     "Dubai ROS",
     "Dubai ROT",
     "Dubai ROU",
-    "Dubai ROV"
+    "Dubai ROV",
+    "Dubai ROW",
+    "Dubai ROX",
+    "Dubai ROY",
+    "Dubai ROZ",
+    "Dubai RPA",
+    "Dubai RPB",
+    "Dubai RPC",
+    "Dubai RPD",
+    "Dubai RPE",
+    "Dubai RPF",
+    "Dubai RPG",
+    "Dubai RPH",
+    "Dubai RPI",
+    "Dubai RPJ",
+    "Dubai RPK",
+    "Dubai RPL",
+    "Dubai RPM",
+    "Dubai RPN",
+    "Dubai RPO",
+    "Dubai RPP",
+    "Dubai RPQ",
+    "Dubai RPR",
+    "Dubai RPS",
+    "Dubai RPT",
+    "Dubai RPU",
+    "Dubai RPV",
+    "Dubai RPW",
+    "Dubai RPX",
+    "Dubai RPY",
+    "Dubai RPZ",
+    "Dubai RQA",
+    "Dubai RQB",
+    "Dubai RQC",
+    "Dubai RQD",
+    "Dubai RQE",
+    "Dubai RQF",
+    "Dubai RQG",
+    "Dubai RQH",
+    "Dubai RQI",
+    "Dubai RQJ",
+    "Dubai RQK",
+    "Dubai RQL",
+    "Dubai RQM",
+    "Dubai RQN",
+    "Dubai RQO",
+    "Dubai RQP",
+    "Dubai RQQ",
+    "Dubai RQR",
+    "Dubai RQS",
+    "Dubai RQT"
   ],
   "pending_n2": [
     {
@@ -68314,6 +68364,41 @@
       "name": "Rove Trade Centre - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJAdu0p-hCXz4R7q1bPoFIuNs",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJmyeALy1sXz4RV5oMYPj3J9g": {
+      "name": "Roxana Residence - Dubai - Émirats arabes unis",
+      "place_id": "ChIJmyeALy1sXz4RV5oMYPj3J9g",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJkz_xcJNDXz4R9begCrAktSE": {
+      "name": "Royal Ascot Hotel - Dubai - Émirats arabes unis",
+      "place_id": "ChIJkz_xcJNDXz4R9begCrAktSE",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJz4NlI6pDXz4RSVJYMZ4aH90": {
+      "name": "Royal Tulip Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJz4NlI6pDXz4RSVJYMZ4aH90",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJrzVOI9lqXz4RfRfGTLVIqKQ": {
+      "name": "Royal Central Hotel and Resort The Palm Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJrzVOI9lqXz4RfRfGTLVIqKQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJBWNFnphdXz4REguXwMzcqUQ": {
+      "name": "Royal Falcon Hotel - Dubai - Émirats arabes unis",
+      "place_id": "ChIJBWNFnphdXz4REguXwMzcqUQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJY_FW6BNDXz4RopLTEdpdweU": {
+      "name": "Royal Palm Holidays LLC Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJY_FW6BNDXz4RopLTEdpdweU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBxdnSwBtXz4Rzg2PXnZ8-M8": {
+      "name": "Production city - Dubai - Émirats arabes unis",
+      "place_id": "ChIJBxdnSwBtXz4Rzg2PXnZ8-M8",
+      "types": "establishment, point_of_interest"
     }
   }
 }
