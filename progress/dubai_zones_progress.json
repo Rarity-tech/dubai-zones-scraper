@@ -10169,7 +10169,57 @@
     "Dubai UOA",
     "Dubai UOB",
     "Dubai UOC",
-    "Dubai UOD"
+    "Dubai UOD",
+    "Dubai UOE",
+    "Dubai UOF",
+    "Dubai UOG",
+    "Dubai UOH",
+    "Dubai UOI",
+    "Dubai UOJ",
+    "Dubai UOK",
+    "Dubai UOL",
+    "Dubai UOM",
+    "Dubai UON",
+    "Dubai UOO",
+    "Dubai UOP",
+    "Dubai UOQ",
+    "Dubai UOR",
+    "Dubai UOS",
+    "Dubai UOT",
+    "Dubai UOU",
+    "Dubai UOV",
+    "Dubai UOW",
+    "Dubai UOX",
+    "Dubai UOY",
+    "Dubai UOZ",
+    "Dubai UPA",
+    "Dubai UPB",
+    "Dubai UPC",
+    "Dubai UPD",
+    "Dubai UPE",
+    "Dubai UPF",
+    "Dubai UPG",
+    "Dubai UPH",
+    "Dubai UPI",
+    "Dubai UPJ",
+    "Dubai UPK",
+    "Dubai UPL",
+    "Dubai UPM",
+    "Dubai UPN",
+    "Dubai UPO",
+    "Dubai UPP",
+    "Dubai UPQ",
+    "Dubai UPR",
+    "Dubai UPS",
+    "Dubai UPT",
+    "Dubai UPU",
+    "Dubai UPV",
+    "Dubai UPW",
+    "Dubai UPX",
+    "Dubai UPY",
+    "Dubai UPZ",
+    "Dubai URA",
+    "Dubai URB"
   ],
   "pending_n2": [
     {
@@ -71724,6 +71774,46 @@
       "name": "University of Birmingham Dubai - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJdxrIZI5jXz4RLdQiPicLRcc",
       "types": "establishment, point_of_interest, university"
+    },
+    "ChIJK_EPSXBtXz4ReWpY1QG3Z3s": {
+      "name": "You & Co IMPZ - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJK_EPSXBtXz4ReWpY1QG3Z3s",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJaY3urPJrXz4RKNrBUckQ4Zo": {
+      "name": "Orchid Hotel Al Barsha - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJaY3urPJrXz4RKNrBUckQ4Zo",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJbXaGeTtDXz4RuvaDXcAME1Y": {
+      "name": "Orchid Vue Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbXaGeTtDXz4RuvaDXcAME1Y",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJc4D6PT1pXz4RgfIS1QkIQQE": {
+      "name": "Upscale Apartment at Oval Tower Near Downtown with Balcony and Parking by Belvilla - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJc4D6PT1pXz4RgfIS1QkIQQE",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJMWvkwXlpXz4RzJo9MchbOck": {
+      "name": "UPS Customer Center Al Qouz - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMWvkwXlpXz4RzJo9MchbOck",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJvcNC9OBrXz4RvlQ5KYDxZTs": {
+      "name": "U-Pro Dubai (United Pro Sports) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJvcNC9OBrXz4RvlQ5KYDxZTs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJeS58b5ZgXz4RqNB19i2xuWU": {
+      "name": "Mirdif Uptown Park, Dubai, Émirats arabes unis",
+      "place_id": "ChIJeS58b5ZgXz4RqNB19i2xuWU",
+      "types": "establishment, park, point_of_interest, tourist_attraction"
+    },
+    "ChIJT6RsdvF1Xz4RWgrKEzx1NUM": {
+      "name": "Urbana II - Emaar South - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJT6RsdvF1Xz4RWgrKEzx1NUM",
+      "types": "establishment, point_of_interest"
     }
   }
 }

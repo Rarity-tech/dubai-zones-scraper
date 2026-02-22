@@ -10470,6 +10470,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Mirdif Uptown Park, Dubai, Émirats arabes unis",
+    "place_id": "ChIJeS58b5ZgXz4RqNB19i2xuWU",
+    "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Mirdif Villas - Dubai - Émirats arabes unis",
     "place_id": "ChIJYd08Sb5gXz4R5TVcMVj6lts",
     "types": "establishment, lodging, point_of_interest",
@@ -10881,6 +10887,18 @@
     "name": "Open Beach - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJB10bGj5CXz4RrFxIGxr9M60",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Orchid Hotel Al Barsha - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJaY3urPJrXz4RKNrBUckQ4Zo",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Orchid Vue Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbXaGeTtDXz4RuvaDXcAME1Y",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -14136,6 +14154,12 @@
     "zone_type": "area"
   },
   {
+    "name": "U-Pro Dubai (United Pro Sports) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJvcNC9OBrXz4RvlQ5KYDxZTs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "U.A.E. Youth Hostel Association - Dubai - Émirats arabes unis",
     "place_id": "ChIJRyw_7c5dXz4R98XfON5Ij6I",
     "types": "establishment, lodging, point_of_interest",
@@ -14205,6 +14229,12 @@
     "name": "UP Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJtVL2bI1CXz4RU6DUzKStFSM",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "UPS Customer Center Al Qouz - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMWvkwXlpXz4RzJo9MchbOck",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -14322,6 +14352,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Upscale Apartment at Oval Tower Near Downtown with Balcony and Parking by Belvilla - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJc4D6PT1pXz4RgfIS1QkIQQE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Upside Living by SRG - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ5-qXCE5pXz4ROtNX5Ayt-ww",
     "types": "establishment, lodging, point_of_interest",
@@ -14348,6 +14384,12 @@
   {
     "name": "Urbana I - Emaar South - Dubai - Émirats arabes unis",
     "place_id": "ChIJVxlkTjp1Xz4RBH4EeVjC7eg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Urbana II - Emaar South - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT6RsdvF1Xz4RWgrKEzx1NUM",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -14661,6 +14703,12 @@
     "name": "Yemen - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD-Z_ieNAXz4RN8Awk77yTMo",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "You & Co IMPZ - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJK_EPSXBtXz4ReWpY1QG3Z3s",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
