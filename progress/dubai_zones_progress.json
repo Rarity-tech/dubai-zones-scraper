@@ -12119,7 +12119,57 @@
     "Dubai ZUA",
     "Dubai ZUB",
     "Dubai ZUC",
-    "Dubai ZUD"
+    "Dubai ZUD",
+    "Dubai ZUE",
+    "Dubai ZUF",
+    "Dubai ZUG",
+    "Dubai ZUH",
+    "Dubai ZUI",
+    "Dubai ZUJ",
+    "Dubai ZUK",
+    "Dubai ZUL",
+    "Dubai ZUM",
+    "Dubai ZUN",
+    "Dubai ZUO",
+    "Dubai ZUP",
+    "Dubai ZUQ",
+    "Dubai ZUR",
+    "Dubai ZUS",
+    "Dubai ZUT",
+    "Dubai ZUU",
+    "Dubai ZUV",
+    "Dubai ZUW",
+    "Dubai ZUX",
+    "Dubai ZUY",
+    "Dubai ZUZ",
+    "Dubai ZVA",
+    "Dubai ZVB",
+    "Dubai ZVC",
+    "Dubai ZVD",
+    "Dubai ZVE",
+    "Dubai ZVF",
+    "Dubai ZVG",
+    "Dubai ZVH",
+    "Dubai ZVI",
+    "Dubai ZVJ",
+    "Dubai ZVK",
+    "Dubai ZVL",
+    "Dubai ZVM",
+    "Dubai ZVN",
+    "Dubai ZVO",
+    "Dubai ZVP",
+    "Dubai ZVQ",
+    "Dubai ZVR",
+    "Dubai ZVS",
+    "Dubai ZVT",
+    "Dubai ZVU",
+    "Dubai ZVV",
+    "Dubai ZVW",
+    "Dubai ZVX",
+    "Dubai ZVY",
+    "Dubai ZVZ",
+    "Dubai ZWA",
+    "Dubai ZWB"
   ],
   "pending_n2": [
     {
@@ -74488,6 +74538,26 @@
     "ChIJWenuorJnXz4R4C2cX6b4ojY": {
       "name": "STATION VENDING MACHINES LLC - Dubai - Émirats arabes unis",
       "place_id": "ChIJWenuorJnXz4R4C2cX6b4ojY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJvckTDVBBXz4RRX-3uHd3aks": {
+      "name": "ZUHHA by Zaya - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJvckTDVBBXz4RRX-3uHd3aks",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJo4A4995tXz4RTsl3KAvv_Oc": {
+      "name": "Zulal 3 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJo4A4995tXz4RTsl3KAvv_Oc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJLyuTA8ltXz4RAmixdLYHopo": {
+      "name": "Zulal 2 Community Park - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJLyuTA8ltXz4RAmixdLYHopo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJmRa7EcBrXz4RzyyCyTr91Ck": {
+      "name": "Zumurud Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJmRa7EcBrXz4RzyyCyTr91Ck",
       "types": "establishment, point_of_interest"
     }
   }

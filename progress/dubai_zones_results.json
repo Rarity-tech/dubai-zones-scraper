@@ -15402,6 +15402,12 @@
     "zone_type": "area"
   },
   {
+    "name": "ZUHHA by Zaya - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJvckTDVBBXz4RRX-3uHd3aks",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Za'abeel Stadium - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJixa8b01dXz4R1iKugfDQv5o",
     "types": "establishment, point_of_interest, stadium",
@@ -15636,9 +15642,27 @@
     "zone_type": "area"
   },
   {
+    "name": "Zulal 2 Community Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJLyuTA8ltXz4RAmixdLYHopo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zulal 3 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJo4A4995tXz4RTsl3KAvv_Oc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Zulekha Hospital, Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJe_PwXBRcXz4RBAOjutYa96c",
     "types": "doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zumurud Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJmRa7EcBrXz4RzyyCyTr91Ck",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
