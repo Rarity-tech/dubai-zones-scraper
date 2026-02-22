@@ -1819,7 +1819,57 @@
     "Dubai BYW",
     "Dubai BYX",
     "Dubai BYY",
-    "Dubai BYZ"
+    "Dubai BYZ",
+    "Dubai BZA",
+    "Dubai BZB",
+    "Dubai BZC",
+    "Dubai BZD",
+    "Dubai BZE",
+    "Dubai BZF",
+    "Dubai BZG",
+    "Dubai BZH",
+    "Dubai BZI",
+    "Dubai BZJ",
+    "Dubai BZK",
+    "Dubai BZL",
+    "Dubai BZM",
+    "Dubai BZN",
+    "Dubai BZO",
+    "Dubai BZP",
+    "Dubai BZQ",
+    "Dubai BZR",
+    "Dubai BZS",
+    "Dubai BZT",
+    "Dubai BZU",
+    "Dubai BZV",
+    "Dubai BZW",
+    "Dubai BZX",
+    "Dubai BZY",
+    "Dubai BZZ",
+    "Dubai CAA",
+    "Dubai CAB",
+    "Dubai CAC",
+    "Dubai CAD",
+    "Dubai CAE",
+    "Dubai CAF",
+    "Dubai CAG",
+    "Dubai CAH",
+    "Dubai CAI",
+    "Dubai CAJ",
+    "Dubai CAK",
+    "Dubai CAL",
+    "Dubai CAM",
+    "Dubai CAN",
+    "Dubai CAO",
+    "Dubai CAP",
+    "Dubai CAQ",
+    "Dubai CAR",
+    "Dubai CAS",
+    "Dubai CAT",
+    "Dubai CAU",
+    "Dubai CAV",
+    "Dubai CAW",
+    "Dubai CAX"
   ],
   "pending_n2": [
     {
@@ -55979,6 +56029,131 @@
       "name": "The Bulgari SPA, Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJhyS2KFZDXz4RiozvO3nS3OQ",
       "types": "establishment, point_of_interest, spa"
+    },
+    "ChIJlcww4bVrXz4R3cgDMkbtPTM": {
+      "name": "Grand Bleu Tower 1 - Interiors by Elie Saab, Emaar Beachfront - Address The Bay - Dubai - Émirats arabes unis",
+      "place_id": "ChIJlcww4bVrXz4R3cgDMkbtPTM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJwYA29vJpXz4RceLKy7DbLJY": {
+      "name": "Caabi Boutique Homes - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJwYA29vJpXz4RceLKy7DbLJY",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJF9DGkTEPXz4R_4ljtKFfbXc": {
+      "name": "DUCAB (Dubai Cable Company Pvt Ltd) - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJF9DGkTEPXz4R_4ljtKFfbXc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJPdKdBgBnXz4RoqBSL7Jkj9w": {
+      "name": "Cactus Park - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJPdKdBgBnXz4RoqBSL7Jkj9w",
+      "types": "establishment, park, point_of_interest"
+    },
+    "ChIJj7wv0EFkXz4RckX1SehNTds": {
+      "name": "CAE Dubai Silicon Oasis - Emirates-CAE Flight Training - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJj7wv0EFkXz4RckX1SehNTds",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJFR0CyDNDXz4RymaGfrvte_w": {
+      "name": "Carlton Dubai Creek - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJFR0CyDNDXz4RymaGfrvte_w",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ4_xSCGyA9T4RLQ3MR79XB9U": {
+      "name": "Dubai Camel Market - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ4_xSCGyA9T4RLQ3MR79XB9U",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJixM-Gy9-Xz4RLAfayDQK6fs": {
+      "name": "Dubai Camel Racing Club - DCRC - Dubai - Émirats arabes unis",
+      "place_id": "ChIJixM-Gy9-Xz4RLAfayDQK6fs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJfZCG8Y1vXz4RRv5vIjOSVbQ": {
+      "name": "Camelia 2 | Arabian Ranches II - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJfZCG8Y1vXz4RRv5vIjOSVbQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJz0NsfURvXz4Rca1VuVN3xso": {
+      "name": "Camelia 1 | Arabian Ranches II - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJz0NsfURvXz4Rca1VuVN3xso",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJRa9qhoRDXz4RUnAKeQioLgc": {
+      "name": "Canadian University Dubai HUB - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRa9qhoRDXz4RUnAKeQioLgc",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJJcpLBWNCXz4RZuBO6_Uqmxg": {
+      "name": "Canal de Dubaï, Dubai, Émirats arabes unis",
+      "place_id": "ChIJJcpLBWNCXz4RZuBO6_Uqmxg",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJb9K-qwFpXz4RyfkaYAzxXtg": {
+      "name": "Capital Bay Towers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJb9K-qwFpXz4RyfkaYAzxXtg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJ2VMNBppXz4RrCc5QCDE6gY": {
+      "name": "Capitol Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJ2VMNBppXz4RrCc5QCDE6gY",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJl4AX4yBpXz4RWTipITDQ2c8": {
+      "name": "Capital Golden Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJl4AX4yBpXz4RWTipITDQ2c8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJqxlrCRBrXz4RR24UvCUt5Rg": {
+      "name": "Capitol Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqxlrCRBrXz4RR24UvCUt5Rg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJg3_8QTtvXz4ROwdeEyHSvus": {
+      "name": "Carson Towers B - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJg3_8QTtvXz4ROwdeEyHSvus",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJqyD5oaRvXz4RbYMg9MIxRpM": {
+      "name": "Casa Flores - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqyD5oaRvXz4RbYMg9MIxRpM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJiVUojBlvXz4RYBpp1_rVwUw": {
+      "name": "Casa Viva at Serena - Residential Community | Dubai Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJiVUojBlvXz4RYBpp1_rVwUw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ44SpI3pnXz4R9kHKwINzcEg": {
+      "name": "Cat Cafe Vibrissae - Dubai Creek Harbour - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ44SpI3pnXz4R9kHKwINzcEg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAytM57ttXz4RIxEu8STaQMQ": {
+      "name": "Catch Residences By IGO - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAytM57ttXz4RIxEu8STaQMQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJhUw50SZcXz4Rse69tMK0jMQ": {
+      "name": "Cattle market dubai al qusais - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhUw50SZcXz4Rse69tMK0jMQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJg3FZly1dXz4Rxhg-7x-DjAI": {
+      "name": "Église catholique de Sainte-Marie, Dubai, Émirats arabes unis",
+      "place_id": "ChIJg3FZly1dXz4Rxhg-7x-DjAI",
+      "types": "church, establishment, place_of_worship, point_of_interest, tourist_attraction"
+    },
+    "ChIJOXCaWq1rXz4RL8D1n-xh0AA": {
+      "name": "Chalk Training Ground - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJOXCaWq1rXz4RL8D1n-xh0AA",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJW5GIIslrXz4RIeKqXuXqVz8": {
+      "name": "Cavalli Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJW5GIIslrXz4RIeKqXuXqVz8",
+      "types": "establishment, point_of_interest"
     }
   }
 }

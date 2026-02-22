@@ -3126,6 +3126,12 @@
     "zone_type": "area"
   },
   {
+    "name": "CAE Dubai Silicon Oasis - Emirates-CAE Flight Training - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJj7wv0EFkXz4RckX1SehNTds",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "CBD-19 Riviera Residence - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJrzG5WUphXz4R17D8xdeqCsI",
     "types": "establishment, lodging, point_of_interest",
@@ -3156,9 +3162,117 @@
     "zone_type": "area"
   },
   {
+    "name": "Caabi Boutique Homes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJwYA29vJpXz4RceLKy7DbLJY",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cactus Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJPdKdBgBnXz4RoqBSL7Jkj9w",
+    "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Camelia 1 | Arabian Ranches II - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJz0NsfURvXz4Rca1VuVN3xso",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Camelia 2 | Arabian Ranches II - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJfZCG8Y1vXz4RRv5vIjOSVbQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Canadian University Dubai HUB - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRa9qhoRDXz4RUnAKeQioLgc",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
     "name": "Canal Central Hotel - Business Bay - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ-ZHMSMxpXz4Re-3SPh2Qsp0",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Canal de Dubaï, Dubai, Émirats arabes unis",
+    "place_id": "ChIJJcpLBWNCXz4RZuBO6_Uqmxg",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Capital Bay Towers - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJb9K-qwFpXz4RyfkaYAzxXtg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Capital Golden Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJl4AX4yBpXz4RWTipITDQ2c8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Capitol Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJ2VMNBppXz4RrCc5QCDE6gY",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Capitol Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqxlrCRBrXz4RR24UvCUt5Rg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Carlton Dubai Creek - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJFR0CyDNDXz4RymaGfrvte_w",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Carson Towers B - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJg3_8QTtvXz4ROwdeEyHSvus",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Casa Flores - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqyD5oaRvXz4RbYMg9MIxRpM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Casa Viva at Serena - Residential Community | Dubai Properties - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJiVUojBlvXz4RYBpp1_rVwUw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cat Cafe Vibrissae - Dubai Creek Harbour - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ44SpI3pnXz4R9kHKwINzcEg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Catch Residences By IGO - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAytM57ttXz4RIxEu8STaQMQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cattle market dubai al qusais - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJhUw50SZcXz4Rse69tMK0jMQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cavalli Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJW5GIIslrXz4RIeKqXuXqVz8",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3177,6 +3291,12 @@
     "name": "Central Park Towers, Dubai, Émirats arabes unis",
     "place_id": "ChIJq6qqao9CXz4RtdZUoDRMiuI",
     "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Chalk Training Ground - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOXCaWq1rXz4RL8D1n-xh0AA",
+    "types": "establishment, gym, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3338,6 +3458,12 @@
   {
     "name": "DUBAI KMCC. Dar Al Safiya Building - Dubaï - Émirats arabes unis",
     "place_id": "ChIJHwOUi3hdXz4RgXFLEcmG6JM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DUCAB (Dubai Cable Company Pvt Ltd) - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJF9DGkTEPXz4R_4ljtKFfbXc",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -3513,6 +3639,18 @@
     "name": "Dubai Bowling Centre - 44th Street - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ4c_Ifo9cXz4RMtI0UF7S49k",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Camel Market - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ4_xSCGyA9T4RLQ3MR79XB9U",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Camel Racing Club - DCRC - Dubai - Émirats arabes unis",
+    "place_id": "ChIJixM-Gy9-Xz4RLAfayDQK6fs",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -4107,6 +4245,12 @@
     "name": "Global Village, Dubai, Émirats arabes unis",
     "place_id": "ChIJFf7go49vXz4RJ6Q_Tvue2Uc",
     "types": "amusement_park, establishment, point_of_interest, shopping_mall, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Grand Bleu Tower 1 - Interiors by Elie Saab, Emaar Beachfront - Address The Bay - Dubai - Émirats arabes unis",
+    "place_id": "ChIJlcww4bVrXz4R3cgDMkbtPTM",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6183,6 +6327,12 @@
     "name": "voco Dubai by IHG - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJs1e96-1CXz4R4hbvD9mPqis",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Église catholique de Sainte-Marie, Dubai, Émirats arabes unis",
+    "place_id": "ChIJg3FZly1dXz4Rxhg-7x-DjAI",
+    "types": "church, establishment, place_of_worship, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
