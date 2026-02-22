@@ -390,6 +390,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Al Dhagaya, Dubai, Émirats arabes unis",
+    "place_id": "ChIJoSRZTURDXz4RwtgVfjG1u5A",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Al Furjan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJZVkJ8zptXz4Rz9IUA5I0J5k",
     "types": "geocode, neighborhood, political",
@@ -3912,6 +3918,12 @@
     "zone_type": "area"
   },
   {
+    "name": "DHP Residency - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJhavhqm9kXz4Rpexl089HPQg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DIFC - Dubai International Financial Centre - شارع - ٣١٢ - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJn7mvApJCXz4RQDnK7FUNnOY",
     "types": "geocode, premise",
@@ -4200,6 +4212,30 @@
     "zone_type": "area"
   },
   {
+    "name": "Dhana 1 Residence, Jumeirah Garden City - Dubai - Émirats arabes unis",
+    "place_id": "ChIJT-0SUWRDXz4RsrXpsLh4TlQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dhera - Dubai - Émirats arabes unis",
+    "place_id": "ChIJpUVoKwBDXz4Ru6TyKqOx3Vs",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dhow Cruise Deira Creek - Dubai - Émirats arabes unis",
+    "place_id": "ChIJxaps6wdDXz4RRRkGwLcEOKU",
+    "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dhow Cruise Dubai Harbour, Emaar Beachfront - Dubai - Émirats arabes unis",
+    "place_id": "ChIJx49nfDZDXz4RXjsOt7oHn4Q",
+    "types": "establishment, point_of_interest, tourist_attraction, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Dhow Cruise Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJAQAAMChoXz4RJuX_AS3e2a0",
     "types": "establishment, point_of_interest, travel_agency",
@@ -4209,6 +4245,12 @@
     "name": "Dhow Cruise Dubai Marina - Dubaï - Émirats arabes unis",
     "place_id": "ChIJl-v4WVBrXz4RFyI-KhRFkJw",
     "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dhow Wharfage - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJoyys3dNcXz4RSkmfMsujHmg",
+    "types": "establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -4515,6 +4557,24 @@
     "name": "Dubai Harbour - Yacht Club - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ0SWKXPlrXz4R5FuzAT8vYzg",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Healthcare City - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJi8q-J5hCXz4RzRaqk7k99aM",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Healthcare City Center Branch Oud Metha - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbyMOEThdXz4RUngxsVNxMEc",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Herbal And Treatment Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQaSVnatCXz4R9-qk0AVoi84",
+    "types": "establishment, health, physiotherapist, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -5025,6 +5085,12 @@
     "name": "Global Village, Dubai, Émirats arabes unis",
     "place_id": "ChIJFf7go49vXz4RJ6Q_Tvue2Uc",
     "types": "amusement_park, establishment, point_of_interest, shopping_mall, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Gold and Diamond Park Bldg 5 - E11 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJaxrqGcZrXz4RbSWhY04r4Zk",
+    "types": "establishment, point_of_interest, shopping_mall",
     "zone_type": "area"
   },
   {

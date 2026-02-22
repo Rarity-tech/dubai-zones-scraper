@@ -2569,7 +2569,57 @@
     "Dubai DFS",
     "Dubai DFT",
     "Dubai DFU",
-    "Dubai DFV"
+    "Dubai DFV",
+    "Dubai DFW",
+    "Dubai DFX",
+    "Dubai DFY",
+    "Dubai DFZ",
+    "Dubai DGA",
+    "Dubai DGB",
+    "Dubai DGC",
+    "Dubai DGD",
+    "Dubai DGE",
+    "Dubai DGF",
+    "Dubai DGG",
+    "Dubai DGH",
+    "Dubai DGI",
+    "Dubai DGJ",
+    "Dubai DGK",
+    "Dubai DGL",
+    "Dubai DGM",
+    "Dubai DGN",
+    "Dubai DGO",
+    "Dubai DGP",
+    "Dubai DGQ",
+    "Dubai DGR",
+    "Dubai DGS",
+    "Dubai DGT",
+    "Dubai DGU",
+    "Dubai DGV",
+    "Dubai DGW",
+    "Dubai DGX",
+    "Dubai DGY",
+    "Dubai DGZ",
+    "Dubai DHA",
+    "Dubai DHB",
+    "Dubai DHC",
+    "Dubai DHD",
+    "Dubai DHE",
+    "Dubai DHF",
+    "Dubai DHG",
+    "Dubai DHH",
+    "Dubai DHI",
+    "Dubai DHJ",
+    "Dubai DHK",
+    "Dubai DHL",
+    "Dubai DHM",
+    "Dubai DHN",
+    "Dubai DHO",
+    "Dubai DHP",
+    "Dubai DHQ",
+    "Dubai DHR",
+    "Dubai DHS",
+    "Dubai DHT"
   ],
   "pending_n2": [
     {
@@ -57609,6 +57659,61 @@
       "name": "DFMC - Dubai - Émirats arabes unis",
       "place_id": "ChIJrbv3MbhyXz4RuD1YP1ijzRg",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJaxrqGcZrXz4RbSWhY04r4Zk": {
+      "name": "Gold and Diamond Park Bldg 5 - E11 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJaxrqGcZrXz4RbSWhY04r4Zk",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJT-0SUWRDXz4RsrXpsLh4TlQ": {
+      "name": "Dhana 1 Residence, Jumeirah Garden City - Dubai - Émirats arabes unis",
+      "place_id": "ChIJT-0SUWRDXz4RsrXpsLh4TlQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJoSRZTURDXz4RwtgVfjG1u5A": {
+      "name": "Al Dhagaya, Dubai, Émirats arabes unis",
+      "place_id": "ChIJoSRZTURDXz4RwtgVfjG1u5A",
+      "types": "neighborhood, political"
+    },
+    "ChIJbyMOEThdXz4RUngxsVNxMEc": {
+      "name": "Dubai Healthcare City Center Branch Oud Metha - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbyMOEThdXz4RUngxsVNxMEc",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJpUVoKwBDXz4Ru6TyKqOx3Vs": {
+      "name": "Dhera - Dubai - Émirats arabes unis",
+      "place_id": "ChIJpUVoKwBDXz4Ru6TyKqOx3Vs",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJi8q-J5hCXz4RzRaqk7k99aM": {
+      "name": "Dubai Healthcare City - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJi8q-J5hCXz4RzRaqk7k99aM",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJx49nfDZDXz4RXjsOt7oHn4Q": {
+      "name": "Dhow Cruise Dubai Harbour, Emaar Beachfront - Dubai - Émirats arabes unis",
+      "place_id": "ChIJx49nfDZDXz4RXjsOt7oHn4Q",
+      "types": "establishment, point_of_interest, tourist_attraction, travel_agency"
+    },
+    "ChIJxaps6wdDXz4RRRkGwLcEOKU": {
+      "name": "Dhow Cruise Deira Creek - Dubai - Émirats arabes unis",
+      "place_id": "ChIJxaps6wdDXz4RRRkGwLcEOKU",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJoyys3dNcXz4RSkmfMsujHmg": {
+      "name": "Dhow Wharfage - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJoyys3dNcXz4RSkmfMsujHmg",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJhavhqm9kXz4Rpexl089HPQg": {
+      "name": "DHP Residency - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhavhqm9kXz4Rpexl089HPQg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJQaSVnatCXz4R9-qk0AVoi84": {
+      "name": "Dubai Herbal And Treatment Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQaSVnatCXz4R9-qk0AVoi84",
+      "types": "establishment, health, physiotherapist, point_of_interest"
     }
   }
 }
