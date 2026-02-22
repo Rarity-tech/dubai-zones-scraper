@@ -786,6 +786,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "New West Camp - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDyR_m-YNXz4RdYHhCYZAthE",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Remraam - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJPZo3fZVxXz4RPfPeihR6NFc",
     "types": "geocode, neighborhood, political",
@@ -1407,6 +1413,12 @@
     "name": "Akasya South - Warsan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJIzLUaQBnXz4RahIeC4-xpNg",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Al Baraha Smart Center for Government Services and Medical Examination - EHS - Dubai - Émirats arabes unis",
+    "place_id": "ChIJIztlwFRdXz4R7tEA--NZlqQ",
+    "types": "establishment, health, hospital, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -5154,6 +5166,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Police General Head Quarters - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6Z6Dv-tcXz4ROqBTCZNvGaY",
+    "types": "establishment, local_government_office, point_of_interest, police",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Polo & Equestrian Club, Dubai, Émirats arabes unis",
     "place_id": "ChIJXcNhArNvXz4Rf4-bFvgEamA",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -5496,6 +5514,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Ecole Hôtelière Helvétique | Hospitality Programs | Culinary School | Hotel Management Dubai UAE - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ67EIhoFjXz4RX817-guYvE0",
+    "types": "establishment, point_of_interest, school, university",
+    "zone_type": "area"
+  },
+  {
     "name": "Eden House, Al Satwa - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJg2PFmxtDXz4RbFAUywYCpW0",
     "types": "establishment, point_of_interest",
@@ -5526,9 +5550,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Efoil dubai, Berth B0 - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_-YreUBDXz4RLOZ4KiC8gPo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Egypt - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJkfjjnO9AXz4RThV4zSlTuB8",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ehtisham branch location - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJreNzqk5DXz4RjvGCp98z-to",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -5583,6 +5619,18 @@
     "name": "Emirates Financial Towers - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJp3NtR49CXz4RDnLgq5O46r8",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emirates Group Headquarters - opposite to Airport Terminal 3 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ43gpdqJdXz4RZ_uEtyY5dHk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emirates Hospital Clinics - Business Bay - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJm2oHAdRpXz4RXnf2beZDvgk",
+    "types": "establishment, health, hospital, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6996,6 +7044,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Searide Dubai Jet Ski Tour | Efoil | Watersports Rentals Dubai, Searide Jetski Jetcar Dubai & Watersports Rental - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJlw5qFT5CXz4Rg2prIotHdpw",
+    "types": "establishment, point_of_interest, tourist_attraction, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Second Cup - Dubai - Émirats arabes unis",
     "place_id": "ChIJX3oyiMpcXz4R1pw3ZQmzPvw",
     "types": "amusement_park, cafe, establishment, food, health, lodging, night_club, point_of_interest, spa, store",
@@ -7929,6 +7983,12 @@
     "name": "eStay Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJn23JrxVfXz4R-3F2BC0oYVk",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "eforea spa, Palm West Beach - Dubai - Émirats arabes unis",
+    "place_id": "ChIJN0lz3SRrXz4REB0r_byYLMw",
+    "types": "establishment, point_of_interest, spa",
     "zone_type": "area"
   },
   {

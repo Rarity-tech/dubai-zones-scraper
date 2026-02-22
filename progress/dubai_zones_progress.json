@@ -3219,7 +3219,57 @@
     "Dubai EES",
     "Dubai EET",
     "Dubai EEU",
-    "Dubai EEV"
+    "Dubai EEV",
+    "Dubai EEW",
+    "Dubai EEX",
+    "Dubai EEY",
+    "Dubai EEZ",
+    "Dubai EFA",
+    "Dubai EFB",
+    "Dubai EFC",
+    "Dubai EFD",
+    "Dubai EFE",
+    "Dubai EFF",
+    "Dubai EFG",
+    "Dubai EFH",
+    "Dubai EFI",
+    "Dubai EFJ",
+    "Dubai EFK",
+    "Dubai EFL",
+    "Dubai EFM",
+    "Dubai EFN",
+    "Dubai EFO",
+    "Dubai EFP",
+    "Dubai EFQ",
+    "Dubai EFR",
+    "Dubai EFS",
+    "Dubai EFT",
+    "Dubai EFU",
+    "Dubai EFV",
+    "Dubai EFW",
+    "Dubai EFX",
+    "Dubai EFY",
+    "Dubai EFZ",
+    "Dubai EHA",
+    "Dubai EHB",
+    "Dubai EHC",
+    "Dubai EHD",
+    "Dubai EHE",
+    "Dubai EHF",
+    "Dubai EHG",
+    "Dubai EHH",
+    "Dubai EHI",
+    "Dubai EHJ",
+    "Dubai EHK",
+    "Dubai EHL",
+    "Dubai EHM",
+    "Dubai EHN",
+    "Dubai EHO",
+    "Dubai EHP",
+    "Dubai EHQ",
+    "Dubai EHR",
+    "Dubai EHS",
+    "Dubai EHT"
   ],
   "pending_n2": [
     {
@@ -58923,6 +58973,56 @@
     "ChIJ81DSqNttXz4RAB18bQDg-Mo": {
       "name": "Vita Grande by Meteora - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ81DSqNttXz4RAB18bQDg-Mo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJDyR_m-YNXz4RdYHhCYZAthE": {
+      "name": "New West Camp - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDyR_m-YNXz4RdYHhCYZAthE",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJN0lz3SRrXz4REB0r_byYLMw": {
+      "name": "eforea spa, Palm West Beach - Dubai - Émirats arabes unis",
+      "place_id": "ChIJN0lz3SRrXz4REB0r_byYLMw",
+      "types": "establishment, point_of_interest, spa"
+    },
+    "ChIJ_-YreUBDXz4RLOZ4KiC8gPo": {
+      "name": "Efoil dubai, Berth B0 - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_-YreUBDXz4RLOZ4KiC8gPo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJlw5qFT5CXz4Rg2prIotHdpw": {
+      "name": "Searide Dubai Jet Ski Tour | Efoil | Watersports Rentals Dubai, Searide Jetski Jetcar Dubai & Watersports Rental - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJlw5qFT5CXz4Rg2prIotHdpw",
+      "types": "establishment, point_of_interest, tourist_attraction, travel_agency"
+    },
+    "ChIJm2oHAdRpXz4RXnf2beZDvgk": {
+      "name": "Emirates Hospital Clinics - Business Bay - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJm2oHAdRpXz4RXnf2beZDvgk",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJ67EIhoFjXz4RX817-guYvE0": {
+      "name": "Ecole Hôtelière Helvétique | Hospitality Programs | Culinary School | Hotel Management Dubai UAE - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ67EIhoFjXz4RX817-guYvE0",
+      "types": "establishment, point_of_interest, school, university"
+    },
+    "ChIJ43gpdqJdXz4RZ_uEtyY5dHk": {
+      "name": "Emirates Group Headquarters - opposite to Airport Terminal 3 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ43gpdqJdXz4RZ_uEtyY5dHk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ6Z6Dv-tcXz4ROqBTCZNvGaY": {
+      "name": "Dubai Police General Head Quarters - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ6Z6Dv-tcXz4ROqBTCZNvGaY",
+      "types": "establishment, local_government_office, point_of_interest, police"
+    },
+    "ChIJIztlwFRdXz4R7tEA--NZlqQ": {
+      "name": "Al Baraha Smart Center for Government Services and Medical Examination - EHS - Dubai - Émirats arabes unis",
+      "place_id": "ChIJIztlwFRdXz4R7tEA--NZlqQ",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJreNzqk5DXz4RjvGCp98z-to": {
+      "name": "Ehtisham branch location - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJreNzqk5DXz4RjvGCp98z-to",
       "types": "establishment, point_of_interest"
     }
   }
