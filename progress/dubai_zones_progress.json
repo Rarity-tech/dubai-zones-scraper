@@ -1619,7 +1619,57 @@
     "Dubai BRE",
     "Dubai BRF",
     "Dubai BRG",
-    "Dubai BRH"
+    "Dubai BRH",
+    "Dubai BRI",
+    "Dubai BRJ",
+    "Dubai BRK",
+    "Dubai BRL",
+    "Dubai BRM",
+    "Dubai BRN",
+    "Dubai BRO",
+    "Dubai BRP",
+    "Dubai BRQ",
+    "Dubai BRR",
+    "Dubai BRS",
+    "Dubai BRT",
+    "Dubai BRU",
+    "Dubai BRV",
+    "Dubai BRW",
+    "Dubai BRX",
+    "Dubai BRY",
+    "Dubai BRZ",
+    "Dubai BSA",
+    "Dubai BSB",
+    "Dubai BSC",
+    "Dubai BSD",
+    "Dubai BSE",
+    "Dubai BSF",
+    "Dubai BSG",
+    "Dubai BSH",
+    "Dubai BSI",
+    "Dubai BSJ",
+    "Dubai BSK",
+    "Dubai BSL",
+    "Dubai BSM",
+    "Dubai BSN",
+    "Dubai BSO",
+    "Dubai BSP",
+    "Dubai BSQ",
+    "Dubai BSR",
+    "Dubai BSS",
+    "Dubai BST",
+    "Dubai BSU",
+    "Dubai BSV",
+    "Dubai BSW",
+    "Dubai BSX",
+    "Dubai BSY",
+    "Dubai BSZ",
+    "Dubai BTA",
+    "Dubai BTB",
+    "Dubai BTC",
+    "Dubai BTD",
+    "Dubai BTE",
+    "Dubai BTF"
   ],
   "pending_n2": [
     {
@@ -55669,6 +55719,51 @@
       "name": "Breez by Danube - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJCaTjJwBDXz4RGvfGd46o5UQ",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJyxBkLypoXz4RpG83gzzCH3Y": {
+      "name": "Burj Khalifa Lake - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJyxBkLypoXz4RpG83gzzCH3Y",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJP_q5FgBDXz4RK1QALVRrl8M": {
+      "name": "BurJuman Metro Station Exit 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP_q5FgBDXz4RK1QALVRrl8M",
+      "types": "establishment, local_government_office, point_of_interest"
+    },
+    "ChIJffUkdgBvXz4RTmoeSi0pcos": {
+      "name": "Brookfield - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJffUkdgBvXz4RTmoeSi0pcos",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJj1zQG1ddXz4RjBbgoO51XH8": {
+      "name": "Broadway Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJj1zQG1ddXz4RjBbgoO51XH8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJAVficIZCXz4ROESrtaC5Vyo": {
+      "name": "Barry's Dubai DIFC - Dubai - Émirats arabes unis",
+      "place_id": "ChIJAVficIZCXz4ROESrtaC5Vyo",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJX5wjXSpdXz4RELrMmuMwK-k": {
+      "name": "British Council - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJX5wjXSpdXz4RELrMmuMwK-k",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJxYpOQQBpXz4RXbj3ilBsjmQ": {
+      "name": "Bruj khalifa - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJxYpOQQBpXz4RXbj3ilBsjmQ",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJT2E80q9pXz4RAUxPV49kv2U": {
+      "name": "Bruce Lucy Dubai - Sheikh Zayed Road - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJT2E80q9pXz4RAUxPV49kv2U",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJr7MCVmBrXz4RzaT0fIRWOMk": {
+      "name": "Bharat Thakur's Artistic Yoga, Emirates Golf Club, Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJr7MCVmBrXz4RzaT0fIRWOMk",
+      "types": "establishment, gym, health, point_of_interest"
     }
   }
 }

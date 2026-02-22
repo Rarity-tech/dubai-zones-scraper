@@ -2538,6 +2538,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Barry's Dubai DIFC - Dubai - Émirats arabes unis",
+    "place_id": "ChIJAVficIZCXz4ROESrtaC5Vyo",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Baseline Sports Academy - Dubai - Émirats arabes unis",
     "place_id": "ChIJ7TFTGxdpXz4RJs_RR5l3qyg",
     "types": "establishment, point_of_interest",
@@ -2655,6 +2661,12 @@
     "name": "Beverly Residence - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ74pVHAdtXz4R1qdrjrwtc_s",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bharat Thakur's Artistic Yoga, Emirates Golf Club, Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJr7MCVmBrXz4RzaT0fIRWOMk",
+    "types": "establishment, gym, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -2916,6 +2928,36 @@
     "zone_type": "area"
   },
   {
+    "name": "British Council - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJX5wjXSpdXz4RELrMmuMwK-k",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Broadway Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJj1zQG1ddXz4RjBbgoO51XH8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Brookfield - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJffUkdgBvXz4RTmoeSi0pcos",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bruce Lucy Dubai - Sheikh Zayed Road - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT2E80q9pXz4RAUxPV49kv2U",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bruj khalifa - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxYpOQQBpXz4RXbj3ilBsjmQ",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Bur Dubaï - Dubaï - Émirats arabes unis",
     "place_id": "ChIJYXshnzlDXz4RiypxAjQP118",
     "types": "colloquial_area, geocode, political",
@@ -2928,6 +2970,12 @@
     "zone_type": "area"
   },
   {
+    "name": "BurJuman Metro Station Exit 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP_q5FgBDXz4RK1QALVRrl8M",
+    "types": "establishment, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Burj Al Nujoom, Dubai, Émirats arabes unis",
     "place_id": "ChIJkb2mmyVoXz4R44dArRVv6Yg",
     "types": "establishment, point_of_interest",
@@ -2937,6 +2985,12 @@
     "name": "Burj Khalifa - Sheikh Mohammed bin Rashid Boulevard - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ2Y-H54FCXz4R2gdP3D5Mk24",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Burj Khalifa Lake - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJyxBkLypoXz4RpG83gzzCH3Y",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
