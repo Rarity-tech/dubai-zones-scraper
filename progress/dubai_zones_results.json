@@ -102,6 +102,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Al Lisaili - Dubai - Émirats arabes unis",
+    "place_id": "ChIJaajx--t_Xz4RHK_AE_d7ybU",
+    "types": "geocode, locality, political",
+    "zone_type": "city"
+  },
+  {
     "name": "Al Mankhool, Dubai, Émirats arabes unis",
     "place_id": "ChIJl_c3LiJDXz4R6v8gbbQZP_E",
     "types": "political, sublocality, sublocality_level_1",
@@ -740,6 +746,12 @@
   {
     "name": "Dubai Land Residence Complex - Dubaï - Émirats arabes unis",
     "place_id": "ChIJO8iXkI1kXz4RW3YHhujKPp4",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Dubai Lifestyle City - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2QJcttpvXz4RjoPjwICvsZI",
     "types": "geocode, neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -1665,6 +1677,12 @@
     "name": "Al Lesaily, Dubai, Émirats arabes unis",
     "place_id": "ChIJLyIJKfIQXz4RaI10pzbH6O4",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Al Liwan 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJL-ji63NkXz4RXfHEua72KZo",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
@@ -8448,6 +8466,18 @@
     "zone_type": "area"
   },
   {
+    "name": "LIV Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgVl0UVRrXz4RdfTa_FQGCsY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "LIVA - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJV5YLWQBxXz4RljDZ65IaEXA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "LM EXCHANGE, Head Office - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJAS7zQcxDXz4RtZC_ekMubqI",
     "types": "establishment, finance, local_government_office, point_of_interest",
@@ -8766,14 +8796,68 @@
     "zone_type": "area"
   },
   {
+    "name": "Licorne Vacation Homes - Sheikh Zayed Road - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2SQVh4FDXz4Rte66cfnAWh4",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Life Medical Centre - DWTC - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ24RqXG9DXz4RhosLS0kaXeU",
     "types": "establishment, health, hospital, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "Lime Gardens at Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqUSYAQBvXz4ROooPMKh_svo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lime Tree Valley - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxeCLbYptXz4RI3QDtQTOA4w",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Limestone House - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJQQ8Z45CXz4RwxjybVFUDME",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lincoln Park Northside - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBQ0ovuRvXz4RUhLE8cXoFEI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lincoln Park Sheffield - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJkUmyQmJuXz4RL3c0Iv4EZBw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Links East Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJv0b5r2RrXz4R3sOQZszlQsA",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Living Legends - Dubai - Émirats arabes unis",
     "place_id": "ChIJ60jf63BvXz4R-VC2bH8nuy0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Liwan 2 Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJE0KBMABlXz4RwkbT3UDRxAk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Liwan | Mazaya 5 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ8QVoPUpkXz4RfdLYatAl7Us",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -8847,6 +8931,12 @@
     "name": "Luxury Apartment with Pool Gym - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJfzruvrgNXz4RaAdlExiri4s",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Luxury Jetski Rental Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJw6NtooxDXz4RsA7CUtuo7DM",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

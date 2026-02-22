@@ -6419,7 +6419,57 @@
     "Dubai LHU",
     "Dubai LHV",
     "Dubai LHW",
-    "Dubai LHX"
+    "Dubai LHX",
+    "Dubai LHY",
+    "Dubai LHZ",
+    "Dubai LIA",
+    "Dubai LIB",
+    "Dubai LIC",
+    "Dubai LID",
+    "Dubai LIE",
+    "Dubai LIF",
+    "Dubai LIG",
+    "Dubai LIH",
+    "Dubai LII",
+    "Dubai LIJ",
+    "Dubai LIK",
+    "Dubai LIL",
+    "Dubai LIM",
+    "Dubai LIN",
+    "Dubai LIO",
+    "Dubai LIP",
+    "Dubai LIQ",
+    "Dubai LIR",
+    "Dubai LIS",
+    "Dubai LIT",
+    "Dubai LIU",
+    "Dubai LIV",
+    "Dubai LIW",
+    "Dubai LIX",
+    "Dubai LIY",
+    "Dubai LIZ",
+    "Dubai LJA",
+    "Dubai LJB",
+    "Dubai LJC",
+    "Dubai LJD",
+    "Dubai LJE",
+    "Dubai LJF",
+    "Dubai LJG",
+    "Dubai LJH",
+    "Dubai LJI",
+    "Dubai LJJ",
+    "Dubai LJK",
+    "Dubai LJL",
+    "Dubai LJM",
+    "Dubai LJN",
+    "Dubai LJO",
+    "Dubai LJP",
+    "Dubai LJQ",
+    "Dubai LJR",
+    "Dubai LJS",
+    "Dubai LJT",
+    "Dubai LJU",
+    "Dubai LJV"
   ],
   "pending_n2": [
     {
@@ -64484,6 +64534,81 @@
       "name": "Al Khazan Park - Dubai - Émirats arabes unis",
       "place_id": "ChIJkwa8sWZCXz4R_q9znGk3EZU",
       "types": "establishment, park, point_of_interest, tourist_attraction"
+    },
+    "ChIJ2SQVh4FDXz4Rte66cfnAWh4": {
+      "name": "Licorne Vacation Homes - Sheikh Zayed Road - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2SQVh4FDXz4Rte66cfnAWh4",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ2QJcttpvXz4RjoPjwICvsZI": {
+      "name": "Dubai Lifestyle City - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2QJcttpvXz4RjoPjwICvsZI",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJJQQ8Z45CXz4RwxjybVFUDME": {
+      "name": "Limestone House - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJQQ8Z45CXz4RwxjybVFUDME",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJqUSYAQBvXz4ROooPMKh_svo": {
+      "name": "Lime Gardens at Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqUSYAQBvXz4ROooPMKh_svo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJxeCLbYptXz4RI3QDtQTOA4w": {
+      "name": "Lime Tree Valley - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJxeCLbYptXz4RI3QDtQTOA4w",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJv0b5r2RrXz4R3sOQZszlQsA": {
+      "name": "Links East Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJv0b5r2RrXz4R3sOQZszlQsA",
+      "types": "geocode, premise"
+    },
+    "ChIJkUmyQmJuXz4RL3c0Iv4EZBw": {
+      "name": "Lincoln Park Sheffield - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJkUmyQmJuXz4RL3c0Iv4EZBw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBQ0ovuRvXz4RUhLE8cXoFEI": {
+      "name": "Lincoln Park Northside - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBQ0ovuRvXz4RUhLE8cXoFEI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJaajx--t_Xz4RHK_AE_d7ybU": {
+      "name": "Al Lisaili - Dubai - Émirats arabes unis",
+      "place_id": "ChIJaajx--t_Xz4RHK_AE_d7ybU",
+      "types": "geocode, locality, political"
+    },
+    "ChIJgVl0UVRrXz4RdfTa_FQGCsY": {
+      "name": "LIV Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgVl0UVRrXz4RdfTa_FQGCsY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJV5YLWQBxXz4RljDZ65IaEXA": {
+      "name": "LIVA - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV5YLWQBxXz4RljDZ65IaEXA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ8QVoPUpkXz4RfdLYatAl7Us": {
+      "name": "Liwan | Mazaya 5 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8QVoPUpkXz4RfdLYatAl7Us",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJL-ji63NkXz4RXfHEua72KZo": {
+      "name": "Al Liwan 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJL-ji63NkXz4RXfHEua72KZo",
+      "types": "geocode, premise"
+    },
+    "ChIJE0KBMABlXz4RwkbT3UDRxAk": {
+      "name": "Liwan 2 Park - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJE0KBMABlXz4RwkbT3UDRxAk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJw6NtooxDXz4RsA7CUtuo7DM": {
+      "name": "Luxury Jetski Rental Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJw6NtooxDXz4RsA7CUtuo7DM",
+      "types": "establishment, point_of_interest"
     }
   }
 }
