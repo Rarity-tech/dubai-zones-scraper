@@ -15024,6 +15024,12 @@
     "zone_type": "area"
   },
   {
+    "name": "WYZ Rent - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ64C1xghpXz4ROjMGhftNZAQ",
+    "types": "establishment, lodging, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Wadi Al Safa 7 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJW9qbCj9vXz4RYuC9ULBziwM",
     "types": "establishment, lodging, point_of_interest",
@@ -15306,6 +15312,24 @@
     "zone_type": "area"
   },
   {
+    "name": "ZAD FOODSTORE / CAFE - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgaquV-SCXz4RPHbrFxUcpRk",
+    "types": "cafe, establishment, food, grocery_or_supermarket, health, point_of_interest, restaurant, store, supermarket",
+    "zone_type": "area"
+  },
+  {
+    "name": "ZADA TOWER BY DAMAC PROPERTIES - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJWRDA5s1pXz4RF1Y1xyjKSLA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ZAPBED VACATION HOMES RENTAL LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJtWZ5KcdDXz4R9cKxi8XMDGY",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "ZOO Digital Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD9dW725vXz4R4JGzt60bokY",
     "types": "establishment, point_of_interest",
@@ -15336,9 +15360,81 @@
     "zone_type": "area"
   },
   {
+    "name": "Zafranah building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVfuuTXxcXz4RW11pOxO8bYo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zagy Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJl8pGcElDXz4Rc1QsjCTJYCA",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zahra Apartments | Town Square - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_7demkFwXz4RL-PMyDGr_Es",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zahra Breeze Apartments | Town Square 4b1 | 320 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbVyMXz9wXz4R9lxhbIkdfIk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zahra Townhouses - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9THbxWlwXz4RGFwDbqY8C3k",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zaker Trading Head Office - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBfcd-XlpXz4R2QgAXKnd8Ow",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zanzabeel 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ4ZLwMyxoXz4Rb-kyh_BfvvQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zanzebeel 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJObF9SCxoXz4R1s7s6TRPIUw",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zanzebeel 4 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1bPKOCxoXz4RR2zR8gJQVU0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zaya Hameni - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJm8pOOUBtXz4REhhtKc-j8Us",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zayed University Convention Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJoTke7olkXz4RWIcZ1Dns94I",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Zayed University UAE - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJTUUm0mFkXz4RKNAlMmNMXjM",
     "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zaytouna Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqxln4eRtXz4R8AIVOXh0SVA",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -15387,6 +15483,12 @@
     "name": "Zzz d - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJk4odZABrXz4RGOZmbmbZ6jA",
     "types": "establishment, place_of_worship, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ZāZEN One - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVc3lzrdtXz4RWspRoZF2uu8",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -15705,6 +15807,12 @@
     "name": "woo-hoo! UAE - Children's Museum in Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJc8neLnhrXz4RtVgz3x6dAKs",
     "types": "establishment, museum, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "zapbed house-Link West towers 2007 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJK6lDCQBrXz4RUBYtm3GWOLI",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
