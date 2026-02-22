@@ -5969,7 +5969,57 @@
     "Dubai KMM",
     "Dubai KMN",
     "Dubai KMO",
-    "Dubai KMP"
+    "Dubai KMP",
+    "Dubai KMQ",
+    "Dubai KMR",
+    "Dubai KMS",
+    "Dubai KMT",
+    "Dubai KMU",
+    "Dubai KMV",
+    "Dubai KMW",
+    "Dubai KMX",
+    "Dubai KMY",
+    "Dubai KMZ",
+    "Dubai KNA",
+    "Dubai KNB",
+    "Dubai KNC",
+    "Dubai KND",
+    "Dubai KNE",
+    "Dubai KNF",
+    "Dubai KNG",
+    "Dubai KNH",
+    "Dubai KNI",
+    "Dubai KNJ",
+    "Dubai KNK",
+    "Dubai KNL",
+    "Dubai KNM",
+    "Dubai KNN",
+    "Dubai KNO",
+    "Dubai KNP",
+    "Dubai KNQ",
+    "Dubai KNR",
+    "Dubai KNS",
+    "Dubai KNT",
+    "Dubai KNU",
+    "Dubai KNV",
+    "Dubai KNW",
+    "Dubai KNX",
+    "Dubai KNY",
+    "Dubai KNZ",
+    "Dubai KPA",
+    "Dubai KPB",
+    "Dubai KPC",
+    "Dubai KPD",
+    "Dubai KPE",
+    "Dubai KPF",
+    "Dubai KPG",
+    "Dubai KPH",
+    "Dubai KPI",
+    "Dubai KPJ",
+    "Dubai KPK",
+    "Dubai KPL",
+    "Dubai KPM",
+    "Dubai KPN"
   ],
   "pending_n2": [
     {
@@ -63649,6 +63699,31 @@
       "name": "Karama Medical Fitness Express service Center - KMFC - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJJ7nq2tVCXz4RTq_l-YV9yP0",
       "types": "establishment, health, point_of_interest, travel_agency"
+    },
+    "ChIJd_eRwLxtXz4RliULXzPk75w": {
+      "name": "Knightsbridge Court - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJd_eRwLxtXz4RliULXzPk75w",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJmbgDnWlpXz4RkLPhq4FhHxk": {
+      "name": "K&S REAL Estate - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJmbgDnWlpXz4RkLPhq4FhHxk",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJ3wtxEulCXz4Rw4XDtU9mwFM": {
+      "name": "KOREA NATIONAL TOURISM ORGANIZATION - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ3wtxEulCXz4Rw4XDtU9mwFM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJQfZYiWprXz4R-rRW5qj_0Bk": {
+      "name": "Knowledge Village Medical Fitness Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQfZYiWprXz4R-rRW5qj_0Bk",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJy29m08hcXz4Rk0W1oeC71FA": {
+      "name": "Kings Park Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJy29m08hcXz4Rk0W1oeC71FA",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }

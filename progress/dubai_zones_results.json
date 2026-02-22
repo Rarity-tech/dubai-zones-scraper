@@ -8034,6 +8034,12 @@
     "zone_type": "area"
   },
   {
+    "name": "K&S REAL Estate - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJmbgDnWlpXz4RkLPhq4FhHxk",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "K.M .TRADING SHOPPING CENTRE - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJNaKvuTNdXz4REqSX-W4uopo",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -8079,6 +8085,12 @@
     "name": "KNIGHT ARMOUR HOTEL - Dubai - Émirats arabes unis",
     "place_id": "ChIJsT4JcR1dXz4RxuIhOxfC1DU",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "KOREA NATIONAL TOURISM ORGANIZATION - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3wtxEulCXz4Rw4XDtU9mwFM",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -8274,6 +8286,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Kings Park Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJy29m08hcXz4Rk0W1oeC71FA",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Kings' School Al Barsha - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJHd26outuXz4RaJhnMpVZi-k",
     "types": "establishment, point_of_interest, primary_school, school, university",
@@ -8310,9 +8328,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Knightsbridge Court - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJd_eRwLxtXz4RliULXzPk75w",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Knowledge Village Block 8 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ7fZQl51rXz4RYNQFjyTtt3k",
     "types": "doctor, establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Knowledge Village Medical Fitness Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQfZYiWprXz4R-rRW5qj_0Bk",
+    "types": "establishment, health, hospital, point_of_interest",
     "zone_type": "area"
   },
   {
