@@ -5418,6 +5418,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dr Zozik Fattah Consultant Rheumatologist - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJoeIKAPtvXz4RNM-3U_APQnA",
+    "types": "doctor, establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dr. Vesna Markovic Mrdak - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJB6xbBFVrXz4RcrlVSZgUbJo",
     "types": "dentist, establishment, health, point_of_interest",
@@ -15582,6 +15588,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Zomorodah Building B Block - Dubai - Émirats arabes unis",
+    "place_id": "ChIJK09nq9ZCXz4RqAd7Z68wO6E",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zomorrodah Building, A Block - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRVO0TQBDXz4Ryjet4M1XjP0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Zool Barbershop - Dubai - Émirats arabes unis",
     "place_id": "ChIJWwXGAyxrXz4RujuuiKA7fKc",
     "types": "establishment, hair_care, health, point_of_interest",
@@ -15590,6 +15608,12 @@
   {
     "name": "Zoomies Dog Daycare & Dog Boarding - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJNx8SyXJrXz4RriTtXs7MhZg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zoxcell Sales Office- Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzWNAtmZtXz4RtIte4Krf7eM",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },

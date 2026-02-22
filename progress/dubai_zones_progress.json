@@ -11969,7 +11969,57 @@
     "Dubai ZOG",
     "Dubai ZOH",
     "Dubai ZOI",
-    "Dubai ZOJ"
+    "Dubai ZOJ",
+    "Dubai ZOK",
+    "Dubai ZOL",
+    "Dubai ZOM",
+    "Dubai ZON",
+    "Dubai ZOO",
+    "Dubai ZOP",
+    "Dubai ZOQ",
+    "Dubai ZOR",
+    "Dubai ZOS",
+    "Dubai ZOT",
+    "Dubai ZOU",
+    "Dubai ZOV",
+    "Dubai ZOW",
+    "Dubai ZOX",
+    "Dubai ZOY",
+    "Dubai ZOZ",
+    "Dubai ZPA",
+    "Dubai ZPB",
+    "Dubai ZPC",
+    "Dubai ZPD",
+    "Dubai ZPE",
+    "Dubai ZPF",
+    "Dubai ZPG",
+    "Dubai ZPH",
+    "Dubai ZPI",
+    "Dubai ZPJ",
+    "Dubai ZPK",
+    "Dubai ZPL",
+    "Dubai ZPM",
+    "Dubai ZPN",
+    "Dubai ZPO",
+    "Dubai ZPP",
+    "Dubai ZPQ",
+    "Dubai ZPR",
+    "Dubai ZPS",
+    "Dubai ZPT",
+    "Dubai ZPU",
+    "Dubai ZPV",
+    "Dubai ZPW",
+    "Dubai ZPX",
+    "Dubai ZPY",
+    "Dubai ZPZ",
+    "Dubai ZQA",
+    "Dubai ZQB",
+    "Dubai ZQC",
+    "Dubai ZQD",
+    "Dubai ZQE",
+    "Dubai ZQF",
+    "Dubai ZQG",
+    "Dubai ZQH"
   ],
   "pending_n2": [
     {
@@ -74304,6 +74354,26 @@
       "name": "Zoga Yoga Café - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJqRGBIs9rXz4RRHP9_VX7gcM",
       "types": "cafe, establishment, food, gym, health, point_of_interest, restaurant, store"
+    },
+    "ChIJK09nq9ZCXz4RqAd7Z68wO6E": {
+      "name": "Zomorodah Building B Block - Dubai - Émirats arabes unis",
+      "place_id": "ChIJK09nq9ZCXz4RqAd7Z68wO6E",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJRVO0TQBDXz4Ryjet4M1XjP0": {
+      "name": "Zomorrodah Building, A Block - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRVO0TQBDXz4Ryjet4M1XjP0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJzWNAtmZtXz4RtIte4Krf7eM": {
+      "name": "Zoxcell Sales Office- Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzWNAtmZtXz4RtIte4Krf7eM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJoeIKAPtvXz4RNM-3U_APQnA": {
+      "name": "Dr Zozik Fattah Consultant Rheumatologist - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJoeIKAPtvXz4RNM-3U_APQnA",
+      "types": "doctor, establishment, health, point_of_interest"
     }
   }
 }
