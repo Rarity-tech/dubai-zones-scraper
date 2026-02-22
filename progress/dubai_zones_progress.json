@@ -2519,7 +2519,57 @@
     "Dubai DDU",
     "Dubai DDV",
     "Dubai DDW",
-    "Dubai DDX"
+    "Dubai DDX",
+    "Dubai DDY",
+    "Dubai DDZ",
+    "Dubai DEA",
+    "Dubai DEB",
+    "Dubai DEC",
+    "Dubai DED",
+    "Dubai DEE",
+    "Dubai DEF",
+    "Dubai DEG",
+    "Dubai DEH",
+    "Dubai DEI",
+    "Dubai DEJ",
+    "Dubai DEK",
+    "Dubai DEL",
+    "Dubai DEM",
+    "Dubai DEN",
+    "Dubai DEO",
+    "Dubai DEP",
+    "Dubai DEQ",
+    "Dubai DER",
+    "Dubai DES",
+    "Dubai DET",
+    "Dubai DEU",
+    "Dubai DEV",
+    "Dubai DEW",
+    "Dubai DEX",
+    "Dubai DEY",
+    "Dubai DEZ",
+    "Dubai DFA",
+    "Dubai DFB",
+    "Dubai DFC",
+    "Dubai DFD",
+    "Dubai DFE",
+    "Dubai DFF",
+    "Dubai DFG",
+    "Dubai DFH",
+    "Dubai DFI",
+    "Dubai DFJ",
+    "Dubai DFK",
+    "Dubai DFL",
+    "Dubai DFM",
+    "Dubai DFN",
+    "Dubai DFO",
+    "Dubai DFP",
+    "Dubai DFQ",
+    "Dubai DFR",
+    "Dubai DFS",
+    "Dubai DFT",
+    "Dubai DFU",
+    "Dubai DFV"
   ],
   "pending_n2": [
     {
@@ -57453,6 +57503,111 @@
     "ChIJAQAAzwZqXz4RWzZq1akRG-k": {
       "name": "DryDocks World HR Building - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJAQAAzwZqXz4RWzZq1akRG-k",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ76DsG1ETXz4RkZj05Jgelgk": {
+      "name": "DEC Towers - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ76DsG1ETXz4RkZj05Jgelgk",
+      "types": "geocode, premise"
+    },
+    "ChIJ3fxJT85pXz4RBwru_vU87O4": {
+      "name": "Desert Safari Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ3fxJT85pXz4RBwru_vU87O4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJhZUhJWNDXz4RsZTDXjQfb3I": {
+      "name": "DEEMA HOTEL - Dubai - Émirats arabes unis",
+      "place_id": "ChIJhZUhJWNDXz4RsZTDXjQfb3I",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJJfIHzuJFXz4RIv37q65scbk": {
+      "name": "Deira Island beach - Dubai - Émirats arabes unis",
+      "place_id": "ChIJJfIHzuJFXz4RIv37q65scbk",
+      "types": "establishment, park, point_of_interest"
+    },
+    "ChIJr-J-tHwVXz4Rd_oLLuPJ_GI": {
+      "name": "Delta Hotels by Marriott - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJr-J-tHwVXz4Rd_oLLuPJ_GI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJh_S4TgRtXz4RvS9t24AaL5A": {
+      "name": "Delta Hotels, Dubai Investment Park - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJh_S4TgRtXz4RvS9t24AaL5A",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJjwZwpVNdXz4RyxhdNPq6tN4": {
+      "name": "DELTA CENTRE AL RIGGA - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJjwZwpVNdXz4RyxhdNPq6tN4",
+      "types": "establishment, food, grocery_or_supermarket, point_of_interest, shopping_mall, store, supermarket"
+    },
+    "ChIJ2c9AemVrXz4ReDA94SGfi3E": {
+      "name": "Dental Studio - Barsha Heights (Tecom) - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ2c9AemVrXz4ReDA94SGfi3E",
+      "types": "dentist, doctor, establishment, health, point_of_interest"
+    },
+    "ChIJ0fG9Sj9DXz4Rfd8GGzkll5U": {
+      "name": "Department of Finance - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ0fG9Sj9DXz4Rfd8GGzkll5U",
+      "types": "establishment, local_government_office, point_of_interest"
+    },
+    "ChIJ87jyYmcSXz4RhTuVkl7wR9M": {
+      "name": "Desert Blues Brands Outlet - Jafza - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ87jyYmcSXz4RhTuVkl7wR9M",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJ08FOGitvXz4RW6ZOjV-skhs": {
+      "name": "Detroit House - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ08FOGitvXz4RW6ZOjV-skhs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJw4-xiqpdXz4R4WvkvitQVnU": {
+      "name": "Deyaar Building No. 7 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJw4-xiqpdXz4R4WvkvitQVnU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJc4onRrxrXz4RtVDrPax0T6U": {
+      "name": "Deyaar Head Office Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJc4onRrxrXz4RtVDrPax0T6U",
+      "types": "geocode, premise"
+    },
+    "ChIJEfyIjS1sXz4RkerlvDZlC-4": {
+      "name": "Dezire Residences - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJEfyIjS1sXz4RkerlvDZlC-4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJW_qkK9ZpXz4RgcJ07xuOxnE": {
+      "name": "fäm Living - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJW_qkK9ZpXz4RgcJ07xuOxnE",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJb0ubs49CXz4RQCBVBJvZbxg": {
+      "name": "DIFC Gate Village - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJb0ubs49CXz4RQCBVBJvZbxg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJn7mvApJCXz4RQDnK7FUNnOY": {
+      "name": "DIFC - Dubai International Financial Centre - شارع - ٣١٢ - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJn7mvApJCXz4RQDnK7FUNnOY",
+      "types": "geocode, premise"
+    },
+    "ChIJ76hFh5JCXz4RqvlK9fWWjts": {
+      "name": "Dubai Future Foundation - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ76hFh5JCXz4RqvlK9fWWjts",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJZ_ACP49CXz4Rk8m-Oahp8J0": {
+      "name": "DIFC FinTech Hive - Dubai - Émirats arabes unis",
+      "place_id": "ChIJZ_ACP49CXz4Rk8m-Oahp8J0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJC3jI_I1CXz4RtnQyZEaK6FM": {
+      "name": "DIFC Courts - Dubai - Émirats arabes unis",
+      "place_id": "ChIJC3jI_I1CXz4RtnQyZEaK6FM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJrbv3MbhyXz4RuD1YP1ijzRg": {
+      "name": "DFMC - Dubai - Émirats arabes unis",
+      "place_id": "ChIJrbv3MbhyXz4RuD1YP1ijzRg",
       "types": "establishment, point_of_interest"
     }
   }

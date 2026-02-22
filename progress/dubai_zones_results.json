@@ -3876,15 +3876,63 @@
     "zone_type": "area"
   },
   {
+    "name": "DEC Towers - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ76DsG1ETXz4RkZj05Jgelgk",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "DEEMA HOTEL - Dubai - Émirats arabes unis",
+    "place_id": "ChIJhZUhJWNDXz4RsZTDXjQfb3I",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DELTA CENTRE AL RIGGA - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJjwZwpVNdXz4RyxhdNPq6tN4",
+    "types": "establishment, food, grocery_or_supermarket, point_of_interest, shopping_mall, store, supermarket",
+    "zone_type": "area"
+  },
+  {
     "name": "DFC - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ5duj5ghdXz4RtKEMOC-LFb4",
     "types": "establishment, health, hospital, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "DFMC - Dubai - Émirats arabes unis",
+    "place_id": "ChIJrbv3MbhyXz4RuD1YP1ijzRg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DHCC Building 53 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJI2U3RTZdXz4RAEwhf-rEpaA",
     "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DIFC - Dubai International Financial Centre - شارع - ٣١٢ - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJn7mvApJCXz4RQDnK7FUNnOY",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "DIFC Courts - Dubai - Émirats arabes unis",
+    "place_id": "ChIJC3jI_I1CXz4RtnQyZEaK6FM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DIFC FinTech Hive - Dubai - Émirats arabes unis",
+    "place_id": "ChIJZ_ACP49CXz4Rk8m-Oahp8J0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DIFC Gate Village - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJb0ubs49CXz4RQCBVBJvZbxg",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -4080,9 +4128,75 @@
     "zone_type": "area"
   },
   {
+    "name": "Deira Island beach - Dubai - Émirats arabes unis",
+    "place_id": "ChIJJfIHzuJFXz4RIv37q65scbk",
+    "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Delta Hotels by Marriott - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJr-J-tHwVXz4Rd_oLLuPJ_GI",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Delta Hotels, Dubai Investment Park - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJh_S4TgRtXz4RvS9t24AaL5A",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dental Studio - Barsha Heights (Tecom) - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ2c9AemVrXz4ReDA94SGfi3E",
+    "types": "dentist, doctor, establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Department of Finance - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ0fG9Sj9DXz4Rfd8GGzkll5U",
+    "types": "establishment, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Desert Blues Brands Outlet - Jafza - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ87jyYmcSXz4RhTuVkl7wR9M",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
     "name": "Desert Buggy Rental Dubai - Dune ATV Quad Bike Safari Tours, AL FAHAD TOWER - Dubaï - Émirats arabes unis",
     "place_id": "ChIJV4F_SHxdXz4RukyVRNXyY1s",
     "types": "establishment, point_of_interest, tourist_attraction, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Desert Safari Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3fxJT85pXz4RBwru_vU87O4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Detroit House - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ08FOGitvXz4RW6ZOjV-skhs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Deyaar Building No. 7 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJw4-xiqpdXz4R4WvkvitQVnU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Deyaar Head Office Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJc4onRrxrXz4RtVDrPax0T6U",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dezire Residences - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJEfyIjS1sXz4RkerlvDZlC-4",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -4377,6 +4491,12 @@
     "name": "Dubai Frame, Dubai, Émirats arabes unis",
     "place_id": "ChIJQZ3ZINtCXz4RmFeoAa81MPk",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Future Foundation - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ76hFh5JCXz4RqvlK9fWWjts",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7023,6 +7143,12 @@
     "name": "eStay Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJn23JrxVfXz4R-3F2BC0oYVk",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "fäm Living - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJW_qkK9ZpXz4RgcJ07xuOxnE",
+    "types": "establishment, point_of_interest, real_estate_agency",
     "zone_type": "area"
   },
   {
