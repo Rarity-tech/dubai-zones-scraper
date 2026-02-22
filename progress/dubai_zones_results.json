@@ -6102,6 +6102,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Turtle Rehabilitation Project - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJy0dti2trXz4R20qz4QKFQYM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Waterfront - Émirats arabes unis",
     "place_id": "ChIJyYpX8hgbXz4RFO7GvjcvFXE",
     "types": "establishment, natural_feature",
@@ -13980,15 +13986,39 @@
     "zone_type": "area"
   },
   {
+    "name": "Tulip Al Barsha Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1RoMhgprXz4RuEfBqvrbJQA",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Tulip Creek Hotel Apartments - Dubai - Émirats arabes unis",
     "place_id": "ChIJXy93-tlcXz4RirC7atevtlM",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "Tulip Oasis 6 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJiQn6RUZlXz4R1EMNeMwdQFY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tulip Oasis 9 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJdSQdFxlvXz4RZjGMwwW6w-Q",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Tumbi Hotel Dubai The Palm, Tapestry Collection by Hilton - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD8ysroxrXz4RdNg_SW2zpmg",
     "types": "establishment, lodging, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "Turia A - Street 7 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJf1ZBHmVrXz4RPZHCUsuO7So",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
@@ -14001,6 +14031,12 @@
     "name": "Turkmenistan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJK-LFFt1AXz4RNK-rV-Lrqwk",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tuscan Residences Florence 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJL8mPRjdsXz4Rc7SOE-kXGco",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

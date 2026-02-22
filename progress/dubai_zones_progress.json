@@ -9719,7 +9719,57 @@
     "Dubai TSS",
     "Dubai TST",
     "Dubai TSU",
-    "Dubai TSV"
+    "Dubai TSV",
+    "Dubai TSW",
+    "Dubai TSX",
+    "Dubai TSY",
+    "Dubai TSZ",
+    "Dubai TTA",
+    "Dubai TTB",
+    "Dubai TTC",
+    "Dubai TTD",
+    "Dubai TTE",
+    "Dubai TTF",
+    "Dubai TTG",
+    "Dubai TTH",
+    "Dubai TTI",
+    "Dubai TTJ",
+    "Dubai TTK",
+    "Dubai TTL",
+    "Dubai TTM",
+    "Dubai TTN",
+    "Dubai TTO",
+    "Dubai TTP",
+    "Dubai TTQ",
+    "Dubai TTR",
+    "Dubai TTS",
+    "Dubai TTT",
+    "Dubai TTU",
+    "Dubai TTV",
+    "Dubai TTW",
+    "Dubai TTX",
+    "Dubai TTY",
+    "Dubai TTZ",
+    "Dubai TUA",
+    "Dubai TUB",
+    "Dubai TUC",
+    "Dubai TUD",
+    "Dubai TUE",
+    "Dubai TUF",
+    "Dubai TUG",
+    "Dubai TUH",
+    "Dubai TUI",
+    "Dubai TUJ",
+    "Dubai TUK",
+    "Dubai TUL",
+    "Dubai TUM",
+    "Dubai TUN",
+    "Dubai TUO",
+    "Dubai TUP",
+    "Dubai TUQ",
+    "Dubai TUR",
+    "Dubai TUS",
+    "Dubai TUT"
   ],
   "pending_n2": [
     {
@@ -71079,6 +71129,36 @@
       "name": "The Sustainable Homes - Dubai - Émirats arabes unis",
       "place_id": "ChIJA1xOaNJxXz4RBSa9Zbh03Hw",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJdSQdFxlvXz4RZjGMwwW6w-Q": {
+      "name": "Tulip Oasis 9 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdSQdFxlvXz4RZjGMwwW6w-Q",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ1RoMhgprXz4RuEfBqvrbJQA": {
+      "name": "Tulip Al Barsha Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1RoMhgprXz4RuEfBqvrbJQA",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJiQn6RUZlXz4R1EMNeMwdQFY": {
+      "name": "Tulip Oasis 6 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJiQn6RUZlXz4R1EMNeMwdQFY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJy0dti2trXz4R20qz4QKFQYM": {
+      "name": "Dubai Turtle Rehabilitation Project - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJy0dti2trXz4R20qz4QKFQYM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJf1ZBHmVrXz4RPZHCUsuO7So": {
+      "name": "Turia A - Street 7 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJf1ZBHmVrXz4RPZHCUsuO7So",
+      "types": "geocode, premise"
+    },
+    "ChIJL8mPRjdsXz4Rc7SOE-kXGco": {
+      "name": "Tuscan Residences Florence 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJL8mPRjdsXz4Rc7SOE-kXGco",
+      "types": "establishment, point_of_interest"
     }
   }
 }
