@@ -769,7 +769,57 @@
     "Dubai AJM",
     "Dubai AJN",
     "Dubai AJO",
-    "Dubai AJP"
+    "Dubai AJP",
+    "Dubai AJQ",
+    "Dubai AJR",
+    "Dubai AJS",
+    "Dubai AJT",
+    "Dubai AJU",
+    "Dubai AJV",
+    "Dubai AJW",
+    "Dubai AJX",
+    "Dubai AJY",
+    "Dubai AJZ",
+    "Dubai AKA",
+    "Dubai AKB",
+    "Dubai AKC",
+    "Dubai AKD",
+    "Dubai AKE",
+    "Dubai AKF",
+    "Dubai AKG",
+    "Dubai AKH",
+    "Dubai AKI",
+    "Dubai AKJ",
+    "Dubai AKK",
+    "Dubai AKL",
+    "Dubai AKM",
+    "Dubai AKN",
+    "Dubai AKO",
+    "Dubai AKP",
+    "Dubai AKQ",
+    "Dubai AKR",
+    "Dubai AKS",
+    "Dubai AKT",
+    "Dubai AKU",
+    "Dubai AKV",
+    "Dubai AKW",
+    "Dubai AKX",
+    "Dubai AKY",
+    "Dubai AKZ",
+    "Dubai ALA",
+    "Dubai ALB",
+    "Dubai ALC",
+    "Dubai ALD",
+    "Dubai ALE",
+    "Dubai ALF",
+    "Dubai ALG",
+    "Dubai ALH",
+    "Dubai ALI",
+    "Dubai ALJ",
+    "Dubai ALK",
+    "Dubai ALL",
+    "Dubai ALM",
+    "Dubai ALN"
   ],
   "pending_n2": [
     {
@@ -53304,6 +53354,161 @@
       "name": "Dubai Airshow, Dubai World Center - Dubaï - Émirats arabes unis",
       "place_id": "ChIJm9guhBVZXz4RidIlW7hTnqM",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJLbbXIUZtXz4RUGoMc3-daXM": {
+      "name": "Ajyad Properties B - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJLbbXIUZtXz4RUGoMc3-daXM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJIzLUaQBnXz4RahIeC4-xpNg": {
+      "name": "Akasya South - Warsan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIzLUaQBnXz4RahIeC4-xpNg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJv5dZWytrXz4RRyK0_VoDs9E": {
+      "name": "Palm Jumeirah Mall by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJv5dZWytrXz4RRyK0_VoDs9E",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJ2974PqJpXz4Ra34njZr7E0E": {
+      "name": "Al Khail Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2974PqJpXz4Ra34njZr7E0E",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJ9zsKvNxpXz4RaUt49govVHM": {
+      "name": "Aykon City - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9zsKvNxpXz4RaUt49govVHM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJa1GvK-hDXz4ROGzRQI5zM74": {
+      "name": "AKOYA Oxygen by DAMAC Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJa1GvK-hDXz4ROGzRQI5zM74",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ8VRV4FYTXz4RTVWgqPcGwbg": {
+      "name": "Skydive Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8VRV4FYTXz4RTVWgqPcGwbg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ8duaQ3SK9T4RzRWy--RbuoQ": {
+      "name": "Wadi Alamardi, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ8duaQ3SK9T4RzRWy--RbuoQ",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJx-M51vlrXz4Rr6pT-7g9MvY": {
+      "name": "Al Barsha Second - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJx-M51vlrXz4Rr6pT-7g9MvY",
+      "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJ0XDSxPRrXz4RzNhesEBkNb4": {
+      "name": "Al Barsha Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0XDSxPRrXz4RzNhesEBkNb4",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJP0IqQEhtXz4RdaUXz1JvaGY": {
+      "name": "Alcove by Grovy - Dubai - Émirats arabes unis",
+      "place_id": "ChIJP0IqQEhtXz4RdaUXz1JvaGY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJhXrWFC5tXz4RYvOFefCs_wU": {
+      "name": "Alef Noon Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhXrWFC5tXz4RYvOFefCs_wU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJZVkJ8zptXz4Rz9IUA5I0J5k": {
+      "name": "Al Furjan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZVkJ8zptXz4Rz9IUA5I0J5k",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJs6zXLsltXz4R1yexG7u5SS0": {
+      "name": "Alfa Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJs6zXLsltXz4R1yexG7u5SS0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAUCZ3vFAXz4RXHiKPPXbwuI": {
+      "name": "Algeria - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAUCZ3vFAXz4RXHiKPPXbwuI",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJtcUUbABdXz4R-qpeeJ2-sRs": {
+      "name": "Algubaiba metro station - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJtcUUbABdXz4R-qpeeJ2-sRs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ2-GuozBDXz4RfYGRzIgpiNA": {
+      "name": "Al Hamriya - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2-GuozBDXz4RfYGRzIgpiNA",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJZ0b2EgBlXz4RNKD3SeJ6nEI": {
+      "name": "Alhabtoor Polo Resort and Club Villa 120 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZ0b2EgBlXz4RNKD3SeJ6nEI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJB_MZ9tRdXz4Reulj8PitOV4": {
+      "name": "Aliyah by AZIZI - Dubai - Émirats arabes unis",
+      "place_id": "ChIJB_MZ9tRdXz4Reulj8PitOV4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJUcJg_KUSXz4RyS0nBEAuM8s": {
+      "name": "Jabal Ali Industrie Première, Dubai, Émirats arabes unis",
+      "place_id": "ChIJUcJg_KUSXz4RyS0nBEAuM8s",
+      "types": "neighborhood, political"
+    },
+    "ChIJf9ntvIldXz4Ro2rQFDZa6Ew": {
+      "name": "Alia Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJf9ntvIldXz4Ro2rQFDZa6Ew",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJI40BQQNnXz4RPoYcmf33izI": {
+      "name": "AlJadaf Walk - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJI40BQQNnXz4RPoYcmf33izI",
+      "types": "establishment, park, point_of_interest"
+    },
+    "ChIJ54-eYABrXz4RoOLvvetn5ck": {
+      "name": "Al Jazi, MJL (Madinat Jumeirah Living) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ54-eYABrXz4RoOLvvetn5ck",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJd0QfMqZsXz4R6wo9dDZWxnc": {
+      "name": "Alkuz Indistrial - Dubai - Émirats arabes unis",
+      "place_id": "ChIJd0QfMqZsXz4R6wo9dDZWxnc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ_1DG8gxpXz4RUrg6FEkHBHs": {
+      "name": "AlKhail Gate Community Centre - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_1DG8gxpXz4RUrg6FEkHBHs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ0-y8Xu2K9T4RzbKnr6DHFyE": {
+      "name": "Al Khawaneej - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0-y8Xu2K9T4RzbKnr6DHFyE",
+      "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJf6PWma1sXz4RmDuhUHGkwpM": {
+      "name": "Almas Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJf6PWma1sXz4RmDuhUHGkwpM",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJrYFul61sXz4R3D-GuGTkC6g": {
+      "name": "Almas Tower - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJrYFul61sXz4R3D-GuGTkC6g",
+      "types": "geocode, premise"
+    },
+    "ChIJVScgmNNCXz4R65s4ZjafNY0": {
+      "name": "AlNasr Club - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJVScgmNNCXz4R65s4ZjafNY0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJHXSNa3NrXz4Rtah_34kSlbs": {
+      "name": "AlNakheel Villas - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHXSNa3NrXz4Rtah_34kSlbs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ2zaVq1ZqXz4Ra1DZz3zqDgg": {
+      "name": "Jumeirah Al Naseem - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2zaVq1ZqXz4Ra1DZz3zqDgg",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }
