@@ -3769,7 +3769,57 @@
     "Dubai HEW",
     "Dubai HEX",
     "Dubai HEY",
-    "Dubai HEZ"
+    "Dubai HEZ",
+    "Dubai HFA",
+    "Dubai HFB",
+    "Dubai HFC",
+    "Dubai HFD",
+    "Dubai HFE",
+    "Dubai HFF",
+    "Dubai HFG",
+    "Dubai HFH",
+    "Dubai HFI",
+    "Dubai HFJ",
+    "Dubai HFK",
+    "Dubai HFL",
+    "Dubai HFM",
+    "Dubai HFN",
+    "Dubai HFO",
+    "Dubai HFP",
+    "Dubai HFQ",
+    "Dubai HFR",
+    "Dubai HFS",
+    "Dubai HFT",
+    "Dubai HFU",
+    "Dubai HFV",
+    "Dubai HFW",
+    "Dubai HFX",
+    "Dubai HFY",
+    "Dubai HFZ",
+    "Dubai HGA",
+    "Dubai HGB",
+    "Dubai HGC",
+    "Dubai HGD",
+    "Dubai HGE",
+    "Dubai HGF",
+    "Dubai HGG",
+    "Dubai HGH",
+    "Dubai HGI",
+    "Dubai HGJ",
+    "Dubai HGK",
+    "Dubai HGL",
+    "Dubai HGM",
+    "Dubai HGN",
+    "Dubai HGO",
+    "Dubai HGP",
+    "Dubai HGQ",
+    "Dubai HGR",
+    "Dubai HGS",
+    "Dubai HGT",
+    "Dubai HGU",
+    "Dubai HGV",
+    "Dubai HGW",
+    "Dubai HGX"
   ],
   "pending_n2": [
     {
@@ -60003,6 +60053,36 @@
     "ChIJ1bUfJa1cXz4RLkgUTfw1D7g": {
       "name": "Hues Boutique Hotel - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ1bUfJa1cXz4RLkgUTfw1D7g",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJAwJ8otWhXz4RStQPI105RQ0": {
+      "name": "Mira Foods - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAwJ8otWhXz4RStQPI105RQ0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJKxzMxydDXz4RfjZME860kbg": {
+      "name": "His Favourite Gents Salon Ithra - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJKxzMxydDXz4RfjZME860kbg",
+      "types": "establishment, hair_care, health, point_of_interest"
+    },
+    "ChIJl0k4Az1pXz4RxzPuINb_S6Q": {
+      "name": "Audit.ae - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJl0k4Az1pXz4RxzPuINb_S6Q",
+      "types": "accounting, establishment, finance, local_government_office, point_of_interest"
+    },
+    "ChIJ0RRUsr1rXz4RlKp1lR4JqgU": {
+      "name": "Hilton Garden Inn Dubai, Mall Avenue - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0RRUsr1rXz4RlKp1lR4JqgU",
+      "types": "establishment, lodging, point_of_interest, spa"
+    },
+    "ChIJWQuMpntdXz4Rw7O0l-BuxoQ": {
+      "name": "IHG Hotels and Resorts - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJWQuMpntdXz4Rw7O0l-BuxoQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJl55gnwVDXz4Ry05rELmFE9k": {
+      "name": "Hilton Garden Inn Dubai Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJl55gnwVDXz4Ry05rELmFE9k",
       "types": "establishment, lodging, point_of_interest"
     }
   }

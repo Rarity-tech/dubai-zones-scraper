@@ -2220,6 +2220,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Audit.ae - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJl0k4Az1pXz4RxzPuINb_S6Q",
+    "types": "accounting, establishment, finance, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Aura 1 | Tilal Al Ghaf - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJvVTiw6tvXz4Rzun7j4zx-ZM",
     "types": "establishment, point_of_interest",
@@ -6378,9 +6384,27 @@
     "zone_type": "area"
   },
   {
+    "name": "Hilton Garden Inn Dubai Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJl55gnwVDXz4Ry05rELmFE9k",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Hilton Garden Inn Dubai, Mall Avenue - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ0RRUsr1rXz4RlKp1lR4JqgU",
+    "types": "establishment, lodging, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
     "name": "Hindu Temple, Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJARHmr2oTXz4RVXJKEr_89Ok",
     "types": "establishment, hindu_temple, place_of_worship, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "His Favourite Gents Salon Ithra - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJKxzMxydDXz4RfjZME860kbg",
+    "types": "establishment, hair_care, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6477,6 +6501,12 @@
     "name": "IGNITE water sports - Standup Paddle Board & Kayaking - Dubai - Émirats arabes unis",
     "place_id": "ChIJPbldjvRrXz4RwCD6lsy3xzc",
     "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "IHG Hotels and Resorts - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJWQuMpntdXz4Rw7O0l-BuxoQ",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7131,6 +7161,12 @@
     "name": "Millennium Plaza Downtown Hotel, Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJE8t3APhDXz4RcS7Q_2YVIvw",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mira Foods - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAwJ8otWhXz4RStQPI105RQ0",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
