@@ -2172,6 +2172,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Aussizz Group Migration Agents & Education Consultants - Dubai - near DMCC Metro Station - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJd7a2KtZtXz4R-0jWlimya9c",
+    "types": "establishment, health, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Australian Consulate-General - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ0ZrquyVDXz4RYlW2vBoiXiY",
     "types": "embassy, establishment, point_of_interest",
@@ -4218,6 +4224,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Damac Hills 2 Hotel - Edge by Rotana - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJfwqfDBh7Xz4Rc2mx-BNG-8s",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Damac Maison Canal Views, Dubai, Émirats arabes unis",
     "place_id": "ChIJ55M8dzpoXz4RSqWbz-CezXM",
     "types": "establishment, lodging, point_of_interest",
@@ -5418,6 +5430,12 @@
     "zone_type": "area"
   },
   {
+    "name": "EMAAR South - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRS0n78oLXz4RwQrMl9Zb3Zo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "ES Dubai - English Studies Dubai - Dubai - Émirats arabes unis",
     "place_id": "ChIJuZiW2rFsXz4RRb5YMLWL8z0",
     "types": "establishment, point_of_interest",
@@ -5490,6 +5508,24 @@
     "zone_type": "area"
   },
   {
+    "name": "Edge Creekside Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJEVRV5dBcXz4RUU-mRwr6IYU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Edison House - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJa3yEDJdlXz4RT1CGGsbJqkM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Edmonton Elm - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2ZdSfgdtXz4RX6zO-17TlwM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Egypt - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJkfjjnO9AXz4RThV4zSlTuB8",
     "types": "establishment, natural_feature",
@@ -5544,6 +5580,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Emirates Financial Towers - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJp3NtR49CXz4RDnLgq5O46r8",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Energy Metro Station - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJj34ceQITXz4REdDUrxz9mTs",
     "types": "establishment, point_of_interest",
@@ -5589,6 +5631,12 @@
     "name": "Escape Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJL5yCNtZpXz4RPxSmwOTCwcY",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Este Medical Group | Hair and Skin Clinic Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJM0rVUVJrXz4RO37SirNqh4I",
+    "types": "beauty_salon, establishment, hair_care, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7290,6 +7338,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Dubai EDITION - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJA-SnWy9oXz4RTMJwFyjG4-s",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "The First Collection Marina, Dubai, a Tribute Portfolio Hotel - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgfwbz1ATXz4RZNLnVz-FaQo",
     "types": "establishment, lodging, point_of_interest",
@@ -7611,6 +7665,12 @@
     "name": "Vista Mare by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ0S_cCSxrXz4RIKTrO1zSryc",
     "types": "establishment, food, point_of_interest, restaurant, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Vita Grande by Meteora - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ81DSqNttXz4RAB18bQDg-Mo",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

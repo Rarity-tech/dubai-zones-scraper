@@ -3169,7 +3169,57 @@
     "Dubai ECU",
     "Dubai ECV",
     "Dubai ECW",
-    "Dubai ECX"
+    "Dubai ECX",
+    "Dubai ECY",
+    "Dubai ECZ",
+    "Dubai EDA",
+    "Dubai EDB",
+    "Dubai EDC",
+    "Dubai EDD",
+    "Dubai EDE",
+    "Dubai EDF",
+    "Dubai EDG",
+    "Dubai EDH",
+    "Dubai EDI",
+    "Dubai EDJ",
+    "Dubai EDK",
+    "Dubai EDL",
+    "Dubai EDM",
+    "Dubai EDN",
+    "Dubai EDO",
+    "Dubai EDP",
+    "Dubai EDQ",
+    "Dubai EDR",
+    "Dubai EDS",
+    "Dubai EDT",
+    "Dubai EDU",
+    "Dubai EDV",
+    "Dubai EDW",
+    "Dubai EDX",
+    "Dubai EDY",
+    "Dubai EDZ",
+    "Dubai EEA",
+    "Dubai EEB",
+    "Dubai EEC",
+    "Dubai EED",
+    "Dubai EEE",
+    "Dubai EEF",
+    "Dubai EEG",
+    "Dubai EEH",
+    "Dubai EEI",
+    "Dubai EEJ",
+    "Dubai EEK",
+    "Dubai EEL",
+    "Dubai EEM",
+    "Dubai EEN",
+    "Dubai EEO",
+    "Dubai EEP",
+    "Dubai EEQ",
+    "Dubai EER",
+    "Dubai EES",
+    "Dubai EET",
+    "Dubai EEU",
+    "Dubai EEV"
   ],
   "pending_n2": [
     {
@@ -58823,6 +58873,56 @@
     "ChIJy3IS8pBpXz4RuRRT-X_odH8": {
       "name": "Emaar Community Management Downtown Dubai Office - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJy3IS8pBpXz4RuRRT-X_odH8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJEVRV5dBcXz4RUU-mRwr6IYU": {
+      "name": "Edge Creekside Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJEVRV5dBcXz4RUU-mRwr6IYU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJfwqfDBh7Xz4Rc2mx-BNG-8s": {
+      "name": "Damac Hills 2 Hotel - Edge by Rotana - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJfwqfDBh7Xz4Rc2mx-BNG-8s",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJA-SnWy9oXz4RTMJwFyjG4-s": {
+      "name": "The Dubai EDITION - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJA-SnWy9oXz4RTMJwFyjG4-s",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJa3yEDJdlXz4RT1CGGsbJqkM": {
+      "name": "Edison House - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJa3yEDJdlXz4RT1CGGsbJqkM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ2ZdSfgdtXz4RX6zO-17TlwM": {
+      "name": "Edmonton Elm - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2ZdSfgdtXz4RX6zO-17TlwM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJM0rVUVJrXz4RO37SirNqh4I": {
+      "name": "Este Medical Group | Hair and Skin Clinic Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJM0rVUVJrXz4RO37SirNqh4I",
+      "types": "beauty_salon, establishment, hair_care, health, point_of_interest"
+    },
+    "ChIJd7a2KtZtXz4R-0jWlimya9c": {
+      "name": "Aussizz Group Migration Agents & Education Consultants - Dubai - near DMCC Metro Station - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJd7a2KtZtXz4R-0jWlimya9c",
+      "types": "establishment, health, point_of_interest, travel_agency"
+    },
+    "ChIJp3NtR49CXz4RDnLgq5O46r8": {
+      "name": "Emirates Financial Towers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJp3NtR49CXz4RDnLgq5O46r8",
+      "types": "geocode, premise"
+    },
+    "ChIJRS0n78oLXz4RwQrMl9Zb3Zo": {
+      "name": "EMAAR South - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRS0n78oLXz4RwQrMl9Zb3Zo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ81DSqNttXz4RAB18bQDg-Mo": {
+      "name": "Vita Grande by Meteora - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ81DSqNttXz4RAB18bQDg-Mo",
       "types": "establishment, point_of_interest"
     }
   }
