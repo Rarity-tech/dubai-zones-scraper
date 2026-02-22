@@ -2328,6 +2328,12 @@
     "zone_type": "area"
   },
   {
+    "name": "BITS Pilani, Dubai Campus - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJg3YLr-xjXz4Rxzv2jtsDiRc",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
     "name": "BMTC Building - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJvXPqAm1cXz4Rne4xws6Z7T8",
     "types": "geocode, premise",
@@ -2664,6 +2670,24 @@
     "zone_type": "area"
   },
   {
+    "name": "Bourn Hall Fertility Clinic - Dubai | عيادة بورن هول للإخصاب - دبي - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJWYGH5ABDXz4RA0T6TsJwp6I",
+    "types": "doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Boxing Golden Ring - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1-aKDFtDXz4ROtfUwF1Jc7A",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Boxpark - Dubai - Émirats arabes unis",
+    "place_id": "ChIJxZ84LABrXz4Rwy9wHHozBZ4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Boxpark by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCZUgGmxCXz4RGt_ilFc-0s8",
     "types": "establishment, food, movie_theater, point_of_interest, restaurant, shopping_mall",
@@ -2718,6 +2742,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Bus Station - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ71yiLDlDXz4RJH9as0HFZXc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Business Bay Metro Station - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJV43E5CFpXz4R8D1DgU9kboA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Business Central Towers - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJO65qcm5rXz4RMgWnDCsiWBk",
     "types": "establishment, point_of_interest",
@@ -2726,6 +2762,12 @@
   {
     "name": "Business Exchange Bureau - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ4xwt5q1sXz4RgPosBhgLaJg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Business Village, Block - B - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIev2_m1dXz4R5-VLholnsJU",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -2948,6 +2990,12 @@
   {
     "name": "DUBAI GRAND HOTEL BY FORTUNE - Dubaï - Émirats arabes unis",
     "place_id": "ChIJbY_RJTZcXz4RC7ZiF2bzel0",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DUBAI HOSTEL JBR NOWMADE - Cosy Hills - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJA9JP8VlrXz4RTJjxKb5v3F0",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
@@ -3710,6 +3758,12 @@
   {
     "name": "Grand Hyatt Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJo2mM-EZdXz4RDa_DMxx70r0",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Grand Nova Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1-sGmphDXz4Rv40HteRoxA0",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
@@ -4536,6 +4590,12 @@
     "zone_type": "area"
   },
   {
+    "name": "NoWayOut Escape Rooms | Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJD2tBKLNsXz4RJIUTCCuTkL4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Oman - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJnUhiTuFAXz4RNAEm1DhddhQ",
     "types": "establishment, natural_feature",
@@ -4899,6 +4959,12 @@
     "name": "Ski Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJ____775rXz4Rbvg2X19nuxI",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Skin Experts Polyclinic - Dubai - Émirats arabes unis",
+    "place_id": "ChIJP7zrV3JDXz4RhUpfcPyaxhw",
+    "types": "beauty_salon, doctor, establishment, hair_care, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -5445,6 +5511,12 @@
     "name": "Vision Tower - Dubaï - Émirats arabes unis",
     "place_id": "ChIJvcvxT9FpXz4RN1_MT1XCxLw",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Vista Mare by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ0S_cCSxrXz4RIKTrO1zSryc",
+    "types": "establishment, food, point_of_interest, restaurant, tourist_attraction",
     "zone_type": "area"
   },
   {

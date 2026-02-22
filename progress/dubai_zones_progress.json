@@ -1419,7 +1419,57 @@
     "Dubai BIM",
     "Dubai BIN",
     "Dubai BIO",
-    "Dubai BIP"
+    "Dubai BIP",
+    "Dubai BIQ",
+    "Dubai BIR",
+    "Dubai BIS",
+    "Dubai BIT",
+    "Dubai BIU",
+    "Dubai BIV",
+    "Dubai BIW",
+    "Dubai BIX",
+    "Dubai BIY",
+    "Dubai BIZ",
+    "Dubai BJA",
+    "Dubai BJB",
+    "Dubai BJC",
+    "Dubai BJD",
+    "Dubai BJE",
+    "Dubai BJF",
+    "Dubai BJG",
+    "Dubai BJH",
+    "Dubai BJI",
+    "Dubai BJJ",
+    "Dubai BJK",
+    "Dubai BJL",
+    "Dubai BJM",
+    "Dubai BJN",
+    "Dubai BJO",
+    "Dubai BJP",
+    "Dubai BJQ",
+    "Dubai BJR",
+    "Dubai BJS",
+    "Dubai BJT",
+    "Dubai BJU",
+    "Dubai BJV",
+    "Dubai BJW",
+    "Dubai BJX",
+    "Dubai BJY",
+    "Dubai BJZ",
+    "Dubai BKA",
+    "Dubai BKB",
+    "Dubai BKC",
+    "Dubai BKD",
+    "Dubai BKE",
+    "Dubai BKF",
+    "Dubai BKG",
+    "Dubai BKH",
+    "Dubai BKI",
+    "Dubai BKJ",
+    "Dubai BKK",
+    "Dubai BKL",
+    "Dubai BKM",
+    "Dubai BKN"
   ],
   "pending_n2": [
     {
@@ -55189,6 +55239,66 @@
       "name": "Binous Gym | Best Bodybuilding Gym in Dubai | Best Gym Dubai | Most Famous Gym Dubai | Most Expensive Bodybuilding Gym - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJKQEtPOtrXz4Rj4usQIRWolQ",
       "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJ0S_cCSxrXz4RIKTrO1zSryc": {
+      "name": "Vista Mare by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0S_cCSxrXz4RIKTrO1zSryc",
+      "types": "establishment, food, point_of_interest, restaurant, tourist_attraction"
+    },
+    "ChIJg3YLr-xjXz4Rxzv2jtsDiRc": {
+      "name": "BITS Pilani, Dubai Campus - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJg3YLr-xjXz4Rxzv2jtsDiRc",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJA9JP8VlrXz4RTJjxKb5v3F0": {
+      "name": "DUBAI HOSTEL JBR NOWMADE - Cosy Hills - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJA9JP8VlrXz4RTJjxKb5v3F0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJD2tBKLNsXz4RJIUTCCuTkL4": {
+      "name": "NoWayOut Escape Rooms | Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJD2tBKLNsXz4RJIUTCCuTkL4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ1-sGmphDXz4Rv40HteRoxA0": {
+      "name": "Grand Nova Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1-sGmphDXz4Rv40HteRoxA0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ1-aKDFtDXz4ROtfUwF1Jc7A": {
+      "name": "Boxing Golden Ring - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1-aKDFtDXz4ROtfUwF1Jc7A",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJxZ84LABrXz4Rwy9wHHozBZ4": {
+      "name": "Boxpark - Dubai - Émirats arabes unis",
+      "place_id": "ChIJxZ84LABrXz4Rwy9wHHozBZ4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJWYGH5ABDXz4RA0T6TsJwp6I": {
+      "name": "Bourn Hall Fertility Clinic - Dubai | عيادة بورن هول للإخصاب - دبي - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJWYGH5ABDXz4RA0T6TsJwp6I",
+      "types": "doctor, establishment, health, hospital, point_of_interest"
+    },
+    "ChIJV43E5CFpXz4R8D1DgU9kboA": {
+      "name": "Business Bay Metro Station - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV43E5CFpXz4R8D1DgU9kboA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ71yiLDlDXz4RJH9as0HFZXc": {
+      "name": "Bus Station - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ71yiLDlDXz4RJH9as0HFZXc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJIev2_m1dXz4R5-VLholnsJU": {
+      "name": "Business Village, Block - B - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIev2_m1dXz4R5-VLholnsJU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJP7zrV3JDXz4RhUpfcPyaxhw": {
+      "name": "Skin Experts Polyclinic - Dubai - Émirats arabes unis",
+      "place_id": "ChIJP7zrV3JDXz4RhUpfcPyaxhw",
+      "types": "beauty_salon, doctor, establishment, hair_care, health, point_of_interest"
     }
   }
 }
