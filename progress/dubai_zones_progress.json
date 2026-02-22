@@ -10619,7 +10619,57 @@
     "Dubai VHI",
     "Dubai VHJ",
     "Dubai VHK",
-    "Dubai VHL"
+    "Dubai VHL",
+    "Dubai VHM",
+    "Dubai VHN",
+    "Dubai VHO",
+    "Dubai VHP",
+    "Dubai VHQ",
+    "Dubai VHR",
+    "Dubai VHS",
+    "Dubai VHT",
+    "Dubai VHU",
+    "Dubai VHV",
+    "Dubai VHW",
+    "Dubai VHX",
+    "Dubai VHY",
+    "Dubai VHZ",
+    "Dubai VIA",
+    "Dubai VIB",
+    "Dubai VIC",
+    "Dubai VID",
+    "Dubai VIE",
+    "Dubai VIF",
+    "Dubai VIG",
+    "Dubai VIH",
+    "Dubai VII",
+    "Dubai VIJ",
+    "Dubai VIK",
+    "Dubai VIL",
+    "Dubai VIM",
+    "Dubai VIN",
+    "Dubai VIO",
+    "Dubai VIP",
+    "Dubai VIQ",
+    "Dubai VIR",
+    "Dubai VIS",
+    "Dubai VIT",
+    "Dubai VIU",
+    "Dubai VIV",
+    "Dubai VIW",
+    "Dubai VIX",
+    "Dubai VIY",
+    "Dubai VIZ",
+    "Dubai VKA",
+    "Dubai VKB",
+    "Dubai VKC",
+    "Dubai VKD",
+    "Dubai VKE",
+    "Dubai VKF",
+    "Dubai VKG",
+    "Dubai VKH",
+    "Dubai VKI",
+    "Dubai VKJ"
   ],
   "pending_n2": [
     {
@@ -72349,6 +72399,91 @@
       "name": "The Vyne Residences - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJjakzFgBtXz4RclBa2IUWqQY",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJz75CAgBpXz4RDyY5WgYaJww": {
+      "name": "Vice Club - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJz75CAgBpXz4RDyY5WgYaJww",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJRU0CjjNtXz4RXTmWPOYif78": {
+      "name": "Victory Heights - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRU0CjjNtXz4RXTmWPOYif78",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJrWNRrd17Xz4RrpXK3Os26T8": {
+      "name": "Victoria @ Damac Hills 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJrWNRrd17Xz4RrpXK3Os26T8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ9T2xlglnXz4RCqCCWT2gaqE": {
+      "name": "Vida Creek Beach - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9T2xlglnXz4RCqCCWT2gaqE",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJLwHEQcJpXz4Rlx4rA6fYaF0": {
+      "name": "Vida Residence Downtown - Emaar - Dubai - Émirats arabes unis",
+      "place_id": "ChIJLwHEQcJpXz4Rlx4rA6fYaF0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJRS0H4BsVXz4RcZv-xzFH1tY": {
+      "name": "Th8 Palm Dubai Beach Resort, Vignette Collection, West Crescent - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRS0H4BsVXz4RcZv-xzFH1tY",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJg3H19k4TXz4RhLQfP2VSGjM": {
+      "name": "Villa Rotana - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJg3H19k4TXz4RhLQfP2VSGjM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ_Vx1q-FkXz4R9N97lBTX6DU": {
+      "name": "Villanova | Dubai Properties - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_Vx1q-FkXz4R9N97lBTX6DU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJGTt8879tXz4R-GLohsIi-OA": {
+      "name": "Vintage Grand Hotel Apartments Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJGTt8879tXz4R-GLohsIi-OA",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJRfhuAQBtXz4RzOw-WBAxB_I": {
+      "name": "Violet Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRfhuAQBtXz4RzOw-WBAxB_I",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJv2DjbQBDXz4RgwPpjOHsopQ": {
+      "name": "Violet Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJv2DjbQBDXz4RgwPpjOHsopQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJpYMHAgBDXz4Rvy0V0NOHGSg": {
+      "name": "Viridian by Central Park - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpYMHAgBDXz4Rvy0V0NOHGSg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJf2bqrc57Xz4RlMgStX058zs": {
+      "name": "Virdis Tower D - Damac Hills 2 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJf2bqrc57Xz4RlMgStX058zs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ9626WQB7Xz4RcfO8_2-rSek": {
+      "name": "Viridis Tower C - Damac Hills 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9626WQB7Xz4RcfO8_2-rSek",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJlT2IpnBrXz4RkML6_0UeHL4": {
+      "name": "Vista Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJlT2IpnBrXz4RkML6_0UeHL4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJHecwHgBrXz4R5TkMHJUgIr8": {
+      "name": "Vita residencia (formerly Bahia 1) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHecwHgBrXz4R5TkMHJUgIr8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJZdD7Hg5rXz4RUtp4gopbc5E": {
+      "name": "Viya Fit Mina Seyahi - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZdD7Hg5rXz4RUtp4gopbc5E",
+      "types": "establishment, gym, health, point_of_interest"
     }
   }
 }
