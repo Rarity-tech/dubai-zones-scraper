@@ -1248,6 +1248,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Abstract ICV - Dubai - Émirats arabes unis",
+    "place_id": "ChIJz8sk5GdpXz4RlT0RGLJw-2c",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Abu Dhabi University - Dubai Campus - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJPUA4wmxrXz4Rn66tMMOQjzk",
     "types": "establishment, point_of_interest, university",
@@ -6810,6 +6816,12 @@
     "zone_type": "area"
   },
   {
+    "name": "ICD Brookfield Place - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJF65bOo5CXz4RLGa-zW14ihs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "IFZA HQ - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJw9ppHABlXz4RlvcVGseiKxM",
     "types": "establishment, point_of_interest",
@@ -6864,9 +6876,39 @@
     "zone_type": "area"
   },
   {
+    "name": "Ibn Battuta Abu Dhabi Bus Stop E101 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJj8ZEESMTXz4RU44PvklzS2A",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ibn Battuta Gate Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJN-BcTD0TXz4RKIFigm8kUtg",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Ibn Battuta Shopping Mall, Dubai, Émirats arabes unis",
     "place_id": "ChIJp0Md52pDXz4R3fdKmO3du-g",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ibn Battuta mall entrance - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJWVhJUQATXz4RG7qrWwRgmqU",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ice Hockey Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJX12gTwBtXz4RA8AWbwXxOnQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Icon Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJWROL-bRcXz4RQ4QZaXX1aFI",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6878,6 +6920,12 @@
   {
     "name": "Icon Towers 1 - Cluster M - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJuZxR3rJsXz4RgHby_EIICIU",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Icon Towers 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJdVWSV7JsXz4RXv_vCgwmYyo",
     "types": "geocode, premise",
     "zone_type": "area"
   },
@@ -6903,6 +6951,12 @@
     "name": "InterContinental Dubai Marina by IHG - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCUUESVVrXz4RZD1qHUcCgGg",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "International Centre for Culinary Arts - ICCA Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJW2omch1DXz4RyKRs5ImYP1U",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7632,6 +7686,30 @@
     "zone_type": "area"
   },
   {
+    "name": "One & Only Royal Mirage - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzZpF02NrXz4RT_4D_ZJ4nFE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "One Central Plaza - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1VObNQBDXz4RjGS1sQmwMfE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "One Za'abeel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1fzskZhDXz4R-4KP1FERczw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "One&Only One Za'abeel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJo0YkEMZDXz4R95uvTYa8i04",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Oud Metha bus station - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ5YF5bLlDXz4RmKjpZKjGE4E",
     "types": "establishment, point_of_interest, travel_agency",
@@ -8358,6 +8436,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Island Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJm-8UuOhAXz4Rzu3fJ6acxAs",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "The Lost Chambers Aquarium, Dubai, Émirats arabes unis",
     "place_id": "ChIJ0Wo4qj8VXz4RmuOI9BArrhc",
     "types": "aquarium, establishment, point_of_interest, tourist_attraction",
@@ -8654,6 +8738,12 @@
   {
     "name": "Vida Dubai Marina & Yacht Club - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJy554lFQTXz4RrxWFctVUNq4",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Vida Emirates Hills - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJk1XfuqFsXz4RIKWb4LRhdD0",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
@@ -9030,8 +9120,32 @@
     "zone_type": "area"
   },
   {
+    "name": "ibis Mall Avenue Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJpxHyrO5rXz4RXkJzTXjaSPg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "ibis One Central - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJw7-GX-tCXz4RWdTxiZzUvCc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ibis Styles Dragon Mart Dubai - Hatta Road - Dubai - Émirats arabes unis",
+    "place_id": "ChIJUfsJVD9hXz4RIxZQBamloZQ",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ibis Styles Dubai Airport - off Airport Road - Dubai - Émirats arabes unis",
+    "place_id": "ChIJucdYHJRdXz4Rcu5_jSmLzFk",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ibis Styles Dubai Jumeira - Dubai - Émirats arabes unis",
+    "place_id": "ChIJgTiUAwFDXz4RLvNeAjLBi5c",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },

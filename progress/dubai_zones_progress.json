@@ -4319,7 +4319,57 @@
     "Dubai IBA",
     "Dubai IBB",
     "Dubai IBC",
-    "Dubai IBD"
+    "Dubai IBD",
+    "Dubai IBE",
+    "Dubai IBF",
+    "Dubai IBG",
+    "Dubai IBH",
+    "Dubai IBI",
+    "Dubai IBJ",
+    "Dubai IBK",
+    "Dubai IBL",
+    "Dubai IBM",
+    "Dubai IBN",
+    "Dubai IBO",
+    "Dubai IBP",
+    "Dubai IBQ",
+    "Dubai IBR",
+    "Dubai IBS",
+    "Dubai IBT",
+    "Dubai IBU",
+    "Dubai IBV",
+    "Dubai IBW",
+    "Dubai IBX",
+    "Dubai IBY",
+    "Dubai IBZ",
+    "Dubai ICA",
+    "Dubai ICB",
+    "Dubai ICC",
+    "Dubai ICD",
+    "Dubai ICE",
+    "Dubai ICF",
+    "Dubai ICG",
+    "Dubai ICH",
+    "Dubai ICI",
+    "Dubai ICJ",
+    "Dubai ICK",
+    "Dubai ICL",
+    "Dubai ICM",
+    "Dubai ICN",
+    "Dubai ICO",
+    "Dubai ICP",
+    "Dubai ICQ",
+    "Dubai ICR",
+    "Dubai ICS",
+    "Dubai ICT",
+    "Dubai ICU",
+    "Dubai ICV",
+    "Dubai ICW",
+    "Dubai ICX",
+    "Dubai ICY",
+    "Dubai ICZ",
+    "Dubai IDA",
+    "Dubai IDB"
   ],
   "pending_n2": [
     {
@@ -60919,6 +60969,101 @@
       "name": "Masjid Ibaad Ar Rahmaan - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJj02AKIlrXz4RSXwReWDnLlg",
       "types": "establishment, mosque, place_of_worship, point_of_interest"
+    },
+    "ChIJzZpF02NrXz4RT_4D_ZJ4nFE": {
+      "name": "One & Only Royal Mirage - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzZpF02NrXz4RT_4D_ZJ4nFE",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ1fzskZhDXz4R-4KP1FERczw": {
+      "name": "One Za'abeel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1fzskZhDXz4R-4KP1FERczw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJo0YkEMZDXz4R95uvTYa8i04": {
+      "name": "One&Only One Za'abeel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJo0YkEMZDXz4R95uvTYa8i04",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ1VObNQBDXz4RjGS1sQmwMfE": {
+      "name": "One Central Plaza - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1VObNQBDXz4RjGS1sQmwMfE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJpxHyrO5rXz4RXkJzTXjaSPg": {
+      "name": "ibis Mall Avenue Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpxHyrO5rXz4RXkJzTXjaSPg",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJgTiUAwFDXz4RLvNeAjLBi5c": {
+      "name": "ibis Styles Dubai Jumeira - Dubai - Émirats arabes unis",
+      "place_id": "ChIJgTiUAwFDXz4RLvNeAjLBi5c",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJj8ZEESMTXz4RU44PvklzS2A": {
+      "name": "Ibn Battuta Abu Dhabi Bus Stop E101 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJj8ZEESMTXz4RU44PvklzS2A",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJWVhJUQATXz4RG7qrWwRgmqU": {
+      "name": "Ibn Battuta mall entrance - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJWVhJUQATXz4RG7qrWwRgmqU",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJN-BcTD0TXz4RKIFigm8kUtg": {
+      "name": "Ibn Battuta Gate Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJN-BcTD0TXz4RKIFigm8kUtg",
+      "types": "geocode, premise"
+    },
+    "ChIJucdYHJRdXz4Rcu5_jSmLzFk": {
+      "name": "ibis Styles Dubai Airport - off Airport Road - Dubai - Émirats arabes unis",
+      "place_id": "ChIJucdYHJRdXz4Rcu5_jSmLzFk",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJUfsJVD9hXz4RIxZQBamloZQ": {
+      "name": "ibis Styles Dragon Mart Dubai - Hatta Road - Dubai - Émirats arabes unis",
+      "place_id": "ChIJUfsJVD9hXz4RIxZQBamloZQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJW2omch1DXz4RyKRs5ImYP1U": {
+      "name": "International Centre for Culinary Arts - ICCA Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJW2omch1DXz4RyKRs5ImYP1U",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJF65bOo5CXz4RLGa-zW14ihs": {
+      "name": "ICD Brookfield Place - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJF65bOo5CXz4RLGa-zW14ihs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJX12gTwBtXz4RA8AWbwXxOnQ": {
+      "name": "Ice Hockey Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJX12gTwBtXz4RA8AWbwXxOnQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJm-8UuOhAXz4Rzu3fJ6acxAs": {
+      "name": "The Island Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJm-8UuOhAXz4Rzu3fJ6acxAs",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJdVWSV7JsXz4RXv_vCgwmYyo": {
+      "name": "Icon Towers 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdVWSV7JsXz4RXv_vCgwmYyo",
+      "types": "geocode, premise"
+    },
+    "ChIJWROL-bRcXz4RQ4QZaXX1aFI": {
+      "name": "Icon Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJWROL-bRcXz4RQ4QZaXX1aFI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJz8sk5GdpXz4RlT0RGLJw-2c": {
+      "name": "Abstract ICV - Dubai - Émirats arabes unis",
+      "place_id": "ChIJz8sk5GdpXz4RlT0RGLJw-2c",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJk1XfuqFsXz4RIKWb4LRhdD0": {
+      "name": "Vida Emirates Hills - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJk1XfuqFsXz4RIKWb4LRhdD0",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }
