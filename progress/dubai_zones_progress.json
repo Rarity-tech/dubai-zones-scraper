@@ -10319,7 +10319,57 @@
     "Dubai UVU",
     "Dubai UVV",
     "Dubai UVW",
-    "Dubai UVX"
+    "Dubai UVX",
+    "Dubai UVY",
+    "Dubai UVZ",
+    "Dubai UWA",
+    "Dubai UWB",
+    "Dubai UWC",
+    "Dubai UWD",
+    "Dubai UWE",
+    "Dubai UWF",
+    "Dubai UWG",
+    "Dubai UWH",
+    "Dubai UWI",
+    "Dubai UWJ",
+    "Dubai UWK",
+    "Dubai UWL",
+    "Dubai UWM",
+    "Dubai UWN",
+    "Dubai UWO",
+    "Dubai UWP",
+    "Dubai UWQ",
+    "Dubai UWR",
+    "Dubai UWS",
+    "Dubai UWT",
+    "Dubai UWU",
+    "Dubai UWV",
+    "Dubai UWW",
+    "Dubai UWX",
+    "Dubai UWY",
+    "Dubai UWZ",
+    "Dubai UXA",
+    "Dubai UXB",
+    "Dubai UXC",
+    "Dubai UXD",
+    "Dubai UXE",
+    "Dubai UXF",
+    "Dubai UXG",
+    "Dubai UXH",
+    "Dubai UXI",
+    "Dubai UXJ",
+    "Dubai UXK",
+    "Dubai UXL",
+    "Dubai UXM",
+    "Dubai UXN",
+    "Dubai UXO",
+    "Dubai UXP",
+    "Dubai UXQ",
+    "Dubai UXR",
+    "Dubai UXS",
+    "Dubai UXT",
+    "Dubai UXU",
+    "Dubai UXV"
   ],
   "pending_n2": [
     {
@@ -71939,6 +71989,21 @@
       "name": "Umm Al Sheif - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJc9XKDcprXz4RrYPNd-UzE4g",
       "types": "geocode, neighborhood, political"
+    },
+    "ChIJr6pAwPaYXz4RLfbwXjuNRJM": {
+      "name": "‘Uwayjir - Dubai - Émirats arabes unis",
+      "place_id": "ChIJr6pAwPaYXz4RLfbwXjuNRJM",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJnamBD1xDXz4R6RmwWsE6HPQ": {
+      "name": "Unique World Robotics - A Journey beyond STEM !! - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJnamBD1xDXz4R6RmwWsE6HPQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJrS3dU-pDXz4RAgtRwp5OTSc": {
+      "name": "uwu - Dubai - Émirats arabes unis",
+      "place_id": "ChIJrS3dU-pDXz4RAgtRwp5OTSc",
+      "types": "establishment, point_of_interest"
     }
   }
 }

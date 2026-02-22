@@ -14298,6 +14298,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Unique World Robotics - A Journey beyond STEM !! - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJnamBD1xDXz4R6RmwWsE6HPQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "United Emirates Metals & Abrasives LLC - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJP-M_tlpyXz4RqlooSQ2FyNc",
     "types": "establishment, point_of_interest",
@@ -15078,6 +15084,12 @@
     "zone_type": "area"
   },
   {
+    "name": "uwu - Dubai - Émirats arabes unis",
+    "place_id": "ChIJrS3dU-pDXz4RAgtRwp5OTSc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "voco Bonnington Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJb-gEza1sXz4RYMkLefLLZHo",
     "types": "establishment, lodging, point_of_interest",
@@ -15140,6 +15152,12 @@
   {
     "name": "‘Urqūb al Jufrah - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJV6vXKl15Xz4R-6lpkBzZAJ8",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "‘Uwayjir - Dubai - Émirats arabes unis",
+    "place_id": "ChIJr6pAwPaYXz4RLfbwXjuNRJM",
     "types": "establishment, natural_feature",
     "zone_type": "area"
   },
