@@ -7219,7 +7219,57 @@
     "Dubai MPO",
     "Dubai MPP",
     "Dubai MPQ",
-    "Dubai MPR"
+    "Dubai MPR",
+    "Dubai MPS",
+    "Dubai MPT",
+    "Dubai MPU",
+    "Dubai MPV",
+    "Dubai MPW",
+    "Dubai MPX",
+    "Dubai MPY",
+    "Dubai MPZ",
+    "Dubai MRA",
+    "Dubai MRB",
+    "Dubai MRC",
+    "Dubai MRD",
+    "Dubai MRE",
+    "Dubai MRF",
+    "Dubai MRG",
+    "Dubai MRH",
+    "Dubai MRI",
+    "Dubai MRJ",
+    "Dubai MRK",
+    "Dubai MRL",
+    "Dubai MRM",
+    "Dubai MRN",
+    "Dubai MRO",
+    "Dubai MRP",
+    "Dubai MRQ",
+    "Dubai MRR",
+    "Dubai MRS",
+    "Dubai MRT",
+    "Dubai MRU",
+    "Dubai MRV",
+    "Dubai MRW",
+    "Dubai MRX",
+    "Dubai MRY",
+    "Dubai MRZ",
+    "Dubai MSA",
+    "Dubai MSB",
+    "Dubai MSC",
+    "Dubai MSD",
+    "Dubai MSE",
+    "Dubai MSF",
+    "Dubai MSG",
+    "Dubai MSH",
+    "Dubai MSI",
+    "Dubai MSJ",
+    "Dubai MSK",
+    "Dubai MSL",
+    "Dubai MSM",
+    "Dubai MSN",
+    "Dubai MSO",
+    "Dubai MSP"
   ],
   "pending_n2": [
     {
@@ -66159,6 +66209,31 @@
       "name": "Meridian PF General Trading LLC -MPF TRADERS’s - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ38nez_9hXz4RnTmPftA3n4A",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJB6xbBFVrXz4RcrlVSZgUbJo": {
+      "name": "Dr. Vesna Markovic Mrdak - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJB6xbBFVrXz4RcrlVSZgUbJo",
+      "types": "dentist, establishment, health, point_of_interest"
+    },
+    "ChIJUXfUeL1gXz4RWm0_X4BNgek": {
+      "name": "Mary Foot Spa Mirdif - Dubai - Émirats arabes unis",
+      "place_id": "ChIJUXfUeL1gXz4RWm0_X4BNgek",
+      "types": "establishment, point_of_interest, spa"
+    },
+    "ChIJtyvC2xJcXz4Rm0a7DOWuEi0": {
+      "name": "Maryam building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJtyvC2xJcXz4Rm0a7DOWuEi0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJS3prFU9dXz4RLTTCMD410Kk": {
+      "name": "MS human resource of consultancies.co - Dubai - Émirats arabes unis",
+      "place_id": "ChIJS3prFU9dXz4RLTTCMD410Kk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJmQpEmfRCXz4RQrsnf406kSQ": {
+      "name": "Mosque - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJmQpEmfRCXz4RQrsnf406kSQ",
+      "types": "establishment, mosque, place_of_worship, point_of_interest"
     }
   }
 }

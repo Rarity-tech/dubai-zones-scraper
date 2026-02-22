@@ -5040,6 +5040,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dr. Vesna Markovic Mrdak - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJB6xbBFVrXz4RcrlVSZgUbJo",
+    "types": "dentist, establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dragon Mart 2 by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCUhUtT1hXz4Rdd-wCBeYPXg",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -9456,6 +9462,12 @@
     "zone_type": "area"
   },
   {
+    "name": "MS human resource of consultancies.co - Dubai - Émirats arabes unis",
+    "place_id": "ChIJS3prFU9dXz4RLTTCMD410Kk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "MSM 2 Building - Dubai - Émirats arabes unis",
     "place_id": "ChIJiZ2NUatpXz4RXJL6oOiRYaE",
     "types": "establishment, point_of_interest",
@@ -9638,6 +9650,18 @@
   {
     "name": "Marsa Boulevard - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJsyPUwepdXz4R_6bvc85emrk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mary Foot Spa Mirdif - Dubai - Émirats arabes unis",
+    "place_id": "ChIJUXfUeL1gXz4RWm0_X4BNgek",
+    "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "Maryam building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJtyvC2xJcXz4Rm0a7DOWuEi0",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -10011,6 +10035,12 @@
     "name": "Mosela - The Views - Emaar - Dubai - Émirats arabes unis",
     "place_id": "ChIJKXgHTXtrXz4RZlrWcdv_wzY",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mosque - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJmQpEmfRCXz4RQrsnf406kSQ",
+    "types": "establishment, mosque, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {
