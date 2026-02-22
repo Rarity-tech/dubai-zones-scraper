@@ -9564,6 +9564,12 @@
     "zone_type": "area"
   },
   {
+    "name": "MYJETSKI - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5ajF2UNqXz4Rxn7jPMkdmAE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "MYKA Residence - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ64VnsOxtXz4Rht_tBPbYPFc",
     "types": "establishment, point_of_interest",
@@ -10257,6 +10263,12 @@
     "name": "My City Centre Al Barsha - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJY6S2DYxuXz4Rx-ospN2si_0",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mydan site - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgXK90xdpXz4R-6bvJNFUq78",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -11211,6 +11223,12 @@
     "name": "The Lost Chambers Aquarium, Dubai, Émirats arabes unis",
     "place_id": "ChIJ0Wo4qj8VXz4RmuOI9BArrhc",
     "types": "aquarium, establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Meydan Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJD-oWVYxoXz4R4lefaDIPgEQ",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {

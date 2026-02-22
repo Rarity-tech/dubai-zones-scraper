@@ -7369,7 +7369,57 @@
     "Dubai MWI",
     "Dubai MWJ",
     "Dubai MWK",
-    "Dubai MWL"
+    "Dubai MWL",
+    "Dubai MWM",
+    "Dubai MWN",
+    "Dubai MWO",
+    "Dubai MWP",
+    "Dubai MWQ",
+    "Dubai MWR",
+    "Dubai MWS",
+    "Dubai MWT",
+    "Dubai MWU",
+    "Dubai MWV",
+    "Dubai MWW",
+    "Dubai MWX",
+    "Dubai MWY",
+    "Dubai MWZ",
+    "Dubai MXA",
+    "Dubai MXB",
+    "Dubai MXC",
+    "Dubai MXD",
+    "Dubai MXE",
+    "Dubai MXF",
+    "Dubai MXG",
+    "Dubai MXH",
+    "Dubai MXI",
+    "Dubai MXJ",
+    "Dubai MXK",
+    "Dubai MXL",
+    "Dubai MXM",
+    "Dubai MXN",
+    "Dubai MXO",
+    "Dubai MXP",
+    "Dubai MXQ",
+    "Dubai MXR",
+    "Dubai MXS",
+    "Dubai MXT",
+    "Dubai MXU",
+    "Dubai MXV",
+    "Dubai MXW",
+    "Dubai MXX",
+    "Dubai MXY",
+    "Dubai MXZ",
+    "Dubai MYA",
+    "Dubai MYB",
+    "Dubai MYC",
+    "Dubai MYD",
+    "Dubai MYE",
+    "Dubai MYF",
+    "Dubai MYG",
+    "Dubai MYH",
+    "Dubai MYI",
+    "Dubai MYJ"
   ],
   "pending_n2": [
     {
@@ -66449,6 +66499,21 @@
       "name": "The Muse 45 - Dubai - Émirats arabes unis",
       "place_id": "ChIJ3ZtrcQBDXz4RkxFEAVhI42Y",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJgXK90xdpXz4R-6bvJNFUq78": {
+      "name": "Mydan site - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgXK90xdpXz4R-6bvJNFUq78",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJD-oWVYxoXz4R4lefaDIPgEQ": {
+      "name": "The Meydan Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJD-oWVYxoXz4R4lefaDIPgEQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ5ajF2UNqXz4Rxn7jPMkdmAE": {
+      "name": "MYJETSKI - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5ajF2UNqXz4Rxn7jPMkdmAE",
+      "types": "establishment, point_of_interest"
     }
   }
 }
