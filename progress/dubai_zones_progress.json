@@ -6469,7 +6469,57 @@
     "Dubai LJS",
     "Dubai LJT",
     "Dubai LJU",
-    "Dubai LJV"
+    "Dubai LJV",
+    "Dubai LJW",
+    "Dubai LJX",
+    "Dubai LJY",
+    "Dubai LJZ",
+    "Dubai LLA",
+    "Dubai LLB",
+    "Dubai LLC",
+    "Dubai LLD",
+    "Dubai LLE",
+    "Dubai LLF",
+    "Dubai LLG",
+    "Dubai LLH",
+    "Dubai LLI",
+    "Dubai LLJ",
+    "Dubai LLK",
+    "Dubai LLL",
+    "Dubai LLM",
+    "Dubai LLN",
+    "Dubai LLO",
+    "Dubai LLP",
+    "Dubai LLQ",
+    "Dubai LLR",
+    "Dubai LLS",
+    "Dubai LLT",
+    "Dubai LLU",
+    "Dubai LLV",
+    "Dubai LLW",
+    "Dubai LLX",
+    "Dubai LLY",
+    "Dubai LLZ",
+    "Dubai LMA",
+    "Dubai LMB",
+    "Dubai LMC",
+    "Dubai LMD",
+    "Dubai LME",
+    "Dubai LMF",
+    "Dubai LMG",
+    "Dubai LMH",
+    "Dubai LMI",
+    "Dubai LMJ",
+    "Dubai LMK",
+    "Dubai LML",
+    "Dubai LMM",
+    "Dubai LMN",
+    "Dubai LMO",
+    "Dubai LMP",
+    "Dubai LMQ",
+    "Dubai LMR",
+    "Dubai LMS",
+    "Dubai LMT"
   ],
   "pending_n2": [
     {
@@ -64608,6 +64658,21 @@
     "ChIJw6NtooxDXz4RsA7CUtuo7DM": {
       "name": "Luxury Jetski Rental Dubai - Dubai - Émirats arabes unis",
       "place_id": "ChIJw6NtooxDXz4RsA7CUtuo7DM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJt37AkaZpXz4RdlNbPQ_m0H4": {
+      "name": "Lifestyle Luxury Vacation Club - Dubai - Émirats arabes unis",
+      "place_id": "ChIJt37AkaZpXz4RdlNbPQ_m0H4",
+      "types": "establishment, lodging, point_of_interest, travel_agency"
+    },
+    "ChIJ0UCuJwBpXz4RZfLgXCQ2284": {
+      "name": "Spaces by LMD - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0UCuJwBpXz4RZfLgXCQ2284",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJY2e_TABDXz4Rk4E7QZtSL00": {
+      "name": "The Pier Residence by LMD - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJY2e_TABDXz4Rk4E7QZtSL00",
       "types": "establishment, point_of_interest"
     }
   }

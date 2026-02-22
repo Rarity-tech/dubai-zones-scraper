@@ -8808,6 +8808,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Lifestyle Luxury Vacation Club - Dubai - Émirats arabes unis",
+    "place_id": "ChIJt37AkaZpXz4RdlNbPQ_m0H4",
+    "types": "establishment, lodging, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Lime Gardens at Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJqUSYAQBvXz4ROooPMKh_svo",
     "types": "establishment, point_of_interest",
@@ -9852,6 +9858,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Spaces by LMD - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ0UCuJwBpXz4RZfLgXCQ2284",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Sport City - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ4-Enn8xcXz4RdIyjSAES6fM",
     "types": "establishment, point_of_interest",
@@ -10107,6 +10119,12 @@
     "name": "The Palm - Jumeirah - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ18KhzNQUXz4RcjnZiSAG01o",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Pier Residence by LMD - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJY2e_TABDXz4Rk4E7QZtSL00",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
