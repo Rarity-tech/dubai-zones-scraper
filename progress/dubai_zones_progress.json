@@ -3519,7 +3519,57 @@
     "Dubai ESG",
     "Dubai ESH",
     "Dubai ESI",
-    "Dubai ESJ"
+    "Dubai ESJ",
+    "Dubai ESK",
+    "Dubai ESL",
+    "Dubai ESM",
+    "Dubai ESN",
+    "Dubai ESO",
+    "Dubai ESP",
+    "Dubai ESQ",
+    "Dubai ESR",
+    "Dubai ESS",
+    "Dubai EST",
+    "Dubai ESU",
+    "Dubai ESV",
+    "Dubai ESW",
+    "Dubai ESX",
+    "Dubai ESY",
+    "Dubai ESZ",
+    "Dubai ETA",
+    "Dubai ETB",
+    "Dubai ETC",
+    "Dubai ETD",
+    "Dubai ETE",
+    "Dubai ETF",
+    "Dubai ETG",
+    "Dubai ETH",
+    "Dubai ETI",
+    "Dubai ETJ",
+    "Dubai ETK",
+    "Dubai ETL",
+    "Dubai ETM",
+    "Dubai ETN",
+    "Dubai ETO",
+    "Dubai ETP",
+    "Dubai ETQ",
+    "Dubai ETR",
+    "Dubai ETS",
+    "Dubai ETT",
+    "Dubai ETU",
+    "Dubai ETV",
+    "Dubai ETW",
+    "Dubai ETX",
+    "Dubai ETY",
+    "Dubai ETZ",
+    "Dubai EUA",
+    "Dubai EUB",
+    "Dubai EUC",
+    "Dubai EUD",
+    "Dubai EUE",
+    "Dubai EUF",
+    "Dubai EUG",
+    "Dubai EUH"
   ],
   "pending_n2": [
     {
@@ -59498,6 +59548,41 @@
     "ChIJ_aTkfytpXz4RfKc9rCz-Ppw": {
       "name": "Eshopify Fulfillment Centre LLC - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ_aTkfytpXz4RfKc9rCz-Ppw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJpYO5P45jXz4RPoRTHqaf0z8": {
+      "name": "French Fashion Institute ESMOD Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpYO5P45jXz4RPoRTHqaf0z8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJLdwtcjJtXz4RAl4GONSylGU": {
+      "name": "Esoteric Agency - Dubai - Émirats arabes unis",
+      "place_id": "ChIJLdwtcjJtXz4RAl4GONSylGU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJxeSTuUdrXz4R0zCj64FVSNI": {
+      "name": "Esport Arena Gaming Club - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJxeSTuUdrXz4R0zCj64FVSNI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJzwlXCQBfXz4R5Kjl9LHr40E": {
+      "name": "Etisalat Academy Mosque - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzwlXCQBfXz4R5Kjl9LHr40E",
+      "types": "establishment, mosque, place_of_worship, point_of_interest"
+    },
+    "ChIJ1_ZdN5ldXz4RXyMf3c9NBpc": {
+      "name": "Etjar Al Nahda 1 Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1_ZdN5ldXz4RXyMf3c9NBpc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJU2f_ttlXz4ROrOy30auRtw": {
+      "name": "Etlala Residence1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJU2f_ttlXz4ROrOy30auRtw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJvbNnQABlXz4R3I73qmOY4M4": {
+      "name": "Etlala Residence 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJvbNnQABlXz4R3I73qmOY4M4",
       "types": "establishment, point_of_interest"
     }
   }

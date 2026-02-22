@@ -5868,6 +5868,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Esoteric Agency - Dubai - Émirats arabes unis",
+    "place_id": "ChIJLdwtcjJtXz4RAl4GONSylGU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Esport Arena Gaming Club - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxeSTuUdrXz4R0zCj64FVSNI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Este Medical Group | Hair and Skin Clinic Dubai - Dubai - Émirats arabes unis",
     "place_id": "ChIJM0rVUVJrXz4RO37SirNqh4I",
     "types": "beauty_salon, establishment, hair_care, health, point_of_interest",
@@ -5886,8 +5898,32 @@
     "zone_type": "area"
   },
   {
+    "name": "Etisalat Academy Mosque - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzwlXCQBfXz4R5Kjl9LHr40E",
+    "types": "establishment, mosque, place_of_worship, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Etisalat Head office Deira - Dubai - Émirats arabes unis",
     "place_id": "ChIJm5NP1CpDXz4R9j4g5GRhSQw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Etjar Al Nahda 1 Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1_ZdN5ldXz4RXyMf3c9NBpc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Etlala Residence 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJvbNnQABlXz4R3I73qmOY4M4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Etlala Residence1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJU2f_ttlXz4ROrOy30auRtw",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -5955,6 +5991,12 @@
     "name": "Formula Rossa - Abou Dabi - Émirats arabes unis",
     "place_id": "ChIJiSfmi3tFXj4R0MQUhn1qwFM",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "French Fashion Institute ESMOD Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJpYO5P45jXz4RPoRTHqaf0z8",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
