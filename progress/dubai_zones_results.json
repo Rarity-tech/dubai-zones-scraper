@@ -5994,6 +5994,24 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Star Building - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-zywe2RcXz4RmOxwgOfIlm0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Studio City by TECOM Group - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJI_yI4pBvXz4RyJL0_Dk3Guk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Supreme Court Complex - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJU4FC1LhdXz4Rvwk35GI7MF8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Taxi Company - Amman Street - Dubaï - Émirats arabes unis",
     "place_id": "ChIJzy-WmaxfXz4Ree_9bor6-RI",
     "types": "establishment, point_of_interest",
@@ -11850,6 +11868,12 @@
     "zone_type": "area"
   },
   {
+    "name": "S T & C OILFIELD DMCC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzUDFelsSXz4R01upDLYSlSE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "S.S Lootah Residence JVC - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJkXvyfwBtXz4RHUWouNdv5Qg",
     "types": "establishment, point_of_interest",
@@ -11996,6 +12020,24 @@
   {
     "name": "SRG holdings Building - Rocky (Front entrance) - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ57YGLIdDXz4RmV7jyCo6Yv4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "STD Test Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTSNAEbdrXz4RGy4beuNuIug",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "STD Testing Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJfaPzzTlrXz4RfTJM9KhQneM",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "SUEZ in the Middle East - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJh-dNKptpXz4RDl6klWHOxRA",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -12888,9 +12930,87 @@
     "zone_type": "area"
   },
   {
+    "name": "Staybridge Suites Dubai Business Bay by IHG - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJuwhOBZVpXz4RTTYPumsq0Ro",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Staybridge Suites Dubai Internet City by IHG - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ_4reZdJrXz4RksRUhQH60X4",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Stella Di Mare Dubai Marina Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJP5hBslMTXz4R6quwLwN0ffY",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Stella Maris Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJdf87CIFrXz4RZ7Qy5JLsUz4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Stella Stays Lana Tower | Furnished Apartments In JVC, Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQWsksF9tXz4R-31iOcmyQSc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sterling Perfumes Industries LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJyXVy4lxyXz4RWyHhWxs28s8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Street Maniax - Adventure & Trampoline Park Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJv12rWJJrXz4RbdUhLduQCio",
+    "types": "amusement_park, establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Studio M Hotel Al Barsha - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJLV3FccBrXz4RNn4awjY-GpY",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Studio One Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-QAA8D5uXz4RA1yYDCZ0iTQ",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Studio One Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ95ZAvpkTXz4R6DfG1p1t6L0",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Success Barber Shop and Spa - Dubai - Émirats arabes unis",
+    "place_id": "ChIJoar8E1QTXz4RW0alvnQuQPw",
+    "types": "beauty_salon, establishment, hair_care, health, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sudan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMUD8a-VAXz4RU7kZHRWO5LM",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sue Realty - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP623iahRw6oRKkzkR_uWFqA",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sufouh Beach - Dubai - Émirats arabes unis",
+    "place_id": "ChIJiQKFpPZrXz4RD_y_Rb_TCmI",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
@@ -12900,9 +13020,87 @@
     "zone_type": "area"
   },
   {
+    "name": "Suha Creek Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHSfnoU5dXz4RtZ3DxHSSx-E",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Suha JBR Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9zq7u1RrXz4RD7g8ITtUaDI",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Suha Mina Rashid Hotel Apartment - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ0VCx7PhDXz4Rr-WrEaEgsnA",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Suha Park Hotel Apartments - Dubai - Émirats arabes unis",
+    "place_id": "ChIJg0ofGWNdXz4Rl340vlaEWXo",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Suhaila Lake Rest Area - Dubai - Émirats arabes unis",
+    "place_id": "ChIJS_U3gBEf9T4RVGjT-UNzOH0",
+    "types": "campground, establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Suited and Booted Dubai - Bespoke Tailoring | Wedding Suits | Men & Women's Suits - Dubai - Émirats arabes unis",
+    "place_id": "ChIJRUjy7hdtXz4R16FbVsbl5fQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sukoon Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJH7M6A1ZrXz4RJB7OulOWFks",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Sulafa Tower - Dubaï - Émirats arabes unis",
     "place_id": "ChIJDUGtoVprXz4RpFDfixSrwVo",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Summer 1 | Creek Beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJLUAYeyVnXz4R3oLmboX6-2U",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Summer 2 - Kahraba North West - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJuUh1uklsXz4R79RZXiUKNbY",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Summerland Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_____5ZrXz4Rz4WdMpjCLCA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sun And Sands Down Town Hotel - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ20SwGsxcXz4R3pGWX_cLfiA",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sunday Hotel Holiday international Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJE35dFTBDXz4RUuIiMXHMGSQ",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sunday Marina View Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMxFv0vdrXz4RRSl5zzVJa7w",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
