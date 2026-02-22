@@ -894,6 +894,18 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Lahbab - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ1QZ8eBCE9T4R3WLN5z_RzDg",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Layan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJy9BjVS9wXz4RDN7w7REls94",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Les Greens, Dubai, Émirats arabes unis",
     "place_id": "ChIJ8SdsNHtrXz4Rq5Wp1sAs94E",
     "types": "neighborhood, political",
@@ -8382,6 +8394,18 @@
     "zone_type": "area"
   },
   {
+    "name": "LBC Kiosk - Carrefour Deira City Centre - Dubai - Émirats arabes unis",
+    "place_id": "ChIJE6FjKH1dXz4RYUVDbxCTZqQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "LBO Studio - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJCeEbTixpXz4Ra_Cuj2Rdqts",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "LEVA Hotel , Mazaya Centre - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ-cpyzABDXz4Rr45m1nUOGgk",
     "types": "establishment, lodging, point_of_interest",
@@ -8412,6 +8436,12 @@
     "zone_type": "area"
   },
   {
+    "name": "La mer beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJf8ZVAPhDXz4RXrmASakMieI",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "Labor community market - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJP05fTl5pXz4RIEzokS3ZDZM",
     "types": "establishment, point_of_interest",
@@ -8436,9 +8466,147 @@
     "zone_type": "area"
   },
   {
+    "name": "Lago Vista Block B - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJwd4KqL9tXz4RtxYF7BgyPYU",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lago Vista Tower A - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQ6ppsL9tXz4RKJk-4Mhkxi8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lago Vista Tower C - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDekKqL9tXz4RtYi7Tede_mw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lagoons by damac properties - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJC3KosqhxXz4RJ38jLWLr6n8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lahbab Dubai Desert Safari - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJYWZvquCF9T4RnFM_MdG_5IY",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lake Central Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJaZf3eS1oXz4RKSCWNJVGX3c",
+    "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lake Terrace Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIyuHU6xsXz4Rmp__TlP66R0",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lakeside Tower B - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJu4Nu2L5tXz4R4lKYpxJ8aew",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lakeside Tower C - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT56b375tXz4RQ5c4JdYM4xs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lakeside tower A - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJM0PWBfFtXz4RgD2AdLJOneg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lamer beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJaSQHSwBDXz4R6ofXirCI-Gk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Landmark Grand Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgXg2ysxcXz4Rgqbf0KC6hRY",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Landmark Premier Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJh3YZ63VdXz4RkHwxu4Wsdmo",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lapita, Dubai Parks and Resorts, Autograph Collection - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJv9hMxf8OXz4RAZt_1UTAkl4",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Las Vegas Aesthetic Medical Center - Dubai - Émirats arabes unis",
+    "place_id": "ChIJtVQs0hRrXz4RaoYwI43fbaw",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Last Exit AUH Bound by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJz_YxQpAFXz4R0T69PUNVY28",
     "types": "cafe, establishment, food, point_of_interest, shopping_mall, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Last Exit Al Khawaneej by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2ew3SBFgXz4RikhSDCpyOvE",
+    "types": "establishment, food, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Latifa Hospital | مستشفى لطيفة - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJM_AFa0xdXz4RpL2hChYmVrA",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Latifa Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJieJIh-1CXz4RAvicgS3thn0",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Launchpad - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJSwgAzx1dXz4RMM_zHzAaErs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lavender Garden Suites (Sufouh Gardens) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJe4xdWSVrXz4R-3E6rGjTZG4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lavender Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJjd5MOMxcXz4RZnr4egRApeU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lavender hotel Al nahda - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJc4E8heFdXz4RwzPkEgOyPQI",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lavie Clinic - Dubai - Émirats arabes unis",
+    "place_id": "ChIJj646gTZqXz4RI_ddYJlCW4o",
+    "types": "establishment, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -8451,6 +8619,24 @@
     "name": "Lawrie Shabibi - Dubai - Émirats arabes unis",
     "place_id": "ChIJJ83L4X9pXz4R6D4MGyLjIcs",
     "types": "art_gallery, establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Laya Heights - Dubai - Émirats arabes unis",
+    "place_id": "ChIJRbg8y2RvXz4RxForngutr_8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Laya Mansion - Dubai - Émirats arabes unis",
+    "place_id": "ChIJjTsP3jttXz4RBoH2Vdp5Iz8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Lazy Cat - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJFViBXrNpXz4RfzrDERHbrKQ",
+    "types": "establishment, food, park, point_of_interest, restaurant",
     "zone_type": "area"
   },
   {
@@ -8499,6 +8685,12 @@
     "name": "London Business School Dubai Centre - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ_UtV6ZFCXz4RNopP2V-jrvo",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "London Centre for Aesthetic Surgery. مركز لندن للجراحة التجميلية - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJdQQRZDRDXz4RDjTP5l__mAU",
+    "types": "doctor, establishment, health, local_government_office, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -8655,6 +8847,18 @@
     "name": "Maple 3 | Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJoQuWOsxuXz4Ra7rwln4HAPU",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Marina Beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJY2IG66kUXz4RZOB_j8cWtjk",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Marina Mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJM34aN6psXz4R7i-j0rWHHM4",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
@@ -10356,6 +10560,12 @@
     "zone_type": "area"
   },
   {
+    "name": "ibis Deira Creekside Dubai, Mall - Dubai - Émirats arabes unis",
+    "place_id": "ChIJAauOmZhdXz4RqC1x_tNV4X4",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "ibis Dubai Al Rigga - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJUbrV6EFDXz4RetbyhX4AUBM",
     "types": "establishment, lodging, point_of_interest",
@@ -10419,6 +10629,12 @@
     "name": "kjri - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJC-0JOwBDXz4RdUs_Yjyvw-c",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "la joya polyclinic - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJI51VxPNdXz4ReDwvPLVb1pU",
+    "types": "establishment, health, point_of_interest",
     "zone_type": "area"
   },
   {
