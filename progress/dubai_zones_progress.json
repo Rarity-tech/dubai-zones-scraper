@@ -3819,7 +3819,57 @@
     "Dubai HGU",
     "Dubai HGV",
     "Dubai HGW",
-    "Dubai HGX"
+    "Dubai HGX",
+    "Dubai HGY",
+    "Dubai HGZ",
+    "Dubai HHA",
+    "Dubai HHB",
+    "Dubai HHC",
+    "Dubai HHD",
+    "Dubai HHE",
+    "Dubai HHF",
+    "Dubai HHG",
+    "Dubai HHH",
+    "Dubai HHI",
+    "Dubai HHJ",
+    "Dubai HHK",
+    "Dubai HHL",
+    "Dubai HHM",
+    "Dubai HHN",
+    "Dubai HHO",
+    "Dubai HHP",
+    "Dubai HHQ",
+    "Dubai HHR",
+    "Dubai HHS",
+    "Dubai HHT",
+    "Dubai HHU",
+    "Dubai HHV",
+    "Dubai HHW",
+    "Dubai HHX",
+    "Dubai HHY",
+    "Dubai HHZ",
+    "Dubai HIA",
+    "Dubai HIB",
+    "Dubai HIC",
+    "Dubai HID",
+    "Dubai HIE",
+    "Dubai HIF",
+    "Dubai HIG",
+    "Dubai HIH",
+    "Dubai HII",
+    "Dubai HIJ",
+    "Dubai HIK",
+    "Dubai HIL",
+    "Dubai HIM",
+    "Dubai HIN",
+    "Dubai HIO",
+    "Dubai HIP",
+    "Dubai HIQ",
+    "Dubai HIR",
+    "Dubai HIS",
+    "Dubai HIT",
+    "Dubai HIU",
+    "Dubai HIV"
   ],
   "pending_n2": [
     {
@@ -60084,6 +60134,121 @@
       "name": "Hilton Garden Inn Dubai Jumeirah - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJl55gnwVDXz4Ry05rELmFE9k",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ9aSXmGVCXz4RQJArGtVv0dg": {
+      "name": "The Green Planet Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9aSXmGVCXz4RQJArGtVv0dg",
+      "types": "amusement_park, establishment, point_of_interest, tourist_attraction, zoo"
+    },
+    "ChIJ1d3BaQBpXz4RIU0ye5N6T2U": {
+      "name": "The Square Nad Al Sheba Gardens - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1d3BaQBpXz4RIU0ye5N6T2U",
+      "types": "establishment, park, point_of_interest"
+    },
+    "ChIJmTlmrehCXz4RsYq-x3YIUkI": {
+      "name": "The H Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJmTlmrehCXz4RsYq-x3YIUkI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJBfzBPwATXz4RXuSyunV_Yj8": {
+      "name": "HHS Sheikha Bint Saeed Al Maktoum Masjid - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBfzBPwATXz4RXuSyunV_Yj8",
+      "types": "establishment, mosque, place_of_worship, point_of_interest"
+    },
+    "ChIJAauOmZhdXz4RKs_nETzgBDc": {
+      "name": "Park Hyatt Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAauOmZhdXz4RKs_nETzgBDc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJTwG552VpXz4ROylSxXk97fg": {
+      "name": "CHIC TOWER de GRISOGONO - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTwG552VpXz4ROylSxXk97fg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJg_TsnitqXz4RdP9ilg4VDLA": {
+      "name": "CHICAGO Maintenance and Construction Corporate Office - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJg_TsnitqXz4RdP9ilg4VDLA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJ0XbVQCP9T4RGHgAEECocXU": {
+      "name": "Hide Away Events - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJ0XbVQCP9T4RGHgAEECocXU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJRV9-bfxtXz4RzaU4lyZv10s": {
+      "name": "Viera Residences - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRV9-bfxtXz4RzaU4lyZv10s",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJaToTUSpzXz4R4rSIyQd0Eo4": {
+      "name": "Views 1 Building, Dubai South - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJaToTUSpzXz4R4rSIyQd0Eo4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJncJJSc9cXz4RdP4AWU1EuF8": {
+      "name": "Gifts for Less - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJncJJSc9cXz4RdP4AWU1EuF8",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJ714olwtrXz4RFVjw_H2cKBk": {
+      "name": "High Rollers - Snooker and Billiards Club and Cafe - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ714olwtrXz4RFVjw_H2cKBk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ-SdajsBpXz4R6M6fbr1JlV0": {
+      "name": "High Hopes Dubai (Building 1) - Pediatric Therapy Center - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ-SdajsBpXz4R6M6fbr1JlV0",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJNXoZLgBvXz4RG8TTIlIkjrQ": {
+      "name": "Dubai Hills Mall - Parking - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJNXoZLgBvXz4RG8TTIlIkjrQ",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJZ4wEZu1sXz4RECZFWn6HjQI": {
+      "name": "Emirates Hill Troisième, Dubai, Émirats arabes unis",
+      "place_id": "ChIJZ4wEZu1sXz4RECZFWn6HjQI",
+      "types": "neighborhood, political"
+    },
+    "ChIJ2QM9b9ke9T4RHQ0GRDDAZgk": {
+      "name": "Hatta Hill Park, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ2QM9b9ke9T4RHQ0GRDDAZgk",
+      "types": "establishment, park, point_of_interest, tourist_attraction"
+    },
+    "ChIJizT60wt7Xz4ReZJR3YNQzAc": {
+      "name": "Madinat Hind 4 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJizT60wt7Xz4ReZJR3YNQzAc",
+      "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJYTAQYIt8Xz4RqoA-gMl3JQU": {
+      "name": "Madinat Hind 3 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJYTAQYIt8Xz4RqoA-gMl3JQU",
+      "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJIbx9lmdoXz4Rv_jGUDj8JOk": {
+      "name": "Hipódromo de Meydan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIbx9lmdoXz4Rv_jGUDj8JOk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJu9McRixDXz4R6gkaDlK7leg": {
+      "name": "Historical neighbourhood - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJu9McRixDXz4R6gkaDlK7leg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJpUWZXTdDXz4R_lcmpwt-qFQ": {
+      "name": "Al Fahidi Historical Neighborhood, Dubai, Émirats arabes unis",
+      "place_id": "ChIJpUWZXTdDXz4R_lcmpwt-qFQ",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJ957U1ihoXz4RqVL3CdaRQUs": {
+      "name": "Hotel Boulevard, Autograph Collection - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ957U1ihoXz4RqVL3CdaRQUs",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJG1ICPlptXz4RH3a1dvLz0Ws": {
+      "name": "Hive JVC - Dubai - Émirats arabes unis",
+      "place_id": "ChIJG1ICPlptXz4RH3a1dvLz0Ws",
+      "types": "establishment, point_of_interest"
     }
   }
 }
