@@ -3119,7 +3119,57 @@
     "Dubai EAW",
     "Dubai EAX",
     "Dubai EAY",
-    "Dubai EAZ"
+    "Dubai EAZ",
+    "Dubai EBA",
+    "Dubai EBB",
+    "Dubai EBC",
+    "Dubai EBD",
+    "Dubai EBE",
+    "Dubai EBF",
+    "Dubai EBG",
+    "Dubai EBH",
+    "Dubai EBI",
+    "Dubai EBJ",
+    "Dubai EBK",
+    "Dubai EBL",
+    "Dubai EBM",
+    "Dubai EBN",
+    "Dubai EBO",
+    "Dubai EBP",
+    "Dubai EBQ",
+    "Dubai EBR",
+    "Dubai EBS",
+    "Dubai EBT",
+    "Dubai EBU",
+    "Dubai EBV",
+    "Dubai EBW",
+    "Dubai EBX",
+    "Dubai EBY",
+    "Dubai EBZ",
+    "Dubai ECA",
+    "Dubai ECB",
+    "Dubai ECC",
+    "Dubai ECD",
+    "Dubai ECE",
+    "Dubai ECF",
+    "Dubai ECG",
+    "Dubai ECH",
+    "Dubai ECI",
+    "Dubai ECJ",
+    "Dubai ECK",
+    "Dubai ECL",
+    "Dubai ECM",
+    "Dubai ECN",
+    "Dubai ECO",
+    "Dubai ECP",
+    "Dubai ECQ",
+    "Dubai ECR",
+    "Dubai ECS",
+    "Dubai ECT",
+    "Dubai ECU",
+    "Dubai ECV",
+    "Dubai ECW",
+    "Dubai ECX"
   ],
   "pending_n2": [
     {
@@ -58738,6 +58788,41 @@
     "ChIJPRAL40hsXz4RnAETVPQ5B2w": {
       "name": "Eaton Place - Ellington Properties - Dubai - Émirats arabes unis",
       "place_id": "ChIJPRAL40hsXz4RnAETVPQ5B2w",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJgbBdLXdrXz4RQnpdihhGOGo": {
+      "name": "Ellington Beach House | Palm Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgbBdLXdrXz4RQnpdihhGOGo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJkxQ09CxDXz4RjSShZ5sKChg": {
+      "name": "EBH Dental Clinic | Teeth Whitening, Dental Implants, Root Canal, Veneers & Hollywood Smile in Dubai - 2nd Floor - Dubai - Émirats arabes unis",
+      "place_id": "ChIJkxQ09CxDXz4RjSShZ5sKChg",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJhyyrx4kfHkIRK5pygYl5r3E": {
+      "name": "Expo Valley | Expo City Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJhyyrx4kfHkIRK5pygYl5r3E",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ9XPTTxddXz4RiUpD7tu9zUE": {
+      "name": "CAE Dubai Al Garhoud - Emirates-CAE Flight Training - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9XPTTxddXz4RiUpD7tu9zUE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJb2h6aoRnXz4RW-jsaID4ddQ": {
+      "name": "Eco Drive Driving Institute - International City - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJb2h6aoRnXz4RW-jsaID4ddQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJMb2-6wBDXz4RhTmgRKy4VC8": {
+      "name": "Eclipse Tourism LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMb2-6wBDXz4RhTmgRKy4VC8",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJy3IS8pBpXz4RuRRT-X_odH8": {
+      "name": "Emaar Community Management Downtown Dubai Office - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJy3IS8pBpXz4RuRRT-X_odH8",
       "types": "establishment, point_of_interest"
     }
   }

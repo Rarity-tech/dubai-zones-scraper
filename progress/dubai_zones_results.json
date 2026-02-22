@@ -3174,6 +3174,12 @@
     "zone_type": "area"
   },
   {
+    "name": "CAE Dubai Al Garhoud - Emirates-CAE Flight Training - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9XPTTxddXz4RiUpD7tu9zUE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "CAE Dubai Silicon Oasis - Emirates-CAE Flight Training - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJj7wv0EFkXz4RckX1SehNTds",
     "types": "establishment, point_of_interest",
@@ -5382,6 +5388,12 @@
     "zone_type": "area"
   },
   {
+    "name": "EBH Dental Clinic | Teeth Whitening, Dental Implants, Root Canal, Veneers & Hollywood Smile in Dubai - 2nd Floor - Dubai - Émirats arabes unis",
+    "place_id": "ChIJkxQ09CxDXz4RjSShZ5sKChg",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "ECOS Dubai Hotel at Al Furjan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJg3s5vkZtXz4RuxEKndSGghs",
     "types": "establishment, lodging, point_of_interest",
@@ -5454,6 +5466,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Eclipse Tourism LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMb2-6wBDXz4RhTmgRKy4VC8",
+    "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Eco Drive Driving Institute - International City - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJb2h6aoRnXz4RW-jsaID4ddQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Eden House, Al Satwa - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJg2PFmxtDXz4RbFAUywYCpW0",
     "types": "establishment, point_of_interest",
@@ -5492,6 +5516,18 @@
   {
     "name": "Elite Residence, Dubai, Émirats arabes unis",
     "place_id": "ChIJO5otEFBrXz4RGjjKAdTr41A",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ellington Beach House | Palm Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgbBdLXdrXz4RQnpdihhGOGo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emaar Community Management Downtown Dubai Office - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJy3IS8pBpXz4RuRRT-X_odH8",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -5594,6 +5630,12 @@
   {
     "name": "Expo 2020 Station - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJRaTQpc1zXz4RS8uSL-evSFw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Expo Valley | Expo City Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJhyyrx4kfHkIRK5pygYl5r3E",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
