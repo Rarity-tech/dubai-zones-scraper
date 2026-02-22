@@ -4344,6 +4344,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Devotion Corporate Services | Business Setup in Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJnfHP8TFDXz4Rvn_nzGsrQ4g",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Deyaar Building No. 7 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJw4-xiqpdXz4R4WvkvitQVnU",
     "types": "establishment, point_of_interest",
@@ -7365,6 +7371,12 @@
     "name": "Urban Al Khoory Hotels - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJPdUVYodpXz4RC_C2inQt0ls",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Urban Swim Academy - Dwight School Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1-s3LBBvXz4RaTZFDAbhp9A",
+    "types": "establishment, health, point_of_interest, school",
     "zone_type": "area"
   },
   {
