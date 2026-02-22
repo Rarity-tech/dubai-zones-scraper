@@ -8019,7 +8019,57 @@
     "Dubai QZI",
     "Dubai QZJ",
     "Dubai QZK",
-    "Dubai QZL"
+    "Dubai QZL",
+    "Dubai QZM",
+    "Dubai QZN",
+    "Dubai QZO",
+    "Dubai QZP",
+    "Dubai QZQ",
+    "Dubai QZR",
+    "Dubai QZS",
+    "Dubai QZT",
+    "Dubai QZU",
+    "Dubai QZV",
+    "Dubai QZW",
+    "Dubai QZX",
+    "Dubai QZY",
+    "Dubai QZZ",
+    "Dubai RAA",
+    "Dubai RAB",
+    "Dubai RAC",
+    "Dubai RAD",
+    "Dubai RAE",
+    "Dubai RAF",
+    "Dubai RAG",
+    "Dubai RAH",
+    "Dubai RAI",
+    "Dubai RAJ",
+    "Dubai RAK",
+    "Dubai RAL",
+    "Dubai RAM",
+    "Dubai RAN",
+    "Dubai RAO",
+    "Dubai RAP",
+    "Dubai RAQ",
+    "Dubai RAR",
+    "Dubai RAS",
+    "Dubai RAT",
+    "Dubai RAU",
+    "Dubai RAV",
+    "Dubai RAW",
+    "Dubai RAX",
+    "Dubai RAY",
+    "Dubai RAZ",
+    "Dubai RBA",
+    "Dubai RBB",
+    "Dubai RBC",
+    "Dubai RBD",
+    "Dubai RBE",
+    "Dubai RBF",
+    "Dubai RBG",
+    "Dubai RBH",
+    "Dubai RBI",
+    "Dubai RBJ"
   ],
   "pending_n2": [
     {
@@ -67344,6 +67394,141 @@
       "name": "Al-Qusais Industrial Area 1, Dubai, Émirats arabes unis",
       "place_id": "ChIJX3gy3z1cXz4RlYs3lAcGouA",
       "types": "neighborhood, political"
+    },
+    "ChIJs6ZuP1BvXz4RonQK0_fC_Q0": {
+      "name": "Rabdan Building - Motor City - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJs6ZuP1BvXz4RonQK0_fC_Q0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJezjAtudDXz4RSVAfyxDh0HQ": {
+      "name": "Dubai Racing Club - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJezjAtudDXz4RSVAfyxDh0HQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJSfPKeoBpXz4Rlo_2z3Ct6AA": {
+      "name": "Rackets Academy - Dubai Hills - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJSfPKeoBpXz4Rlo_2z3Ct6AA",
+      "types": "establishment, health, point_of_interest, school"
+    },
+    "ChIJewZ6bhJuXz4RH0TZYBoRp0w": {
+      "name": "Rackets Academy Motor City - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJewZ6bhJuXz4RH0TZYBoRp0w",
+      "types": "establishment, health, point_of_interest, school"
+    },
+    "ChIJ2ai_4EddXz4RjPo6x5t46tI": {
+      "name": "Race Park - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ2ai_4EddXz4RjPo6x5t46tI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJUftGxiJoXz4RryrypfxErrA": {
+      "name": "Radisson Blu Hotel, Dubai Canal View - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJUftGxiJoXz4RryrypfxErrA",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJbXSi-tJpXz4RZoyCnf4XkGU": {
+      "name": "Radisson Blu Hotel, Dubai Waterfront - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbXSi-tJpXz4RZoyCnf4XkGU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJkRkFwdJrXz4R6MvU4EME7E0": {
+      "name": "Radisson Beach Resort Palm Jumeirah - Dubai - Émirats arabes unis",
+      "place_id": "ChIJkRkFwdJrXz4R6MvU4EME7E0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJO-HOSzRDXz4RCkhXVPSVD4U": {
+      "name": "Radisson Blu Hotel, Dubai Deira Creek - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJO-HOSzRDXz4RCkhXVPSVD4U",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJJejwwlhlXz4RuyKAMHpM-5M": {
+      "name": "Radisson RED Dubai Silicon Oasis - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJejwwlhlXz4RuyKAMHpM-5M",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJrVIMBuIUXz4RcUbeci79Y7o": {
+      "name": "Raffles The Palm Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJrVIMBuIUXz4RcUbeci79Y7o",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJQ9j6QONrXz4RAO5MDmwhy6E": {
+      "name": "Rahaal 2 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJQ9j6QONrXz4RAO5MDmwhy6E",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ95zgJjVdXz4RAB_QloPUXbY": {
+      "name": "Raha Grand Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ95zgJjVdXz4RAB_QloPUXbY",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJNyUVjkNkXz4RhOUF5uqqkus": {
+      "name": "RAK Bank Headquarters - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJNyUVjkNkXz4RhOUF5uqqkus",
+      "types": "geocode, premise"
+    },
+    "ChIJOT-dBcFcXz4RYyCnMYgKQH0": {
+      "name": "Ramada by Wyndham Dubai Deira - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJOT-dBcFcXz4RYyCnMYgKQH0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJVUUMKHhrXz4RZO1u8Ah_C3U": {
+      "name": "Ramee Rose Hotel, Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJVUUMKHhrXz4RZO1u8Ah_C3U",
+      "types": "bar, beauty_salon, establishment, food, gym, health, lodging, point_of_interest, restaurant, spa"
+    },
+    "ChIJqwtfFitDXz4RpKUyJNJzV1s": {
+      "name": "Ramee Royal Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqwtfFitDXz4RpKUyJNJzV1s",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ4Xj_x4RdXz4RPgFS2Ms3b94": {
+      "name": "Umm Ramool, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ4Xj_x4RdXz4RPgFS2Ms3b94",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJR6olL3BdXz4RhPxuIANrT-U": {
+      "name": "Ramada Plaza by Wyndham Dubai Deira - Dubai - Émirats arabes unis",
+      "place_id": "ChIJR6olL3BdXz4RhPxuIANrT-U",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ8adWTwBvXz4Rxv-8IrfphPQ": {
+      "name": "Rapunzel Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ8adWTwBvXz4Rxv-8IrfphPQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJSfsWUBtXz4Rd2rNzKUOeUw": {
+      "name": "Rare Holiday Homes - Botanica - 105 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJSfsWUBtXz4Rd2rNzKUOeUw",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJs5996PVdXz4RCNVW0y_Tsi0": {
+      "name": "Rashidiya Police Station - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJs5996PVdXz4RCNVW0y_Tsi0",
+      "types": "establishment, local_government_office, point_of_interest, police"
+    },
+    "ChIJdSxdiytdXz4R5JpINkpR3vY": {
+      "name": "Rashid Hospital | مستشفى راشد - شارع ٢ - Dubai - Émirats arabes unis",
+      "place_id": "ChIJdSxdiytdXz4R5JpINkpR3vY",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJm6K97T5xXz4RTbFGSKyBCS4": {
+      "name": "Rawda 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJm6K97T5xXz4RTbFGSKyBCS4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJuY7tUFVmXz4Rkqtn21mQMsE": {
+      "name": "Ras Al Khor Industrial Area 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJuY7tUFVmXz4Rkqtn21mQMsE",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJw-vuUldrXz4RxelGK73Qkqo": {
+      "name": "Royal Blue Coast Yachts Rental - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJw-vuUldrXz4RxelGK73Qkqo",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJ3bnWxwqke6MRoe_bDamb2Xk": {
+      "name": "RBE Vacation Homes Rental LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ3bnWxwqke6MRoe_bDamb2Xk",
+      "types": "establishment, point_of_interest, real_estate_agency, travel_agency"
     }
   }
 }
