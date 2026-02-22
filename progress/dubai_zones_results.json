@@ -5628,6 +5628,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Elite Escapes Holiday Home - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJnfapoCBDXz4RHLKEosT4x70",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Elite Residence, Dubai, Émirats arabes unis",
     "place_id": "ChIJO5otEFBrXz4RGjjKAdTr41A",
     "types": "establishment, point_of_interest",
@@ -5637,6 +5643,24 @@
     "name": "Ellington Beach House | Palm Jumeirah - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgbBdLXdrXz4RQnpdihhGOGo",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Elysee III by Pantheon Development - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJa6DMZlJtXz4RLOsMHxMptcg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Elz Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJm9eOIU9vXz4RHPYUZEsmnPA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emaar Beachfront - Dubai - Émirats arabes unis",
+    "place_id": "ChIJMz4iekprXz4Rm70Mx7CvGJA",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
@@ -5652,8 +5676,44 @@
     "zone_type": "area"
   },
   {
+    "name": "Emaar Square Building 3 - Al Mustaqbal Street - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT-ZaxYBCXz4RRXNepv9MFWM",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emaar Square, Building 2 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJkSgkNYdCXz4ReBkuHs2n_68",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Emagine - Dubai - Émirats arabes unis",
     "place_id": "ChIJAV_q359pXz4R7rq0V9NpLmk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Embassy Suites by Hilton Dubai Business Bay - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcbLNDQJpXz4RB63_J6d14_o",
+    "types": "establishment, lodging, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emerald Hills | Dubai Hills - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJM9WMGahpXz4RnvLTJJ2nMnI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emerald JVC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ--DpVvttXz4R7S6rRv2MRV8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emerson FZE - Building A - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJF2iLorsNXz4Rt5bc1YArR-Q",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -5684,6 +5744,36 @@
   {
     "name": "Emirates Institute of Finance (EIF) معهد الإمارات المالي - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJrQyD8INkXz4RWoPZ7JBDhM4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emirates Towers Metro Station - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5zrVEVJDXz4RKxd4d1S0H1g",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emmanuel General Trading LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_0UXYq5nXz4RjEak9K0wbJ0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Emmay Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2Zk0_NVrXz4ReYYC10RCTd8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Empire Heights Business Centre - Dubai - Émirats arabes unis",
+    "place_id": "ChIJlzDgIk5pXz4RtolStSX9dEo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Empower Energy Solutions - Head Office - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJb4SDRNRpXz4RtQ9EP7MSSTg",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -6669,6 +6759,30 @@
     "name": "Meena Bazaar, Dubai, Émirats arabes unis",
     "place_id": "ChIJH9AWoBVDXz4RJnJXoQtDDCg",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mercato Beach - 4b St - Dubai - Émirats arabes unis",
+    "place_id": "ChIJP3syokBCXz4RQnGtNrYq2KI",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mercato Beach / Jumeirah 1 Beach - 71A Street - Dubai - Émirats arabes unis",
+    "place_id": "ChIJwybB40ZCXz4RJ2AU2VfMfnQ",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mercato Shopping Mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbzN-TUFCXz4RUFThlYcblMg",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mercure Dubai Barsha Heights Hotel Suites And Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDwRRnHFrXz4RmFuD1Z7Scv4",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -8082,6 +8196,12 @@
     "zone_type": "area"
   },
   {
+    "name": "emd fitness - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJa7Z1YOxrXz4R0aCKTB9l-ts",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "flydubai Campus - Emirates Road - Dubai - Émirats arabes unis",
     "place_id": "ChIJraqLSBViXz4RbVHyKmbwzyA",
     "types": "establishment, point_of_interest",
@@ -8174,6 +8294,12 @@
   {
     "name": "voco Dubai by IHG - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJs1e96-1CXz4R4hbvD9mPqis",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Èmora Luxe stays - Dubai - Émirats arabes unis",
+    "place_id": "ChIJoVqjVgBdXz4RBeGsOG4Ah4o",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },

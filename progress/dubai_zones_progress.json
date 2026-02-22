@@ -3369,7 +3369,57 @@
     "Dubai ELM",
     "Dubai ELN",
     "Dubai ELO",
-    "Dubai ELP"
+    "Dubai ELP",
+    "Dubai ELQ",
+    "Dubai ELR",
+    "Dubai ELS",
+    "Dubai ELT",
+    "Dubai ELU",
+    "Dubai ELV",
+    "Dubai ELW",
+    "Dubai ELX",
+    "Dubai ELY",
+    "Dubai ELZ",
+    "Dubai EMA",
+    "Dubai EMB",
+    "Dubai EMC",
+    "Dubai EMD",
+    "Dubai EME",
+    "Dubai EMF",
+    "Dubai EMG",
+    "Dubai EMH",
+    "Dubai EMI",
+    "Dubai EMJ",
+    "Dubai EMK",
+    "Dubai EML",
+    "Dubai EMM",
+    "Dubai EMN",
+    "Dubai EMO",
+    "Dubai EMP",
+    "Dubai EMQ",
+    "Dubai EMR",
+    "Dubai EMS",
+    "Dubai EMT",
+    "Dubai EMU",
+    "Dubai EMV",
+    "Dubai EMW",
+    "Dubai EMX",
+    "Dubai EMY",
+    "Dubai EMZ",
+    "Dubai EOA",
+    "Dubai EOB",
+    "Dubai EOC",
+    "Dubai EOD",
+    "Dubai EOE",
+    "Dubai EOF",
+    "Dubai EOG",
+    "Dubai EOH",
+    "Dubai EOI",
+    "Dubai EOJ",
+    "Dubai EOK",
+    "Dubai EOL",
+    "Dubai EOM",
+    "Dubai EON"
   ],
   "pending_n2": [
     {
@@ -59198,6 +59248,111 @@
     "ChIJDwNvfAB7Xz4RScCIGfSA84I": {
       "name": "ELO Tower by Damac - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJDwNvfAB7Xz4RScCIGfSA84I",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJDwRRnHFrXz4RmFuD1Z7Scv4": {
+      "name": "Mercure Dubai Barsha Heights Hotel Suites And Apartments - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDwRRnHFrXz4RmFuD1Z7Scv4",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJbzN-TUFCXz4RUFThlYcblMg": {
+      "name": "Mercato Shopping Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbzN-TUFCXz4RUFThlYcblMg",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJwybB40ZCXz4RJ2AU2VfMfnQ": {
+      "name": "Mercato Beach / Jumeirah 1 Beach - 71A Street - Dubai - Émirats arabes unis",
+      "place_id": "ChIJwybB40ZCXz4RJ2AU2VfMfnQ",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJP3syokBCXz4RQnGtNrYq2KI": {
+      "name": "Mercato Beach - 4b St - Dubai - Émirats arabes unis",
+      "place_id": "ChIJP3syokBCXz4RQnGtNrYq2KI",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJnfapoCBDXz4RHLKEosT4x70": {
+      "name": "Elite Escapes Holiday Home - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJnfapoCBDXz4RHLKEosT4x70",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJa6DMZlJtXz4RLOsMHxMptcg": {
+      "name": "Elysee III by Pantheon Development - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJa6DMZlJtXz4RLOsMHxMptcg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJm9eOIU9vXz4RHPYUZEsmnPA": {
+      "name": "Elz Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJm9eOIU9vXz4RHPYUZEsmnPA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJMz4iekprXz4Rm70Mx7CvGJA": {
+      "name": "Emaar Beachfront - Dubai - Émirats arabes unis",
+      "place_id": "ChIJMz4iekprXz4Rm70Mx7CvGJA",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJkSgkNYdCXz4ReBkuHs2n_68": {
+      "name": "Emaar Square, Building 2 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJkSgkNYdCXz4ReBkuHs2n_68",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJT-ZaxYBCXz4RRXNepv9MFWM": {
+      "name": "Emaar Square Building 3 - Al Mustaqbal Street - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJT-ZaxYBCXz4RRXNepv9MFWM",
+      "types": "geocode, premise"
+    },
+    "ChIJcbLNDQJpXz4RB63_J6d14_o": {
+      "name": "Embassy Suites by Hilton Dubai Business Bay - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJcbLNDQJpXz4RB63_J6d14_o",
+      "types": "establishment, lodging, point_of_interest, spa"
+    },
+    "ChIJa7Z1YOxrXz4R0aCKTB9l-ts": {
+      "name": "emd fitness - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJa7Z1YOxrXz4R0aCKTB9l-ts",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ--DpVvttXz4R7S6rRv2MRV8": {
+      "name": "Emerald JVC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ--DpVvttXz4R7S6rRv2MRV8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJM9WMGahpXz4RnvLTJJ2nMnI": {
+      "name": "Emerald Hills | Dubai Hills - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJM9WMGahpXz4RnvLTJJ2nMnI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJF2iLorsNXz4Rt5bc1YArR-Q": {
+      "name": "Emerson FZE - Building A - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJF2iLorsNXz4Rt5bc1YArR-Q",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ5zrVEVJDXz4RKxd4d1S0H1g": {
+      "name": "Emirates Towers Metro Station - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5zrVEVJDXz4RKxd4d1S0H1g",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ2Zk0_NVrXz4ReYYC10RCTd8": {
+      "name": "Emmay Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2Zk0_NVrXz4ReYYC10RCTd8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ_0UXYq5nXz4RjEak9K0wbJ0": {
+      "name": "Emmanuel General Trading LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_0UXYq5nXz4RjEak9K0wbJ0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJoVqjVgBdXz4RBeGsOG4Ah4o": {
+      "name": "Èmora Luxe stays - Dubai - Émirats arabes unis",
+      "place_id": "ChIJoVqjVgBdXz4RBeGsOG4Ah4o",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJlzDgIk5pXz4RtolStSX9dEo": {
+      "name": "Empire Heights Business Centre - Dubai - Émirats arabes unis",
+      "place_id": "ChIJlzDgIk5pXz4RtolStSX9dEo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJb4SDRNRpXz4RtQ9EP7MSSTg": {
+      "name": "Empower Energy Solutions - Head Office - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJb4SDRNRpXz4RtQ9EP7MSSTg",
       "types": "establishment, point_of_interest"
     }
   }
