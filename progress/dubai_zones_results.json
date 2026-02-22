@@ -11934,6 +11934,24 @@
     "zone_type": "area"
   },
   {
+    "name": "SOL AVENUE - DUBAI - Dubai - Émirats arabes unis",
+    "place_id": "ChIJB8GDPDRoXz4RdKU2yx945so",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "SOLE MIO - Kite Beach Club - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJK_Eb72BrXz4RWnqF7n8aJqo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "SOS Meditation And Yoga Center - Dubai - Émirats arabes unis",
+    "place_id": "ChIJmWbUiRlDXz4RVWE6cyk84vM",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Saabrin Building - Dubai - Émirats arabes unis",
     "place_id": "ChIJ23JB5xNDXz4R2gXjK3FOkEE",
     "types": "establishment, point_of_interest",
@@ -12594,8 +12612,44 @@
     "zone_type": "area"
   },
   {
+    "name": "Snooker Point Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-_2YCuNDXz4RsE-uokFBT0c",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Snow white Building - Dubai - Émirats arabes unis",
     "place_id": "ChIJ6dpmZPhdXz4R9KZe7RKq4eI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sobha Creek Vistas - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJmbvYb7ZpXz4RfiHHNypjqGw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sobha Hartland - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVSPkgdVpXz4RDOh7aa4NwyE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sobha Hartland Greens Building 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1bX8wJNpXz4RKm1hOM46CvQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sobha Realty Metro Station - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQ4xT5QNrXz4R8ipa-cakwcs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sobha Sapphire - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJD0zWzzVoXz4RcUu9fXqn3CU",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -12603,6 +12657,78 @@
     "name": "Sobha creek vistas heights - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ2TePIFBpXz4RDGTgWoPhYCo",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Social Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6a0H0g1rXz4R-kT0xGvABhc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Socio Tower 2 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJjeA7OABpXz4RZmNy4-LOfbg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Soda UAE - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOw0rCy1nXz4R6LqOoB1aJzM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sofitel Dubai Jumeirah Beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2X9b_lUTXz4RcGmWSkm0u84",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sofitel Dubai The Obelisk - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZ3m7dGldXz4R5iqDa4Q96UE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sofitel Dubai The Palm - Crescent Road - Dubai - Émirats arabes unis",
+    "place_id": "ChIJT7L4OkoVXz4RfHHSWXRVB2Y",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sofitel Spa Dubai Downtown - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJrXBlI6dDXz4RYLZ_7efQfkY",
+    "types": "establishment, point_of_interest, spa",
+    "zone_type": "area"
+  },
+  {
+    "name": "Soho Palm - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJfdlZB1RrXz4Rg09G73JYxgo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sol Bay by Sol Properties - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQdggxC1pXz4RUz5xM5v_fww",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Somalia - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJD97p4eJAXz4RbRiOoere73o",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Someone‘s House - Dubai - Émirats arabes unis",
+    "place_id": "ChIJCVVKHh1pXz4RivrnpSadGGw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Somewhere Apartment Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ97Bj6thcXz4RsX6jlwqEvlw",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -12627,6 +12753,18 @@
     "name": "Souk Madinat Jumeirah - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJORSp9gBCXz4RtnTCn-ul3mo",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Souq Extra - Silicon Oasis - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ22LkEA1lXz4Rg69hAZ705ao",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "South Korea - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIdGjOdZAXz4R11W8PN_PlnU",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
