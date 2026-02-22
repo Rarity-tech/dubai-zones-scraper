@@ -3619,7 +3619,57 @@
     "Dubai EZC",
     "Dubai EZD",
     "Dubai EZE",
-    "Dubai EZF"
+    "Dubai EZF",
+    "Dubai EZG",
+    "Dubai EZH",
+    "Dubai EZI",
+    "Dubai EZJ",
+    "Dubai EZK",
+    "Dubai EZL",
+    "Dubai EZM",
+    "Dubai EZN",
+    "Dubai EZO",
+    "Dubai EZP",
+    "Dubai EZQ",
+    "Dubai EZR",
+    "Dubai EZS",
+    "Dubai EZT",
+    "Dubai EZU",
+    "Dubai EZV",
+    "Dubai EZW",
+    "Dubai EZX",
+    "Dubai EZY",
+    "Dubai EZZ",
+    "Dubai HAA",
+    "Dubai HAB",
+    "Dubai HAC",
+    "Dubai HAD",
+    "Dubai HAE",
+    "Dubai HAF",
+    "Dubai HAG",
+    "Dubai HAH",
+    "Dubai HAI",
+    "Dubai HAJ",
+    "Dubai HAK",
+    "Dubai HAL",
+    "Dubai HAM",
+    "Dubai HAN",
+    "Dubai HAO",
+    "Dubai HAP",
+    "Dubai HAQ",
+    "Dubai HAR",
+    "Dubai HAS",
+    "Dubai HAT",
+    "Dubai HAU",
+    "Dubai HAV",
+    "Dubai HAW",
+    "Dubai HAX",
+    "Dubai HAY",
+    "Dubai HAZ",
+    "Dubai HBA",
+    "Dubai HBB",
+    "Dubai HBC",
+    "Dubai HBD"
   ],
   "pending_n2": [
     {
@@ -59648,6 +59698,126 @@
     "ChIJg3d3FOttXz4REiGS2nlSUWg": {
       "name": "EaseMyTrip - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJg3d3FOttXz4REiGS2nlSUWg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJwQK0WFJrXz4RTP7D5F4Dku0": {
+      "name": "Habtoor Grand Resort - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJwQK0WFJrXz4RTP7D5F4Dku0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJF74RBQBpXz4RhIlHPpmS27Q": {
+      "name": "Habtoor City Elevated Heliport - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJF74RBQBpXz4RhIlHPpmS27Q",
+      "types": "airport, establishment, point_of_interest"
+    },
+    "ChIJ6abGI79tXz4R4I7SZxti1uE": {
+      "name": "Hadley Heights By LEOS Developments - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ6abGI79tXz4R4I7SZxti1uE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJW6QDvUFDXz4R5VBbLaExFr8": {
+      "name": "Hafez Hotel Apartments - Dubai - Émirats arabes unis",
+      "place_id": "ChIJW6QDvUFDXz4R5VBbLaExFr8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJNwAKAABjXz4R8dfE_cYuWCw": {
+      "name": "Half Desert - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJNwAKAABjXz4R8dfE_cYuWCw",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJwRAmnidrXz4R9k-XgrnxpJ0": {
+      "name": "Hampton by Hilton Dubai Al Barsha - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJwRAmnidrXz4R9k-XgrnxpJ0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJoSnRCC1DXz4Rtjy8Jp4C79g": {
+      "name": "Hampton by Hilton Dubai Al Seef - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJoSnRCC1DXz4Rtjy8Jp4C79g",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJbXiU3UlcXz4RiqRWkk0jv-w": {
+      "name": "Hampton by Hilton Dubai Airport - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbXiU3UlcXz4RiqRWkk0jv-w",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJVwSZlj5nXz4RUnPLxdaDXDU": {
+      "name": "Nad Al Hamar, Dubai, Émirats arabes unis",
+      "place_id": "ChIJVwSZlj5nXz4RUnPLxdaDXDU",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJAQAAvThsXz4RBL0KCQDtB5I": {
+      "name": "Hanover Square - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAQAAvThsXz4RBL0KCQDtB5I",
+      "types": "establishment, point_of_interest"
+    },
+    "EjhIYXBwaW5lc3MgU3RyZWV0IC0gRHViYWkgLSBEdWJhw68gLSDDiW1pcmF0cyBhcmFiZXMgdW5pcyIuKiwKFAoSCYUrjpVkQl8-EVSXgIwHGxHqEhQKEglFxtlqSUNfPhFiUSmEUG7mvQ": {
+      "name": "Happiness Street - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "EjhIYXBwaW5lc3MgU3RyZWV0IC0gRHViYWkgLSBEdWJhw68gLSDDiW1pcmF0cyBhcmFiZXMgdW5pcyIuKiwKFAoSCYUrjpVkQl8-EVSXgIwHGxHqEhQKEglFxtlqSUNfPhFiUSmEUG7mvQ",
+      "types": "geocode, route"
+    },
+    "ChIJTX21XwZDXz4R3SeW9ZOf4fA": {
+      "name": "Happiness Lounge for Government Services Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTX21XwZDXz4R3SeW9ZOf4fA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJxzvUexrXz4Rq7VkMiGuH2w": {
+      "name": "Dubai Harbour - Bay Marina - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJxzvUexrXz4Rq7VkMiGuH2w",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJuX7l0rxrXz4RTQ8XR_1UDxw": {
+      "name": "Hassanicor Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJuX7l0rxrXz4RTQ8XR_1UDxw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJB4lCZZlsXz4RoRxXgMRy-z8": {
+      "name": "Hattan 1 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJB4lCZZlsXz4RoRxXgMRy-z8",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJMRTHpdcf9T4RirKe8-GUT90": {
+      "name": "Hatta Border Crossing United Arab Emirates - Dubai - Émirats arabes unis",
+      "place_id": "ChIJMRTHpdcf9T4RirKe8-GUT90",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJq6qqqtoe9T4RYDKvG-Z_8EM": {
+      "name": "Hatta Dam, Dubai, Émirats arabes unis",
+      "place_id": "ChIJq6qqqtoe9T4RYDKvG-Z_8EM",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJGwK-tW9rXz4R_slXL67_mr8": {
+      "name": "haus & haus Holiday Rental - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJGwK-tW9rXz4R_slXL67_mr8",
+      "types": "establishment, lodging, point_of_interest, real_estate_agency"
+    },
+    "ChIJ9e4_0F5dXz4Rr-oWG1ws89Y": {
+      "name": "Havana Holiday Homes oud Metha - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9e4_0F5dXz4Rr-oWG1ws89Y",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJl67HfqhlXz4RI1uZehPUFXA": {
+      "name": "HAVEN by ALDAR - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJl67HfqhlXz4RI1uZehPUFXA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJjfjZ9EVDXz4RbRU8fg8sdBQ": {
+      "name": "Hawaar Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJjfjZ9EVDXz4RbRU8fg8sdBQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJqcMcPmZwXz4RjoMMmOeYz6g": {
+      "name": "Hayat Boulevard Apartments - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqcMcPmZwXz4RjoMMmOeYz6g",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJjzxDVwBxXz4RaV5hkVBfrqU": {
+      "name": "Hayat Town House - Dubai - Émirats arabes unis",
+      "place_id": "ChIJjzxDVwBxXz4RaV5hkVBfrqU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJBcDB5rRxXz4RC1Y1vXnSgGI": {
+      "name": "Hayat Townhouses Pool - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJBcDB5rRxXz4RC1Y1vXnSgGI",
       "types": "establishment, point_of_interest"
     }
   }
