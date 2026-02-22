@@ -132,6 +132,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Al Muteena, Dubai, Émirats arabes unis",
+    "place_id": "ChIJA6zk_bZcXz4RbmdfpFYiSnE",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Al Qouz First - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJnbustLhpXz4RWHKpGEsvP60",
     "types": "geocode, political, sublocality, sublocality_level_1",
@@ -348,6 +354,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Mushrif Park, Dubai, Émirats arabes unis",
+    "place_id": "ChIJO8rQHPhgXz4Rxt7GsgwaQ_4",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Nad Al Hamar, Dubai, Émirats arabes unis",
     "place_id": "ChIJVwSZlj5nXz4RUnPLxdaDXDU",
     "types": "political, sublocality, sublocality_level_1",
@@ -531,6 +543,12 @@
     "name": "Al Khawaneej 2 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ27ht38GK9T4R05yQMM4IEW4",
     "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al Murar, Dubai, Émirats arabes unis",
+    "place_id": "ChIJxeYOxE1DXz4RUWzXGXkGwrg",
+    "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
   {
@@ -1035,6 +1053,12 @@
     "name": "New West Camp - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJDyR_m-YNXz4RdYHhCYZAthE",
     "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Oud Al-Muteena 2, Dubai, Émirats arabes unis",
+    "place_id": "ChIJpQPLS8FfXz4R2Hx-mRVdaa8",
+    "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
   {
@@ -10206,6 +10230,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Mushrif Park Hiking Trail - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJeWFnppphXz4Rpyx0kH5LBao",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Musée des Illusions, Dubai, Émirats arabes unis",
     "place_id": "ChIJobQZTFRDXz4R4f_FTcCbMNo",
     "types": "establishment, museum, point_of_interest, tourist_attraction",
@@ -11181,6 +11211,12 @@
     "name": "The Lost Chambers Aquarium, Dubai, Émirats arabes unis",
     "place_id": "ChIJ0Wo4qj8VXz4RmuOI9BArrhc",
     "types": "aquarium, establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Muse 45 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ3ZtrcQBDXz4RkxFEAVhI42Y",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {

@@ -7319,7 +7319,57 @@
     "Dubai MUK",
     "Dubai MUL",
     "Dubai MUM",
-    "Dubai MUN"
+    "Dubai MUN",
+    "Dubai MUO",
+    "Dubai MUP",
+    "Dubai MUQ",
+    "Dubai MUR",
+    "Dubai MUS",
+    "Dubai MUT",
+    "Dubai MUU",
+    "Dubai MUV",
+    "Dubai MUW",
+    "Dubai MUX",
+    "Dubai MUY",
+    "Dubai MUZ",
+    "Dubai MVA",
+    "Dubai MVB",
+    "Dubai MVC",
+    "Dubai MVD",
+    "Dubai MVE",
+    "Dubai MVF",
+    "Dubai MVG",
+    "Dubai MVH",
+    "Dubai MVI",
+    "Dubai MVJ",
+    "Dubai MVK",
+    "Dubai MVL",
+    "Dubai MVM",
+    "Dubai MVN",
+    "Dubai MVO",
+    "Dubai MVP",
+    "Dubai MVQ",
+    "Dubai MVR",
+    "Dubai MVS",
+    "Dubai MVT",
+    "Dubai MVU",
+    "Dubai MVV",
+    "Dubai MVW",
+    "Dubai MVX",
+    "Dubai MVY",
+    "Dubai MVZ",
+    "Dubai MWA",
+    "Dubai MWB",
+    "Dubai MWC",
+    "Dubai MWD",
+    "Dubai MWE",
+    "Dubai MWF",
+    "Dubai MWG",
+    "Dubai MWH",
+    "Dubai MWI",
+    "Dubai MWJ",
+    "Dubai MWK",
+    "Dubai MWL"
   ],
   "pending_n2": [
     {
@@ -66369,6 +66419,36 @@
       "name": "Dubai Municipality Karama Center - Dubaï - Émirats arabes unis",
       "place_id": "ChIJy68s8ddCXz4Rxi6ytTfS48k",
       "types": "establishment, local_government_office, point_of_interest"
+    },
+    "ChIJxeYOxE1DXz4RUWzXGXkGwrg": {
+      "name": "Al Murar, Dubai, Émirats arabes unis",
+      "place_id": "ChIJxeYOxE1DXz4RUWzXGXkGwrg",
+      "types": "neighborhood, political"
+    },
+    "ChIJeWFnppphXz4Rpyx0kH5LBao": {
+      "name": "Mushrif Park Hiking Trail - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJeWFnppphXz4Rpyx0kH5LBao",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJO8rQHPhgXz4Rxt7GsgwaQ_4": {
+      "name": "Mushrif Park, Dubai, Émirats arabes unis",
+      "place_id": "ChIJO8rQHPhgXz4Rxt7GsgwaQ_4",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJA6zk_bZcXz4RbmdfpFYiSnE": {
+      "name": "Al Muteena, Dubai, Émirats arabes unis",
+      "place_id": "ChIJA6zk_bZcXz4RbmdfpFYiSnE",
+      "types": "political, sublocality, sublocality_level_1"
+    },
+    "ChIJpQPLS8FfXz4R2Hx-mRVdaa8": {
+      "name": "Oud Al-Muteena 2, Dubai, Émirats arabes unis",
+      "place_id": "ChIJpQPLS8FfXz4R2Hx-mRVdaa8",
+      "types": "neighborhood, political"
+    },
+    "ChIJ3ZtrcQBDXz4RkxFEAVhI42Y": {
+      "name": "The Muse 45 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ3ZtrcQBDXz4RkxFEAVhI42Y",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }
