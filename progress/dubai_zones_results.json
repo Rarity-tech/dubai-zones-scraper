@@ -14976,6 +14976,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Warba Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJuwSGnDxdXz4RHkAYght1RUc",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
     "name": "Warsan 4th - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJMcVUJwBnXz4RmEZR9S6Ul8Q",
     "types": "establishment, point_of_interest",
@@ -15045,6 +15051,24 @@
     "name": "West Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJBVnofWZpXz4R5gXN1s-VFEQ",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Westburry Office Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJo0PmQQBpXz4R3d9kKYv_VlQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Westburry Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJnbdY9S1oXz4Rq3nsKBz9OaY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Weybridge Gardens 1 By Leos Developments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJNc-Tfu0TXz4RCwmif82HX4c",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

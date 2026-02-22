@@ -11169,7 +11169,57 @@
     "Dubai WEM",
     "Dubai WEN",
     "Dubai WEO",
-    "Dubai WEP"
+    "Dubai WEP",
+    "Dubai WEQ",
+    "Dubai WER",
+    "Dubai WES",
+    "Dubai WET",
+    "Dubai WEU",
+    "Dubai WEV",
+    "Dubai WEW",
+    "Dubai WEX",
+    "Dubai WEY",
+    "Dubai WEZ",
+    "Dubai WFA",
+    "Dubai WFB",
+    "Dubai WFC",
+    "Dubai WFD",
+    "Dubai WFE",
+    "Dubai WFF",
+    "Dubai WFG",
+    "Dubai WFH",
+    "Dubai WFI",
+    "Dubai WFJ",
+    "Dubai WFK",
+    "Dubai WFL",
+    "Dubai WFM",
+    "Dubai WFN",
+    "Dubai WFO",
+    "Dubai WFP",
+    "Dubai WFQ",
+    "Dubai WFR",
+    "Dubai WFS",
+    "Dubai WFT",
+    "Dubai WFU",
+    "Dubai WFV",
+    "Dubai WFW",
+    "Dubai WFX",
+    "Dubai WFY",
+    "Dubai WFZ",
+    "Dubai WGA",
+    "Dubai WGB",
+    "Dubai WGC",
+    "Dubai WGD",
+    "Dubai WGE",
+    "Dubai WGF",
+    "Dubai WGG",
+    "Dubai WGH",
+    "Dubai WGI",
+    "Dubai WGJ",
+    "Dubai WGK",
+    "Dubai WGL",
+    "Dubai WGM",
+    "Dubai WGN"
   ],
   "pending_n2": [
     {
@@ -73144,6 +73194,26 @@
       "name": "Welcome Hotel Apartment 1 - Dubai - Émirats arabes unis",
       "place_id": "ChIJHzthrSZDXz4RnJsWbZwASn8",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJuwSGnDxdXz4RHkAYght1RUc": {
+      "name": "Warba Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJuwSGnDxdXz4RHkAYght1RUc",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJnbdY9S1oXz4Rq3nsKBz9OaY": {
+      "name": "Westburry Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJnbdY9S1oXz4Rq3nsKBz9OaY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJo0PmQQBpXz4R3d9kKYv_VlQ": {
+      "name": "Westburry Office Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJo0PmQQBpXz4R3d9kKYv_VlQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJNc-Tfu0TXz4RCwmif82HX4c": {
+      "name": "Weybridge Gardens 1 By Leos Developments - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJNc-Tfu0TXz4RCwmif82HX4c",
+      "types": "establishment, point_of_interest"
     }
   }
 }
