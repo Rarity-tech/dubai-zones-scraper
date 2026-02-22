@@ -8550,6 +8550,12 @@
     "zone_type": "area"
   },
   {
+    "name": "LWK + PARTNERS DUBAI - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJyZ4SaQBrXz4RKrRgSux0-hM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "La Mer, Dubai, Émirats arabes unis",
     "place_id": "ChIJFY87vzlDXz4R-k-PFb1DWkQ",
     "types": "establishment, point_of_interest, tourist_attraction",
