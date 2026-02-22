@@ -10122,6 +10122,12 @@
     "zone_type": "area"
   },
   {
+    "name": "MapleTree Psychotherapy Center - Dubai - Émirats arabes unis",
+    "place_id": "ChIJb5aMP6dsXz4Rs1yv38BVZhk",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Marina Beach - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJY2IG66kUXz4RZOB_j8cWtjk",
     "types": "establishment, natural_feature",
@@ -13383,6 +13389,12 @@
     "name": "TKO Muay thai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJwUvcGwBpXz4RijPjgv5Vqz4",
     "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "TMF Euro Foundations L.L.C - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6xR_fRddXz4RP7PaqOVkU9U",
+    "types": "establishment, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {
