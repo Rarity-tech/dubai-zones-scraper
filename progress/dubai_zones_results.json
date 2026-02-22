@@ -1200,8 +1200,32 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Springs 11 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJySvjlPlsXz4RDSu4wdAlEgg",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Springs 14 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzyPhm_tsXz4RRnZwQQ1PGCw",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Springs 15 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJS17qJv9sXz4RVNQql9Hdpyw",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Springs 2 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJq268w-5sXz4RMVuOG-RW1WI",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Springs 9 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ36WEYldsXz4RT0mKQnacJQE",
     "types": "geocode, neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -5937,6 +5961,18 @@
     "name": "Dubai Shopping Center - Dubaï - Émirats arabes unis",
     "place_id": "ChIJi2AK8iBdXz4RbIQ0vjSUtvU",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Smart Police Station SPS - City Walk - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJdxX3x2RCXz4RaIOi-RAS1eU",
+    "types": "establishment, local_government_office, point_of_interest, police",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Smart Police Station SPS - Dubai Design District - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQxk3pfNpXz4R6Mtmma5rlE8",
+    "types": "establishment, local_government_office, point_of_interest, police",
     "zone_type": "area"
   },
   {
@@ -11808,6 +11844,12 @@
     "zone_type": "area"
   },
   {
+    "name": "S P Jain School of Global Management - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ2_flKYxjXz4RB8ABEUoWpIk",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
     "name": "S.S Lootah Residence JVC - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJkXvyfwBtXz4RHUWouNdv5Qg",
     "types": "establishment, point_of_interest",
@@ -12786,8 +12828,26 @@
     "zone_type": "area"
   },
   {
+    "name": "Spice Souk - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-RucLkFDXz4Rb6b0Qzd4aDY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Splash 'n' Party Kids Waterpark - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJq84tmIFpXz4REVtcFqVJh2Y",
+    "types": "amusement_park, establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Sport City - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ4-Enn8xcXz4RdIyjSAES6fM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sport Society - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJGyqzkAZhXz4RVsDol_IeKuE",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },

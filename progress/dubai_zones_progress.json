@@ -9069,7 +9069,57 @@
     "Dubai SOS",
     "Dubai SOT",
     "Dubai SOU",
-    "Dubai SOV"
+    "Dubai SOV",
+    "Dubai SOW",
+    "Dubai SOX",
+    "Dubai SOY",
+    "Dubai SOZ",
+    "Dubai SPA",
+    "Dubai SPB",
+    "Dubai SPC",
+    "Dubai SPD",
+    "Dubai SPE",
+    "Dubai SPF",
+    "Dubai SPG",
+    "Dubai SPH",
+    "Dubai SPI",
+    "Dubai SPJ",
+    "Dubai SPK",
+    "Dubai SPL",
+    "Dubai SPM",
+    "Dubai SPN",
+    "Dubai SPO",
+    "Dubai SPP",
+    "Dubai SPQ",
+    "Dubai SPR",
+    "Dubai SPS",
+    "Dubai SPT",
+    "Dubai SPU",
+    "Dubai SPV",
+    "Dubai SPW",
+    "Dubai SPX",
+    "Dubai SPY",
+    "Dubai SPZ",
+    "Dubai SQA",
+    "Dubai SQB",
+    "Dubai SQC",
+    "Dubai SQD",
+    "Dubai SQE",
+    "Dubai SQF",
+    "Dubai SQG",
+    "Dubai SQH",
+    "Dubai SQI",
+    "Dubai SQJ",
+    "Dubai SQK",
+    "Dubai SQL",
+    "Dubai SQM",
+    "Dubai SQN",
+    "Dubai SQO",
+    "Dubai SQP",
+    "Dubai SQQ",
+    "Dubai SQR",
+    "Dubai SQS",
+    "Dubai SQT"
   ],
   "pending_n2": [
     {
@@ -69764,6 +69814,56 @@
       "name": "Souq Extra - Silicon Oasis - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ22LkEA1lXz4Rg69hAZ705ao",
       "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJ-RucLkFDXz4Rb6b0Qzd4aDY": {
+      "name": "Spice Souk - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ-RucLkFDXz4Rb6b0Qzd4aDY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ2_flKYxjXz4RB8ABEUoWpIk": {
+      "name": "S P Jain School of Global Management - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ2_flKYxjXz4RB8ABEUoWpIk",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJq84tmIFpXz4REVtcFqVJh2Y": {
+      "name": "Splash 'n' Party Kids Waterpark - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJq84tmIFpXz4REVtcFqVJh2Y",
+      "types": "amusement_park, establishment, point_of_interest"
+    },
+    "ChIJGyqzkAZhXz4RVsDol_IeKuE": {
+      "name": "Sport Society - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJGyqzkAZhXz4RVsDol_IeKuE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJySvjlPlsXz4RDSu4wdAlEgg": {
+      "name": "Springs 11 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJySvjlPlsXz4RDSu4wdAlEgg",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJS17qJv9sXz4RVNQql9Hdpyw": {
+      "name": "Springs 15 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJS17qJv9sXz4RVNQql9Hdpyw",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJzyPhm_tsXz4RRnZwQQ1PGCw": {
+      "name": "Springs 14 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzyPhm_tsXz4RRnZwQQ1PGCw",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJ36WEYldsXz4RT0mKQnacJQE": {
+      "name": "Springs 9 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ36WEYldsXz4RT0mKQnacJQE",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJdxX3x2RCXz4RaIOi-RAS1eU": {
+      "name": "Dubai Smart Police Station SPS - City Walk - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdxX3x2RCXz4RaIOi-RAS1eU",
+      "types": "establishment, local_government_office, point_of_interest, police"
+    },
+    "ChIJQxk3pfNpXz4R6Mtmma5rlE8": {
+      "name": "Dubai Smart Police Station SPS - Dubai Design District - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQxk3pfNpXz4R6Mtmma5rlE8",
+      "types": "establishment, local_government_office, point_of_interest, police"
     }
   }
 }
