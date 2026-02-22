@@ -11904,6 +11904,12 @@
     "zone_type": "area"
   },
   {
+    "name": "SKEMA Business School - Dubai campus - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_UJ3kXtDXz4RwM1rhTS57W0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "SLS Dubai Hotel & Residences - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJdd8SeO1pXz4R4BUPbTuiWGc",
     "types": "establishment, lodging, point_of_interest",
@@ -12477,6 +12483,12 @@
     "name": "Sizzlin' Steak - IBN Battuta Mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJwUONw08TXz4R7_i7tViynVY",
     "types": "establishment, food, point_of_interest, restaurant, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Skatepark Nahida - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJU4M2qXlpXz4RbvJ3gC8VVp0",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
