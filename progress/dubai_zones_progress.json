@@ -4369,7 +4369,57 @@
     "Dubai ICY",
     "Dubai ICZ",
     "Dubai IDA",
-    "Dubai IDB"
+    "Dubai IDB",
+    "Dubai IDC",
+    "Dubai IDD",
+    "Dubai IDE",
+    "Dubai IDF",
+    "Dubai IDG",
+    "Dubai IDH",
+    "Dubai IDI",
+    "Dubai IDJ",
+    "Dubai IDK",
+    "Dubai IDL",
+    "Dubai IDM",
+    "Dubai IDN",
+    "Dubai IDO",
+    "Dubai IDP",
+    "Dubai IDQ",
+    "Dubai IDR",
+    "Dubai IDS",
+    "Dubai IDT",
+    "Dubai IDU",
+    "Dubai IDV",
+    "Dubai IDW",
+    "Dubai IDX",
+    "Dubai IDY",
+    "Dubai IDZ",
+    "Dubai IEA",
+    "Dubai IEB",
+    "Dubai IEC",
+    "Dubai IED",
+    "Dubai IEE",
+    "Dubai IEF",
+    "Dubai IEG",
+    "Dubai IEH",
+    "Dubai IEI",
+    "Dubai IEJ",
+    "Dubai IEK",
+    "Dubai IEL",
+    "Dubai IEM",
+    "Dubai IEN",
+    "Dubai IEO",
+    "Dubai IEP",
+    "Dubai IEQ",
+    "Dubai IER",
+    "Dubai IES",
+    "Dubai IET",
+    "Dubai IEU",
+    "Dubai IEV",
+    "Dubai IEW",
+    "Dubai IEX",
+    "Dubai IEY",
+    "Dubai IEZ"
   ],
   "pending_n2": [
     {
@@ -61064,6 +61114,26 @@
       "name": "Vida Emirates Hills - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJk1XfuqFsXz4RIKWb4LRhdD0",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJewGFQU1rXz4RelB5IZerYXw": {
+      "name": "iDrive Car Rental Co - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJewGFQU1rXz4RelB5IZerYXw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJfSbLV2NrXz4RV2ZlJnxRAj0": {
+      "name": "Views - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJfSbLV2NrXz4RV2ZlJnxRAj0",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJe4opfYNOWIMRJtj0s6i9Vvg": {
+      "name": "Key Bridge Advisory - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJe4opfYNOWIMRJtj0s6i9Vvg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJty4-FIRpXz4RXOVvTSmy59w": {
+      "name": "Keyani Health Services - Dubai - Émirats arabes unis",
+      "place_id": "ChIJty4-FIRpXz4RXOVvTSmy59w",
+      "types": "establishment, health, point_of_interest"
     }
   }
 }

@@ -930,6 +930,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Views - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJfSbLV2NrXz4RV2ZlJnxRAj0",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Ville sportive de Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJbzp2Od1tXz4RTEvxuGfM4Fc",
     "types": "neighborhood, political",
@@ -7236,6 +7242,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Key Bridge Advisory - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJe4opfYNOWIMRJtj0s6i9Vvg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Keyani Health Services - Dubai - Émirats arabes unis",
+    "place_id": "ChIJty4-FIRpXz4RXOVvTSmy59w",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Khor Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJ_QDHKkFDXz4RiE_I1Srd_8E",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -9105,6 +9123,12 @@
     "name": "haus & haus Holiday Rental - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJGwK-tW9rXz4R_slXL67_mr8",
     "types": "establishment, lodging, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "iDrive Car Rental Co - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJewGFQU1rXz4RelB5IZerYXw",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
