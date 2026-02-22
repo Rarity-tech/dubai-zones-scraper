@@ -6869,7 +6869,57 @@
     "Dubai MBC",
     "Dubai MBD",
     "Dubai MBE",
-    "Dubai MBF"
+    "Dubai MBF",
+    "Dubai MBG",
+    "Dubai MBH",
+    "Dubai MBI",
+    "Dubai MBJ",
+    "Dubai MBK",
+    "Dubai MBL",
+    "Dubai MBM",
+    "Dubai MBN",
+    "Dubai MBO",
+    "Dubai MBP",
+    "Dubai MBQ",
+    "Dubai MBR",
+    "Dubai MBS",
+    "Dubai MBT",
+    "Dubai MBU",
+    "Dubai MBV",
+    "Dubai MBW",
+    "Dubai MBX",
+    "Dubai MBY",
+    "Dubai MBZ",
+    "Dubai MCA",
+    "Dubai MCB",
+    "Dubai MCC",
+    "Dubai MCD",
+    "Dubai MCE",
+    "Dubai MCF",
+    "Dubai MCG",
+    "Dubai MCH",
+    "Dubai MCI",
+    "Dubai MCJ",
+    "Dubai MCK",
+    "Dubai MCL",
+    "Dubai MCM",
+    "Dubai MCN",
+    "Dubai MCO",
+    "Dubai MCP",
+    "Dubai MCQ",
+    "Dubai MCR",
+    "Dubai MCS",
+    "Dubai MCT",
+    "Dubai MCU",
+    "Dubai MCV",
+    "Dubai MCW",
+    "Dubai MCX",
+    "Dubai MCY",
+    "Dubai MCZ",
+    "Dubai MDA",
+    "Dubai MDB",
+    "Dubai MDC",
+    "Dubai MDD"
   ],
   "pending_n2": [
     {
@@ -65433,6 +65483,41 @@
     "ChIJH8YcCFNpXz4RQUHcCJoYdyI": {
       "name": "MAIL BOXES ETC - BAY SQUARE - Dubai - Émirats arabes unis",
       "place_id": "ChIJH8YcCFNpXz4RQUHcCJoYdyI",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJU8M-OABlXz4RRDkmXmEWsT4": {
+      "name": "MBG Villa Villanova 224 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJU8M-OABlXz4RRDkmXmEWsT4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJMeQk4ZZdXz4RjE9p9Bn4jpM": {
+      "name": "MBL - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMeQk4ZZdXz4RjE9p9Bn4jpM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJLxvQ4EFgXz4RKkTHeiwB_b8": {
+      "name": "MBRSC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJLxvQ4EFgXz4RKkTHeiwB_b8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJvVnlpjddXz4RY11gwpxIcgw": {
+      "name": "Mohammed Bin Rashid University of Medicine and Health Sciences - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJvVnlpjddXz4RY11gwpxIcgw",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJN8p9FvlpXz4RT4fPC4mXKuo": {
+      "name": "MBT Zinc and Copper Building Metal Products Trading LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJN8p9FvlpXz4RT4fPC4mXKuo",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJI6ogqPxdXz4RzCmTBPo0qKQ": {
+      "name": "Adventure Island Deira City Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJI6ogqPxdXz4RzCmTBPo0qKQ",
+      "types": "amusement_park, establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJJY3k441CXz4RLJvgs3zTyps": {
+      "name": "McKinsey & Company - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJY3k441CXz4RLJvgs3zTyps",
       "types": "establishment, point_of_interest"
     }
   }

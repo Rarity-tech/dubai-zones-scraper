@@ -1518,6 +1518,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Adventure Island Deira City Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJI6ogqPxdXz4RzCmTBPo0qKQ",
+    "types": "amusement_park, establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Adventure Island JBR - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJueUFvksVXz4R6m29javtjdQ",
     "types": "amusement_park, establishment, point_of_interest",
@@ -9264,9 +9270,21 @@
     "zone_type": "area"
   },
   {
+    "name": "MBG Villa Villanova 224 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJU8M-OABlXz4RRDkmXmEWsT4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "MBK Tower - Dubaï - Émirats arabes unis",
     "place_id": "ChIJf3YHMNZpXz4RKOxDjUTegIg",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "MBL - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMeQk4ZZdXz4RjE9p9Bn4jpM",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -9278,6 +9296,18 @@
   {
     "name": "MBR city - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ6ZQl_tJpXz4R0JxzxOTHXyA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MBRSC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJLxvQ4EFgXz4RKkTHeiwB_b8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "MBT Zinc and Copper Building Metal Products Trading LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJN8p9FvlpXz4RT4fPC4mXKuo",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -9558,6 +9588,12 @@
     "zone_type": "area"
   },
   {
+    "name": "McKinsey & Company - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJY3k441CXz4RLJvgs3zTyps",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Mediclinic Parkview Hospital - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJVVVVVWJuXz4RWskov-gc-ik",
     "types": "dentist, doctor, establishment, health, hospital, point_of_interest",
@@ -9633,6 +9669,12 @@
     "name": "Mnasm 12 - Dubai - Émirats arabes unis",
     "place_id": "ChIJ7ZFgZI1dXz4Rl8OK0iQgS9k",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Mohammed Bin Rashid University of Medicine and Health Sciences - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJvVnlpjddXz4RY11gwpxIcgw",
+    "types": "establishment, point_of_interest, university",
     "zone_type": "area"
   },
   {
