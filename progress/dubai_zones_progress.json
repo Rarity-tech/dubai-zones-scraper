@@ -5469,7 +5469,57 @@
     "Dubai JTG",
     "Dubai JTH",
     "Dubai JTI",
-    "Dubai JTJ"
+    "Dubai JTJ",
+    "Dubai JTK",
+    "Dubai JTL",
+    "Dubai JTM",
+    "Dubai JTN",
+    "Dubai JTO",
+    "Dubai JTP",
+    "Dubai JTQ",
+    "Dubai JTR",
+    "Dubai JTS",
+    "Dubai JTT",
+    "Dubai JTU",
+    "Dubai JTV",
+    "Dubai JTW",
+    "Dubai JTX",
+    "Dubai JTY",
+    "Dubai JTZ",
+    "Dubai JUA",
+    "Dubai JUB",
+    "Dubai JUC",
+    "Dubai JUD",
+    "Dubai JUE",
+    "Dubai JUF",
+    "Dubai JUG",
+    "Dubai JUH",
+    "Dubai JUI",
+    "Dubai JUJ",
+    "Dubai JUK",
+    "Dubai JUL",
+    "Dubai JUM",
+    "Dubai JUN",
+    "Dubai JUO",
+    "Dubai JUP",
+    "Dubai JUQ",
+    "Dubai JUR",
+    "Dubai JUS",
+    "Dubai JUT",
+    "Dubai JUU",
+    "Dubai JUV",
+    "Dubai JUW",
+    "Dubai JUX",
+    "Dubai JUY",
+    "Dubai JUZ",
+    "Dubai JVA",
+    "Dubai JVB",
+    "Dubai JVC",
+    "Dubai JVD",
+    "Dubai JVE",
+    "Dubai JVF",
+    "Dubai JVG",
+    "Dubai JVH"
   ],
   "pending_n2": [
     {
@@ -62904,6 +62954,41 @@
       "name": "JSS International School Football Field - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJBcM9TbltXz4RfN6EKMjDow4",
       "types": "establishment, point_of_interest, university"
+    },
+    "ChIJtYh6Ry1DXz4RvSwpqCzDvHo": {
+      "name": "RTA Clinic (JTS Medical Centre) | RTA Permit & Driving License Renewal | Commercial Permit | RTA-approved Eye Test in Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJtYh6Ry1DXz4RvSwpqCzDvHo",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJF2L5QiRzXz4RGbxiEoy5h_Y": {
+      "name": "Jubilee Park | Expo City Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJF2L5QiRzXz4RGbxiEoy5h_Y",
+      "types": "establishment, park, point_of_interest"
+    },
+    "ChIJmba9GEFCXz4R9r2KjN2dZbo": {
+      "name": "Town Centre Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJmba9GEFCXz4R9r2KjN2dZbo",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJ0d59gwyR9QERGBjjpuoRe9k": {
+      "name": "Juju Wakeclub JA (Wakey Dubai) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ0d59gwyR9QERGBjjpuoRe9k",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ39qXPABrXz4RNsS8DwnoIrk": {
+      "name": "jujus house 🤍 - 22nd Street - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ39qXPABrXz4RNsS8DwnoIrk",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJhz8g10NrXz4RxaOd3VwQ_J0": {
+      "name": "Julius Meinl General Trading LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhz8g10NrXz4RxaOd3VwQ_J0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJm4wm5xlqXz4Rspc0aSiWMpo": {
+      "name": "Just Be Wellbeing Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJm4wm5xlqXz4Rspc0aSiWMpo",
+      "types": "establishment, health, point_of_interest"
     }
   }
 }

@@ -7872,6 +7872,24 @@
     "zone_type": "area"
   },
   {
+    "name": "Jubilee Park | Expo City Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJF2L5QiRzXz4RGbxiEoy5h_Y",
+    "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Juju Wakeclub JA (Wakey Dubai) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ0d59gwyR9QERGBjjpuoRe9k",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Julius Meinl General Trading LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJhz8g10NrXz4RxaOd3VwQ_J0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Jumeirah Al Naseem - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ2zaVq1ZqXz4Ra1DZz3zqDgg",
     "types": "establishment, lodging, point_of_interest",
@@ -7935,6 +7953,12 @@
     "name": "June, Arabian Ranches 3 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJUSwpOgBlXz4RsiWns0WRxio",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Just Be Wellbeing Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJm4wm5xlqXz4Rspc0aSiWMpo",
+    "types": "establishment, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -8682,6 +8706,12 @@
     "zone_type": "area"
   },
   {
+    "name": "RTA Clinic (JTS Medical Centre) | RTA Permit & Driving License Renewal | Commercial Permit | RTA-approved Eye Test in Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJtYh6Ry1DXz4RvSwpqCzDvHo",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "RV BIN LAHEJ كرفانات بن لاحج - Dubai - Émirats arabes unis",
     "place_id": "ChIJP2U-fY1pXz4RR946C5oiZqk",
     "types": "establishment, point_of_interest",
@@ -9345,6 +9375,12 @@
     "name": "Towers Rotana - Dubai - Émirats arabes unis",
     "place_id": "ChIJxYvl8otCXz4Rb7WNVpc6p_0",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Town Centre Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJmba9GEFCXz4R9r2KjN2dZbo",
+    "types": "establishment, point_of_interest, shopping_mall",
     "zone_type": "area"
   },
   {
@@ -10041,6 +10077,12 @@
     "name": "jomira - Dubai - Émirats arabes unis",
     "place_id": "ChIJxZ3-QwBDXz4RBI-FXLEBR6g",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "jujus house 🤍 - 22nd Street - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ39qXPABrXz4RNsS8DwnoIrk",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
