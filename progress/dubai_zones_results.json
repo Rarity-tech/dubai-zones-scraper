@@ -13938,6 +13938,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Tiger Sky Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6-3aBQBpXz4R7foEUszwDak",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Tiger Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJebQucVBrXz4R6d6hhhXqyXk",
     "types": "geocode, premise",
@@ -13971,6 +13977,12 @@
     "name": "Times Square Center Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJS7sSW9NrXz4R2DZ-emCQUWI",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tokyo Modern Contracting - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAX1Cp-hrXz4RxHGrdZ_X7b4",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
