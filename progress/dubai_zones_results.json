@@ -2412,6 +2412,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Aster Pharmacy - Zen Cluster, Discovery Gardens (Aster MGP) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJl740nFkTXz4ReEbulmhtsKA",
+    "types": "clothing_store, drugstore, establishment, food, health, pharmacy, point_of_interest, store",
+    "zone_type": "area"
+  },
+  {
     "name": "Aswaaq Al Warqaa - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ_-NeR9ZgXz4R9iI4VZXvaVU",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -10746,6 +10752,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The Canvas Hotel Dubai - MGallery - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDRCGhgZDXz4RbQHDQPNWk2w",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "The Dubai EDITION - Dubaï - Émirats arabes unis",
     "place_id": "ChIJA-SnWy9oXz4RTMJwFyjG4-s",
     "types": "establishment, lodging, point_of_interest",
@@ -10803,6 +10815,12 @@
     "name": "The Pier Residence by LMD - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJY2e_TABDXz4Rk4E7QZtSL00",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "The Retreat Palm Dubai MGallery by Sofitel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJYRkjBcpqXz4RVKnVhBQ7Rso",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {

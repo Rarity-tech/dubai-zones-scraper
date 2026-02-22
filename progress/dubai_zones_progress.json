@@ -6969,7 +6969,57 @@
     "Dubai MEY",
     "Dubai MEZ",
     "Dubai MFA",
-    "Dubai MFB"
+    "Dubai MFB",
+    "Dubai MFC",
+    "Dubai MFD",
+    "Dubai MFE",
+    "Dubai MFF",
+    "Dubai MFG",
+    "Dubai MFH",
+    "Dubai MFI",
+    "Dubai MFJ",
+    "Dubai MFK",
+    "Dubai MFL",
+    "Dubai MFM",
+    "Dubai MFN",
+    "Dubai MFO",
+    "Dubai MFP",
+    "Dubai MFQ",
+    "Dubai MFR",
+    "Dubai MFS",
+    "Dubai MFT",
+    "Dubai MFU",
+    "Dubai MFV",
+    "Dubai MFW",
+    "Dubai MFX",
+    "Dubai MFY",
+    "Dubai MFZ",
+    "Dubai MGA",
+    "Dubai MGB",
+    "Dubai MGC",
+    "Dubai MGD",
+    "Dubai MGE",
+    "Dubai MGF",
+    "Dubai MGG",
+    "Dubai MGH",
+    "Dubai MGI",
+    "Dubai MGJ",
+    "Dubai MGK",
+    "Dubai MGL",
+    "Dubai MGM",
+    "Dubai MGN",
+    "Dubai MGO",
+    "Dubai MGP",
+    "Dubai MGQ",
+    "Dubai MGR",
+    "Dubai MGS",
+    "Dubai MGT",
+    "Dubai MGU",
+    "Dubai MGV",
+    "Dubai MGW",
+    "Dubai MGX",
+    "Dubai MGY",
+    "Dubai MGZ"
   ],
   "pending_n2": [
     {
@@ -65689,6 +65739,21 @@
       "name": "Meydan Heights Retail Centre - Dubai - Émirats arabes unis",
       "place_id": "ChIJ78Djb3VnXz4R4b_tE6hKMOQ",
       "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJDRCGhgZDXz4RbQHDQPNWk2w": {
+      "name": "The Canvas Hotel Dubai - MGallery - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDRCGhgZDXz4RbQHDQPNWk2w",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJYRkjBcpqXz4RVKnVhBQ7Rso": {
+      "name": "The Retreat Palm Dubai MGallery by Sofitel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJYRkjBcpqXz4RVKnVhBQ7Rso",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJl740nFkTXz4ReEbulmhtsKA": {
+      "name": "Aster Pharmacy - Zen Cluster, Discovery Gardens (Aster MGP) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJl740nFkTXz4ReEbulmhtsKA",
+      "types": "clothing_store, drugstore, establishment, food, health, pharmacy, point_of_interest, store"
     }
   }
 }
