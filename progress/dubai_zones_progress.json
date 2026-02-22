@@ -2119,7 +2119,57 @@
     "Dubai CLK",
     "Dubai CLL",
     "Dubai CLM",
-    "Dubai CLN"
+    "Dubai CLN",
+    "Dubai CLO",
+    "Dubai CLP",
+    "Dubai CLQ",
+    "Dubai CLR",
+    "Dubai CLS",
+    "Dubai CLT",
+    "Dubai CLU",
+    "Dubai CLV",
+    "Dubai CLW",
+    "Dubai CLX",
+    "Dubai CLY",
+    "Dubai CLZ",
+    "Dubai CNA",
+    "Dubai CNB",
+    "Dubai CNC",
+    "Dubai CND",
+    "Dubai CNE",
+    "Dubai CNF",
+    "Dubai CNG",
+    "Dubai CNH",
+    "Dubai CNI",
+    "Dubai CNJ",
+    "Dubai CNK",
+    "Dubai CNL",
+    "Dubai CNM",
+    "Dubai CNN",
+    "Dubai CNO",
+    "Dubai CNP",
+    "Dubai CNQ",
+    "Dubai CNR",
+    "Dubai CNS",
+    "Dubai CNT",
+    "Dubai CNU",
+    "Dubai CNV",
+    "Dubai CNW",
+    "Dubai CNX",
+    "Dubai CNY",
+    "Dubai CNZ",
+    "Dubai COA",
+    "Dubai COB",
+    "Dubai COC",
+    "Dubai COD",
+    "Dubai COE",
+    "Dubai COF",
+    "Dubai COG",
+    "Dubai COH",
+    "Dubai COI",
+    "Dubai COJ",
+    "Dubai COK",
+    "Dubai COL"
   ],
   "pending_n2": [
     {
@@ -56644,6 +56694,56 @@
       "name": "Clinica Joelle Dubai - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJRdClBABqXz4R2mFswhn31MQ",
       "types": "doctor, establishment, health, point_of_interest"
+    },
+    "ChIJlXbD235tXz4RDLFHGseYiaw": {
+      "name": "Cloud Tower by Tiger Properties, JVT - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJlXbD235tXz4RDLFHGseYiaw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ93m8jtpcXz4RaxuU0cysPmc": {
+      "name": "tour de l'horloge, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ93m8jtpcXz4RaxuU0cysPmc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ37B21R8VXz4RNpyt2FHiwj0": {
+      "name": "SLS Residences at Palm Jumeirah, Palm Jumeirah - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ37B21R8VXz4RNpyt2FHiwj0",
+      "types": "establishment, point_of_interest"
+    },
+    "EjFDbHVzdGVyIEEgLSBEdWJhaSAtIER1YmHDryAtIMOJbWlyYXRzIGFyYWJlcyB1bmlzIi4qLAoUChIJM_GIU00TXz4Rh6fct4km1B4SFAoSCUXG2WpJQ18-EWJRKYRQbua9": {
+      "name": "Cluster A - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "EjFDbHVzdGVyIEEgLSBEdWJhaSAtIER1YmHDryAtIMOJbWlyYXRzIGFyYWJlcyB1bmlzIi4qLAoUChIJM_GIU00TXz4Rh6fct4km1B4SFAoSCUXG2WpJQ18-EWJRKYRQbua9",
+      "types": "geocode, route"
+    },
+    "ChIJgUSuVKxsXz4R8VXHTF0USS0": {
+      "name": "JLT Cluster D - Cluster D - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgUSuVKxsXz4R8VXHTF0USS0",
+      "types": "geocode, premise"
+    },
+    "ChIJyYpX8hgbXz4RFO7GvjcvFXE": {
+      "name": "Dubai Waterfront - Émirats arabes unis",
+      "place_id": "ChIJyYpX8hgbXz4RFO7GvjcvFXE",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJazs8Ux5qXz4RF5Hn5Tia0YE": {
+      "name": "Cocoona Clinics | Aesthetic Procedures | Plastic Surgery I Hair Transplant I Nutrition - Dubai - Émirats arabes unis",
+      "place_id": "ChIJazs8Ux5qXz4RF5Hn5Tia0YE",
+      "types": "doctor, establishment, health, point_of_interest"
+    },
+    "ChIJXWM28ThDXz4Rqp69suwZil8": {
+      "name": "Musée du Café, Dubai, Émirats arabes unis",
+      "place_id": "ChIJXWM28ThDXz4Rqp69suwZil8",
+      "types": "cafe, establishment, food, home_goods_store, museum, point_of_interest, store, tourist_attraction"
+    },
+    "ChIJ-9G3-85pXz4RNz_dN7hmAPs": {
+      "name": "Collective 2.0 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ-9G3-85pXz4RNz_dN7hmAPs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJHU9CErZuXz4RLJgz5ioHuw0": {
+      "name": "Collective - Tower 1, Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHU9CErZuXz4RLJgz5ioHuw0",
+      "types": "establishment, point_of_interest"
     }
   }
 }

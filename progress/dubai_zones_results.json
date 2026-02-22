@@ -3540,6 +3540,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Cloud Tower by Tiger Properties, JVT - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJlXbD235tXz4RDLFHGseYiaw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Clover Bay Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ6atL-zppXz4RrrjZbt-Fpd0",
     "types": "establishment, point_of_interest",
@@ -3558,6 +3564,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Cluster A - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "EjFDbHVzdGVyIEEgLSBEdWJhaSAtIER1YmHDryAtIMOJbWlyYXRzIGFyYWJlcyB1bmlzIi4qLAoUChIJM_GIU00TXz4Rh6fct4km1B4SFAoSCUXG2WpJQ18-EWJRKYRQbua9",
+    "types": "geocode, route",
+    "zone_type": "area"
+  },
+  {
     "name": "Cluster D - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "EjFDbHVzdGVyIEQgLSBEdWJhaSAtIER1YmHDryAtIMOJbWlyYXRzIGFyYWJlcyB1bmlzIi4qLAoUChIJfQZv-KxsXz4R6AwZSpzGZHoSFAoSCUXG2WpJQ18-EWJRKYRQbua9",
     "types": "geocode, route",
@@ -3566,6 +3578,24 @@
   {
     "name": "Cocacola Arena, Dubai, Émirats arabes unis",
     "place_id": "ChIJ_fQfFNtDXz4RTK9YhGxyztM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cocoona Clinics | Aesthetic Procedures | Plastic Surgery I Hair Transplant I Nutrition - Dubai - Émirats arabes unis",
+    "place_id": "ChIJazs8Ux5qXz4RF5Hn5Tia0YE",
+    "types": "doctor, establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Collective - Tower 1, Dubai Hills Estate - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHU9CErZuXz4RLJgz5ioHuw0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Collective 2.0 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ-9G3-85pXz4RNz_dN7hmAPs",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -4194,6 +4224,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Waterfront - Émirats arabes unis",
+    "place_id": "ChIJyYpX8hgbXz4RFO7GvjcvFXE",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Wharf Tower 1 - Dubaï - Émirats arabes unis",
     "place_id": "ChIJrTKy0c1dXz4RRqOa_r6ogkA",
     "types": "establishment, point_of_interest",
@@ -4800,6 +4836,12 @@
     "zone_type": "area"
   },
   {
+    "name": "JLT Cluster D - Cluster D - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgUSuVKxsXz4R8VXHTF0USS0",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "JLT Cluster U - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJJUG6nKdsXz4RoUOos4LjbA4",
     "types": "geocode, premise",
@@ -5304,6 +5346,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Musée du Café, Dubai, Émirats arabes unis",
+    "place_id": "ChIJXWM28ThDXz4Rqp69suwZil8",
+    "types": "cafe, establishment, food, home_goods_store, museum, point_of_interest, store, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Musée du futur, Dubai, Émirats arabes unis",
     "place_id": "ChIJqU_DoUtDXz4RxC8gnP8G_Ss",
     "types": "establishment, food, museum, point_of_interest, restaurant, store",
@@ -5655,6 +5703,12 @@
     "name": "SLS Dubai Hotel & Residences - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJdd8SeO1pXz4R4BUPbTuiWGc",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "SLS Residences at Palm Jumeirah, Palm Jumeirah - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ37B21R8VXz4RNpyt2FHiwj0",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6591,6 +6645,12 @@
     "name": "opéra, Dubai, Émirats arabes unis",
     "place_id": "ChIJkdkorypoXz4RY_9KOq__Vcg",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "tour de l'horloge, Dubai, Émirats arabes unis",
+    "place_id": "ChIJ93m8jtpcXz4RaxuU0cysPmc",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
