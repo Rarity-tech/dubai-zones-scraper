@@ -7619,7 +7619,57 @@
     "Dubai QGY",
     "Dubai QGZ",
     "Dubai QHA",
-    "Dubai QHB"
+    "Dubai QHB",
+    "Dubai QHC",
+    "Dubai QHD",
+    "Dubai QHE",
+    "Dubai QHF",
+    "Dubai QHG",
+    "Dubai QHH",
+    "Dubai QHI",
+    "Dubai QHJ",
+    "Dubai QHK",
+    "Dubai QHL",
+    "Dubai QHM",
+    "Dubai QHN",
+    "Dubai QHO",
+    "Dubai QHP",
+    "Dubai QHQ",
+    "Dubai QHR",
+    "Dubai QHS",
+    "Dubai QHT",
+    "Dubai QHU",
+    "Dubai QHV",
+    "Dubai QHW",
+    "Dubai QHX",
+    "Dubai QHY",
+    "Dubai QHZ",
+    "Dubai QIA",
+    "Dubai QIB",
+    "Dubai QIC",
+    "Dubai QID",
+    "Dubai QIE",
+    "Dubai QIF",
+    "Dubai QIG",
+    "Dubai QIH",
+    "Dubai QII",
+    "Dubai QIJ",
+    "Dubai QIK",
+    "Dubai QIL",
+    "Dubai QIM",
+    "Dubai QIN",
+    "Dubai QIO",
+    "Dubai QIP",
+    "Dubai QIQ",
+    "Dubai QIR",
+    "Dubai QIS",
+    "Dubai QIT",
+    "Dubai QIU",
+    "Dubai QIV",
+    "Dubai QIW",
+    "Dubai QIX",
+    "Dubai QIY",
+    "Dubai QIZ"
   ],
   "pending_n2": [
     {
@@ -66818,6 +66868,41 @@
     "ChIJxwwPPrBtXz4REdxMVZK9ngQ": {
       "name": "Q GARDENS LOFTS - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJxwwPPrBtXz4REdxMVZK9ngQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ9cCnfrFrXz4R5VgMKWc5c-U": {
+      "name": "Quirónsalud Specialty Hospital - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9cCnfrFrXz4R5VgMKWc5c-U",
+      "types": "dentist, doctor, establishment, health, hospital, physiotherapist, point_of_interest"
+    },
+    "ChIJi2AK8iBdXz4RbIQ0vjSUtvU": {
+      "name": "Dubai Shopping Center - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJi2AK8iBdXz4RbIQ0vjSUtvU",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJaZGkquAZ_kARttkbzGIkPpI": {
+      "name": "Simply Comfort Suites in Sarai Palm Jumeirah - Dubai - Émirats arabes unis",
+      "place_id": "ChIJaZGkquAZ_kARttkbzGIkPpI",
+      "types": "establishment, point_of_interest, real_estate_agency, travel_agency"
+    },
+    "ChIJd7fIA05DXz4RTOKec4eO2Fs": {
+      "name": "Simba Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJd7fIA05DXz4RTOKec4eO2Fs",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJEf3aCJhrXz4RJEs6sDRrjdg": {
+      "name": "Qisma holiday homes - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJEf3aCJhrXz4RJEs6sDRrjdg",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJewYBbtddXz4RIq8f9fO9Iqc": {
+      "name": "Al Twar 4 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJewYBbtddXz4RIq8f9fO9Iqc",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJt_nhnVBdXz4RIu-ub81vPrs": {
+      "name": "Al Qiyadah Metro Station - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJt_nhnVBdXz4RIu-ub81vPrs",
       "types": "establishment, point_of_interest"
     }
   }

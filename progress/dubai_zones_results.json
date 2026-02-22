@@ -636,6 +636,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Al Twar 4 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJewYBbtddXz4RIq8f9fO9Iqc",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Al Warqa 1 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJeS1TsCphXz4RVir3-9BG4zg",
     "types": "geocode, neighborhood, political",
@@ -1815,6 +1821,12 @@
     "name": "Al Nasr Leisure Land, Dubai, Émirats arabes unis",
     "place_id": "ChIJhwG2Yc1CXz4RmRMPJjuSpxE",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Al Qiyadah Metro Station - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJt_nhnVBdXz4RIu-ub81vPrs",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -5727,6 +5739,12 @@
     "name": "Dubai Science Park by TECOM Group - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ6RV_E4xuXz4RT5q5a84N6I8",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Shopping Center - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJi2AK8iBdXz4RbIQ0vjSUtvU",
+    "types": "establishment, point_of_interest, shopping_mall",
     "zone_type": "area"
   },
   {
@@ -10578,6 +10596,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Qisma holiday homes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJEf3aCJhrXz4RJEs6sDRrjdg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Quad Biking Dubai - Charjah - Émirats arabes unis",
     "place_id": "ChIJfY1d9_FnXz4RywolntXh7pE",
     "types": "establishment, point_of_interest",
@@ -10605,6 +10629,12 @@
     "name": "Queens Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJAauOmZhdXz4Ram_S7xflSGM",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Quirónsalud Specialty Hospital - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9cCnfrFrXz4R5VgMKWc5c-U",
+    "types": "dentist, doctor, establishment, health, hospital, physiotherapist, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -10983,6 +11013,18 @@
     "name": "Silicon Gates 1 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJlU1ZiyllXz4RTAdbALpT_Fk",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Simba Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJd7fIA05DXz4RTOKec4eO2Fs",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Simply Comfort Suites in Sarai Palm Jumeirah - Dubai - Émirats arabes unis",
+    "place_id": "ChIJaZGkquAZ_kARttkbzGIkPpI",
+    "types": "establishment, point_of_interest, real_estate_agency, travel_agency",
     "zone_type": "area"
   },
   {
