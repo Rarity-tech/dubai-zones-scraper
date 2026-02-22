@@ -869,7 +869,57 @@
     "Dubai ANI",
     "Dubai ANJ",
     "Dubai ANK",
-    "Dubai ANL"
+    "Dubai ANL",
+    "Dubai ANM",
+    "Dubai ANN",
+    "Dubai ANO",
+    "Dubai ANP",
+    "Dubai ANQ",
+    "Dubai ANR",
+    "Dubai ANS",
+    "Dubai ANT",
+    "Dubai ANU",
+    "Dubai ANV",
+    "Dubai ANW",
+    "Dubai ANX",
+    "Dubai ANY",
+    "Dubai ANZ",
+    "Dubai AOA",
+    "Dubai AOB",
+    "Dubai AOC",
+    "Dubai AOD",
+    "Dubai AOE",
+    "Dubai AOF",
+    "Dubai AOG",
+    "Dubai AOH",
+    "Dubai AOI",
+    "Dubai AOJ",
+    "Dubai AOK",
+    "Dubai AOL",
+    "Dubai AOM",
+    "Dubai AON",
+    "Dubai AOO",
+    "Dubai AOP",
+    "Dubai AOQ",
+    "Dubai AOR",
+    "Dubai AOS",
+    "Dubai AOT",
+    "Dubai AOU",
+    "Dubai AOV",
+    "Dubai AOW",
+    "Dubai AOX",
+    "Dubai AOY",
+    "Dubai AOZ",
+    "Dubai APA",
+    "Dubai APB",
+    "Dubai APC",
+    "Dubai APD",
+    "Dubai APE",
+    "Dubai APF",
+    "Dubai APG",
+    "Dubai APH",
+    "Dubai API",
+    "Dubai APJ"
   ],
   "pending_n2": [
     {
@@ -53789,6 +53839,66 @@
       "name": "Bank Street Building - D79 - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJrQDLSiVDXz4RxqPzqh_uxts",
       "types": "geocode, premise"
+    },
+    "ChIJH7XFqi5DXz4Rzl_65wuTXSw": {
+      "name": "Ansar Gallery - Karama - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJH7XFqi5DXz4Rzl_65wuTXSw",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJzWEyg4JDXz4R9lHuR-bUOHY": {
+      "name": "Anwa - Al Mina Street - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzWEyg4JDXz4R9lHuR-bUOHY",
+      "types": "geocode, premise"
+    },
+    "ChIJa2ZdYwBDXz4R7D_ZSQ--pHY": {
+      "name": "Anwa Aria by Omniyat - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJa2ZdYwBDXz4R7D_ZSQ--pHY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJeeYBGn1vXz4Rne4aJ7hr5jM": {
+      "name": "ANYTIME FITNESS ARJAN - Dubai - Émirats arabes unis",
+      "place_id": "ChIJeeYBGn1vXz4Rne4aJ7hr5jM",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJiSrY2JttXz4RVMQMdSLZqvA": {
+      "name": "AOFM Makeup Academy (London Academy Of Freelance Makeup} - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJiSrY2JttXz4RVMQMdSLZqvA",
+      "types": "establishment, point_of_interest, university"
+    },
+    "ChIJjYvuxENqXz4RQi8x5NMZDmU": {
+      "name": "A One Watersports Jet Ski Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJjYvuxENqXz4RQi8x5NMZDmU",
+      "types": "establishment, point_of_interest, school, tourist_attraction, travel_agency"
+    },
+    "ChIJD9dW725vXz4R4JGzt60bokY": {
+      "name": "ZOO Digital Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJD9dW725vXz4R4JGzt60bokY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJWwXGAyxrXz4RujuuiKA7fKc": {
+      "name": "Zool Barbershop - Dubai - Émirats arabes unis",
+      "place_id": "ChIJWwXGAyxrXz4RujuuiKA7fKc",
+      "types": "establishment, hair_care, health, point_of_interest"
+    },
+    "ChIJNx8SyXJrXz4RriTtXs7MhZg": {
+      "name": "Zoomies Dog Daycare & Dog Boarding - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJNx8SyXJrXz4RriTtXs7MhZg",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJAekX2qpsXz4RA4vw8b3-o1k": {
+      "name": "Dubai Apartments - Marina - Silverene - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJAekX2qpsXz4RA4vw8b3-o1k",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJq6qq6nlrXz4RSNVH_ZJc2bc": {
+      "name": "API Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJq6qq6nlrXz4RSNVH_ZJc2bc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJXVIWi05nXz4R02ttyhNj79A": {
+      "name": "API Horizon Pointe - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJXVIWi05nXz4R02ttyhNj79A",
+      "types": "establishment, point_of_interest"
     }
   }
 }

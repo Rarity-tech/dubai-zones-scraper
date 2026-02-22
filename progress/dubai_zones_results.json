@@ -780,6 +780,12 @@
     "zone_type": "area"
   },
   {
+    "name": "A One Watersports Jet Ski Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJjYvuxENqXz4RQi8x5NMZDmU",
+    "types": "establishment, point_of_interest, school, tourist_attraction, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "ABJAD CROWN Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ8f8_qbdcXz4RW4Cl0KJsjRo",
     "types": "establishment, lodging, point_of_interest",
@@ -908,6 +914,30 @@
   {
     "name": "AMSA 2 B Building - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJtWs4bgBtXz4RSpPs6UTr8x0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ANYTIME FITNESS ARJAN - Dubai - Émirats arabes unis",
+    "place_id": "ChIJeeYBGn1vXz4Rne4aJ7hr5jM",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "AOFM Makeup Academy (London Academy Of Freelance Makeup} - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJiSrY2JttXz4RVMQMdSLZqvA",
+    "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
+    "name": "API Horizon Pointe - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJXVIWi05nXz4R02ttyhNj79A",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "API Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJq6qq6nlrXz4RSNVH_ZJc2bc",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -1578,9 +1608,27 @@
     "zone_type": "area"
   },
   {
+    "name": "Ansar Gallery - Karama - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJH7XFqi5DXz4Rzl_65wuTXSw",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
     "name": "Ansar Mall - Dubai - Charjah - Émirats arabes unis",
     "place_id": "ChIJn0bVJHhcXz4RsLXPz4lcKR8",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Anwa - Al Mina Street - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzWEyg4JDXz4R9lHuR-bUOHY",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Anwa Aria by Omniyat - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJa2ZdYwBDXz4R7D_ZSQ--pHY",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -2235,6 +2283,12 @@
     "name": "Dubai Airshow, Dubai World Center - Dubaï - Émirats arabes unis",
     "place_id": "ChIJm9guhBVZXz4RidIlW7hTnqM",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Apartments - Marina - Silverene - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAekX2qpsXz4RA4vw8b3-o1k",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -4554,6 +4608,12 @@
     "zone_type": "area"
   },
   {
+    "name": "ZOO Digital Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJD9dW725vXz4R4JGzt60bokY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Zabeel Palace - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJWQnUnqVCXz4RuFhIAP-PUGE",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -4593,6 +4653,18 @@
     "name": "Zimbabwe - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJTWToZv5AXz4R_5K6rwGu2dc",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zool Barbershop - Dubai - Émirats arabes unis",
+    "place_id": "ChIJWwXGAyxrXz4RujuuiKA7fKc",
+    "types": "establishment, hair_care, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zoomies Dog Daycare & Dog Boarding - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJNx8SyXJrXz4RriTtXs7MhZg",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
