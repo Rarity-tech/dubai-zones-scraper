@@ -1919,7 +1919,57 @@
     "Dubai CDS",
     "Dubai CDT",
     "Dubai CDU",
-    "Dubai CDV"
+    "Dubai CDV",
+    "Dubai CDW",
+    "Dubai CDX",
+    "Dubai CDY",
+    "Dubai CDZ",
+    "Dubai CEA",
+    "Dubai CEB",
+    "Dubai CEC",
+    "Dubai CED",
+    "Dubai CEE",
+    "Dubai CEF",
+    "Dubai CEG",
+    "Dubai CEH",
+    "Dubai CEI",
+    "Dubai CEJ",
+    "Dubai CEK",
+    "Dubai CEL",
+    "Dubai CEM",
+    "Dubai CEN",
+    "Dubai CEO",
+    "Dubai CEP",
+    "Dubai CEQ",
+    "Dubai CER",
+    "Dubai CES",
+    "Dubai CET",
+    "Dubai CEU",
+    "Dubai CEV",
+    "Dubai CEW",
+    "Dubai CEX",
+    "Dubai CEY",
+    "Dubai CEZ",
+    "Dubai CFA",
+    "Dubai CFB",
+    "Dubai CFC",
+    "Dubai CFD",
+    "Dubai CFE",
+    "Dubai CFF",
+    "Dubai CFG",
+    "Dubai CFH",
+    "Dubai CFI",
+    "Dubai CFJ",
+    "Dubai CFK",
+    "Dubai CFL",
+    "Dubai CFM",
+    "Dubai CFN",
+    "Dubai CFO",
+    "Dubai CFP",
+    "Dubai CFQ",
+    "Dubai CFR",
+    "Dubai CFS",
+    "Dubai CFT"
   ],
   "pending_n2": [
     {
@@ -56234,6 +56284,66 @@
       "name": "Chloe Bye One Medical & Laboratory Equipments Repairing Est. - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ23CydABDXz4RhhR3XYj0pIw",
       "types": "establishment, health, point_of_interest"
+    },
+    "ChIJe0BDumURXz4RrBo_OxXFsIY": {
+      "name": "Cebel Ali Limanı - Dubai - Émirats arabes unis",
+      "place_id": "ChIJe0BDumURXz4RrBo_OxXFsIY",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJzSTnzppcXz4ReyARp6w8pDk": {
+      "name": "Century Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzSTnzppcXz4ReyARp6w8pDk",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJMQt9LvhnXz4RDVNEKJlUYaY": {
+      "name": "Cedar at Dubai Creek Harbour - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMQt9LvhnXz4RDVNEKJlUYaY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJnb2iEIllXz4R1kqkwVZPzqs": {
+      "name": "Cedre Villas - Cluster H - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJnb2iEIllXz4R1kqkwVZPzqs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJGdMbo2SWZwkROi46tFjSKu8": {
+      "name": "CEG Group - Dubai - Émirats arabes unis",
+      "place_id": "ChIJGdMbo2SWZwkROi46tFjSKu8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJWT6CMgBrXz4RvP8YmtuAnbI": {
+      "name": "Ciel Dubai Marina, Vignette Collection by IHG - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJWT6CMgBrXz4RvP8YmtuAnbI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ-x9HaQBDXz4R4Yer5sRhHHU": {
+      "name": "Celadon 1 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ-x9HaQBDXz4R4Yer5sRhHHU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJgVP1fwBlXz4Rfd36iEqicDA": {
+      "name": "Celine By VISION - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJgVP1fwBlXz4Rfd36iEqicDA",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJF4A-poVCXz4RunL6yRdQXck": {
+      "name": "Central Park Towers Offices - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJF4A-poVCXz4RunL6yRdQXck",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJm38eR-ddXz4Rilv3ZtBmJT0": {
+      "name": "center point metro station - Dubai - Émirats arabes unis",
+      "place_id": "ChIJm38eR-ddXz4Rilv3ZtBmJT0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJsb2JbBhDXz4RRU1ylfXjnEQ": {
+      "name": "Citymax Hotel Bur Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJsb2JbBhDXz4RRU1ylfXjnEQ",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJHWrMCLRgXz4R11IK8CvPJJE": {
+      "name": "City Centre Mirdif - Dubai - Émirats arabes unis",
+      "place_id": "ChIJHWrMCLRgXz4R11IK8CvPJJE",
+      "types": "clothing_store, establishment, point_of_interest, shopping_mall, store"
     }
   }
 }

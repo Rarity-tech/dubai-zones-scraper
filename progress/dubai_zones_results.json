@@ -3144,6 +3144,12 @@
     "zone_type": "area"
   },
   {
+    "name": "CEG Group - Dubai - Émirats arabes unis",
+    "place_id": "ChIJGdMbo2SWZwkROi46tFjSKu8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "CK Architecture Interiors LLC - Dubai - Émirats arabes unis",
     "place_id": "ChIJjcI1RrxrXz4RcYlnpaQ7oQY",
     "types": "establishment, point_of_interest",
@@ -3306,15 +3312,57 @@
     "zone_type": "area"
   },
   {
+    "name": "Cebel Ali Limanı - Dubai - Émirats arabes unis",
+    "place_id": "ChIJe0BDumURXz4RrBo_OxXFsIY",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cedar at Dubai Creek Harbour - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMQt9LvhnXz4RDVNEKJlUYaY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cedre Villas - Cluster H - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJnb2iEIllXz4R1kqkwVZPzqs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Celadon 1 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ-x9HaQBDXz4R4Yer5sRhHHU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Celine By VISION - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgVP1fwBlXz4Rfd36iEqicDA",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Centara Mirage Beach Resort Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ3bLZek1FXz4RVy4l67Dq248",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "Central Park Towers Offices - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJF4A-poVCXz4RunL6yRdQXck",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Central Park Towers, Dubai, Émirats arabes unis",
     "place_id": "ChIJq6qqao9CXz4RtdZUoDRMiuI",
     "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Century Mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzSTnzppcXz4ReyARp6w8pDk",
+    "types": "establishment, point_of_interest, shopping_mall",
     "zone_type": "area"
   },
   {
@@ -3348,6 +3396,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Ciel Dubai Marina, Vignette Collection by IHG - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJWT6CMgBrXz4RvP8YmtuAnbI",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Cinq Hôtel Jumeirah Village Circle, Dubai, Émirats arabes unis",
     "place_id": "ChIJLd9BQ0tsXz4RANu9Y4fNC64",
     "types": "establishment, lodging, point_of_interest",
@@ -3360,9 +3414,21 @@
     "zone_type": "area"
   },
   {
+    "name": "City Centre Mirdif - Dubai - Émirats arabes unis",
+    "place_id": "ChIJHWrMCLRgXz4R11IK8CvPJJE",
+    "types": "clothing_store, establishment, point_of_interest, shopping_mall, store",
+    "zone_type": "area"
+  },
+  {
     "name": "City Walk, Dubai, Émirats arabes unis",
     "place_id": "ChIJ51MbN2RCXz4RrTyRq6PN1os",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Citymax Hotel Bur Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJsb2JbBhDXz4RRU1ylfXjnEQ",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6285,6 +6351,12 @@
     "name": "bnbme Holiday Homes by Hoteliers - Dubai - Émirats arabes unis",
     "place_id": "ChIJMcwYYmZtXz4RrCHyo8Tpxr8",
     "types": "establishment, lodging, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "center point metro station - Dubai - Émirats arabes unis",
+    "place_id": "ChIJm38eR-ddXz4Rilv3ZtBmJT0",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
