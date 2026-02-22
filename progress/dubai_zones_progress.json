@@ -2919,7 +2919,57 @@
     "Dubai DTE",
     "Dubai DTF",
     "Dubai DTG",
-    "Dubai DTH"
+    "Dubai DTH",
+    "Dubai DTI",
+    "Dubai DTJ",
+    "Dubai DTK",
+    "Dubai DTL",
+    "Dubai DTM",
+    "Dubai DTN",
+    "Dubai DTO",
+    "Dubai DTP",
+    "Dubai DTQ",
+    "Dubai DTR",
+    "Dubai DTS",
+    "Dubai DTT",
+    "Dubai DTU",
+    "Dubai DTV",
+    "Dubai DTW",
+    "Dubai DTX",
+    "Dubai DTY",
+    "Dubai DTZ",
+    "Dubai DUA",
+    "Dubai DUB",
+    "Dubai DUC",
+    "Dubai DUD",
+    "Dubai DUE",
+    "Dubai DUF",
+    "Dubai DUG",
+    "Dubai DUH",
+    "Dubai DUI",
+    "Dubai DUJ",
+    "Dubai DUK",
+    "Dubai DUL",
+    "Dubai DUM",
+    "Dubai DUN",
+    "Dubai DUO",
+    "Dubai DUP",
+    "Dubai DUQ",
+    "Dubai DUR",
+    "Dubai DUS",
+    "Dubai DUT",
+    "Dubai DUU",
+    "Dubai DUV",
+    "Dubai DUW",
+    "Dubai DUX",
+    "Dubai DUY",
+    "Dubai DUZ",
+    "Dubai DVA",
+    "Dubai DVB",
+    "Dubai DVC",
+    "Dubai DVD",
+    "Dubai DVE",
+    "Dubai DVF"
   ],
   "pending_n2": [
     {
@@ -58409,6 +58459,76 @@
       "name": "Dubai Technology Entrepreneur Campus - Dtec - Dubaï - Émirats arabes unis",
       "place_id": "ChIJQcJATj9kXz4RJaE4IQD2zQs",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJ24RqXG9DXz4RhosLS0kaXeU": {
+      "name": "Life Medical Centre - DWTC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ24RqXG9DXz4RhosLS0kaXeU",
+      "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJj-lav6ddXz4ReP6jfeE6-DY": {
+      "name": "Dubai Duty Free Terminal 3 - Airport Road - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJj-lav6ddXz4ReP6jfeE6-DY",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJQXma6i1sXz4R8f-ANhxTJxs": {
+      "name": "Dune Residency - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQXma6i1sXz4R8f-ANhxTJxs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJnTKAdxpnXz4RnRoR1SfJcSM": {
+      "name": "Surf 2 | Creek Beach - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJnTKAdxpnXz4RnRoR1SfJcSM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJc3v3eABnXz4RVxKtPgr-XDc": {
+      "name": "Dugasta Jneibi Residencies - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJc3v3eABnXz4RVxKtPgr-XDc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ1eF5ImIJXz4RknUe-kd6_D4": {
+      "name": "DUGASTA AL HASEEN RESIDENCE 2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1eF5ImIJXz4RknUe-kd6_D4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJp9LI-y5DXz4RDBEAhu1SKxs": {
+      "name": "DIFC Conference Centre - شارع - ٣١٢ - Dubai - Émirats arabes unis",
+      "place_id": "ChIJp9LI-y5DXz4RDBEAhu1SKxs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJp1gkTcVrXz4R2LVckwqDT2c": {
+      "name": "Dukes The Palm Dubai Hotel - Jumeirah Rd - Dubai - Émirats arabes unis",
+      "place_id": "ChIJp1gkTcVrXz4R2LVckwqDT2c",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJyUTtNPJpXz4RhVggnXsLw8A": {
+      "name": "Dunya Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJyUTtNPJpXz4RhVggnXsLw8A",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ5yTvy0ByXz4RD431PynzZrI": {
+      "name": "Dunes Village - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ5yTvy0ByXz4RD431PynzZrI",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJv5kiWgBpXz4Rh_N2OUiCTJM": {
+      "name": "Durrani Homes - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJv5kiWgBpXz4Rh_N2OUiCTJM",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJN8Xlg41kXz4RxG4efPpN36k": {
+      "name": "Durar 1 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJN8Xlg41kXz4RxG4efPpN36k",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJy9bn--VtXz4RGBzXPfP33hc": {
+      "name": "Dusk by Binghatti - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJy9bn--VtXz4RGBzXPfP33hc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJy8SDBI1CXz4RTalWPBQmRJs": {
+      "name": "Dusit Thani Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJy8SDBI1CXz4RTalWPBQmRJs",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }

@@ -672,6 +672,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Dunes Village - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5yTvy0ByXz4RD431PynzZrI",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "England Cluster - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJGYpz8jRhXz4RQe1kMsLtRK0",
     "types": "geocode, neighborhood, political",
@@ -3960,6 +3966,12 @@
     "zone_type": "area"
   },
   {
+    "name": "DIFC Conference Centre - شارع - ٣١٢ - Dubai - Émirats arabes unis",
+    "place_id": "ChIJp9LI-y5DXz4RDBEAhu1SKxs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "DIFC Courts - Dubai - Émirats arabes unis",
     "place_id": "ChIJC3jI_I1CXz4RtnQyZEaK6FM",
     "types": "establishment, point_of_interest",
@@ -4154,6 +4166,12 @@
   {
     "name": "DUCAB (Dubai Cable Company Pvt Ltd) - Dubaï - Émirats arabes unis",
     "place_id": "ChIJF9DGkTEPXz4R_4ljtKFfbXc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "DUGASTA AL HASEEN RESIDENCE 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1eF5ImIJXz4RknUe-kd6_D4",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -4854,6 +4872,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Duty Free Terminal 3 - Airport Road - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJj-lav6ddXz4ReP6jfeE6-DY",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Equestrian Club - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ53XpKsqdXz4R130_SlVufdI",
     "types": "establishment, point_of_interest",
@@ -5280,8 +5304,56 @@
     "zone_type": "area"
   },
   {
+    "name": "Dugasta Jneibi Residencies - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJc3v3eABnXz4RVxKtPgr-XDc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dukes The Palm Dubai Hotel - Jumeirah Rd - Dubai - Émirats arabes unis",
+    "place_id": "ChIJp1gkTcVrXz4R2LVckwqDT2c",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dulsco Village - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJFbdhaGdpXz4R2jnnHzGBaLg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dune Residency - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQXma6i1sXz4R8f-ANhxTJxs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dunya Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJyUTtNPJpXz4RhVggnXsLw8A",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Durar 1 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJN8Xlg41kXz4RxG4efPpN36k",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Durrani Homes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJv5kiWgBpXz4Rh_N2OUiCTJM",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dusit Thani Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJy8SDBI1CXz4RTalWPBQmRJs",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dusk by Binghatti - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJy9bn--VtXz4RGBzXPfP33hc",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -6162,6 +6234,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Life Medical Centre - DWTC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ24RqXG9DXz4RhosLS0kaXeU",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Living Legends - Dubai - Émirats arabes unis",
     "place_id": "ChIJ60jf63BvXz4R-VC2bH8nuy0",
     "types": "establishment, point_of_interest",
@@ -6945,6 +7023,12 @@
     "name": "Sunset Beach - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJYfzDwERqXz4RPyIbM0jlWx8",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Surf 2 | Creek Beach - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJnTKAdxpnXz4RnRoR1SfJcSM",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
