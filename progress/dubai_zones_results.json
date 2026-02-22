@@ -1194,6 +1194,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "South Ridge - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHSeWKS5oXz4R467qLUW5MfA",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Spain Cluster - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJYYbo7rRmXz4RLyzk1SMu6mE",
     "types": "geocode, neighborhood, political",
@@ -1230,6 +1236,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "The Sustainable City - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQ1kiAClwXz4R8wM-VGT1H34",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "The Villa - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJUU_lFP1kXz4RoO53xm08_FY",
     "types": "geocode, neighborhood, political",
@@ -1250,6 +1262,12 @@
   {
     "name": "Umm Hurair 1, Dubai, Émirats arabes unis",
     "place_id": "ChIJDxtMkixDXz4REYT5SHnqulA",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Umm Suqeim 1, Dubai, Émirats arabes unis",
+    "place_id": "ChIJ6eK0dRlqXz4RFMPFF_Z5buE",
     "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -1989,6 +2007,12 @@
     "name": "Al Seef, Dubai, Émirats arabes unis",
     "place_id": "ChIJgTr1QCxDXz4RXUBEfndMUbs",
     "types": "establishment, food, point_of_interest, restaurant, shopping_mall, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Al Suwaidi Farm - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJk964jbCL9T4RxTDCUkBIzqU",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -12042,6 +12066,18 @@
     "zone_type": "area"
   },
   {
+    "name": "SVIZONA Holiday Homes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJQSE74KkTXz4RoL32Va9WZUk",
+    "types": "establishment, point_of_interest, real_estate_agency, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "SWAY Residences - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6zE43R9pXz4RxWpNlhsmHvE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Saabrin Building - Dubai - Émirats arabes unis",
     "place_id": "ChIJ23JB5xNDXz4R2gXjK3FOkEE",
     "types": "establishment, point_of_interest",
@@ -12369,6 +12405,12 @@
     "name": "Sevanam Crown - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJU7MR6DhkXz4RTak41tnGIt4",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Seven Seas Group - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ1djuTl5tXz4R-sODwvD80k8",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -13110,6 +13152,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Sur La Mer - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJaQ6QbGdDXz4RMyAex4HSox8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Surf 2 | Creek Beach - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJnTKAdxpnXz4RnRoR1SfJcSM",
     "types": "establishment, point_of_interest",
@@ -13118,6 +13166,12 @@
   {
     "name": "Sustain Labs Paris - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJDzlooYVdXz4RM9L5hH_q8fU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sustainable City Equestrian Club - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJn6uF0y5wXz4RmjBV_dUsHqc",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -13155,6 +13209,12 @@
     "name": "Syria - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJB-4Y4OhAXz4RxTQzDqSRvq4",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sân vận động Maktoum Bin Rashid Al Maktoum - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbbOk_fpdXz4RcjfCbPDZ2aE",
+    "types": "establishment, point_of_interest, stadium",
     "zone_type": "area"
   },
   {
@@ -13932,6 +13992,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Za'abeel Stadium - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJixa8b01dXz4R1iKugfDQv5o",
+    "types": "establishment, point_of_interest, stadium",
+    "zone_type": "area"
+  },
+  {
     "name": "Zabeel Palace - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJWQnUnqVCXz4RuFhIAP-PUGE",
     "types": "establishment, point_of_interest, tourist_attraction",
@@ -14228,6 +14294,12 @@
   {
     "name": "sewage pump station DS174 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJrwBsEgBlXz4RDwJhYwdRf94",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "swftbox - E-commerce Fulfillment & Delivery - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ63iSDyhDXz4RWpmOkp0qlbA",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },

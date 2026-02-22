@@ -9219,7 +9219,57 @@
     "Dubai SUM",
     "Dubai SUN",
     "Dubai SUO",
-    "Dubai SUP"
+    "Dubai SUP",
+    "Dubai SUQ",
+    "Dubai SUR",
+    "Dubai SUS",
+    "Dubai SUT",
+    "Dubai SUU",
+    "Dubai SUV",
+    "Dubai SUW",
+    "Dubai SUX",
+    "Dubai SUY",
+    "Dubai SUZ",
+    "Dubai SVA",
+    "Dubai SVB",
+    "Dubai SVC",
+    "Dubai SVD",
+    "Dubai SVE",
+    "Dubai SVF",
+    "Dubai SVG",
+    "Dubai SVH",
+    "Dubai SVI",
+    "Dubai SVJ",
+    "Dubai SVK",
+    "Dubai SVL",
+    "Dubai SVM",
+    "Dubai SVN",
+    "Dubai SVO",
+    "Dubai SVP",
+    "Dubai SVQ",
+    "Dubai SVR",
+    "Dubai SVS",
+    "Dubai SVT",
+    "Dubai SVU",
+    "Dubai SVV",
+    "Dubai SVW",
+    "Dubai SVX",
+    "Dubai SVY",
+    "Dubai SVZ",
+    "Dubai SWA",
+    "Dubai SWB",
+    "Dubai SWC",
+    "Dubai SWD",
+    "Dubai SWE",
+    "Dubai SWF",
+    "Dubai SWG",
+    "Dubai SWH",
+    "Dubai SWI",
+    "Dubai SWJ",
+    "Dubai SWK",
+    "Dubai SWL",
+    "Dubai SWM",
+    "Dubai SWN"
   ],
   "pending_n2": [
     {
@@ -70133,6 +70183,66 @@
     "ChIJU4FC1LhdXz4Rvwk35GI7MF8": {
       "name": "Dubai Supreme Court Complex - Dubaï - Émirats arabes unis",
       "place_id": "ChIJU4FC1LhdXz4Rvwk35GI7MF8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ6eK0dRlqXz4RFMPFF_Z5buE": {
+      "name": "Umm Suqeim 1, Dubai, Émirats arabes unis",
+      "place_id": "ChIJ6eK0dRlqXz4RFMPFF_Z5buE",
+      "types": "neighborhood, political"
+    },
+    "ChIJaQ6QbGdDXz4RMyAex4HSox8": {
+      "name": "Sur La Mer - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJaQ6QbGdDXz4RMyAex4HSox8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJQ1kiAClwXz4R8wM-VGT1H34": {
+      "name": "The Sustainable City - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQ1kiAClwXz4R8wM-VGT1H34",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJn6uF0y5wXz4RmjBV_dUsHqc": {
+      "name": "Sustainable City Equestrian Club - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJn6uF0y5wXz4RmjBV_dUsHqc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJHSeWKS5oXz4R467qLUW5MfA": {
+      "name": "South Ridge - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHSeWKS5oXz4R467qLUW5MfA",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJk964jbCL9T4RxTDCUkBIzqU": {
+      "name": "Al Suwaidi Farm - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJk964jbCL9T4RxTDCUkBIzqU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJixa8b01dXz4R1iKugfDQv5o": {
+      "name": "Za'abeel Stadium - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJixa8b01dXz4R1iKugfDQv5o",
+      "types": "establishment, point_of_interest, stadium"
+    },
+    "ChIJbbOk_fpdXz4RcjfCbPDZ2aE": {
+      "name": "Sân vận động Maktoum Bin Rashid Al Maktoum - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbbOk_fpdXz4RcjfCbPDZ2aE",
+      "types": "establishment, point_of_interest, stadium"
+    },
+    "ChIJQSE74KkTXz4RoL32Va9WZUk": {
+      "name": "SVIZONA Holiday Homes - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJQSE74KkTXz4RoL32Va9WZUk",
+      "types": "establishment, point_of_interest, real_estate_agency, travel_agency"
+    },
+    "ChIJ1djuTl5tXz4R-sODwvD80k8": {
+      "name": "Seven Seas Group - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ1djuTl5tXz4R-sODwvD80k8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ6zE43R9pXz4RxWpNlhsmHvE": {
+      "name": "SWAY Residences - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ6zE43R9pXz4RxWpNlhsmHvE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ63iSDyhDXz4RWpmOkp0qlbA": {
+      "name": "swftbox - E-commerce Fulfillment & Delivery - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ63iSDyhDXz4RWpmOkp0qlbA",
       "types": "establishment, point_of_interest"
     }
   }
