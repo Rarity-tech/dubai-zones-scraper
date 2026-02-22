@@ -719,7 +719,57 @@
     "Dubai AHO",
     "Dubai AHP",
     "Dubai AHQ",
-    "Dubai AHR"
+    "Dubai AHR",
+    "Dubai AHS",
+    "Dubai AHT",
+    "Dubai AHU",
+    "Dubai AHV",
+    "Dubai AHW",
+    "Dubai AHX",
+    "Dubai AHY",
+    "Dubai AHZ",
+    "Dubai AIA",
+    "Dubai AIB",
+    "Dubai AIC",
+    "Dubai AID",
+    "Dubai AIE",
+    "Dubai AIF",
+    "Dubai AIG",
+    "Dubai AIH",
+    "Dubai AII",
+    "Dubai AIJ",
+    "Dubai AIK",
+    "Dubai AIL",
+    "Dubai AIM",
+    "Dubai AIN",
+    "Dubai AIO",
+    "Dubai AIP",
+    "Dubai AIQ",
+    "Dubai AIR",
+    "Dubai AIS",
+    "Dubai AIT",
+    "Dubai AIU",
+    "Dubai AIV",
+    "Dubai AIW",
+    "Dubai AIX",
+    "Dubai AIY",
+    "Dubai AIZ",
+    "Dubai AJA",
+    "Dubai AJB",
+    "Dubai AJC",
+    "Dubai AJD",
+    "Dubai AJE",
+    "Dubai AJF",
+    "Dubai AJG",
+    "Dubai AJH",
+    "Dubai AJI",
+    "Dubai AJJ",
+    "Dubai AJK",
+    "Dubai AJL",
+    "Dubai AJM",
+    "Dubai AJN",
+    "Dubai AJO",
+    "Dubai AJP"
   ],
   "pending_n2": [
     {
@@ -53213,6 +53263,46 @@
     "ChIJ3Sdr_nFdXz4RTdMuDhDBJV0": {
       "name": "Ahlan Business Class Lounge - Dubai - Émirats arabes unis",
       "place_id": "ChIJ3Sdr_nFdXz4RTdMuDhDBJV0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJN1zBC3tCXz4RRelmNOp-LAI": {
+      "name": "AIC CITY POLYCLINIC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJN1zBC3tCXz4RRelmNOp-LAI",
+      "types": "doctor, establishment, health, point_of_interest"
+    },
+    "ChIJ4zLmKDQNXz4RGz30pmMyQto": {
+      "name": "Dubai Aid City - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ4zLmKDQNXz4RGz30pmMyQto",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJr9r0gktDXz4RnDBHdcQ0Urk": {
+      "name": "Naif - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJr9r0gktDXz4RnDBHdcQ0Urk",
+      "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJY7bdcQBDXz4RJSn1Sa5pCV4": {
+      "name": "Naif souk - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJY7bdcQBDXz4RJSn1Sa5pCV4",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJL7IcLk9DXz4RZn8PbYYdMDg": {
+      "name": "Naif Police Station - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJL7IcLk9DXz4RZn8PbYYdMDg",
+      "types": "establishment, local_government_office, point_of_interest, police"
+    },
+    "ChIJUbn3AbZDXz4RJ_TOGuuOV3w": {
+      "name": "Naif intersection 2 bus stop - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJUbn3AbZDXz4RJ_TOGuuOV3w",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJDdK2bKUVXz4RT-nh-PZDEM8": {
+      "name": "Ain Dubai Drone Show View Point - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDdK2bKUVXz4RT-nh-PZDEM8",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJm9guhBVZXz4RidIlW7hTnqM": {
+      "name": "Dubai Airshow, Dubai World Center - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJm9guhBVZXz4RidIlW7hTnqM",
       "types": "establishment, point_of_interest"
     }
   }
