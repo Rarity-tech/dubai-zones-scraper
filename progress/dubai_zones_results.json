@@ -8106,6 +8106,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Kefi Books, Board Games & Cafe - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJZ7sLXuRdXz4RjnancgL14V8",
+    "types": "cafe, establishment, food, library, point_of_interest, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "Keller Williams Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJN0TH0hsVXz4RTQSU6P2UMpU",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Kempinski Central Avenue Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ6zFaTIJCXz4RzwlBbB8DgA4",
     "types": "establishment, lodging, point_of_interest",
@@ -8118,9 +8130,33 @@
     "zone_type": "area"
   },
   {
+    "name": "Kempinski Residences The Creek - شارع ٢ - Dubai - Émirats arabes unis",
+    "place_id": "ChIJHYwqsflnXz4RAsaWrZpnoTk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Kempinski The Boulevard - Dubaï - Émirats arabes unis",
     "place_id": "ChIJA1mw3INCXz4Rz5b8gz5Ls_0",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kensington Manor - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbdgkcQxtXz4RmChuvD5cfm8",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Kensington Waters - Dubai - Émirats arabes unis",
+    "place_id": "ChIJOfCbTABpXz4RWuel5_kZR44",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Keturah Ardh - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJmR5SPwBjXz4R5qhiNQJmpxQ",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

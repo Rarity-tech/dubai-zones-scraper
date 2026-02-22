@@ -5719,7 +5719,57 @@
     "Dubai KCW",
     "Dubai KCX",
     "Dubai KCY",
-    "Dubai KCZ"
+    "Dubai KCZ",
+    "Dubai KDA",
+    "Dubai KDB",
+    "Dubai KDC",
+    "Dubai KDD",
+    "Dubai KDE",
+    "Dubai KDF",
+    "Dubai KDG",
+    "Dubai KDH",
+    "Dubai KDI",
+    "Dubai KDJ",
+    "Dubai KDK",
+    "Dubai KDL",
+    "Dubai KDM",
+    "Dubai KDN",
+    "Dubai KDO",
+    "Dubai KDP",
+    "Dubai KDQ",
+    "Dubai KDR",
+    "Dubai KDS",
+    "Dubai KDT",
+    "Dubai KDU",
+    "Dubai KDV",
+    "Dubai KDW",
+    "Dubai KDX",
+    "Dubai KDY",
+    "Dubai KDZ",
+    "Dubai KEA",
+    "Dubai KEB",
+    "Dubai KEC",
+    "Dubai KED",
+    "Dubai KEE",
+    "Dubai KEF",
+    "Dubai KEG",
+    "Dubai KEH",
+    "Dubai KEI",
+    "Dubai KEJ",
+    "Dubai KEK",
+    "Dubai KEL",
+    "Dubai KEM",
+    "Dubai KEN",
+    "Dubai KEO",
+    "Dubai KEP",
+    "Dubai KEQ",
+    "Dubai KER",
+    "Dubai KES",
+    "Dubai KET",
+    "Dubai KEU",
+    "Dubai KEV",
+    "Dubai KEW",
+    "Dubai KEX"
   ],
   "pending_n2": [
     {
@@ -63284,6 +63334,36 @@
       "name": "King's College Hospital London - Dubai - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ1XhuJe5pXz4RGo-ENO0K6Cs",
       "types": "establishment, health, hospital, point_of_interest"
+    },
+    "ChIJZ7sLXuRdXz4RjnancgL14V8": {
+      "name": "Kefi Books, Board Games & Cafe - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJZ7sLXuRdXz4RjnancgL14V8",
+      "types": "cafe, establishment, food, library, point_of_interest, store"
+    },
+    "ChIJN0TH0hsVXz4RTQSU6P2UMpU": {
+      "name": "Keller Williams Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJN0TH0hsVXz4RTQSU6P2UMpU",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJHYwqsflnXz4RAsaWrZpnoTk": {
+      "name": "Kempinski Residences The Creek - شارع ٢ - Dubai - Émirats arabes unis",
+      "place_id": "ChIJHYwqsflnXz4RAsaWrZpnoTk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJOfCbTABpXz4RWuel5_kZR44": {
+      "name": "Kensington Waters - Dubai - Émirats arabes unis",
+      "place_id": "ChIJOfCbTABpXz4RWuel5_kZR44",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJbdgkcQxtXz4RmChuvD5cfm8": {
+      "name": "Kensington Manor - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJbdgkcQxtXz4RmChuvD5cfm8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJmR5SPwBjXz4R5qhiNQJmpxQ": {
+      "name": "Keturah Ardh - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJmR5SPwBjXz4R5qhiNQJmpxQ",
+      "types": "establishment, point_of_interest"
     }
   }
 }
