@@ -264,6 +264,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Hor Al Anz East - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT_1Aoo5cXz4R36wKDfYA9l8",
+    "types": "geocode, political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Jabal Ali Premier, Dubai, Émirats arabes unis",
     "place_id": "ChIJkxb5HSITXz4RzIsoJh-Zduc",
     "types": "political, sublocality, sublocality_level_1",
@@ -6594,6 +6600,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Horizon Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHSuUTVMTXz4RW-ZYQ0CLlF0",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Hotel Boulevard, Autograph Collection - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ957U1ihoXz4RqVL3CdaRQUs",
     "types": "establishment, lodging, point_of_interest",
@@ -6615,6 +6627,12 @@
     "name": "Hotel Riu Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJmZhB5LBEXz4RpQzOJJMc1m8",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "House of Hype - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJx3SlGJ9pXz4RbyEYiIKTnOM",
+    "types": "amusement_park, establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {

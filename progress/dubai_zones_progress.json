@@ -4019,7 +4019,57 @@
     "Dubai HOM",
     "Dubai HON",
     "Dubai HOO",
-    "Dubai HOP"
+    "Dubai HOP",
+    "Dubai HOQ",
+    "Dubai HOR",
+    "Dubai HOS",
+    "Dubai HOT",
+    "Dubai HOU",
+    "Dubai HOV",
+    "Dubai HOW",
+    "Dubai HOX",
+    "Dubai HOY",
+    "Dubai HOZ",
+    "Dubai HPA",
+    "Dubai HPB",
+    "Dubai HPC",
+    "Dubai HPD",
+    "Dubai HPE",
+    "Dubai HPF",
+    "Dubai HPG",
+    "Dubai HPH",
+    "Dubai HPI",
+    "Dubai HPJ",
+    "Dubai HPK",
+    "Dubai HPL",
+    "Dubai HPM",
+    "Dubai HPN",
+    "Dubai HPO",
+    "Dubai HPP",
+    "Dubai HPQ",
+    "Dubai HPR",
+    "Dubai HPS",
+    "Dubai HPT",
+    "Dubai HPU",
+    "Dubai HPV",
+    "Dubai HPW",
+    "Dubai HPX",
+    "Dubai HPY",
+    "Dubai HPZ",
+    "Dubai HQA",
+    "Dubai HQB",
+    "Dubai HQC",
+    "Dubai HQD",
+    "Dubai HQE",
+    "Dubai HQF",
+    "Dubai HQG",
+    "Dubai HQH",
+    "Dubai HQI",
+    "Dubai HQJ",
+    "Dubai HQK",
+    "Dubai HQL",
+    "Dubai HQM",
+    "Dubai HQN"
   ],
   "pending_n2": [
     {
@@ -60499,6 +60549,21 @@
       "name": "Hong Kong - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJCfcypyBBXz4R8jqGI1s22Y8",
       "types": "establishment, natural_feature"
+    },
+    "ChIJHSuUTVMTXz4RW-ZYQ0CLlF0": {
+      "name": "Horizon Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHSuUTVMTXz4RW-ZYQ0CLlF0",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJT_1Aoo5cXz4R36wKDfYA9l8": {
+      "name": "Hor Al Anz East - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJT_1Aoo5cXz4R36wKDfYA9l8",
+      "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJx3SlGJ9pXz4RbyEYiIKTnOM": {
+      "name": "House of Hype - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJx3SlGJ9pXz4RbyEYiIKTnOM",
+      "types": "amusement_park, establishment, point_of_interest, tourist_attraction"
     }
   }
 }
