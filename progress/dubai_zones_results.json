@@ -1272,6 +1272,12 @@
     "zone_type": "neighborhood"
   },
   {
+    "name": "Tijarah Town - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ03qLDO18Xz4RimBZ5d7A-Nw",
+    "types": "geocode, neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
     "name": "Tilal Al Ghaf - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJcQdn5v1tXz4RPSOOWcyGWr4",
     "types": "geocode, neighborhood, political",
@@ -13350,8 +13356,20 @@
     "zone_type": "area"
   },
   {
+    "name": "TIME Grand Plaza - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6aWg20RdXz4RFlqbyg6JxCs",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "TIME Oak Hotel & Suites - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ131Nm3prXz4Rq3o4BlfkYfE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "TIME Onyx Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJA_NA9cZdXz4RQJ9DXIxe6FM",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
@@ -13830,6 +13848,42 @@
     "zone_type": "area"
   },
   {
+    "name": "Tiffany Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9RRsOqZsXz4RBMcU2jYltYY",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tiffany Towers - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJO-4XMqZsXz4Rgfby3_l9jk0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tiger Kickboxing Arjan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJuaJsol1vXz4RqTPahrgfun8",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tiger Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJebQucVBrXz4R6d6hhhXqyXk",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tiger Tower business bay - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJFQ9_XwBpXz4R9VXUwB56tnI",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Tilal Al Furjan - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJL6yfB_oTXz4R3-JteLEK18U",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Time Place Tower - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJF-iuQVZrXz4RcAFN9T4B3nw",
     "types": "geocode, premise",
@@ -13838,6 +13892,12 @@
   {
     "name": "Timeout Market Entrance - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJOen6YQBpXz4REaQ26UnUvBA",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Times Square Center Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJS7sSW9NrXz4R2DZ-emCQUWI",
     "types": "establishment, point_of_interest, shopping_mall",
     "zone_type": "area"
   },

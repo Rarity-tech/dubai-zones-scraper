@@ -9569,7 +9569,57 @@
     "Dubai THY",
     "Dubai THZ",
     "Dubai TIA",
-    "Dubai TIB"
+    "Dubai TIB",
+    "Dubai TIC",
+    "Dubai TID",
+    "Dubai TIE",
+    "Dubai TIF",
+    "Dubai TIG",
+    "Dubai TIH",
+    "Dubai TII",
+    "Dubai TIJ",
+    "Dubai TIK",
+    "Dubai TIL",
+    "Dubai TIM",
+    "Dubai TIN",
+    "Dubai TIO",
+    "Dubai TIP",
+    "Dubai TIQ",
+    "Dubai TIR",
+    "Dubai TIS",
+    "Dubai TIT",
+    "Dubai TIU",
+    "Dubai TIV",
+    "Dubai TIW",
+    "Dubai TIX",
+    "Dubai TIY",
+    "Dubai TIZ",
+    "Dubai TJA",
+    "Dubai TJB",
+    "Dubai TJC",
+    "Dubai TJD",
+    "Dubai TJE",
+    "Dubai TJF",
+    "Dubai TJG",
+    "Dubai TJH",
+    "Dubai TJI",
+    "Dubai TJJ",
+    "Dubai TJK",
+    "Dubai TJL",
+    "Dubai TJM",
+    "Dubai TJN",
+    "Dubai TJO",
+    "Dubai TJP",
+    "Dubai TJQ",
+    "Dubai TJR",
+    "Dubai TJS",
+    "Dubai TJT",
+    "Dubai TJU",
+    "Dubai TJV",
+    "Dubai TJW",
+    "Dubai TJX",
+    "Dubai TJY",
+    "Dubai TJZ"
   ],
   "pending_n2": [
     {
@@ -70839,6 +70889,56 @@
       "name": "Tiara United Towers - East Tower (P638) - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJtcWSh8xpXz4R7GUv55Em3gs",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJS7sSW9NrXz4R2DZ-emCQUWI": {
+      "name": "Times Square Center Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJS7sSW9NrXz4R2DZ-emCQUWI",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJ6aWg20RdXz4RFlqbyg6JxCs": {
+      "name": "TIME Grand Plaza - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ6aWg20RdXz4RFlqbyg6JxCs",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ9RRsOqZsXz4RBMcU2jYltYY": {
+      "name": "Tiffany Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ9RRsOqZsXz4RBMcU2jYltYY",
+      "types": "geocode, premise"
+    },
+    "ChIJO-4XMqZsXz4Rgfby3_l9jk0": {
+      "name": "Tiffany Towers - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJO-4XMqZsXz4Rgfby3_l9jk0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJebQucVBrXz4R6d6hhhXqyXk": {
+      "name": "Tiger Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJebQucVBrXz4R6d6hhhXqyXk",
+      "types": "geocode, premise"
+    },
+    "ChIJFQ9_XwBpXz4R9VXUwB56tnI": {
+      "name": "Tiger Tower business bay - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJFQ9_XwBpXz4R9VXUwB56tnI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJuaJsol1vXz4RqTPahrgfun8": {
+      "name": "Tiger Kickboxing Arjan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJuaJsol1vXz4RqTPahrgfun8",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJ03qLDO18Xz4RimBZ5d7A-Nw": {
+      "name": "Tijarah Town - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ03qLDO18Xz4RimBZ5d7A-Nw",
+      "types": "geocode, neighborhood, political"
+    },
+    "ChIJL6yfB_oTXz4R3-JteLEK18U": {
+      "name": "Tilal Al Furjan - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJL6yfB_oTXz4R3-JteLEK18U",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJA_NA9cZdXz4RQJ9DXIxe6FM": {
+      "name": "TIME Onyx Hotel Apartments - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJA_NA9cZdXz4RQJ9DXIxe6FM",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }
