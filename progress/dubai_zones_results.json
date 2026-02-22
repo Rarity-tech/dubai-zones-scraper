@@ -6534,6 +6534,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Howard Johnson Plaza by Wyndham Dubai Deira - Dubai - Émirats arabes unis",
+    "place_id": "ChIJTTgYpdJdXz4Ri6-GnkJ3gN8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Howard Johnson by Wyndham Bur Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDfthxsZcXz4RWBtcXQ_dTpU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Hues Boutique Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ1bUfJa1cXz4RLkgUTfw1D7g",
     "types": "establishment, lodging, point_of_interest",
@@ -6543,6 +6555,12 @@
     "name": "Human Relations Institute & Clinics DMCC (HRIC Dubai) - Cluster F - Dubaï - Émirats arabes unis",
     "place_id": "ChIJb17K7GprXz4R66GFyr3nGa0",
     "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Huzz 59 - 4BR Monthly rental Le Maison Blanche - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJP27PNlFrXz4R-PhGZ2NB_Oc",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6831,6 +6849,12 @@
     "name": "Jordan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJJfdd2-VAXz4RGjiTZ8Rmjws",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jordanian Social Club النادي الاردني الاجتماعي - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT7XBby1dXz4RHp9INKfpXQw",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7868,6 +7892,12 @@
   {
     "name": "Sport City - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ4-Enn8xcXz4RdIyjSAES6fM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Springs 5 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJRWv33FtsXz4RGCZvVFv8gWY",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },

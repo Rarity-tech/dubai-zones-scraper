@@ -3869,7 +3869,57 @@
     "Dubai HIS",
     "Dubai HIT",
     "Dubai HIU",
-    "Dubai HIV"
+    "Dubai HIV",
+    "Dubai HIW",
+    "Dubai HIX",
+    "Dubai HIY",
+    "Dubai HIZ",
+    "Dubai HJA",
+    "Dubai HJB",
+    "Dubai HJC",
+    "Dubai HJD",
+    "Dubai HJE",
+    "Dubai HJF",
+    "Dubai HJG",
+    "Dubai HJH",
+    "Dubai HJI",
+    "Dubai HJJ",
+    "Dubai HJK",
+    "Dubai HJL",
+    "Dubai HJM",
+    "Dubai HJN",
+    "Dubai HJO",
+    "Dubai HJP",
+    "Dubai HJQ",
+    "Dubai HJR",
+    "Dubai HJS",
+    "Dubai HJT",
+    "Dubai HJU",
+    "Dubai HJV",
+    "Dubai HJW",
+    "Dubai HJX",
+    "Dubai HJY",
+    "Dubai HJZ",
+    "Dubai HKA",
+    "Dubai HKB",
+    "Dubai HKC",
+    "Dubai HKD",
+    "Dubai HKE",
+    "Dubai HKF",
+    "Dubai HKG",
+    "Dubai HKH",
+    "Dubai HKI",
+    "Dubai HKJ",
+    "Dubai HKK",
+    "Dubai HKL",
+    "Dubai HKM",
+    "Dubai HKN",
+    "Dubai HKO",
+    "Dubai HKP",
+    "Dubai HKQ",
+    "Dubai HKR",
+    "Dubai HKS",
+    "Dubai HKT"
   ],
   "pending_n2": [
     {
@@ -60248,6 +60298,31 @@
     "ChIJG1ICPlptXz4RH3a1dvLz0Ws": {
       "name": "Hive JVC - Dubai - Émirats arabes unis",
       "place_id": "ChIJG1ICPlptXz4RH3a1dvLz0Ws",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJTTgYpdJdXz4Ri6-GnkJ3gN8": {
+      "name": "Howard Johnson Plaza by Wyndham Dubai Deira - Dubai - Émirats arabes unis",
+      "place_id": "ChIJTTgYpdJdXz4Ri6-GnkJ3gN8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJDfthxsZcXz4RWBtcXQ_dTpU": {
+      "name": "Howard Johnson by Wyndham Bur Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDfthxsZcXz4RWBtcXQ_dTpU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJP27PNlFrXz4R-PhGZ2NB_Oc": {
+      "name": "Huzz 59 - 4BR Monthly rental Le Maison Blanche - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJP27PNlFrXz4R-PhGZ2NB_Oc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJRWv33FtsXz4RGCZvVFv8gWY": {
+      "name": "Springs 5 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJRWv33FtsXz4RGCZvVFv8gWY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJT7XBby1dXz4RHp9INKfpXQw": {
+      "name": "Jordanian Social Club النادي الاردني الاجتماعي - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJT7XBby1dXz4RHp9INKfpXQw",
       "types": "establishment, point_of_interest"
     }
   }
