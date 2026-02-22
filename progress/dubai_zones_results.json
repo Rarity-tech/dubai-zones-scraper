@@ -408,6 +408,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Zone industrielle Al Qusais, Dubai, Émirats arabes unis",
+    "place_id": "ChIJ97szIiNcXz4RazfUtzJsd1o",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Ḩattā, Dubai, Émirats arabes unis",
     "place_id": "ChIJd_cjaCwf9T4RjPUF7LzzbiA",
     "types": "locality, political",
@@ -488,6 +494,12 @@
   {
     "name": "Al Quoz Industrial Area 3, Dubai, Émirats arabes unis",
     "place_id": "ChIJMcyLottrXz4RoDEoWhnggWQ",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Al Quoz Industrial Area 4, Dubai, Émirats arabes unis",
+    "place_id": "ChIJCTZ6uFtpXz4RV5b0HRvOrS4",
     "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -5214,6 +5226,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Internet City Metro Station Exit 3 - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ9Up1PwBrXz4RgajCI7kxJAM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Investment Park 1 Metro Station - Dubaï - Émirats arabes unis",
     "place_id": "ChIJn4Z0--9tXz4R3M7UlqV0NIw",
     "types": "establishment, point_of_interest",
@@ -5451,6 +5469,12 @@
     "name": "Dubai commercity - Dubaï - Émirats arabes unis",
     "place_id": "ChIJRVsf3n1dXz4RKFQhi7mPjPM",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai investment park - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ97VoPgBtXz4RsV9vpvnNhNo",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -6924,6 +6948,24 @@
     "zone_type": "area"
   },
   {
+    "name": "IMS SHIPPING AGENCY - DUBAI UAE - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJf02w1lxDXz4RyCdyvzYZ2VE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "IN HOUSE FILM Equipment Rental - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJXQ6o25JpXz4Rz0HRc1iD364",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "INK Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ6U7Ed-RdXz4RsW_OXeNzK1M",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "ISD Dubai Sports City - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ4YlMqgpuXz4RN_nypDJCm2E",
     "types": "establishment, point_of_interest",
@@ -7062,8 +7104,32 @@
     "zone_type": "area"
   },
   {
+    "name": "Imtiaz sales center - Dubai - Émirats arabes unis",
+    "place_id": "ChIJCV3PFwBpXz4R2yLKCsN98AQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Index Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJB8lMmoVCXz4R8Chpd5URJ2s",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "India - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDc12B-FAXz4RmZ_sCDb1b3k",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "Indian Institute of Management Ahmedabad - Dubai Campus - Dubaï - Émirats arabes unis",
     "place_id": "ChIJRYnkRJ5jXz4RG0J2OuYyY1Y",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Indigo Optima 1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJW8WbrU1hXz4RxUbWTylLeQI",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -7071,6 +7137,36 @@
     "name": "Infinite Leisure - Swimming Pool Contractor Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJiwDvx5JpXz4R7EfVS5D5wJM",
     "types": "establishment, general_contractor, health, point_of_interest, spa, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "Infinity Bridge - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ0XaUynlDXz4RJaaYtC2tmlk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Injazzat Residence - Al Bateel Real Estate - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqax8YhNpXz4RIa7R0WnDO1A",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Insportz Club - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJBac6Q8VrXz4RV_dY53R_RC0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Insurance market metro station Seaside - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJQ8qHgBrXz4Rurak08DWl3s",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "InsuranceMarket Metro Station - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJe4rMfgBrXz4R-pOdQG3Ars4",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7245,6 +7341,12 @@
     "name": "Jardin Miracle de Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJX1IwkDRsXz4RmwA1KiMqKG0",
     "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Jobs in Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJybIYu5xDXz4RAMFhS0D3jHw",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -7826,6 +7928,12 @@
   {
     "name": "New Zealand - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ7zllrDpBXz4RLyyD3JxlSCg",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Nigeria - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOTLwFflAXz4R76KeUGrNPbI",
     "types": "establishment, natural_feature",
     "zone_type": "area"
   },
