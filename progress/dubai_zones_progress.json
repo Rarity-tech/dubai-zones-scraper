@@ -8719,7 +8719,57 @@
     "Dubai SBG",
     "Dubai SBH",
     "Dubai SBI",
-    "Dubai SBJ"
+    "Dubai SBJ",
+    "Dubai SBK",
+    "Dubai SBL",
+    "Dubai SBM",
+    "Dubai SBN",
+    "Dubai SBO",
+    "Dubai SBP",
+    "Dubai SBQ",
+    "Dubai SBR",
+    "Dubai SBS",
+    "Dubai SBT",
+    "Dubai SBU",
+    "Dubai SBV",
+    "Dubai SBW",
+    "Dubai SBX",
+    "Dubai SBY",
+    "Dubai SBZ",
+    "Dubai SCA",
+    "Dubai SCB",
+    "Dubai SCC",
+    "Dubai SCD",
+    "Dubai SCE",
+    "Dubai SCF",
+    "Dubai SCG",
+    "Dubai SCH",
+    "Dubai SCI",
+    "Dubai SCJ",
+    "Dubai SCK",
+    "Dubai SCL",
+    "Dubai SCM",
+    "Dubai SCN",
+    "Dubai SCO",
+    "Dubai SCP",
+    "Dubai SCQ",
+    "Dubai SCR",
+    "Dubai SCS",
+    "Dubai SCT",
+    "Dubai SCU",
+    "Dubai SCV",
+    "Dubai SCW",
+    "Dubai SCX",
+    "Dubai SCY",
+    "Dubai SCZ",
+    "Dubai SDA",
+    "Dubai SDB",
+    "Dubai SDC",
+    "Dubai SDD",
+    "Dubai SDE",
+    "Dubai SDF",
+    "Dubai SDG",
+    "Dubai SDH"
   ],
   "pending_n2": [
     {
@@ -68919,6 +68969,66 @@
       "name": "SB Holiday Homes - Dubai - Émirats arabes unis",
       "place_id": "ChIJtRmbjl9rXz4RI6y4qjii-Oo",
       "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJRcDt-o9rXz4RoxVdQ72mYsM": {
+      "name": "SBk Shaibani 2 Building (SBK) - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJRcDt-o9rXz4RoxVdQ72mYsM",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ34k56OprXz4R_QyiYomQYEo": {
+      "name": "Saleh Bin Lahej Building, 365 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ34k56OprXz4R_QyiYomQYEo",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJK90Q3qdtXz4RSXy-uIeKDHQ": {
+      "name": "Simple Bn DMCC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJK90Q3qdtXz4RSXy-uIeKDHQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJaZSFWDloXz4RbeWjbEVLqfU": {
+      "name": "Scala Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJaZSFWDloXz4RbeWjbEVLqfU",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJS77Gw6ZsXz4RkjyTPnfCrFY": {
+      "name": "Sky Clinic Dental Center JLT - German Dentist - Root Canal - Braces - Dental Implants Dubai - Cluster Y - Dubai - Émirats arabes unis",
+      "place_id": "ChIJS77Gw6ZsXz4RkjyTPnfCrFY",
+      "types": "dentist, establishment, health, point_of_interest"
+    },
+    "ChIJE9JG8yFtXz4RCja9V91xWeE": {
+      "name": "Dubai Schools Al Barsha - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJE9JG8yFtXz4RCja9V91xWeE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJJ_98jP1vXz4R4Dz4S_miorg": {
+      "name": "Dubai Science Park - Public Park - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJJ_98jP1vXz4R4Dz4S_miorg",
+      "types": "establishment, park, point_of_interest"
+    },
+    "ChIJcYx07wtvXz4RrbGEJWNvSyU": {
+      "name": "Science Park Residence - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJcYx07wtvXz4RrbGEJWNvSyU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ-apxA_ltXz4RBfU81PssZ-0": {
+      "name": "Scoop Wholefoods Springs Souk - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ-apxA_ltXz4RBfU81PssZ-0",
+      "types": "establishment, food, health, point_of_interest, store"
+    },
+    "ChIJNWl5eXhpXz4R3sbP327pXJc": {
+      "name": "Scream House Horror Escape Games - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJNWl5eXhpXz4R3sbP327pXJc",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJo4iH_S9DXz4RWFH3yxBvqys": {
+      "name": "Sculpture Park DIFC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJo4iH_S9DXz4RWFH3yxBvqys",
+      "types": "establishment, park, point_of_interest"
+    },
+    "ChIJ2TePIFBpXz4RDGTgWoPhYCo": {
+      "name": "Sobha creek vistas heights - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2TePIFBpXz4RDGTgWoPhYCo",
+      "types": "establishment, point_of_interest"
     }
   }
 }

@@ -5880,6 +5880,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Schools Al Barsha - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJE9JG8yFtXz4RCja9V91xWeE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Science Park - Public Park - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJJ_98jP1vXz4R4Dz4S_miorg",
+    "types": "establishment, park, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Science Park by TECOM Group - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ6RV_E4xuXz4RT5q5a84N6I8",
     "types": "establishment, point_of_interest",
@@ -11802,6 +11814,12 @@
     "zone_type": "area"
   },
   {
+    "name": "SBk Shaibani 2 Building (SBK) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRcDt-o9rXz4RoxVdQ72mYsM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "SHJ GARDEN CITY -Mosque - Dubai - Émirats arabes unis",
     "place_id": "ChIJWUz1p9CP9T4RWPn04F1sL2c",
     "types": "establishment, mosque, place_of_worship, point_of_interest",
@@ -11901,6 +11919,12 @@
     "name": "Salah Al Din Metro Bus Stop 1 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ_SZ5LABdXz4RhVR2eRACxXs",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Saleh Bin Lahej Building, 365 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ34k56OprXz4R_QyiYomQYEo",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -12012,9 +12036,39 @@
     "zone_type": "area"
   },
   {
+    "name": "Scala Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJaZSFWDloXz4RbeWjbEVLqfU",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Schirmer Safety Consultants - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJNeOfOVNDXz4ReChqpNVc9L8",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Science Park Residence - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcYx07wtvXz4RrbGEJWNvSyU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Scoop Wholefoods Springs Souk - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ-apxA_ltXz4RBfU81PssZ-0",
+    "types": "establishment, food, health, point_of_interest, store",
+    "zone_type": "area"
+  },
+  {
+    "name": "Scream House Horror Escape Games - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJNWl5eXhpXz4R3sbP327pXJc",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sculpture Park DIFC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJo4iH_S9DXz4RWFH3yxBvqys",
+    "types": "establishment, park, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -12126,6 +12180,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Simple Bn DMCC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJK90Q3qdtXz4RSXy-uIeKDHQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Simply Comfort Suites in Sarai Palm Jumeirah - Dubai - Émirats arabes unis",
     "place_id": "ChIJaZGkquAZ_kARttkbzGIkPpI",
     "types": "establishment, point_of_interest, real_estate_agency, travel_agency",
@@ -12141,6 +12201,12 @@
     "name": "Skin Experts Polyclinic - Dubai - Émirats arabes unis",
     "place_id": "ChIJP7zrV3JDXz4RhUpfcPyaxhw",
     "types": "beauty_salon, doctor, establishment, hair_care, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sky Clinic Dental Center JLT - German Dentist - Root Canal - Braces - Dental Implants Dubai - Cluster Y - Dubai - Émirats arabes unis",
+    "place_id": "ChIJS77Gw6ZsXz4RkjyTPnfCrFY",
+    "types": "dentist, establishment, health, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -12188,6 +12254,12 @@
   {
     "name": "Snow white Building - Dubai - Émirats arabes unis",
     "place_id": "ChIJ6dpmZPhdXz4R9KZe7RKq4eI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sobha creek vistas heights - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2TePIFBpXz4RDGTgWoPhYCo",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
