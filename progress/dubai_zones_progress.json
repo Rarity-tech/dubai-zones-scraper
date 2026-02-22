@@ -1069,7 +1069,57 @@
     "Dubai AVA",
     "Dubai AVB",
     "Dubai AVC",
-    "Dubai AVD"
+    "Dubai AVD",
+    "Dubai AVE",
+    "Dubai AVF",
+    "Dubai AVG",
+    "Dubai AVH",
+    "Dubai AVI",
+    "Dubai AVJ",
+    "Dubai AVK",
+    "Dubai AVL",
+    "Dubai AVM",
+    "Dubai AVN",
+    "Dubai AVO",
+    "Dubai AVP",
+    "Dubai AVQ",
+    "Dubai AVR",
+    "Dubai AVS",
+    "Dubai AVT",
+    "Dubai AVU",
+    "Dubai AVV",
+    "Dubai AVW",
+    "Dubai AVX",
+    "Dubai AVY",
+    "Dubai AVZ",
+    "Dubai AWA",
+    "Dubai AWB",
+    "Dubai AWC",
+    "Dubai AWD",
+    "Dubai AWE",
+    "Dubai AWF",
+    "Dubai AWG",
+    "Dubai AWH",
+    "Dubai AWI",
+    "Dubai AWJ",
+    "Dubai AWK",
+    "Dubai AWL",
+    "Dubai AWM",
+    "Dubai AWN",
+    "Dubai AWO",
+    "Dubai AWP",
+    "Dubai AWQ",
+    "Dubai AWR",
+    "Dubai AWS",
+    "Dubai AWT",
+    "Dubai AWU",
+    "Dubai AWV",
+    "Dubai AWW",
+    "Dubai AWX",
+    "Dubai AWY",
+    "Dubai AWZ",
+    "Dubai AXA",
+    "Dubai AXB"
   ],
   "pending_n2": [
     {
@@ -54389,6 +54439,36 @@
       "name": "Oud Al Muteena - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJL67dibVfXz4RAApbs3gwSWs",
       "types": "geocode, political, sublocality, sublocality_level_1"
+    },
+    "ChIJS03exChtXz4Rrd-rZZaxY7U": {
+      "name": "Avenue Residence 1 - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJS03exChtXz4Rrd-rZZaxY7U",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ3bi7EDdlXz4RhYX1s3a6WWw": {
+      "name": "AVIS RENT A CAR - Radisson RED Dubai Silicon Oasis - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ3bi7EDdlXz4RhYX1s3a6WWw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJOxplMy8TXz4RxvRGc5OsQ0c": {
+      "name": "Avani Ibn Battuta Dubai Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJOxplMy8TXz4RxvRGc5OsQ0c",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJLUpTaz9nXz4RG99Xm_xiBtk": {
+      "name": "AVON RESIDENCES, WARSAN 4 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJLUpTaz9nXz4RG99Xm_xiBtk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJibqGpStrXz4RvoNi5lml2S8": {
+      "name": "Avant Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJibqGpStrXz4RvoNi5lml2S8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJIyaPNzZdXz4RdDwmeUhC2Rs": {
+      "name": "American Wellness Center, Ground Floor - Dubai - Émirats arabes unis",
+      "place_id": "ChIJIyaPNzZdXz4RdDwmeUhC2Rs",
+      "types": "doctor, establishment, health, hospital, point_of_interest"
     }
   }
 }

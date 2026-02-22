@@ -1026,6 +1026,18 @@
     "zone_type": "area"
   },
   {
+    "name": "AVIS RENT A CAR - Radisson RED Dubai Silicon Oasis - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ3bi7EDdlXz4RhYX1s3a6WWw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "AVON RESIDENCES, WARSAN 4 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJLUpTaz9nXz4RG99Xm_xiBtk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "AWS FAMILY RESIDENCE - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJS2Xj_LwNXz4RWwlle4x0ZzQ",
     "types": "establishment, point_of_interest",
@@ -1578,6 +1590,12 @@
     "zone_type": "area"
   },
   {
+    "name": "American Wellness Center, Ground Floor - Dubai - Émirats arabes unis",
+    "place_id": "ChIJIyaPNzZdXz4RdDwmeUhC2Rs",
+    "types": "doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Amity University - Dubai Campus - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJAQAAAJdjXz4RlrKx2vt6WSA",
     "types": "establishment, point_of_interest, university",
@@ -2064,9 +2082,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Avani Ibn Battuta Dubai Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJOxplMy8TXz4RxvRGc5OsQ0c",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Avani+ Palm View Dubai Hotel & Suites - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJcXJ-BP1rXz4Rjsrb2iEpQgo",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Avant Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJibqGpStrXz4RvoNi5lml2S8",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -2078,6 +2108,12 @@
   {
     "name": "Avenue Hotel - Dubai - Émirats arabes unis",
     "place_id": "ChIJJ1SrWsVcXz4RWtvlpDcXg7s",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Avenue Residence 1 - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJS03exChtXz4Rrd-rZZaxY7U",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
