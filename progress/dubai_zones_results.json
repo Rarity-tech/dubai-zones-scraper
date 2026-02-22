@@ -10866,6 +10866,12 @@
     "zone_type": "area"
   },
   {
+    "name": "REVL Training Downtown Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJqyvB5IZpXz4R_LROvIrhc5M",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "RK VILLA - THE VILLA - Dubai - Émirats arabes unis",
     "place_id": "ChIJDeDoK5RlXz4RPOjv3Oxvzog",
     "types": "establishment, point_of_interest",
@@ -10935,6 +10941,12 @@
     "name": "RTA Al Barsha - Dubai - Émirats arabes unis",
     "place_id": "ChIJX2JaQMdrXz4RNoeY_8Vz2QA",
     "types": "car_repair, establishment, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "RTA Al Ruwyyah Bus Depot - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJPUQ4cpBkXz4R1MPeC8DsRNk",
+    "types": "establishment, local_government_office, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -11574,6 +11586,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Royal Club By RVHR - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVVVVVSkVXz4RTzu9HZAJYhE",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Royal Continental Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJXyKyOiBdXz4R27mLswtP-A4",
     "types": "establishment, lodging, point_of_interest",
@@ -11655,6 +11673,30 @@
     "name": "Rukan Tower B - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ-7UkBgBvXz4R3GRFIXf2dOc",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ruq`at Bu Zafidah - Dubai - Émirats arabes unis",
+    "place_id": "ChIJzzCXMmt69T4RnXswsTo6sa4",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ruq‘at Musajira - Dubai - Émirats arabes unis",
+    "place_id": "ChIJG0-sJoh69T4R1DI80gIJUVQ",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ruq‘at Muşallī - Dubai - Émirats arabes unis",
+    "place_id": "ChIJN69nCwF89T4RN9TcmyjiqfA",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ruq‘at Ḩumaydī - Dubai - Émirats arabes unis",
+    "place_id": "ChIJg3TLYMVv9T4RFwf0KyA86Xc",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {

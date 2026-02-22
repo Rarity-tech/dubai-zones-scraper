@@ -8569,7 +8569,57 @@
     "Dubai RUM",
     "Dubai RUN",
     "Dubai RUO",
-    "Dubai RUP"
+    "Dubai RUP",
+    "Dubai RUQ",
+    "Dubai RUR",
+    "Dubai RUS",
+    "Dubai RUT",
+    "Dubai RUU",
+    "Dubai RUV",
+    "Dubai RUW",
+    "Dubai RUX",
+    "Dubai RUY",
+    "Dubai RUZ",
+    "Dubai RVA",
+    "Dubai RVB",
+    "Dubai RVC",
+    "Dubai RVD",
+    "Dubai RVE",
+    "Dubai RVF",
+    "Dubai RVG",
+    "Dubai RVH",
+    "Dubai RVI",
+    "Dubai RVJ",
+    "Dubai RVK",
+    "Dubai RVL",
+    "Dubai RVM",
+    "Dubai RVN",
+    "Dubai RVO",
+    "Dubai RVP",
+    "Dubai RVQ",
+    "Dubai RVR",
+    "Dubai RVS",
+    "Dubai RVT",
+    "Dubai RVU",
+    "Dubai RVV",
+    "Dubai RVW",
+    "Dubai RVX",
+    "Dubai RVY",
+    "Dubai RVZ",
+    "Dubai RXA",
+    "Dubai RXB",
+    "Dubai RXC",
+    "Dubai RXD",
+    "Dubai RXE",
+    "Dubai RXF",
+    "Dubai RXG",
+    "Dubai RXH",
+    "Dubai RXI",
+    "Dubai RXJ",
+    "Dubai RXK",
+    "Dubai RXL",
+    "Dubai RXM",
+    "Dubai RXN"
   ],
   "pending_n2": [
     {
@@ -68539,6 +68589,41 @@
       "name": "Rukan Tower A - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJmxMmWQBvXz4RF2_e3hOmX7I",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJg3TLYMVv9T4RFwf0KyA86Xc": {
+      "name": "Ruq‘at Ḩumaydī - Dubai - Émirats arabes unis",
+      "place_id": "ChIJg3TLYMVv9T4RFwf0KyA86Xc",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJN69nCwF89T4RN9TcmyjiqfA": {
+      "name": "Ruq‘at Muşallī - Dubai - Émirats arabes unis",
+      "place_id": "ChIJN69nCwF89T4RN9TcmyjiqfA",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJG0-sJoh69T4R1DI80gIJUVQ": {
+      "name": "Ruq‘at Musajira - Dubai - Émirats arabes unis",
+      "place_id": "ChIJG0-sJoh69T4R1DI80gIJUVQ",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJzzCXMmt69T4RnXswsTo6sa4": {
+      "name": "Ruq`at Bu Zafidah - Dubai - Émirats arabes unis",
+      "place_id": "ChIJzzCXMmt69T4RnXswsTo6sa4",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJqyvB5IZpXz4R_LROvIrhc5M": {
+      "name": "REVL Training Downtown Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJqyvB5IZpXz4R_LROvIrhc5M",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJPUQ4cpBkXz4R1MPeC8DsRNk": {
+      "name": "RTA Al Ruwyyah Bus Depot - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJPUQ4cpBkXz4R1MPeC8DsRNk",
+      "types": "establishment, local_government_office, point_of_interest"
+    },
+    "ChIJVVVVVSkVXz4RTzu9HZAJYhE": {
+      "name": "Royal Club By RVHR - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJVVVVVSkVXz4RTzu9HZAJYhE",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }
