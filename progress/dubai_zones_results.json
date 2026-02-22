@@ -10602,6 +10602,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Qstay - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJj9sPRwAVXz4RFYRU-x8kA94",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Quad Biking Dubai - Charjah - Émirats arabes unis",
     "place_id": "ChIJfY1d9_FnXz4RywolntXh7pE",
     "types": "establishment, point_of_interest",
