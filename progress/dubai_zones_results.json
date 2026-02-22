@@ -450,6 +450,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Umm Nahad Second, Dubai, Émirats arabes unis",
+    "place_id": "ChIJecz2ITFlXz4RzBK4MBd6-vk",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Umm Ramool, Dubai, Émirats arabes unis",
     "place_id": "ChIJ4Xj_x4RdXz4RPgFS2Ms3b94",
     "types": "political, sublocality, sublocality_level_1",
@@ -11820,6 +11826,18 @@
     "zone_type": "area"
   },
   {
+    "name": "SEPCOIII HQ RESIDENCE 2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcRGTIQATXz4RXcrX2bAoHEg",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "SEVA Experience - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJG1R26VNCXz4RZ_pfWFgjfms",
+    "types": "clothing_store, establishment, food, gym, health, point_of_interest, restaurant, store",
+    "zone_type": "area"
+  },
+  {
     "name": "SHJ GARDEN CITY -Mosque - Dubai - Émirats arabes unis",
     "place_id": "ChIJWUz1p9CP9T4RWPn04F1sL2c",
     "types": "establishment, mosque, place_of_worship, point_of_interest",
@@ -11931,6 +11949,12 @@
     "name": "Salem Muhaisnah Medical Fitness Centre - Salem - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJiTLsd8FfXz4RiYwX7GF5zaw",
     "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Salesforce Middle East (Dubai) - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJVRyPKgBrXz4RAVbC-WsZCms",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -12102,6 +12126,30 @@
     "zone_type": "area"
   },
   {
+    "name": "Sejourne Holiday Homes - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJGdnIoWhpXz4RMW_2-YbtjRo",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Semmer Villas - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJLw_pymlkXz4RZGqeMf3lijU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Senegal - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqSCNbvdAXz4RoHFFJAyfUMQ",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Senses at the Fields - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJv1q2vXRlXz4RoPBVXeJLAuQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Serena - Dubai Community Management office - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ9bGwabNxXz4R-OvhHWgqZWM",
     "types": "establishment, point_of_interest",
@@ -12110,6 +12158,42 @@
   {
     "name": "Serena Bella Casa - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJU-yCkFFvXz4Ra9iP_Hm4pZI",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Serena Centre By Dubai Retail - Dubai - Émirats arabes unis",
+    "place_id": "ChIJsbfUgqJxXz4RwGTnpgiHtBQ",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Serenia Living, Palm Jumeirah - Dubai - Émirats arabes unis",
+    "place_id": "ChIJOT0WzWoVXz4ROhntLUHPKcE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Serenz by Danube - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJAxvsON9tXz4RnNmfZHtE92E",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sevanam Crown - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJU7MR6DhkXz4RTak41tnGIt4",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Seven Seas Hotel Dubai Airport - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMfaNmaNdXz4R4RsJfV_qa5M",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Seventh Heaven, Al Barari - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJjc7cgIllXz4RxK5IfyHmJTo",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -12147,6 +12231,12 @@
     "name": "Shri Krishna Temple - Dubaï - Émirats arabes unis",
     "place_id": "ChIJaWR3p0BDXz4RMrzkKD2pjqc",
     "types": "establishment, hindu_temple, place_of_worship, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sidr Residence | Expo City Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJN1urlfh8UKMRXgx1RQDZKh4",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -12330,6 +12420,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Stade des Sept, Dubai, Émirats arabes unis",
+    "place_id": "ChIJTW1TgHR-Xz4R_gKlyWOauJc",
+    "types": "establishment, point_of_interest, stadium",
+    "zone_type": "area"
+  },
+  {
     "name": "Stadium Metro Station - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJMQ2Cj7tdXz4R4uC9OWkqRDE",
     "types": "establishment, point_of_interest",
@@ -12339,6 +12435,12 @@
     "name": "Stella Di Mare Dubai Marina Hotel - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJP5hBslMTXz4R6quwLwN0ffY",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Sufouh beach - Secret Beach - King Salman Bin Abdulaziz Al Saud Street - Dubai - Émirats arabes unis",
+    "place_id": "ChIJo9_KLxBrXz4RxFg5HkjsLrA",
+    "types": "establishment, natural_feature",
     "zone_type": "area"
   },
   {
@@ -12984,6 +13086,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Virtuzone - Burj Khalifa Boulevard - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJs5w5byloXz4RZaF5NZhDYTE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Vision Tower - Dubaï - Émirats arabes unis",
     "place_id": "ChIJvcvxT9FpXz4RN1_MT1XCxLw",
     "types": "establishment, point_of_interest",
@@ -13443,6 +13551,12 @@
     "name": "opéra, Dubai, Émirats arabes unis",
     "place_id": "ChIJkdkorypoXz4RY_9KOq__Vcg",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "sewage pump station DS174 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJrwBsEgBlXz4RDwJhYwdRf94",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
