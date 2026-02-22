@@ -276,6 +276,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Oud Al Muteena - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJL67dibVfXz4RAApbs3gwSWs",
+    "types": "geocode, political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Oud Metha, Dubai, Émirats arabes unis",
     "place_id": "ChIJMRjTWNJCXz4RblYutfJoBfE",
     "types": "political, sublocality, sublocality_level_1",
@@ -1002,9 +1008,21 @@
     "zone_type": "area"
   },
   {
+    "name": "ATRAF HOTEL - Dubai - Émirats arabes unis",
+    "place_id": "ChIJV2yvgElDXz4RbIHn9FF6xPg",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "AURA SKYPOOL - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJydxhFctrXz4RJzAWespntrE",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "AURA by Grovy - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJg04qYNptXz4RdTxJh07JNv8",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -1962,9 +1980,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Athletic Kings Tennis & Padel Club - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ26StVy5qXz4RZKqUvV1tseU",
+    "types": "establishment, health, point_of_interest, school, store",
+    "zone_type": "area"
+  },
+  {
     "name": "Atlantis - The Palm - Dubai - Émirats arabes unis",
     "place_id": "ChIJeckJNj4VXz4RxUqAikFalAU",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Atlantis Hotel The Palm Island - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJEfYVRj4VXz4RW0pqyRVei8I",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
@@ -1974,9 +2004,57 @@
     "zone_type": "area"
   },
   {
+    "name": "Attareen - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJXWSHUyloXz4RCSWsx_kdTTw",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Attessa Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDUEpkFUTXz4RjgGtXa3SM4A",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Atv Dubai Adventure - 2nd Street - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJT5OG5xtpXz4R52jkwJwJKvw",
+    "types": "establishment, point_of_interest, tourist_attraction, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Auberge de Courtrai Holiday Homes LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIUbTBA9tXz4RfvA0PcDPMJQ",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Aura 1 | Tilal Al Ghaf - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJvVTiw6tvXz4Rzun7j4zx-ZM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Aura 2 | Tilal Al Ghaf - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJdZWxOABvXz4Rm0t9l6B3DUM",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Aura Gardens | Tilal Al Ghaf - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJfWGOvcNvXz4RMsr5_pLqcZ4",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Aurora Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJXasnRFtrXz4RfPtdHLtU9pE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Australian Consulate-General - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ0ZrquyVDXz4RYlW2vBoiXiY",
+    "types": "embassy, establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -2478,6 +2556,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Desert Buggy Rental Dubai - Dune ATV Quad Bike Safari Tours, AL FAHAD TOWER - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJV4F_SHxdXz4RukyVRNXyY1s",
+    "types": "establishment, point_of_interest, tourist_attraction, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Dhow Cruise Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJAQAAMChoXz4RJuX_AS3e2a0",
     "types": "establishment, point_of_interest, travel_agency",
@@ -2540,6 +2624,12 @@
   {
     "name": "Dubai Arch Tower - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ8QKJmq5sXz4R33iinrwQFHo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Auto Zone - Gate No. 01 - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJU6wT25hnXz4RL_KPj-OHkC8",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
@@ -2757,6 +2847,12 @@
     "name": "Dubai Old City - Dubaï - Émirats arabes unis",
     "place_id": "ChIJy1o3x49DXz4RG9VDdTcLsv4",
     "types": "establishment, museum, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Outdoor Kartdrome - شارع الشيخ محمد بن زايد - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJbxcwnG1uXz4R5P6BImZe4hA",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3654,6 +3750,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Last Exit AUH Bound by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJz_YxQpAFXz4R0T69PUNVY28",
+    "types": "cafe, establishment, food, point_of_interest, shopping_mall, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
     "name": "Lawnz by Danube Properties - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJpZdzMgZhXz4Rv_FqvSItp_k",
     "types": "establishment, point_of_interest",
@@ -3927,6 +4029,12 @@
     "name": "Oman - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJnUhiTuFAXz4RNAEm1DhddhQ",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Oud Metha bus station - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5YF5bLlDXz4RmKjpZKjGE4E",
+    "types": "establishment, point_of_interest, travel_agency",
     "zone_type": "area"
   },
   {
