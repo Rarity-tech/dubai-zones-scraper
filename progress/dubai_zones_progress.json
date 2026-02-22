@@ -2369,7 +2369,57 @@
     "Dubai CYA",
     "Dubai CYB",
     "Dubai CYC",
-    "Dubai CYD"
+    "Dubai CYD",
+    "Dubai CYE",
+    "Dubai CYF",
+    "Dubai CYG",
+    "Dubai CYH",
+    "Dubai CYI",
+    "Dubai CYJ",
+    "Dubai CYK",
+    "Dubai CYL",
+    "Dubai CYM",
+    "Dubai CYN",
+    "Dubai CYO",
+    "Dubai CYP",
+    "Dubai CYQ",
+    "Dubai CYR",
+    "Dubai CYS",
+    "Dubai CYT",
+    "Dubai CYU",
+    "Dubai CYV",
+    "Dubai CYW",
+    "Dubai CYX",
+    "Dubai CYY",
+    "Dubai CYZ",
+    "Dubai CZA",
+    "Dubai CZB",
+    "Dubai CZC",
+    "Dubai CZD",
+    "Dubai CZE",
+    "Dubai CZF",
+    "Dubai CZG",
+    "Dubai CZH",
+    "Dubai CZI",
+    "Dubai CZJ",
+    "Dubai CZK",
+    "Dubai CZL",
+    "Dubai CZM",
+    "Dubai CZN",
+    "Dubai CZO",
+    "Dubai CZP",
+    "Dubai CZQ",
+    "Dubai CZR",
+    "Dubai CZS",
+    "Dubai CZT",
+    "Dubai CZU",
+    "Dubai CZV",
+    "Dubai CZW",
+    "Dubai CZX",
+    "Dubai CZY",
+    "Dubai CZZ",
+    "Dubai DAA",
+    "Dubai DAB"
   ],
   "pending_n2": [
     {
@@ -57149,6 +57199,31 @@
       "name": "Xtreme Yacht Dubai - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJG1hVmIRDXz4RYcehCpwpAUg",
       "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJSZXqIDBDXz4RfFIZDzwAHdU": {
+      "name": "GymNation Downtown Dubai | Best Gym in Downtown Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJSZXqIDBDXz4RfFIZDzwAHdU",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJSxpk35xgXz4RKlZUNi-G1Wo": {
+      "name": "GymNation Mirdif | Best Gym in Mirdif - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJSxpk35xgXz4RKlZUNi-G1Wo",
+      "types": "establishment, gym, health, point_of_interest"
+    },
+    "ChIJv7UbGVFrXz4RDam3uDzwcmQ": {
+      "name": "Cayan Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJv7UbGVFrXz4RDam3uDzwcmQ",
+      "types": "geocode, premise"
+    },
+    "ChIJIxctCjhsXz4Rsgg2ulM8vY8": {
+      "name": "Czechin - Modern Studio JVC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJIxctCjhsXz4Rsgg2ulM8vY8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ_6DYtTZsXz4RYA2uOV5s8To": {
+      "name": "Czechin - Modern 1BHK Binghatti Amber - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ_6DYtTZsXz4RYA2uOV5s8To",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }

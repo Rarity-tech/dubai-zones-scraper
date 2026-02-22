@@ -3342,6 +3342,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Cayan Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJv7UbGVFrXz4RDam3uDzwcmQ",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Cayan Tower - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgwipB1FrXz4RuF_dUdnCVs8",
     "types": "establishment, point_of_interest",
@@ -3819,6 +3825,18 @@
     "name": "Curtin University Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ3QCgFoxjXz4RKO6FV8oP124",
     "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
+    "name": "Czechin - Modern 1BHK Binghatti Amber - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ_6DYtTZsXz4RYA2uOV5s8To",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Czechin - Modern Studio JVC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIxctCjhsXz4Rsgg2ulM8vY8",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -4773,6 +4791,18 @@
     "name": "Grande Mosquée de Bur Dubai, Dubai, Émirats arabes unis",
     "place_id": "ChIJN_IhWT9DXz4RJRZPGAxlaGs",
     "types": "establishment, mosque, place_of_worship, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "GymNation Downtown Dubai | Best Gym in Downtown Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJSZXqIDBDXz4RfFIZDzwAHdU",
+    "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "GymNation Mirdif | Best Gym in Mirdif - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJSxpk35xgXz4RKlZUNi-G1Wo",
+    "types": "establishment, gym, health, point_of_interest",
     "zone_type": "area"
   },
   {
