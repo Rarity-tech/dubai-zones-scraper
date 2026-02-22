@@ -8469,7 +8469,57 @@
     "Dubai RQQ",
     "Dubai RQR",
     "Dubai RQS",
-    "Dubai RQT"
+    "Dubai RQT",
+    "Dubai RQU",
+    "Dubai RQV",
+    "Dubai RQW",
+    "Dubai RQX",
+    "Dubai RQY",
+    "Dubai RQZ",
+    "Dubai RRA",
+    "Dubai RRB",
+    "Dubai RRC",
+    "Dubai RRD",
+    "Dubai RRE",
+    "Dubai RRF",
+    "Dubai RRG",
+    "Dubai RRH",
+    "Dubai RRI",
+    "Dubai RRJ",
+    "Dubai RRK",
+    "Dubai RRL",
+    "Dubai RRM",
+    "Dubai RRN",
+    "Dubai RRO",
+    "Dubai RRP",
+    "Dubai RRQ",
+    "Dubai RRR",
+    "Dubai RRS",
+    "Dubai RRT",
+    "Dubai RRU",
+    "Dubai RRV",
+    "Dubai RRW",
+    "Dubai RRX",
+    "Dubai RRY",
+    "Dubai RRZ",
+    "Dubai RSA",
+    "Dubai RSB",
+    "Dubai RSC",
+    "Dubai RSD",
+    "Dubai RSE",
+    "Dubai RSF",
+    "Dubai RSG",
+    "Dubai RSH",
+    "Dubai RSI",
+    "Dubai RSJ",
+    "Dubai RSK",
+    "Dubai RSL",
+    "Dubai RSM",
+    "Dubai RSN",
+    "Dubai RSO",
+    "Dubai RSP",
+    "Dubai RSQ",
+    "Dubai RSR"
   ],
   "pending_n2": [
     {
@@ -68398,6 +68448,21 @@
     "ChIJBxdnSwBtXz4Rzg2PXnZ8-M8": {
       "name": "Production city - Dubai - Émirats arabes unis",
       "place_id": "ChIJBxdnSwBtXz4Rzg2PXnZ8-M8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJC916oyhpXz4RL0d0bYd5E5E": {
+      "name": "Royal Regency Business Bay - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJC916oyhpXz4RL0d0bYd5E5E",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJhyCjT-lpXz4Rvd5BhH40am8": {
+      "name": "Royal Regency Suites Business Bay - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhyCjT-lpXz4Rvd5BhH40am8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJc5kS6FtpXz4R8pWKfbnhee0": {
+      "name": "RSL Staff Accomodation - Street 11A - Dubai - Émirats arabes unis",
+      "place_id": "ChIJc5kS6FtpXz4R8pWKfbnhee0",
       "types": "establishment, point_of_interest"
     }
   }

@@ -10926,6 +10926,12 @@
     "zone_type": "area"
   },
   {
+    "name": "RSL Staff Accomodation - Street 11A - Dubai - Émirats arabes unis",
+    "place_id": "ChIJc5kS6FtpXz4R8pWKfbnhee0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "RTA Al Barsha - Dubai - Émirats arabes unis",
     "place_id": "ChIJX2JaQMdrXz4RNoeY_8Vz2QA",
     "types": "car_repair, establishment, local_government_office, point_of_interest",
@@ -11588,6 +11594,18 @@
   {
     "name": "Royal Palm Holidays LLC Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJY_FW6BNDXz4RopLTEdpdweU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Royal Regency Business Bay - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJC916oyhpXz4RL0d0bYd5E5E",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Royal Regency Suites Business Bay - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJhyCjT-lpXz4Rvd5BhH40am8",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
