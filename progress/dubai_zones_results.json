@@ -14928,6 +14928,12 @@
     "zone_type": "area"
   },
   {
+    "name": "W Motors HQ - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxXMQVbdlXz4RQ28vCpgNzhU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "WABI-SABI - Dubai - Émirats arabes unis",
     "place_id": "ChIJY2_Jv_JCXz4RAhitrGZY_6o",
     "types": "establishment, point_of_interest",
@@ -15182,6 +15188,12 @@
   {
     "name": "XLine Dubai Marina - Dubaï - Émirats arabes unis",
     "place_id": "ChIJV9hbCVYTXz4RSxGkJpNtTeo",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "XNB- Etihad Luxury Coach Bus Station - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJpciHZklDXz4RPjXKUyrAq-8",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
