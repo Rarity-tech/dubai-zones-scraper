@@ -9564,6 +9564,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Manzil Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJn8SU8TFaXz4R8sgF8mLCz8E",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Maple 1 Emirates Garden 2 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJg_5_68ltXz4RNv-m_LUX230",
     "types": "geocode, premise",
@@ -9591,6 +9597,12 @@
     "name": "Marina Mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJM34aN6psXz4R7i-j0rWHHM4",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Marina Medical Center Dubai Marina Clinics - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJO9rOY1ZrXz4RM1v04TXRnTU",
+    "types": "beauty_salon, dentist, doctor, establishment, hair_care, health, hospital, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -9825,6 +9837,18 @@
     "name": "Millennium Plaza Downtown Hotel, Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJE8t3APhDXz4RcS7Q_2YVIvw",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ministry of Human Resources & Emiratisation - Dubai Headquarters - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzz7xTZdfXz4R9PtX9RftEcs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ministry of Human Resources & Emiratisation - Dubai Labour Office - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcQk7t0dcXz4R7CZWpnNJ1xY",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {

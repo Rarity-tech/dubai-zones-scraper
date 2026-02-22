@@ -7119,7 +7119,57 @@
     "Dubai MLS",
     "Dubai MLT",
     "Dubai MLU",
-    "Dubai MLV"
+    "Dubai MLV",
+    "Dubai MLW",
+    "Dubai MLX",
+    "Dubai MLY",
+    "Dubai MLZ",
+    "Dubai MMA",
+    "Dubai MMB",
+    "Dubai MMC",
+    "Dubai MMD",
+    "Dubai MME",
+    "Dubai MMF",
+    "Dubai MMG",
+    "Dubai MMH",
+    "Dubai MMI",
+    "Dubai MMJ",
+    "Dubai MMK",
+    "Dubai MML",
+    "Dubai MMM",
+    "Dubai MMN",
+    "Dubai MMO",
+    "Dubai MMP",
+    "Dubai MMQ",
+    "Dubai MMR",
+    "Dubai MMS",
+    "Dubai MMT",
+    "Dubai MMU",
+    "Dubai MMV",
+    "Dubai MMW",
+    "Dubai MMX",
+    "Dubai MMY",
+    "Dubai MMZ",
+    "Dubai MNA",
+    "Dubai MNB",
+    "Dubai MNC",
+    "Dubai MND",
+    "Dubai MNE",
+    "Dubai MNF",
+    "Dubai MNG",
+    "Dubai MNH",
+    "Dubai MNI",
+    "Dubai MNJ",
+    "Dubai MNK",
+    "Dubai MNL",
+    "Dubai MNM",
+    "Dubai MNN",
+    "Dubai MNO",
+    "Dubai MNP",
+    "Dubai MNQ",
+    "Dubai MNR",
+    "Dubai MNS",
+    "Dubai MNT"
   ],
   "pending_n2": [
     {
@@ -65878,6 +65928,26 @@
     "ChIJN5wRL4BpXz4RLNByMEP6_mU": {
       "name": "Malt & Salt Hospitality - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJN5wRL4BpXz4RLNByMEP6_mU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJO9rOY1ZrXz4RM1v04TXRnTU": {
+      "name": "Marina Medical Center Dubai Marina Clinics - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJO9rOY1ZrXz4RM1v04TXRnTU",
+      "types": "beauty_salon, dentist, doctor, establishment, hair_care, health, hospital, point_of_interest"
+    },
+    "ChIJn8SU8TFaXz4R8sgF8mLCz8E": {
+      "name": "Manzil Center - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJn8SU8TFaXz4R8sgF8mLCz8E",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJcQk7t0dcXz4R7CZWpnNJ1xY": {
+      "name": "Ministry of Human Resources & Emiratisation - Dubai Labour Office - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJcQk7t0dcXz4R7CZWpnNJ1xY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJzz7xTZdfXz4R9PtX9RftEcs": {
+      "name": "Ministry of Human Resources & Emiratisation - Dubai Headquarters - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJzz7xTZdfXz4R9PtX9RftEcs",
       "types": "establishment, point_of_interest"
     }
   }
