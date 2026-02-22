@@ -14676,6 +14676,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Villanova Community Centre - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJRxd-YwtlXz4RhPS20rBriH8",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
     "name": "Villanova Cosmetic and Surgical Center - Branch - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJq0ZqKylDXz4RCgZ7KFPAN8g",
     "types": "establishment, point_of_interest",
