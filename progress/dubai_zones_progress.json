@@ -4819,7 +4819,57 @@
     "Dubai IUG",
     "Dubai IUH",
     "Dubai IUI",
-    "Dubai IUJ"
+    "Dubai IUJ",
+    "Dubai IUK",
+    "Dubai IUL",
+    "Dubai IUM",
+    "Dubai IUN",
+    "Dubai IUO",
+    "Dubai IUP",
+    "Dubai IUQ",
+    "Dubai IUR",
+    "Dubai IUS",
+    "Dubai IUT",
+    "Dubai IUU",
+    "Dubai IUV",
+    "Dubai IUW",
+    "Dubai IUX",
+    "Dubai IUY",
+    "Dubai IUZ",
+    "Dubai IVA",
+    "Dubai IVB",
+    "Dubai IVC",
+    "Dubai IVD",
+    "Dubai IVE",
+    "Dubai IVF",
+    "Dubai IVG",
+    "Dubai IVH",
+    "Dubai IVI",
+    "Dubai IVJ",
+    "Dubai IVK",
+    "Dubai IVL",
+    "Dubai IVM",
+    "Dubai IVN",
+    "Dubai IVO",
+    "Dubai IVP",
+    "Dubai IVQ",
+    "Dubai IVR",
+    "Dubai IVS",
+    "Dubai IVT",
+    "Dubai IVU",
+    "Dubai IVV",
+    "Dubai IVW",
+    "Dubai IVX",
+    "Dubai IVY",
+    "Dubai IVZ",
+    "Dubai IWA",
+    "Dubai IWB",
+    "Dubai IWC",
+    "Dubai IWD",
+    "Dubai IWE",
+    "Dubai IWF",
+    "Dubai IWG",
+    "Dubai IWH"
   ],
   "pending_n2": [
     {
@@ -61854,6 +61904,46 @@
       "name": "ITR Middle East - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJQW7X8NwMXz4RzIu6G3V-t-c",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJ1RhvWwBDXz4R9wdCntJs0y0": {
+      "name": "Souk Al Seef - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ1RhvWwBDXz4R9wdCntJs0y0",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJORSp9gBCXz4RtnTCn-ul3mo": {
+      "name": "Souk Madinat Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJORSp9gBCXz4RtnTCn-ul3mo",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJ26KfRfRDXz4RZ6qDsKL_2m8": {
+      "name": "Desert Safari Dubai Tours - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ26KfRfRDXz4RZ6qDsKL_2m8",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJp6_Rkxx8Xz4RebG9c7l-QT0": {
+      "name": "Sahara Desert Fortress by Tour Dubai, sahara desert fortress - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJp6_Rkxx8Xz4RebG9c7l-QT0",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJpejgd90TXz4RZCjcsXF54nc": {
+      "name": "Dubai Tourist Spots - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJpejgd90TXz4RZCjcsXF54nc",
+      "types": "establishment, point_of_interest, tourist_attraction"
+    },
+    "ChIJPeL03TVDXz4RN0GVq-xwtVM": {
+      "name": "American Hospital IVF With Livio - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJPeL03TVDXz4RN0GVq-xwtVM",
+      "types": "establishment, health, point_of_interest"
+    },
+    "ChIJcYX5nCxrXz4R9CzkYXf6-5w": {
+      "name": "Millennium Medical Center | MMC IVF | Fertility Treatment | Best IVF Center in Dubai, Metro - Dubai - Émirats arabes unis",
+      "place_id": "ChIJcYX5nCxrXz4R9CzkYXf6-5w",
+      "types": "doctor, establishment, health, hospital, point_of_interest"
+    },
+    "ChIJb2hhIuxdXz4R1Ai5n78itvE": {
+      "name": "Signature Supreme Court Complex - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJb2hhIuxdXz4R1Ai5n78itvE",
+      "types": "establishment, point_of_interest, real_estate_agency"
     }
   }
 }

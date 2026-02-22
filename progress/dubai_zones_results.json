@@ -1794,6 +1794,12 @@
     "zone_type": "area"
   },
   {
+    "name": "American Hospital IVF With Livio - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJPeL03TVDXz4RN0GVq-xwtVM",
+    "types": "establishment, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "American University in Dubai (AUD) - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJF1Un6FxrXz4RRm2znrwh7d8",
     "types": "establishment, point_of_interest, university",
@@ -4524,6 +4530,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Desert Safari Dubai Tours - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ26KfRfRDXz4RZ6qDsKL_2m8",
+    "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Detroit House - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ08FOGitvXz4RW6ZOjV-skhs",
     "types": "establishment, point_of_interest",
@@ -5427,6 +5439,12 @@
     "name": "Dubai Tennis Stadium - Dubaï - Émirats arabes unis",
     "place_id": "ChIJb54uLhFdXz4RPr-RUVzvLnA",
     "types": "establishment, point_of_interest, stadium",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Tourist Spots - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJpejgd90TXz4RZCjcsXF54nc",
+    "types": "establishment, point_of_interest, tourist_attraction",
     "zone_type": "area"
   },
   {
@@ -7926,6 +7944,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Millennium Medical Center | MMC IVF | Fertility Treatment | Best IVF Center in Dubai, Metro - Dubai - Émirats arabes unis",
+    "place_id": "ChIJcYX5nCxrXz4R9CzkYXf6-5w",
+    "types": "doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Millennium Plaza Downtown Hotel, Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJE8t3APhDXz4RcS7Q_2YVIvw",
     "types": "establishment, lodging, point_of_interest",
@@ -8412,6 +8436,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Sahara Desert Fortress by Tour Dubai, sahara desert fortress - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJp6_Rkxx8Xz4RebG9c7l-QT0",
+    "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Samaya KQ Massage Spa - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJgfGWRGZlXz4RCdTS7ITLvrE",
     "types": "establishment, point_of_interest, spa",
@@ -8508,6 +8538,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Signature Supreme Court Complex - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJb2hhIuxdXz4R1Ai5n78itvE",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
     "name": "Silicon Central Mall, Dubai, Émirats arabes unis",
     "place_id": "ChIJoasD1hxlXz4RiK4Bt1alGHk",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -8582,6 +8618,18 @@
   {
     "name": "Souk Al Bahar, Dubai, Émirats arabes unis",
     "place_id": "ChIJW6S-_oFCXz4RyKETHbDcGSc",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Souk Al Seef - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ1RhvWwBDXz4R9wdCntJs0y0",
+    "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Souk Madinat Jumeirah - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJORSp9gBCXz4RtnTCn-ul3mo",
     "types": "establishment, point_of_interest, shopping_mall",
     "zone_type": "area"
   },
