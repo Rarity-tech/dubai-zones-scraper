@@ -11719,7 +11719,57 @@
     "Dubai ZBQ",
     "Dubai ZBR",
     "Dubai ZBS",
-    "Dubai ZBT"
+    "Dubai ZBT",
+    "Dubai ZBU",
+    "Dubai ZBV",
+    "Dubai ZBW",
+    "Dubai ZBX",
+    "Dubai ZBY",
+    "Dubai ZBZ",
+    "Dubai ZCA",
+    "Dubai ZCB",
+    "Dubai ZCC",
+    "Dubai ZCD",
+    "Dubai ZCE",
+    "Dubai ZCF",
+    "Dubai ZCG",
+    "Dubai ZCH",
+    "Dubai ZCI",
+    "Dubai ZCJ",
+    "Dubai ZCK",
+    "Dubai ZCL",
+    "Dubai ZCM",
+    "Dubai ZCN",
+    "Dubai ZCO",
+    "Dubai ZCP",
+    "Dubai ZCQ",
+    "Dubai ZCR",
+    "Dubai ZCS",
+    "Dubai ZCT",
+    "Dubai ZCU",
+    "Dubai ZCV",
+    "Dubai ZCW",
+    "Dubai ZCX",
+    "Dubai ZCY",
+    "Dubai ZCZ",
+    "Dubai ZEA",
+    "Dubai ZEB",
+    "Dubai ZEC",
+    "Dubai ZED",
+    "Dubai ZEE",
+    "Dubai ZEF",
+    "Dubai ZEG",
+    "Dubai ZEH",
+    "Dubai ZEI",
+    "Dubai ZEJ",
+    "Dubai ZEK",
+    "Dubai ZEL",
+    "Dubai ZEM",
+    "Dubai ZEN",
+    "Dubai ZEO",
+    "Dubai ZEP",
+    "Dubai ZEQ",
+    "Dubai ZER"
   ],
   "pending_n2": [
     {
@@ -73943,6 +73993,41 @@
     "ChIJVc3lzrdtXz4RWspRoZF2uu8": {
       "name": "ZāZEN One - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJVc3lzrdtXz4RWspRoZF2uu8",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJCxMfRf9dXz4RirSxazHgSps": {
+      "name": "Zeenah Residences Building1 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJCxMfRf9dXz4RirSxazHgSps",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJM1Cnq1xDXz4RIYFUAZvJnuU": {
+      "name": "Ermenegildo Zegna - Dubai - Émirats arabes unis",
+      "place_id": "ChIJM1Cnq1xDXz4RIYFUAZvJnuU",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ2aKedVETXz4RoEIoIouZqjQ": {
+      "name": "Zen Tower - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2aKedVETXz4RoEIoIouZqjQ",
+      "types": "geocode, premise"
+    },
+    "ChIJl8io3uBtXz4R2tGiqLDatss": {
+      "name": "Zenith Tower A2 - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJl8io3uBtXz4R2tGiqLDatss",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ7xZrYwBDXz4R9X78VdrTkzE": {
+      "name": "ZEREDIA 2 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ7xZrYwBDXz4R9X78VdrTkzE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJteFaz_hrXz4RAe56PkUUXv0": {
+      "name": "Zero Point Running Track - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJteFaz_hrXz4RAe56PkUUXv0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJk5pQj25cXz4RakY54waIoC8": {
+      "name": "Zero Zero Building - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJk5pQj25cXz4RakY54waIoC8",
       "types": "establishment, point_of_interest"
     }
   }

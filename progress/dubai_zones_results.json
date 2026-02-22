@@ -6846,6 +6846,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Ermenegildo Zegna - Dubai - Émirats arabes unis",
+    "place_id": "ChIJM1Cnq1xDXz4RIYFUAZvJnuU",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Escan Tower - Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJO_hoPXgTXz4RB93aiHC22q0",
     "types": "establishment, point_of_interest",
@@ -15330,6 +15336,12 @@
     "zone_type": "area"
   },
   {
+    "name": "ZEREDIA 2 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ7xZrYwBDXz4R9X78VdrTkzE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "ZOO Digital Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJD9dW725vXz4R4JGzt60bokY",
     "types": "establishment, point_of_interest",
@@ -15438,14 +15450,44 @@
     "zone_type": "area"
   },
   {
+    "name": "Zeenah Residences Building1 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJCxMfRf9dXz4RirSxazHgSps",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zen Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2aKedVETXz4RoEIoIouZqjQ",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "Zenith J2 Hotel Apartment - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJIwkd5YBtXz4RxA2zXc39oc4",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "Zenith Tower A2 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJl8io3uBtXz4R2tGiqLDatss",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Zenith tower A1 - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJlTNR0dptXz4RHh9wXTl7W74",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zero Point Running Track - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJteFaz_hrXz4RAe56PkUUXv0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zero Zero Building - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJk5pQj25cXz4RakY54waIoC8",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
