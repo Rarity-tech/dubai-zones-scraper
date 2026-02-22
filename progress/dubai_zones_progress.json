@@ -11119,7 +11119,57 @@
     "Dubai WCO",
     "Dubai WCP",
     "Dubai WCQ",
-    "Dubai WCR"
+    "Dubai WCR",
+    "Dubai WCS",
+    "Dubai WCT",
+    "Dubai WCU",
+    "Dubai WCV",
+    "Dubai WCW",
+    "Dubai WCX",
+    "Dubai WCY",
+    "Dubai WCZ",
+    "Dubai WDA",
+    "Dubai WDB",
+    "Dubai WDC",
+    "Dubai WDD",
+    "Dubai WDE",
+    "Dubai WDF",
+    "Dubai WDG",
+    "Dubai WDH",
+    "Dubai WDI",
+    "Dubai WDJ",
+    "Dubai WDK",
+    "Dubai WDL",
+    "Dubai WDM",
+    "Dubai WDN",
+    "Dubai WDO",
+    "Dubai WDP",
+    "Dubai WDQ",
+    "Dubai WDR",
+    "Dubai WDS",
+    "Dubai WDT",
+    "Dubai WDU",
+    "Dubai WDV",
+    "Dubai WDW",
+    "Dubai WDX",
+    "Dubai WDY",
+    "Dubai WDZ",
+    "Dubai WEA",
+    "Dubai WEB",
+    "Dubai WEC",
+    "Dubai WED",
+    "Dubai WEE",
+    "Dubai WEF",
+    "Dubai WEG",
+    "Dubai WEH",
+    "Dubai WEI",
+    "Dubai WEJ",
+    "Dubai WEK",
+    "Dubai WEL",
+    "Dubai WEM",
+    "Dubai WEN",
+    "Dubai WEO",
+    "Dubai WEP"
   ],
   "pending_n2": [
     {
@@ -73074,6 +73124,26 @@
       "name": "Wood Craft House - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJv6n0PXtpXz4RVordQ6ECneY",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJtR2bGBtrXz4RtQYL6AKKD6U": {
+      "name": "W Dubai – Mina Seyahi - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJtR2bGBtrXz4RtQYL6AKKD6U",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJad6vAxxdXz4RxxKQHy6rBC0": {
+      "name": "Red Berries | Digital Marketing Agency in Dubai | Web Designing Firm | SEO Services, Deira - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJad6vAxxdXz4RxxKQHy6rBC0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJUUxdVCptXz4RkLGOuNEPpZs": {
+      "name": "Dubai Wedding Photographer - Cluster M - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJUUxdVCptXz4RkLGOuNEPpZs",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJHzthrSZDXz4RnJsWbZwASn8": {
+      "name": "Welcome Hotel Apartment 1 - Dubai - Émirats arabes unis",
+      "place_id": "ChIJHzthrSZDXz4RnJsWbZwASn8",
+      "types": "establishment, lodging, point_of_interest"
     }
   }
 }

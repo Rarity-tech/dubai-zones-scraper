@@ -6198,6 +6198,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Wedding Photographer - Cluster M - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJUUxdVCptXz4RkLGOuNEPpZs",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Wharf Tower 1 - Dubaï - Émirats arabes unis",
     "place_id": "ChIJrTKy0c1dXz4RRqOa_r6ogkA",
     "types": "establishment, point_of_interest",
@@ -11496,6 +11502,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Red Berries | Digital Marketing Agency in Dubai | Web Designing Firm | SEO Services, Deira - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJad6vAxxdXz4RxxKQHy6rBC0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Red Residence - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJMzu5Vd5tXz4RBbBk8v7Af8c",
     "types": "establishment, point_of_interest",
@@ -14886,6 +14898,12 @@
     "zone_type": "area"
   },
   {
+    "name": "W Dubai – Mina Seyahi - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJtR2bGBtrXz4RtQYL6AKKD6U",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "WABI-SABI - Dubai - Émirats arabes unis",
     "place_id": "ChIJY2_Jv_JCXz4RAhitrGZY_6o",
     "types": "establishment, point_of_interest",
@@ -15003,6 +15021,12 @@
     "name": "Wavez by Danube Properties - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ_dIdkrhlXz4RAlHK_VcSDPQ",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Welcome Hotel Apartment 1 - Dubai - Émirats arabes unis",
+    "place_id": "ChIJHzthrSZDXz4RnJsWbZwASn8",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
