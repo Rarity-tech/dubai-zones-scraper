@@ -10542,6 +10542,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Q GARDENS LOFTS - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxwwPPrBtXz4REdxMVZK9ngQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Q's Bar and Lounge - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJGXbqKGldXz4RjottSe5mxFo",
     "types": "establishment, point_of_interest",
