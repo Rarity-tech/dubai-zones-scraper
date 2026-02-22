@@ -6750,6 +6750,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Hyatt Place Dubai Wasl District - Dubai - Émirats arabes unis",
+    "place_id": "ChIJzxw4FsJDXz4Rtl84yx0j9ww",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Hyatt Regency Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCw1TQ1BDXz4Rry47U_opJIg",
     "types": "establishment, lodging, point_of_interest",
@@ -6768,9 +6774,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Hyba Palace Heritage Hotel - Dubai - Émirats arabes unis",
+    "place_id": "ChIJRdBpdEFDXz4RJljXny1OJe8",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Hyde Hotel Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJS_AUxLxpXz4RaglEP34k0uE",
     "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Hyde Park Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ2xbL6RRDXz4R8T6HmqSm2zs",
+    "types": "establishment, lodging, point_of_interest, spa",
     "zone_type": "area"
   },
   {

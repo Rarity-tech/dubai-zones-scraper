@@ -4219,7 +4219,57 @@
     "Dubai HWE",
     "Dubai HWF",
     "Dubai HWG",
-    "Dubai HWH"
+    "Dubai HWH",
+    "Dubai HWI",
+    "Dubai HWJ",
+    "Dubai HWK",
+    "Dubai HWL",
+    "Dubai HWM",
+    "Dubai HWN",
+    "Dubai HWO",
+    "Dubai HWP",
+    "Dubai HWQ",
+    "Dubai HWR",
+    "Dubai HWS",
+    "Dubai HWT",
+    "Dubai HWU",
+    "Dubai HWV",
+    "Dubai HWW",
+    "Dubai HWX",
+    "Dubai HWY",
+    "Dubai HWZ",
+    "Dubai HYA",
+    "Dubai HYB",
+    "Dubai HYC",
+    "Dubai HYD",
+    "Dubai HYE",
+    "Dubai HYF",
+    "Dubai HYG",
+    "Dubai HYH",
+    "Dubai HYI",
+    "Dubai HYJ",
+    "Dubai HYK",
+    "Dubai HYL",
+    "Dubai HYM",
+    "Dubai HYN",
+    "Dubai HYO",
+    "Dubai HYP",
+    "Dubai HYQ",
+    "Dubai HYR",
+    "Dubai HYS",
+    "Dubai HYT",
+    "Dubai HYU",
+    "Dubai HYV",
+    "Dubai HYW",
+    "Dubai HYX",
+    "Dubai HYY",
+    "Dubai HYZ",
+    "Dubai HZA",
+    "Dubai HZB",
+    "Dubai HZC",
+    "Dubai HZD",
+    "Dubai HZE",
+    "Dubai HZF"
   ],
   "pending_n2": [
     {
@@ -60789,6 +60839,21 @@
       "name": "HV Spa Happy Valley - DIP Branch - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ77aaBlxtXz4R4oX4EvOJZU8",
       "types": "establishment, point_of_interest, spa"
+    },
+    "ChIJzxw4FsJDXz4Rtl84yx0j9ww": {
+      "name": "Hyatt Place Dubai Wasl District - Dubai - Émirats arabes unis",
+      "place_id": "ChIJzxw4FsJDXz4Rtl84yx0j9ww",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJRdBpdEFDXz4RJljXny1OJe8": {
+      "name": "Hyba Palace Heritage Hotel - Dubai - Émirats arabes unis",
+      "place_id": "ChIJRdBpdEFDXz4RJljXny1OJe8",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ2xbL6RRDXz4R8T6HmqSm2zs": {
+      "name": "Hyde Park Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ2xbL6RRDXz4R8T6HmqSm2zs",
+      "types": "establishment, lodging, point_of_interest, spa"
     }
   }
 }
