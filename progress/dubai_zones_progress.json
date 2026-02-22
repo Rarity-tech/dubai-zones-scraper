@@ -2219,7 +2219,57 @@
     "Dubai CQG",
     "Dubai CQH",
     "Dubai CQI",
-    "Dubai CQJ"
+    "Dubai CQJ",
+    "Dubai CQK",
+    "Dubai CQL",
+    "Dubai CQM",
+    "Dubai CQN",
+    "Dubai CQO",
+    "Dubai CQP",
+    "Dubai CQQ",
+    "Dubai CQR",
+    "Dubai CQS",
+    "Dubai CQT",
+    "Dubai CQU",
+    "Dubai CQV",
+    "Dubai CQW",
+    "Dubai CQX",
+    "Dubai CQY",
+    "Dubai CQZ",
+    "Dubai CRA",
+    "Dubai CRB",
+    "Dubai CRC",
+    "Dubai CRD",
+    "Dubai CRE",
+    "Dubai CRF",
+    "Dubai CRG",
+    "Dubai CRH",
+    "Dubai CRI",
+    "Dubai CRJ",
+    "Dubai CRK",
+    "Dubai CRL",
+    "Dubai CRM",
+    "Dubai CRN",
+    "Dubai CRO",
+    "Dubai CRP",
+    "Dubai CRQ",
+    "Dubai CRR",
+    "Dubai CRS",
+    "Dubai CRT",
+    "Dubai CRU",
+    "Dubai CRV",
+    "Dubai CRW",
+    "Dubai CRX",
+    "Dubai CRY",
+    "Dubai CRZ",
+    "Dubai CSA",
+    "Dubai CSB",
+    "Dubai CSC",
+    "Dubai CSD",
+    "Dubai CSE",
+    "Dubai CSF",
+    "Dubai CSG",
+    "Dubai CSH"
   ],
   "pending_n2": [
     {
@@ -56909,6 +56959,66 @@
       "name": "Cozy Studio in Downtown Dubai - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ42k7rxppXz4RDDU5bm6xtnk",
       "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJmeqSri1DXz4RD9aQhZtvETI": {
+      "name": "Canopy by Hilton Dubai Al Seef - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJmeqSri1DXz4RD9aQhZtvETI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJw2INojldXz4R6jPSTwdMgBA": {
+      "name": "Creek Park, Dubai, Émirats arabes unis",
+      "place_id": "ChIJw2INojldXz4R6jPSTwdMgBA",
+      "types": "establishment, park, point_of_interest, tourist_attraction"
+    },
+    "ChIJyXGDON1CXz4RjsDDfuH5gng": {
+      "name": "Cricket Ground - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJyXGDON1CXz4RjsDDfuH5gng",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJH9ftJcRtXz4RT99RXLqa2Pc": {
+      "name": "Crowne Plaza Dubai Marina by IHG - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJH9ftJcRtXz4RT99RXLqa2Pc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJTQVL9ApDXz4R5Nl4JU9OEh4": {
+      "name": "Crowne Plaza Dubai Jumeirah by IHG - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTQVL9ApDXz4R5Nl4JU9OEh4",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJR_GUtsdcXz4R_piTvJgdZ0w": {
+      "name": "Crowne Plaza Dubai - Deira by IHG - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJR_GUtsdcXz4R_piTvJgdZ0w",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJGXpGHHtdXz4RB7jPmN6HB1A": {
+      "name": "Crowne Plaza Dubai - Festival City by IHG - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJGXpGHHtdXz4RB7jPmN6HB1A",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJl-v4WVBrXz4RFyI-KhRFkJw": {
+      "name": "Dhow Cruise Dubai Marina - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJl-v4WVBrXz4RFyI-KhRFkJw",
+      "types": "establishment, point_of_interest, travel_agency"
+    },
+    "ChIJAQAAADRsXz4RxkVtAt1ekl0": {
+      "name": "Crystal Residence - Dubai - Émirats arabes unis",
+      "place_id": "ChIJAQAAADRsXz4RxkVtAt1ekl0",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJcy8cBZUNXz4RzCoTakH77Ck": {
+      "name": "Crystal Mall - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJcy8cBZUNXz4RzCoTakH77Ck",
+      "types": "establishment, point_of_interest, shopping_mall"
+    },
+    "ChIJV6wtHQvQDRQRIMakb97Fz5o": {
+      "name": "Savills Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJV6wtHQvQDRQRIMakb97Fz5o",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJryIR6fJcXz4Rha76qRk2wOc": {
+      "name": "Canadian Specialist Hospital - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJryIR6fJcXz4Rha76qRk2wOc",
+      "types": "establishment, health, hospital, point_of_interest"
     }
   }
 }

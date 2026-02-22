@@ -3210,6 +3210,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Canadian Specialist Hospital - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJryIR6fJcXz4Rha76qRk2wOc",
+    "types": "establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Canadian University Dubai HUB - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJRa9qhoRDXz4RUnAKeQioLgc",
     "types": "establishment, point_of_interest, university",
@@ -3225,6 +3231,12 @@
     "name": "Canal de Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJJcpLBWNCXz4RZuBO6_Uqmxg",
     "types": "establishment, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Canopy by Hilton Dubai Al Seef - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJmeqSri1DXz4RD9aQhZtvETI",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3738,6 +3750,54 @@
     "zone_type": "area"
   },
   {
+    "name": "Creek Park, Dubai, Émirats arabes unis",
+    "place_id": "ChIJw2INojldXz4R6jPSTwdMgBA",
+    "types": "establishment, park, point_of_interest, tourist_attraction",
+    "zone_type": "area"
+  },
+  {
+    "name": "Cricket Ground - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJyXGDON1CXz4RjsDDfuH5gng",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Crowne Plaza Dubai - Deira by IHG - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJR_GUtsdcXz4R_piTvJgdZ0w",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Crowne Plaza Dubai - Festival City by IHG - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJGXpGHHtdXz4RB7jPmN6HB1A",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Crowne Plaza Dubai Jumeirah by IHG - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTQVL9ApDXz4R5Nl4JU9OEh4",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Crowne Plaza Dubai Marina by IHG - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJH9ftJcRtXz4RT99RXLqa2Pc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Crystal Mall - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJcy8cBZUNXz4RzCoTakH77Ck",
+    "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Crystal Residence - Dubai - Émirats arabes unis",
+    "place_id": "ChIJAQAAADRsXz4RxkVtAt1ekl0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Cuban Boxing Club Dubai - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJW2fDlEBrXz4RIP5PJ_vLx34",
     "types": "establishment, gym, health, point_of_interest",
@@ -3908,6 +3968,12 @@
   {
     "name": "Dhow Cruise Dubai Marina - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJAQAAMChoXz4RJuX_AS3e2a0",
+    "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dhow Cruise Dubai Marina - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJl-v4WVBrXz4RFyI-KhRFkJw",
     "types": "establishment, point_of_interest, travel_agency",
     "zone_type": "area"
   },
@@ -5859,6 +5925,12 @@
     "name": "Saudi Arabia - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJQatg2-VAXz4RlsWijU8N6EQ",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Savills Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJV6wtHQvQDRQRIMakb97Fz5o",
+    "types": "establishment, point_of_interest, real_estate_agency",
     "zone_type": "area"
   },
   {
