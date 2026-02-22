@@ -8069,7 +8069,57 @@
     "Dubai RBG",
     "Dubai RBH",
     "Dubai RBI",
-    "Dubai RBJ"
+    "Dubai RBJ",
+    "Dubai RBK",
+    "Dubai RBL",
+    "Dubai RBM",
+    "Dubai RBN",
+    "Dubai RBO",
+    "Dubai RBP",
+    "Dubai RBQ",
+    "Dubai RBR",
+    "Dubai RBS",
+    "Dubai RBT",
+    "Dubai RBU",
+    "Dubai RBV",
+    "Dubai RBW",
+    "Dubai RBX",
+    "Dubai RBY",
+    "Dubai RBZ",
+    "Dubai RCA",
+    "Dubai RCB",
+    "Dubai RCC",
+    "Dubai RCD",
+    "Dubai RCE",
+    "Dubai RCF",
+    "Dubai RCG",
+    "Dubai RCH",
+    "Dubai RCI",
+    "Dubai RCJ",
+    "Dubai RCK",
+    "Dubai RCL",
+    "Dubai RCM",
+    "Dubai RCN",
+    "Dubai RCO",
+    "Dubai RCP",
+    "Dubai RCQ",
+    "Dubai RCR",
+    "Dubai RCS",
+    "Dubai RCT",
+    "Dubai RCU",
+    "Dubai RCV",
+    "Dubai RCW",
+    "Dubai RCX",
+    "Dubai RCY",
+    "Dubai RCZ",
+    "Dubai RDA",
+    "Dubai RDB",
+    "Dubai RDC",
+    "Dubai RDD",
+    "Dubai RDE",
+    "Dubai RDF",
+    "Dubai RDG",
+    "Dubai RDH"
   ],
   "pending_n2": [
     {
@@ -67529,6 +67579,46 @@
       "name": "RBE Vacation Homes Rental LLC - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ3bnWxwqke6MRoe_bDamb2Xk",
       "types": "establishment, point_of_interest, real_estate_agency, travel_agency"
+    },
+    "ChIJhcIBbdBCXz4RZLbp2jWVHZI": {
+      "name": "RBS Ravis Auditors LLC/RBS Tax Consultants LLC (RBS Auditors) - Dubai - Émirats arabes unis",
+      "place_id": "ChIJhcIBbdBCXz4RZLbp2jWVHZI",
+      "types": "accounting, establishment, finance, local_government_office, point_of_interest"
+    },
+    "ChIJuwEOo35rXz4Rn6Jrh-QTDKQ": {
+      "name": "Jebel Ali Racecourse - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJuwEOo35rXz4Rn6Jrh-QTDKQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJqY-2V6ZsXz4RstxVskUFEeQ": {
+      "name": "Arch Design Concept JLT - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJqY-2V6ZsXz4RstxVskUFEeQ",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJXyKyOiBdXz4R27mLswtP-A4": {
+      "name": "Royal Continental Hotel - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJXyKyOiBdXz4R27mLswtP-A4",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJqd8T_tBcXz4RF6OsIdSvpTg": {
+      "name": "ROYAL CONCORDE HOTEL&SUITE - Dubai - Émirats arabes unis",
+      "place_id": "ChIJqd8T_tBcXz4RF6OsIdSvpTg",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJTQF89jlpXz4R9n9jEE9goxY": {
+      "name": "Ritz-Carlton Residences Business Bay - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJTQF89jlpXz4R9n9jEE9goxY",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJaU0YIs1cXz4R57fm-NNQc_0": {
+      "name": "Rental Dispute Center Dubai - Dubai - Émirats arabes unis",
+      "place_id": "ChIJaU0YIs1cXz4R57fm-NNQc_0",
+      "types": "establishment, local_government_office, point_of_interest"
+    },
+    "ChIJdbAUgw9qXz4RFpaHqtdF7SE": {
+      "name": "Ride in Dubai Watersports: Jet Ski, Jet Car & Flyboard Rental - Al Fintaas Street - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJdbAUgw9qXz4RFpaHqtdF7SE",
+      "types": "establishment, point_of_interest, travel_agency"
     }
   }
 }

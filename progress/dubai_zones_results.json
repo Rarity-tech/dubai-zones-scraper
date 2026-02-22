@@ -2340,6 +2340,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Arch Design Concept JLT - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJqY-2V6ZsXz4RstxVskUFEeQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Ardens Medical Center - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJe_HRf1prXz4RZss9uCIO5aU",
     "types": "establishment, health, hospital, point_of_interest",
@@ -8166,6 +8172,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Jebel Ali Racecourse - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJuwEOo35rXz4Rn6Jrh-QTDKQ",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Jeewar By BADR - Dubai - Émirats arabes unis",
     "place_id": "ChIJyyBkrG9tXz4R8Lt917BwLHs",
     "types": "establishment, point_of_interest",
@@ -10764,6 +10776,12 @@
     "zone_type": "area"
   },
   {
+    "name": "RBS Ravis Auditors LLC/RBS Tax Consultants LLC (RBS Auditors) - Dubai - Émirats arabes unis",
+    "place_id": "ChIJhcIBbdBCXz4RZLbp2jWVHZI",
+    "types": "accounting, establishment, finance, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "RK VILLA - THE VILLA - Dubai - Émirats arabes unis",
     "place_id": "ChIJDeDoK5RlXz4RPOjv3Oxvzog",
     "types": "establishment, point_of_interest",
@@ -10773,6 +10791,12 @@
     "name": "RMT RESIDENCE - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJqRgCCmBtXz4RXvaIt2C39VY",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ROYAL CONCORDE HOTEL&SUITE - Dubai - Émirats arabes unis",
+    "place_id": "ChIJqd8T_tBcXz4RF6OsIdSvpTg",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -10998,9 +11022,21 @@
     "zone_type": "area"
   },
   {
+    "name": "Rental Dispute Center Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJaU0YIs1cXz4R57fm-NNQc_0",
+    "types": "establishment, local_government_office, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Rhythmic Gymnastics Club PIROUETTE - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJG0CUWwRrXz4RGyGzWPxH3kI",
     "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ride in Dubai Watersports: Jet Ski, Jet Car & Flyboard Rental - Al Fintaas Street - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJdbAUgw9qXz4RFpaHqtdF7SE",
+    "types": "establishment, point_of_interest, travel_agency",
     "zone_type": "area"
   },
   {
@@ -11013,6 +11049,12 @@
     "name": "Rio De Janeiro - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJBb5WJpBAXz4Ra4ZApuNhLJ8",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Ritz-Carlton Residences Business Bay - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTQF89jlpXz4R9n9jEE9goxY",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -11061,6 +11103,12 @@
     "name": "Royal Blue Coast Yachts Rental - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJw-vuUldrXz4RxelGK73Qkqo",
     "types": "establishment, point_of_interest, travel_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Royal Continental Hotel - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJXyKyOiBdXz4R27mLswtP-A4",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
