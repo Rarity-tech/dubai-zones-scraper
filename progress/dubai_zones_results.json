@@ -5706,6 +5706,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Dubai Quad Bike Safari - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJDac_0wJzXz4RY4gygjVdDPE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dubai Rugby Sevens - Dubaï - Émirats arabes unis",
     "place_id": "ChIJkU5Kqd99Xz4Rv7fe9qZlED4",
     "types": "establishment, point_of_interest",
@@ -10524,15 +10530,45 @@
     "zone_type": "area"
   },
   {
+    "name": "Q Cargo - Dubai - Émirats arabes unis",
+    "place_id": "ChIJ7VkXuWxrXz4ReHgIJSjDqM4",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Q's Bar and Lounge - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJGXbqKGldXz4RjottSe5mxFo",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
+    "name": "Qamar 3 - 1 - محيصنةمحيصنة ١ - Dubai - Émirats arabes unis",
+    "place_id": "ChIJcyb3s1lfXz4RHGkcA0G4LTc",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Qar‘ah - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJG4qrBbwOXz4RNhj504QZVks",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
     "name": "Qatar - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ_5rmWOZAXz4Rds1cCBnjBWM",
     "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Quad Biking Dubai - Charjah - Émirats arabes unis",
+    "place_id": "ChIJfY1d9_FnXz4RywolntXh7pE",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "QuantumBlock Solution - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJo9e3zPFpXz4RQ5E-YOCYqrk",
+    "types": "establishment, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -10568,6 +10604,12 @@
   {
     "name": "RMT RESIDENCE - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJqRgCCmBtXz4RXvaIt2C39VY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "ROYAL QAWWALI CAFE - Dubai - Émirats arabes unis",
+    "place_id": "ChIJezRMXZ1DXz4RK1CG7CJCzME",
     "types": "establishment, point_of_interest",
     "zone_type": "area"
   },

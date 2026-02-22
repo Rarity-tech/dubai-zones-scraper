@@ -7469,7 +7469,57 @@
     "Dubai QAE",
     "Dubai QAF",
     "Dubai QAG",
-    "Dubai QAH"
+    "Dubai QAH",
+    "Dubai QAI",
+    "Dubai QAJ",
+    "Dubai QAK",
+    "Dubai QAL",
+    "Dubai QAM",
+    "Dubai QAN",
+    "Dubai QAO",
+    "Dubai QAP",
+    "Dubai QAQ",
+    "Dubai QAR",
+    "Dubai QAS",
+    "Dubai QAT",
+    "Dubai QAU",
+    "Dubai QAV",
+    "Dubai QAW",
+    "Dubai QAX",
+    "Dubai QAY",
+    "Dubai QAZ",
+    "Dubai QBA",
+    "Dubai QBB",
+    "Dubai QBC",
+    "Dubai QBD",
+    "Dubai QBE",
+    "Dubai QBF",
+    "Dubai QBG",
+    "Dubai QBH",
+    "Dubai QBI",
+    "Dubai QBJ",
+    "Dubai QBK",
+    "Dubai QBL",
+    "Dubai QBM",
+    "Dubai QBN",
+    "Dubai QBO",
+    "Dubai QBP",
+    "Dubai QBQ",
+    "Dubai QBR",
+    "Dubai QBS",
+    "Dubai QBT",
+    "Dubai QBU",
+    "Dubai QBV",
+    "Dubai QBW",
+    "Dubai QBX",
+    "Dubai QBY",
+    "Dubai QBZ",
+    "Dubai QCA",
+    "Dubai QCB",
+    "Dubai QCC",
+    "Dubai QCD",
+    "Dubai QCE",
+    "Dubai QCF"
   ],
   "pending_n2": [
     {
@@ -66593,6 +66643,41 @@
     "ChIJ4eRirhhpXz4R0s0R6vuSsjw": {
       "name": "Mercedes Benz Places by Binghatti - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJ4eRirhhpXz4R0s0R6vuSsjw",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJcyb3s1lfXz4RHGkcA0G4LTc": {
+      "name": "Qamar 3 - 1 - محيصنةمحيصنة ١ - Dubai - Émirats arabes unis",
+      "place_id": "ChIJcyb3s1lfXz4RHGkcA0G4LTc",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJG4qrBbwOXz4RNhj504QZVks": {
+      "name": "Qar‘ah - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJG4qrBbwOXz4RNhj504QZVks",
+      "types": "establishment, natural_feature"
+    },
+    "ChIJDac_0wJzXz4RY4gygjVdDPE": {
+      "name": "Dubai Quad Bike Safari - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJDac_0wJzXz4RY4gygjVdDPE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJfY1d9_FnXz4RywolntXh7pE": {
+      "name": "Quad Biking Dubai - Charjah - Émirats arabes unis",
+      "place_id": "ChIJfY1d9_FnXz4RywolntXh7pE",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJezRMXZ1DXz4RK1CG7CJCzME": {
+      "name": "ROYAL QAWWALI CAFE - Dubai - Émirats arabes unis",
+      "place_id": "ChIJezRMXZ1DXz4RK1CG7CJCzME",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJo9e3zPFpXz4RQ5E-YOCYqrk": {
+      "name": "QuantumBlock Solution - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJo9e3zPFpXz4RQ5E-YOCYqrk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJ7VkXuWxrXz4ReHgIJSjDqM4": {
+      "name": "Q Cargo - Dubai - Émirats arabes unis",
+      "place_id": "ChIJ7VkXuWxrXz4ReHgIJSjDqM4",
       "types": "establishment, point_of_interest"
     }
   }
