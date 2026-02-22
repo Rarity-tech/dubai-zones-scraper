@@ -282,6 +282,12 @@
     "zone_type": "city"
   },
   {
+    "name": "Za'abeel, Dubai, Émirats arabes unis",
+    "place_id": "ChIJgWrpGKJCXz4Rvo2ikuV7RD4",
+    "types": "political, sublocality, sublocality_level_1",
+    "zone_type": "city"
+  },
+  {
     "name": "Ḩattā, Dubai, Émirats arabes unis",
     "place_id": "ChIJd_cjaCwf9T4RjPUF7LzzbiA",
     "types": "locality, political",
@@ -656,6 +662,18 @@
   {
     "name": "Ville sportive de Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJbzp2Od1tXz4RTEvxuGfM4Fc",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Za'abeel 1, Dubai, Émirats arabes unis",
+    "place_id": "ChIJC-G757lCXz4R5QyiOZTP72w",
+    "types": "neighborhood, political",
+    "zone_type": "neighborhood"
+  },
+  {
+    "name": "Za'abeel 2, Dubai, Émirats arabes unis",
+    "place_id": "ChIJuZdP46BCXz4Ru9bB0it21zw",
     "types": "neighborhood, political",
     "zone_type": "neighborhood"
   },
@@ -1896,6 +1914,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Enhance UAE (WJ Towell) Corporate Office - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJfVUpuV9dXz4R2MU3w0GmYeY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Equiti Residence - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJzRmj1oVtXz4Rm9WXFbykIP0",
     "types": "establishment, point_of_interest",
@@ -2120,6 +2144,12 @@
   {
     "name": "Hôtel Armani Dubaï, Dubai, Émirats arabes unis",
     "place_id": "ChIJh51qx4FCXz4Rxdkio9LbXOs",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "IBIS Dubai World Trade Center - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ4f0RY-xCXz4REdR_qDzoMMA",
     "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
@@ -3270,6 +3300,12 @@
     "zone_type": "area"
   },
   {
+    "name": "The First Collection Marina, Dubai, a Tribute Portfolio Hotel - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJgfwbz1ATXz4RZNLnVz-FaQo",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "The Palm - Jumeirah - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ18KhzNQUXz4RcjnZiSAG01o",
     "types": "establishment, natural_feature",
@@ -3576,6 +3612,18 @@
     "zone_type": "area"
   },
   {
+    "name": "WPA - World Padel Academy - Al Qouz, Dubai - Dubai - Émirats arabes unis",
+    "place_id": "ChIJZ0hgg45pXz4RFSkePMHBglk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "WTC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJzdsesx1DXz4RoM3_rLfT_n0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Wafi Mall - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJ5Y2bfgVdXz4RdMwGqE1v_2I",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -3594,9 +3642,33 @@
     "zone_type": "area"
   },
   {
+    "name": "Wilton Park Residences – Ellington Properties - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ5wqPSh1pXz4RFKSWo_w0Rz0",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Windsor Manor Tower - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJe9MiliJoXz4R1HaiwKDIYp8",
+    "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
     "name": "World Trade Centre - Sheikh Zayed Road - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJp4O75utCXz4RDwqVYKbWoM4",
     "types": "geocode, premise",
+    "zone_type": "area"
+  },
+  {
+    "name": "Wyndham Dubai Deira - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJWU3gakFDXz4RP1Wr49h6U0c",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Wyndham Residences The Palm - Crescent Road - Dubai - Émirats arabes unis",
+    "place_id": "ChIJM0C-p9IVXz4RGklRquwe98s",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3627,6 +3699,42 @@
     "name": "Zayed University UAE - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJTUUm0mFkXz4RKNAlMmNMXjM",
     "types": "establishment, point_of_interest, university",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zenith J2 Hotel Apartment - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJIwkd5YBtXz4RxA2zXc39oc4",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zenith tower A1 - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJlTNR0dptXz4RHh9wXTl7W74",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zimbabwe - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJTWToZv5AXz4R_5K6rwGu2dc",
+    "types": "establishment, natural_feature",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zulekha Hospital, Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJe_PwXBRcXz4RBAOjutYa96c",
+    "types": "doctor, establishment, health, hospital, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zumurud Tower Dubai Marina - Dubai - Émirats arabes unis",
+    "place_id": "ChIJOQa4jFMTXz4RWa_CpwnvBxY",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Zzz d - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJk4odZABrXz4RGOZmbmbZ6jA",
+    "types": "establishment, place_of_worship, point_of_interest",
     "zone_type": "area"
   },
   {
