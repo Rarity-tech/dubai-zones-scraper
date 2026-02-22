@@ -1326,6 +1326,18 @@
     "zone_type": "area"
   },
   {
+    "name": "Airbnb - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJxdFm2wQVXz4ReYyRoOn-UcI",
+    "types": "establishment, point_of_interest, real_estate_agency",
+    "zone_type": "area"
+  },
+  {
+    "name": "Airbnb Shaft Sara - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJHcPCVQBxXz4RsjAPnxEYj-U",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Ajdan - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJuTf9cCNDXz4R3oYypNOG4PA",
     "types": "establishment, point_of_interest",
@@ -2310,6 +2322,12 @@
     "zone_type": "area"
   },
   {
+    "name": "B&M Apartment - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJY9qx_CVDXz4R1-FXJw7fQqA",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "BALLERS - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCwVIz9BpXz4RRyV9y2PDSs4",
     "types": "establishment, point_of_interest",
@@ -2469,6 +2487,12 @@
     "name": "Baniyas Square deira - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJA3QVJa9DXz4RrrS1NyygMkw",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bank Street - Khalid Bin Al Waleed Road - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJhZGZ2TpDXz4R23WOlgIqxww",
+    "types": "geocode, premise",
     "zone_type": "area"
   },
   {
@@ -2667,6 +2691,12 @@
     "name": "Binous Gym | Best Bodybuilding Gym in Dubai | Best Gym Dubai | Most Famous Gym Dubai | Most Expensive Bodybuilding Gym - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJKQEtPOtrXz4Rj4usQIRWolQ",
     "types": "establishment, gym, health, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Bioimmun Medical Laboratory Diagnostics LLC - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJl8KNRWxdXz4R5b-evTSDlC0",
+    "types": "establishment, health, point_of_interest, store",
     "zone_type": "area"
   },
   {
@@ -3186,6 +3216,12 @@
     "zone_type": "area"
   },
   {
+    "name": "Downtown Airbnb | Burj Khalifa Views | Luxury Amenities - Dubai - Émirats arabes unis",
+    "place_id": "ChIJO48z9wFpXz4RSD0qyp3dZBk",
+    "types": "establishment, lodging, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "Dragon Mart 2 by Dubai Retail - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJCUhUtT1hXz4Rdd-wCBeYPXg",
     "types": "establishment, point_of_interest, shopping_mall",
@@ -3195,6 +3231,12 @@
     "name": "Dragon Mart, Dubai, Émirats arabes unis",
     "place_id": "ChIJ-RX5UklhXz4RqRE2cZdsQAw",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Airbnb - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJ7VkhEABDXz4RNIYxlpVPxzI",
+    "types": "establishment, lodging, point_of_interest",
     "zone_type": "area"
   },
   {
@@ -3243,6 +3285,12 @@
     "name": "Dubai Beaches, Jumeirah 2 - Dubai - Émirats arabes unis",
     "place_id": "ChIJaRrAebZDXz4RCf0k29_pXhA",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Dubai Boat Tour | Luxury Yacht Rental - Boat Ride Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJMRS44o7WVE8R4YZ-hYl_WNQ",
+    "types": "establishment, point_of_interest, tourist_attraction, travel_agency",
     "zone_type": "area"
   },
   {
@@ -4644,6 +4692,12 @@
     "zone_type": "area"
   },
   {
+    "name": "NAS Sports Complex - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJLa_rJ7hoXz4RDkHOVFX2eCk",
+    "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
     "name": "NMC Specialty Hospital Al Nahda - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJeULz8mVcXz4R8wdEY4B6xrc",
     "types": "establishment, health, hospital, point_of_interest",
@@ -4665,6 +4719,12 @@
     "name": "Naif souk - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJY7bdcQBDXz4RJSn1Sa5pCV4",
     "types": "establishment, point_of_interest",
+    "zone_type": "area"
+  },
+  {
+    "name": "Nesto Hypermarket, Burj Nahar Mall,Dubai - Dubai - Dubaï - Émirats arabes unis",
+    "place_id": "ChIJlzjFJ7ZdXz4RMFZGQu081yA",
+    "types": "establishment, food, grocery_or_supermarket, point_of_interest, shopping_mall, store",
     "zone_type": "area"
   },
   {
@@ -5799,6 +5859,12 @@
     "name": "aswaaq Community Mall - Umm Suqeim - Dubai - Dubaï - Émirats arabes unis",
     "place_id": "ChIJm_DfxM5cXz4RpEMerK7_StM",
     "types": "establishment, point_of_interest, shopping_mall",
+    "zone_type": "area"
+  },
+  {
+    "name": "bnbme Holiday Homes by Hoteliers - Dubai - Émirats arabes unis",
+    "place_id": "ChIJMcwYYmZtXz4RrCHyo8Tpxr8",
+    "types": "establishment, lodging, point_of_interest, real_estate_agency",
     "zone_type": "area"
   },
   {

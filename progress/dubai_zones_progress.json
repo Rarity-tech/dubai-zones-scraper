@@ -1519,7 +1519,57 @@
     "Dubai BMI",
     "Dubai BMJ",
     "Dubai BMK",
-    "Dubai BML"
+    "Dubai BML",
+    "Dubai BMM",
+    "Dubai BMN",
+    "Dubai BMO",
+    "Dubai BMP",
+    "Dubai BMQ",
+    "Dubai BMR",
+    "Dubai BMS",
+    "Dubai BMT",
+    "Dubai BMU",
+    "Dubai BMV",
+    "Dubai BMW",
+    "Dubai BMX",
+    "Dubai BMY",
+    "Dubai BMZ",
+    "Dubai BNA",
+    "Dubai BNB",
+    "Dubai BNC",
+    "Dubai BND",
+    "Dubai BNE",
+    "Dubai BNF",
+    "Dubai BNG",
+    "Dubai BNH",
+    "Dubai BNI",
+    "Dubai BNJ",
+    "Dubai BNK",
+    "Dubai BNL",
+    "Dubai BNM",
+    "Dubai BNN",
+    "Dubai BNO",
+    "Dubai BNP",
+    "Dubai BNQ",
+    "Dubai BNR",
+    "Dubai BNS",
+    "Dubai BNT",
+    "Dubai BNU",
+    "Dubai BNV",
+    "Dubai BNW",
+    "Dubai BNX",
+    "Dubai BNY",
+    "Dubai BNZ",
+    "Dubai BOA",
+    "Dubai BOB",
+    "Dubai BOC",
+    "Dubai BOD",
+    "Dubai BOE",
+    "Dubai BOF",
+    "Dubai BOG",
+    "Dubai BOH",
+    "Dubai BOI",
+    "Dubai BOJ"
   ],
   "pending_n2": [
     {
@@ -55424,6 +55474,61 @@
       "name": "BMJ One - Dubai - Dubaï - Émirats arabes unis",
       "place_id": "ChIJp-mCSZxDXz4RBfs708I_VA4",
       "types": "establishment, point_of_interest"
+    },
+    "ChIJLa_rJ7hoXz4RDkHOVFX2eCk": {
+      "name": "NAS Sports Complex - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJLa_rJ7hoXz4RDkHOVFX2eCk",
+      "types": "establishment, point_of_interest"
+    },
+    "ChIJMcwYYmZtXz4RrCHyo8Tpxr8": {
+      "name": "bnbme Holiday Homes by Hoteliers - Dubai - Émirats arabes unis",
+      "place_id": "ChIJMcwYYmZtXz4RrCHyo8Tpxr8",
+      "types": "establishment, lodging, point_of_interest, real_estate_agency"
+    },
+    "ChIJhZGZ2TpDXz4R23WOlgIqxww": {
+      "name": "Bank Street - Khalid Bin Al Waleed Road - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJhZGZ2TpDXz4R23WOlgIqxww",
+      "types": "geocode, premise"
+    },
+    "ChIJY9qx_CVDXz4R1-FXJw7fQqA": {
+      "name": "B&M Apartment - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJY9qx_CVDXz4R1-FXJw7fQqA",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJlzjFJ7ZdXz4RMFZGQu081yA": {
+      "name": "Nesto Hypermarket, Burj Nahar Mall,Dubai - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJlzjFJ7ZdXz4RMFZGQu081yA",
+      "types": "establishment, food, grocery_or_supermarket, point_of_interest, shopping_mall, store"
+    },
+    "ChIJxdFm2wQVXz4ReYyRoOn-UcI": {
+      "name": "Airbnb - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJxdFm2wQVXz4ReYyRoOn-UcI",
+      "types": "establishment, point_of_interest, real_estate_agency"
+    },
+    "ChIJO48z9wFpXz4RSD0qyp3dZBk": {
+      "name": "Downtown Airbnb | Burj Khalifa Views | Luxury Amenities - Dubai - Émirats arabes unis",
+      "place_id": "ChIJO48z9wFpXz4RSD0qyp3dZBk",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJ7VkhEABDXz4RNIYxlpVPxzI": {
+      "name": "Dubai Airbnb - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJ7VkhEABDXz4RNIYxlpVPxzI",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJHcPCVQBxXz4RsjAPnxEYj-U": {
+      "name": "Airbnb Shaft Sara - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJHcPCVQBxXz4RsjAPnxEYj-U",
+      "types": "establishment, lodging, point_of_interest"
+    },
+    "ChIJMRS44o7WVE8R4YZ-hYl_WNQ": {
+      "name": "Dubai Boat Tour | Luxury Yacht Rental - Boat Ride Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJMRS44o7WVE8R4YZ-hYl_WNQ",
+      "types": "establishment, point_of_interest, tourist_attraction, travel_agency"
+    },
+    "ChIJl8KNRWxdXz4R5b-evTSDlC0": {
+      "name": "Bioimmun Medical Laboratory Diagnostics LLC - Dubai - Dubaï - Émirats arabes unis",
+      "place_id": "ChIJl8KNRWxdXz4R5b-evTSDlC0",
+      "types": "establishment, health, point_of_interest, store"
     }
   }
 }
